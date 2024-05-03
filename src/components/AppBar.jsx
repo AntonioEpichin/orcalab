@@ -19,7 +19,6 @@ export default function Header() {
         <Box sx={{ flexGrow: 1 }}>
             <AppBar position="fixed" sx={{ backgroundColor: theme.palette.success.main }}>
                 <Toolbar sx={{ justifyContent: 'flex-end' }}>
-                    
                     <Box sx={{
                         position: 'relative',
                         borderRadius: theme.shape.borderRadius,
