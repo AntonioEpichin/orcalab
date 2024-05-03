@@ -17,7 +17,16 @@ import dynamic from "next/dynamic";
 import LockOutlinedIcon from '@mui/icons-material/LockOutlined';
 
 
-const defaultTheme = createTheme();
+
+
+const defaultTheme = createTheme({
+  palette: {
+    primary: {
+      main: '#418041',  // Cor principal verde escuro
+      light: 'rgba(65, 128, 65, 0.8)',  // Verde claro para efeitos de hover
+    }
+  }
+});
 
 function SignUp() {
   const handleSubmit = (event) => {
@@ -33,10 +42,11 @@ function SignUp() {
       email: data.get('email'),
       terms: data.get('terms'),
     });
+    console.log(defaultTheme);
   };
 
   return (
-    <ThemeProvider theme={defaultTheme}>
+    <ThemeProvider theme={defaultTheme} >
       <Container component="main" maxWidth="sm">
         <CssBaseline />
         <Box
@@ -137,7 +147,7 @@ function SignUp() {
               type="submit"
               fullWidth
               variant="contained"
-              sx={{ mt: 3, mb: 2, bgcolor: '#418041' }}
+              sx={{ mt: 3, mb: 2}}
             >
              Continuar
             </Button>

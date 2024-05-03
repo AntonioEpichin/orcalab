@@ -1,8 +1,9 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
 import AppBar from "../components/AppBar";
-
-const inter = Inter({ subsets: ["latin"] });
+import Footer from "../components/Footer";
+import theme from "@/theme";
+import { ThemeProvider } from '@mui/material/styles';
 
 export const metadata = {
   title: "lab-e app",
@@ -12,9 +13,12 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="pt-br">
-      <body className={inter.className}>
-        <AppBar />
-        {children}</body>
+      <body>
+        <ThemeProvider theme={theme}>
+          <AppBar />
+          {children}
+        </ThemeProvider>
+      </body>
     </html>
   );
 }
