@@ -1,28 +1,43 @@
 'use client';
 
-import * as React from 'react';
-import CssBaseline from '@mui/material/CssBaseline';
-import { createTheme, ThemeProvider } from '@mui/material/styles';
-import Box from '@mui/material/Box';
-import Typography from '@mui/material/Typography';
-import Container from '@mui/material/Container';
-import Link from '@mui/material/Link';
+import React from 'react';
+import { Grid, Typography, Paper } from '@mui/material';
 
-
-
-const defaultTheme = createTheme();
-
-export default function StickyFooter() {
+export default function Footer() {
   return (
-   
-          <Container maxWidth="sm">
-            <Typography variant="body1">
-              My sticky footer can be found here.
-            </Typography>
-           2024
-          </Container>
-    
-    
-
+    <Paper
+      component="footer"
+      square
+      variant="outlined"
+      sx={{
+        backgroundColor: '#e0e0e0', // A cor do fundo cinza
+        padding: { xs: 3, sm: 6 }, // Ajuste do padding para telas menores e maiores
+        marginTop: 4, // Margin top usando unidades do tema
+        color: '#757575', // A cor do texto
+        '& .MuiTypography-root': { // Aplicando estilos a todos os Typography dentro deste Paper
+          paddingBottom: 1 // Espaçamento na parte inferior de cada Typography
+        }
+      }}
+    >
+      <Grid container spacing={4} justifyContent="space-around">
+        <Grid item xs={12} sm={6} md={4}>
+          <Typography variant="subtitle1" color="inherit">
+            INFORMAÇÕES GERAIS
+          </Typography>
+          <Typography variant="body2" color="inherit">
+            Aqui vai o texto ou links para informações gerais.
+          </Typography>
+        </Grid>
+        <Grid item xs={12} sm={6} md={4}>
+          <Typography variant="subtitle1" color="inherit">
+            FORMAS DE PAGAMENTO
+          </Typography>
+          <Typography variant="body2" color="inherit">
+            Detalhes das formas de pagamento aceitas.
+          </Typography>
+        </Grid>
+        {/* Pode adicionar mais Grid items aqui para mais conteúdo */}
+      </Grid>
+    </Paper>
   );
 }
