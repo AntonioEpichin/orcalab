@@ -41,7 +41,7 @@ const LogoSection = () => {
                 flexDirection: 'row',
                 alignItems: 'flex-start',
                 justifyContent: 'normal',
-                paddingY: 2,
+                paddingY: 1,
                 backgroundColor: 'white',
                 marginTop: 10,
                 marginLeft: 5,
@@ -53,14 +53,14 @@ const LogoSection = () => {
                     alt="Logomarca"
                     sx={{
                         borderRadius: '50%',
-                        width: 100,
-                        height: 100,
+                        width: 120,
+                        height: 120,
                         objectFit: 'cover',
                         marginBottom: 1,
 
                     }}
                 />
-                <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-start', marginLeft: 2 }}>
+                <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-start', marginLeft: 2, marginTop: 2, }}>
                     <Typography variant="h6" sx={{ fontWeight: 'bold', marginBottom: 1 }}>
                         Logomarca
                     </Typography>
