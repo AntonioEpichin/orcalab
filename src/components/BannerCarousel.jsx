@@ -5,12 +5,22 @@ import { Box, Paper, MobileStepper, Button } from '@mui/material';
 import { useTheme } from '@mui/material/styles';
 import KeyboardArrowLeft from '@mui/icons-material/KeyboardArrowLeft';
 import KeyboardArrowRight from '@mui/icons-material/KeyboardArrowRight';
+import { createTheme,ThemeProvider } from '@mui/material/styles';
 
 const banners = [
   "/images/banners/banner01.png",
   "/images/banners/banner02.png",
   "/images/banners/banner03.png",
 ];
+
+const defaultTheme = createTheme({
+  palette: {
+    primary: {
+      main: '#418041',  // Cor principal verde escuro
+      light: 'rgba(65, 128, 65, 0.8)',  // Verde claro para efeitos de hover
+    }
+  }
+});
 
 export default function BannerCarousel() {
   const theme = useTheme();
@@ -33,6 +43,7 @@ export default function BannerCarousel() {
   }, []);
 
   return (
+    <ThemeProvider theme={defaultTheme}>
     <Box sx={{ maxWidth: '100%', flexGrow: 1 }}>
       <Paper
         square
@@ -80,5 +91,6 @@ export default function BannerCarousel() {
         }
       />
     </Box>
+    </ThemeProvider>
   );
 }
