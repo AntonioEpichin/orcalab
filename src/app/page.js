@@ -1,10 +1,9 @@
-import Image from "next/image";
-import styles from "./page.module.css";
+import BannerCarousel from "@/components/BannerCarousel";
 
 export default function Home() {
   return (
-    <main className={styles.main}>
-      <div> Hello World</div> 
+    <main >
+      <BannerCarousel/>    
     </main>
   );
 }

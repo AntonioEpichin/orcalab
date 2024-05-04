@@ -45,11 +45,10 @@ const LogoSection = () => {
                 backgroundColor: 'white',
                 marginTop: 10,
                 marginLeft: 5,
-
             }}>
 
                 <Box component="img"
-                    src="/logo-2.png"
+                    src="/images/logo-2.png"
                     alt="Logomarca"
                     sx={{
                         borderRadius: '50%',
