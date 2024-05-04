@@ -1,7 +1,7 @@
-import { Inter } from "next/font/google";
 import "./globals.css";
 import AppBar from "../components/AppBar";
 import Footer from "../components/Footer";
+import LogoSection from "@/components/LogoSection";
 
 
 export const metadata = {
@@ -14,6 +14,7 @@ export default function RootLayout({ children }) {
     <html lang="pt-br">
       <body>
           <AppBar />
+          <LogoSection/>
           {children}
           <Footer />
       </body>
