@@ -1,6 +1,8 @@
+// AppBar ou Header onde você define o layout do cabeçalho
+
 'use client';
 
-import * as React from 'react';
+import React, { useState } from 'react';
 import AppBar from '@mui/material/AppBar';
 import Box from '@mui/material/Box';
 import Toolbar from '@mui/material/Toolbar';
@@ -9,11 +11,11 @@ import InputBase from '@mui/material/InputBase';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import AccountCircle from '@mui/icons-material/AccountCircle';
 import { useTheme } from '@mui/material/styles';
-import Image from 'next/image';
-import { Typography } from '@mui/material';
+import Cart from './Cart';
 
-export default function Header() {
+export default function Head() {
     const theme = useTheme();
+    const [cartOpen, setCartOpen] = useState(false);
 
     return (
         <Box sx={{ flexGrow: 1 }}>
@@ -48,7 +50,12 @@ export default function Header() {
                             inputProps={{ 'aria-label': 'search' }}
                         />
                     </Box>
-                    <IconButton size="large" aria-label="carrinho de compras" color="inherit">
+                    <IconButton
+                        size="large"
+                        aria-label="carrinho de compras"
+                        color="inherit"
+                        onClick={() => setCartOpen(true)}
+                    >
                         <ShoppingCartIcon />
                     </IconButton>
                     <IconButton
@@ -62,6 +69,7 @@ export default function Header() {
                     </IconButton>
                 </Toolbar>
             </AppBar>
+            <Cart open={cartOpen} onClose={() => setCartOpen(false)} />
         </Box>
     );
 }
