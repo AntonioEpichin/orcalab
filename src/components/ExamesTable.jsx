@@ -1,64 +1,50 @@
 'use client'
 
-import React, { useState } from 'react';
-import { Avatar, Grid, Paper, Typography, IconButton, Box, Container  } from '@mui/material';
+import React, { useState, useEffect } from 'react';
+import { Avatar, Grid, Paper, Typography, IconButton, Box, Container } from '@mui/material';
 import AddCircleIcon from '@mui/icons-material/AddCircle';
-import AssessmentIcon from '@mui/icons-material/Assessment';  // Ícone de exames
+import AssessmentIcon from '@mui/icons-material/Assessment';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import MonitorHeartIcon from '@mui/icons-material/MonitorHeart';
-import { Pagination } from '@mui/material'
-
-
-const exames = [
-  { id: 1, nome: 'Exame 01', preco: 'R$ 00,00' },
-  { id: 2, nome: 'Exame 02', preco: 'R$ 00,00' },
-  { id: 3, nome: 'Exame 03', preco: 'R$ 00,00' },
-  { id: 4, nome: 'Exame 04', preco: 'R$ 00,00' },
-  { id: 5, nome: 'Exame 05', preco: 'R$ 00,00' },
-  { id: 6, nome: 'Exame 06', preco: 'R$ 00,00' },
-  { id: 7, nome: 'Exame 07', preco: 'R$ 00,00' },
-  { id: 8, nome: 'Exame 08', preco: 'R$ 00,00' },
-  { id: 9, nome: 'Exame 09', preco: 'R$ 00,00' },
-  { id: 10, nome: 'Exame 10', preco: 'R$ 00,00' },
-  { id: 11, nome: 'Exame 11', preco: 'R$ 00,00' },
-  { id: 12, nome: 'Exame 12', preco: 'R$ 00,00' },
-  { id: 13, nome: 'Exame 13', preco: 'R$ 00,00' },
-  { id: 14, nome: 'Exame 14', preco: 'R$ 00,00' },
-  { id: 15, nome: 'Exame 15', preco: 'R$ 00,00' },
-  { id: 16, nome: 'Exame 16', preco: 'R$ 00,00' },
-  { id: 17, nome: 'Exame 17', preco: 'R$ 00,00' },
-  { id: 18, nome: 'Exame 18', preco: 'R$ 00,00' },
-  { id: 19, nome: 'Exame 19', preco: 'R$ 00,00' },
-  { id: 20, nome: 'Exame 20', preco: 'R$ 00,00' },
-  // ... outros exames
-];
+import { Pagination } from '@mui/material';
 
 const defaultTheme = createTheme({
   palette: {
     primary: {
-      main: '#418041',  // Cor principal verde escuro
-      light: 'rgba(65, 128, 65, 0.8)',  // Verde claro para efeitos de hover
+      main: '#418041',
+      light: 'rgba(65, 128, 65, 0.8)',
     }
   }
 });
 
-const Item = ({ nome, preco }) => (
-  <Grid item xs={6} sm={4} md={3}>
-    <Paper elevation={2} sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', p: 2, borderRadius: '10px' }}>
-      <Typography variant="body1">{nome}</Typography>
-      <Box display="flex" alignItems="center">
-        <Typography variant="body1" sx={{ minWidth: '80px' }}>{preco}</Typography>
-        <IconButton aria-label="adicionar exame">
-          <AddCircleIcon sx={{ color: 'primary.main' }} />
-        </IconButton>
-      </Box>
-    </Paper>
-  </Grid>
-);
+const Item = ({ nome, preço }) => {
+  const formattedPrice = parseFloat(preço).toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
+  return (
+    <Grid item xs={6} sm={4} md={3}>
+      <Paper elevation={2} sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', p: 2, borderRadius: '10px' }}>
+        <Typography variant="body1">{nome}</Typography>
+        <Box display="flex" alignItems="center">
+          <Typography variant="body1" sx={{ minWidth: '80px' }}>{formattedPrice}</Typography>
+          <IconButton aria-label="adicionar exame">
+            <AddCircleIcon sx={{ color: 'primary.main' }} />
+          </IconButton>
+        </Box>
+      </Paper>
+    </Grid>
+  );
+};
 
 export default function ExamesTable() {
+  const [exames, setExames] = useState([]);
   const [page, setPage] = useState(1);
-  const itemsPerPage = 10; // Número de itens por página
+  const itemsPerPage = 10;
+
+  useEffect(() => {
+    fetch('/exames.json')
+      .then(response => response.json())
+      .then(data => setExames(data))
+      .catch(error => console.error('Error fetching exams data:', error));
+  }, []);
 
   const handleChangePage = (event, newPage) => {
     setPage(newPage);
@@ -75,7 +61,7 @@ export default function ExamesTable() {
             <Avatar sx={{ m: 1, bgcolor: 'primary.main' }}>
               <MonitorHeartIcon fontSize='large' />
             </Avatar>
-            <Typography variant="h6" sx={{ fontWeight: 'bold', color: '#fff',  }}>
+            <Typography variant="h6" sx={{ fontWeight: 'bold', color: '#fff' }}>
               Exames
             </Typography>
           </Box>
@@ -85,7 +71,9 @@ export default function ExamesTable() {
                 <Paper elevation={2} sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', p: 2, borderRadius: '10px' }}>
                   <Typography variant="body1">{exame.nome}</Typography>
                   <Box display="flex" alignItems="center">
-                    <Typography variant="body1" sx={{ minWidth: '80px' }}>{exame.preco}</Typography>
+                    <Typography variant="body1" sx={{ minWidth: '80px' }}>
+                      {parseFloat(exame.preço).toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}
+                    </Typography>
                     <IconButton aria-label="adicionar exame">
                       <AddCircleIcon sx={{ color: 'primary.main' }} />
                     </IconButton>
@@ -100,6 +88,3 @@ export default function ExamesTable() {
     </ThemeProvider>
   );
 }
-
-
-
