@@ -9,12 +9,12 @@ main {
 }
 
 .drawer-open main {
-    margin-right: 350px; /* Ajuste conforme necessário */
+    margin-right: 250px; /* Ajuste conforme necessário */
 }
 
 /* Media queries para diferentes tamanhos de tela */
-@media (max-width: 600px) {
+@media (min-width: 600px) {
     .drawer-open main {
-        margin-right: 250px; /* Ajuste para telas menores */
+        margin-right: 190px; /* Ajuste conforme necessário */
     }
 }
