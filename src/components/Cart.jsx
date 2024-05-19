@@ -6,8 +6,7 @@ import ListItem from '@mui/material/ListItem';
 import ListItemText from '@mui/material/ListItemText';
 import Box from '@mui/material/Box';
 import IconButton from '@mui/material/IconButton';
-import ChevronLeftIcon from '@mui/icons-material/ChevronLeft';
-import ChevronRightIcon from '@mui/icons-material/ChevronRight';
+import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import { useTheme } from '@mui/material/styles';
 
 const drawerWidth = 350;
@@ -37,11 +36,13 @@ function Cart({ open, onClose }) {
                     alignItems: 'center',
                     padding: theme.spacing(0, 1),
                     ...theme.mixins.toolbar,
-                    justifyContent: 'flex-start',
+                    justifyContent: 'center', // centralizar conteúdo
+                    color: '#FFFFFF', // cor do texto branca
                 }}
             >
-                <IconButton onClick={onClose}>
-                    {theme.direction === 'rtl' ? <ChevronLeftIcon /> : <ChevronRightIcon />}
+                <IconButton sx={{ color: 'inherit', fontSize: '1.2rem' }} >
+                    <ShoppingCartIcon sx={{ fontSize: '1.5rem' }} /> {/* ícone menor */}
+                    Meu carrinho
                 </IconButton>
             </Box>
             <Divider />
@@ -52,8 +53,8 @@ function Cart({ open, onClose }) {
                 sx={{ width: '100%', height: '100%' }}
             >
                 <List>
-                    {['Exame 1', 'Exame 2', 'Exame 3'].map((text, index) => (
-                        <ListItem  key={text}>
+                    {['Exame 1', 'Exame 2', 'Exame 3', 'Exame 4', 'Exame 5', 'Exame 6', 'Exame 7', 'Exame 8', 'Exame 9', 'Exame 10'].map((text, index) => (
+                        <ListItem key={text}>
                             <ListItemText primary={text} />
                         </ListItem>
                     ))}
