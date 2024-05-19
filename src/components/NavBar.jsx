@@ -1,25 +1,40 @@
-// AppBar ou Header onde você define o layout do cabeçalho
-
 'use client';
 
-import React, { useState } from 'react';
-import AppBar from '@mui/material/AppBar';
+import React from 'react';
+import { styled, useTheme } from '@mui/material/styles';
 import Box from '@mui/material/Box';
+import MuiAppBar from '@mui/material/AppBar';
 import Toolbar from '@mui/material/Toolbar';
 import IconButton from '@mui/material/IconButton';
 import InputBase from '@mui/material/InputBase';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import AccountCircle from '@mui/icons-material/AccountCircle';
-import { useTheme } from '@mui/material/styles';
-import Cart from './Cart';
 
-export default function Head() {
+const drawerWidth = 350;
+
+const AppBar = styled(MuiAppBar, {
+  shouldForwardProp: (prop) => prop !== 'open',
+})(({ theme, open }) => ({
+  transition: theme.transitions.create(['margin', 'width'], {
+    easing: theme.transitions.easing.sharp,
+    duration: theme.transitions.duration.leavingScreen,
+  }),
+  ...(open && {
+    width: `calc(100% - ${drawerWidth}px)`,
+    transition: theme.transitions.create(['margin', 'width'], {
+      easing: theme.transitions.easing.easeOut,
+      duration: theme.transitions.duration.enteringScreen,
+    }),
+    marginRight: drawerWidth,
+  }),
+}));
+
+export default function NavBar({ open, toggleCart }) {
     const theme = useTheme();
-    const [cartOpen, setCartOpen] = useState(false);
 
     return (
         <Box sx={{ flexGrow: 1 }}>
-            <AppBar position="fixed" sx={{ backgroundColor: theme.palette.success.main }}>
+            <AppBar position="fixed" open={open} sx={{ backgroundColor: theme.palette.success.main }}>
                 <Toolbar sx={{ justifyContent: 'flex-end' }}>
                     <Box sx={{
                         position: 'relative',
@@ -54,7 +69,7 @@ export default function Head() {
                         size="large"
                         aria-label="carrinho de compras"
                         color="inherit"
-                        onClick={() => setCartOpen(true)}
+                        onClick={toggleCart}
                     >
                         <ShoppingCartIcon />
                     </IconButton>
@@ -69,7 +84,6 @@ export default function Head() {
                     </IconButton>
                 </Toolbar>
             </AppBar>
-            <Cart open={cartOpen} onClose={() => setCartOpen(false)} />
         </Box>
     );
 }

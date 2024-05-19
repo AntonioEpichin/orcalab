@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    transition: margin 0.3s ease-in-out;
+}
+
+.drawer-open main {
+    margin-right: 350px; /* Ajuste conforme necessário */
+}
+
+/* Media queries para diferentes tamanhos de tela */
+@media (max-width: 600px) {
+    .drawer-open main {
+        margin-right: 250px; /* Ajuste para telas menores */
+    }
+}
