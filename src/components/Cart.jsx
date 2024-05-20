@@ -1,4 +1,3 @@
-// components/Cart.js
 import React from 'react';
 import Drawer from '@mui/material/Drawer';
 import List from '@mui/material/List';
@@ -28,7 +27,7 @@ function Cart() {
         '& .MuiDrawer-paper': {
           width: drawerWidth,
           backgroundColor: theme.palette.success.main,
-          color: '#D9D9D9',
+          color: '#FFFFFF',
           height: '100vh',
           position: 'fixed',
         },
@@ -44,7 +43,6 @@ function Cart() {
           padding: theme.spacing(0, 1),
           ...theme.mixins.toolbar,
           justifyContent: 'center',
-          color: '#FFFFFF',
         }}
       >
         <IconButton sx={{ color: 'inherit', fontSize: '1.2rem' }} onClick={toggleCart}>
@@ -60,9 +58,12 @@ function Cart() {
         <List>
           {cartItems.map((item, index) => (
             <ListItem key={index} sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-              <ListItemText primary={`${item.nome} - ${parseFloat(item.preço).toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}`} />
-              <IconButton edge="end" aria-label="delete" onClick={() => removeItemFromCart(item)}>
-                <DeleteIcon sx={{ color: 'red' }} />
+              <ListItemText 
+                primaryTypographyProps={{ color: '#FFFFFF', variant: 'body2' }} // Cor e variante do texto
+                primary={`${item.nome} - ${parseFloat(item.preço).toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}`} 
+              />
+              <IconButton edge="end" aria-label="delete" onClick={() => removeItemFromCart(item)} size="small">
+                <DeleteIcon sx={{ color: 'red', fontSize: '1rem' }} /> {/* Ícone menor */}
               </IconButton>
             </ListItem>
           ))}
