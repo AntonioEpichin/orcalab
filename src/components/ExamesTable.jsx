@@ -3,10 +3,10 @@
 import React, { useState, useEffect } from 'react';
 import { Avatar, Grid, Paper, Typography, IconButton, Box, Container } from '@mui/material';
 import AddCircleIcon from '@mui/icons-material/AddCircle';
-import AssessmentIcon from '@mui/icons-material/Assessment';
-import { createTheme, ThemeProvider } from '@mui/material/styles';
 import MonitorHeartIcon from '@mui/icons-material/MonitorHeart';
+import { createTheme, ThemeProvider } from '@mui/material/styles';
 import { Pagination } from '@mui/material';
+import { useCart } from '@/components/CartContext';
 
 const defaultTheme = createTheme({
   palette: {
@@ -17,15 +17,16 @@ const defaultTheme = createTheme({
   }
 });
 
-const Item = ({ nome, preço }) => {
-  const formattedPrice = parseFloat(preço).toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
+const Item = ({ exame, onAdd }) => {
+  const formattedPrice = parseFloat(exame.preço).toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
+
   return (
-    <Grid item xs={6} sm={4} md={3}>
+    <Grid item xs={12} sm={6} md={4}>
       <Paper elevation={2} sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', p: 2, borderRadius: '10px' }}>
-        <Typography variant="body1">{nome}</Typography>
+        <Typography variant="body1">{exame.nome}</Typography>
         <Box display="flex" alignItems="center">
           <Typography variant="body1" sx={{ minWidth: '80px' }}>{formattedPrice}</Typography>
-          <IconButton aria-label="adicionar exame">
+          <IconButton aria-label="adicionar exame" onClick={() => onAdd(exame)}>
             <AddCircleIcon sx={{ color: 'primary.main' }} />
           </IconButton>
         </Box>
@@ -38,6 +39,7 @@ export default function ExamesTable() {
   const [exames, setExames] = useState([]);
   const [page, setPage] = useState(1);
   const itemsPerPage = 10;
+  const { addItemToCart } = useCart();
 
   useEffect(() => {
     fetch('/exames.json')
@@ -67,19 +69,7 @@ export default function ExamesTable() {
           </Box>
           <Grid container spacing={2}>
             {paginatedExames.map((exame) => (
-              <Grid item xs={12} sm={6} md={4} key={exame.id}>
-                <Paper elevation={2} sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', p: 2, borderRadius: '10px' }}>
-                  <Typography variant="body1">{exame.nome}</Typography>
-                  <Box display="flex" alignItems="center">
-                    <Typography variant="body1" sx={{ minWidth: '80px' }}>
-                      {parseFloat(exame.preço).toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}
-                    </Typography>
-                    <IconButton aria-label="adicionar exame">
-                      <AddCircleIcon sx={{ color: 'primary.main' }} />
-                    </IconButton>
-                  </Box>
-                </Paper>
-              </Grid>
+              <Item key={exame.id} exame={exame} onAdd={addItemToCart} />
             ))}
           </Grid>
           <Pagination count={count} page={page} onChange={handleChangePage} sx={{ mt: 2, justifyContent: 'center' }} />

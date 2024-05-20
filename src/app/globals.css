@@ -1,20 +1,10 @@
-body {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-main {
-    transition: margin 0.3s ease-in-out;
-}
-
-.drawer-open main {
-    margin-right: 250px; /* Ajuste conforme necessário */
-}
-
-/* Media queries para diferentes tamanhos de tela */
-@media (min-width: 600px) {
-    .drawer-open main {
-        margin-right: 190px; /* Ajuste conforme necessário */
-    }
-}
+/* globals.css */
+body.drawer-open {
+    margin-right: 355px; /* Ajuste a margem do corpo para a esquerda */
+    transition: margin-right 0.3s ease; /* Adicione uma transição suave */
+  }
+  
+  main {
+    transition: margin-right 0.3s ease; /* Adicione uma transição suave para o main também */
+  }
+  

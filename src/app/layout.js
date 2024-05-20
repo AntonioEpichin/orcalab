@@ -5,22 +5,25 @@ import NavBar from "@/components/NavBar";
 import Footer from "../components/Footer";
 import LogoSection from "@/components/LogoSection";
 import Cart from "../components/Cart";
-import { useState } from "react";
-
-
+import { useCart } from "@/components/CartContext";
+import { CartProvider } from "@/components/CartContext";
 
 export default function RootLayout({ children }) {
-  const [cartOpen, setCartOpen] = useState(false);
+  return (
+    <CartProvider>
+      <InnerRootLayout>{children}</InnerRootLayout>
+    </CartProvider>
+  );
+}
 
-  const toggleCart = () => {
-    setCartOpen(!cartOpen);
-  };
+function InnerRootLayout({ children }) {
+  const { isCartOpen } = useCart();
 
   return (
     <html lang="pt-br">
-      <body className={cartOpen ? 'drawer-open' : ''}>
-        <NavBar open={cartOpen} toggleCart={toggleCart} />
-        <Cart open={cartOpen} onClose={toggleCart} />
+      <body className={isCartOpen ? 'drawer-open' : ''}>
+        <NavBar />
+        <Cart />
         <LogoSection />
         <main>
           {children}
