@@ -1,12 +1,13 @@
 'use client'
 
 import "./globals.css";
-import NavBar from "@/components/NavBar";
+import NavBar from "../components/NavBar";
 import Footer from "../components/Footer";
-import LogoSection from "@/components/LogoSection";
+import LogoSection from "../components/LogoSection";
 import Cart from "../components/Cart";
-import { useCart } from "@/components/CartContext";
-import { CartProvider } from "@/components/CartContext";
+import { useCart } from "../components/CartContext";
+import { CartProvider } from "../components/CartContext";
+import React from 'react';
 
 export default function RootLayout({ children }) {
   return (

@@ -1,3 +1,4 @@
+// components/Cart.tsx
 import React from 'react';
 import Drawer from '@mui/material/Drawer';
 import List from '@mui/material/List';
@@ -11,7 +12,15 @@ import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import DeleteIcon from '@mui/icons-material/Delete';
 import Button from '@mui/material/Button';
 import { useTheme } from '@mui/material/styles';
-import { useCart } from '@/components/CartContext';
+import { useCart } from './CartContext';
+
+// Assuming you have a CartItem interface defined in CartContext
+interface CartItem {
+  id: string;
+  nome: string;
+  preço: number;
+  // Add other properties of the item as needed
+}
 
 const drawerWidth = 350;
 
@@ -60,7 +69,7 @@ function Cart() {
             <ListItem key={index} sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
               <ListItemText 
                 primaryTypographyProps={{ color: '#FFFFFF', variant: 'body2' }} // Cor e variante do texto
-                primary={`${item.nome} - ${parseFloat(item.preço).toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}`} 
+                primary={`${item.nome} - ${parseFloat(item.preço.toString()).toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}`} 
               />
               <IconButton edge="end" aria-label="delete" onClick={() => removeItemFromCart(item)} size="small">
                 <DeleteIcon sx={{ color: 'red', fontSize: '1rem' }} /> {/* Ícone menor */}

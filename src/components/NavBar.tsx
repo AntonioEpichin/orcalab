@@ -1,21 +1,26 @@
+// components/NavBar.tsx
 'use client';
 
 import React from 'react';
-import { styled, useTheme } from '@mui/material/styles';
+import { styled, useTheme, Theme } from '@mui/material/styles';
 import Box from '@mui/material/Box';
-import MuiAppBar from '@mui/material/AppBar';
+import MuiAppBar, { AppBarProps as MuiAppBarProps } from '@mui/material/AppBar';
 import Toolbar from '@mui/material/Toolbar';
 import IconButton from '@mui/material/IconButton';
 import InputBase from '@mui/material/InputBase';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import AccountCircle from '@mui/icons-material/AccountCircle';
-import { useCart } from '@/components/CartContext';
+import { useCart } from './CartContext';
 
 const drawerWidth = 350;
 
+interface AppBarProps extends MuiAppBarProps {
+  open?: boolean;
+}
+
 const AppBar = styled(MuiAppBar, {
   shouldForwardProp: (prop) => prop !== 'open',
-})(({ theme, open }) => ({
+})<AppBarProps>(({ theme, open }) => ({
   transition: theme.transitions.create(['margin', 'width'], {
     easing: theme.transitions.easing.sharp,
     duration: theme.transitions.duration.leavingScreen,

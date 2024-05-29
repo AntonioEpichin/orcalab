@@ -6,7 +6,7 @@ import AddCircleIcon from '@mui/icons-material/AddCircle';
 import MonitorHeartIcon from '@mui/icons-material/MonitorHeart';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import { Pagination } from '@mui/material';
-import { useCart } from '@/components/CartContext';
+import { useCart } from './CartContext';
 
 const defaultTheme = createTheme({
   palette: {
