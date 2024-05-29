@@ -1,13 +1,10 @@
-'use client';
-
+import SignUp from '@/components/SignUp';
 import React from 'react';
-import SignIn from '../../components/SignIn';
-
 
 export default function Home() {
     return (
         <main>
-            <SignIn />
+            <SignUp />
         </main>
     );
 }

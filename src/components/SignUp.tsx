@@ -15,6 +15,7 @@ import Container from '@mui/material/Container';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import dynamic from "next/dynamic";
 import LockOutlinedIcon from '@mui/icons-material/LockOutlined';
+import register from '@/app/(auth)/signup/_actions/register';
 
 
 
@@ -29,22 +30,7 @@ const defaultTheme = createTheme({
 });
 
 function SignUp() {
-  const handleSubmit = (event) => {
-    event.preventDefault();
-    const data = new FormData(event.currentTarget);
-    console.log({
-      nome: data.get('nome'),
-      dataNascimento: data.get('dataNascimento'),
-      cpf: data.get('cpf'),
-      password: data.get('password'),
-      confirmPassword: data.get('confirmPassword'),
-      telefone: data.get('telefone'),
-      email: data.get('email'),
-      terms: data.get('terms'),
-    });
-    console.log(defaultTheme);
-  };
-
+ 
   return (
     <ThemeProvider theme={defaultTheme} >
       <Container component="main" maxWidth="sm">
@@ -63,7 +49,7 @@ function SignUp() {
           <Typography component="h1" variant="h5">
             Criar Conta
           </Typography>
-          <Box component="form" noValidate onSubmit={handleSubmit} sx={{ mt: 3 }}>
+          <Box component="form" noValidate action={register} sx={{ mt: 3 }}>
             <Grid container spacing={2}>
               <Grid item xs={12}>
                 <TextField
@@ -71,7 +57,7 @@ function SignUp() {
                   fullWidth
                   id="nome"
                   label="Nome"
-                  name="nome"
+                  name="name"
                   autoComplete="name"
                   autoFocus
                 />
