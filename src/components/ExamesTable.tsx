@@ -68,7 +68,7 @@ export default function ExamesTable() {
             </Typography>
           </Box>
           <Grid container spacing={2}>
-            {paginatedExames.map((exame) => (
+            {paginatedExames.map((exame: any) => (
               <Item key={exame.id} exame={exame} onAdd={addItemToCart} />
             ))}
           </Grid>
