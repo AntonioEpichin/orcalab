@@ -1,4 +1,4 @@
-// components/NavBar.tsx
+// NavBar.tsx
 'use client';
 
 import React from 'react';
@@ -10,6 +10,7 @@ import IconButton from '@mui/material/IconButton';
 import InputBase from '@mui/material/InputBase';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import AccountCircle from '@mui/icons-material/AccountCircle';
+import Badge from '@mui/material/Badge'; // Importing Badge component
 import { useCart } from './CartContext';
 
 const drawerWidth = 350;
@@ -37,7 +38,7 @@ const AppBar = styled(MuiAppBar, {
 
 export default function NavBar() {
   const theme = useTheme();
-  const { isCartOpen, toggleCart } = useCart();
+  const { isCartOpen, toggleCart, cartItems } = useCart(); // Retrieve cartItems from the context
 
   return (
     <Box sx={{ flexGrow: 1 }}>
@@ -78,7 +79,9 @@ export default function NavBar() {
             color="inherit"
             onClick={toggleCart}
           >
-            <ShoppingCartIcon />
+            <Badge badgeContent={cartItems.length} color="error"> {/* Add Badge around the cart icon */}
+              <ShoppingCartIcon />
+            </Badge>
           </IconButton>
           <IconButton
             size="large"
