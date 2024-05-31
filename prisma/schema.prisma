@@ -9,11 +9,11 @@ datasource db {
 }
 
 model User {
-  id             Int      @id @default(autoincrement())
+  id             String      @id @default(cuid())
   name           String?
   dataNascimento DateTime
-  cpf            String   @unique
+  cpf            String      @unique
   telefone       String
-  email          String   @unique
+  email          String      @unique
   password       String?
 }
