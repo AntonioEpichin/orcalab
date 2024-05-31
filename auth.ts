@@ -1,12 +1,41 @@
 import NextAuth from "next-auth"
 import Credentials from 'next-auth/providers/credentials';
+import db from "@/lib/db";
+import {compareSync} from 'bcrypt-ts';
 
 
 export const { handlers, signIn, signOut, auth } = NextAuth({
     providers: [
         Credentials({
-            async authorize() {
-                return { id: '1', name: 'Fulano de Tal', email: 'lala@lala.com' };
+            credentials: {
+                email: {},
+                password: { },
+            },
+            async authorize(credentials) {
+
+                const email = credentials.email as string;
+                const password = credentials.password as string;
+
+                if (!email || !password) {
+                    return null;
+                }
+
+                const user = await db.user.findUnique({
+                    where: {
+                        email: email,
+                    },
+                }); // Find user in database
+
+                if (!user) {
+                    return null;
+                }
+                
+                const matches = compareSync(password, user.password ?? "");
+
+                if (matches) {
+                    return { id: user.id, email: user.email };
+                }
+                return null;
             },
         }),
     ],
