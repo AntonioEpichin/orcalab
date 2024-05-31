@@ -1,12 +1,14 @@
 -- CreateTable
 CREATE TABLE "User" (
-    "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    "id" SERIAL NOT NULL,
     "name" TEXT,
-    "dataNascimento" TEXT NOT NULL,
+    "dataNascimento" TIMESTAMP(3) NOT NULL,
     "cpf" TEXT NOT NULL,
     "telefone" TEXT NOT NULL,
     "email" TEXT NOT NULL,
-    "password" TEXT
+    "password" TEXT,
+
+    CONSTRAINT "User_pkey" PRIMARY KEY ("id")
 );
 
 -- CreateIndex
