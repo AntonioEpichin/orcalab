@@ -3,6 +3,7 @@ import { Avatar, Button, CssBaseline, TextField, Link, Grid, Box, Typography, Co
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import LockOutlinedIcon from '@mui/icons-material/LockOutlined';
 import dynamic from "next/dynamic";
+import login from "@/app/(auth)/login/_actions/login";
 
 
 const defaultTheme = createTheme({
@@ -15,14 +16,7 @@ const defaultTheme = createTheme({
 });
 
 function SignIn() {
-  const handleSubmit = (event) => {
-    event.preventDefault();
-    const data = new FormData(event.currentTarget);
-    console.log({
-      email: data.get('email'),
-      password: data.get('password'),
-    });
-  };
+
 
   return (
     <ThemeProvider theme={defaultTheme}>
@@ -42,7 +36,7 @@ function SignIn() {
           <Typography component="h1" variant="h5">
             Entrar
           </Typography>
-          <Box component="form" noValidate onSubmit={handleSubmit} sx={{ mt: 1 }}>
+          <Box component="form" noValidate action={login} sx={{ mt: 1 }}>
             <TextField
               margin="normal"
               required
