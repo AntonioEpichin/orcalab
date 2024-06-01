@@ -4,6 +4,7 @@ import React, { createContext, useState, useContext, ReactNode } from 'react';
 
 // Define the type for the items in the cart
 interface CartItem {
+  nome: string;
   id: string;
   preço: number;
   // Add other properties of the item as needed
@@ -33,9 +34,19 @@ export const CartProvider = ({ children }: CartProviderProps) => {
   const [isCartOpen, setIsCartOpen] = useState(false);
 
   const addItemToCart = (item: CartItem) => {
-    setCartItems((prevItems) => [...prevItems, item]);
-    setTotal((prevTotal) => prevTotal + parseFloat(item.preço.toString()));
-    setIsCartOpen(true); // Abre o carrinho ao adicionar um item
+    setCartItems((prevItems) => {
+      // Check if the item is already in the cart
+      const existingItem = prevItems.find(cartItem => cartItem.id === item.id);
+      if (existingItem) {
+        // If the item is already in the cart, do nothing
+        return prevItems;
+      } else {
+        // If the item is not in the cart, add it
+        setTotal((prevTotal) => prevTotal + parseFloat(item.preço.toString()));
+        return [...prevItems, item];
+      }
+    });
+    setIsCartOpen(true); // Open the cart when an item is added
   };
 
   const removeItemFromCart = (item: CartItem) => {

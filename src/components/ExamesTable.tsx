@@ -1,7 +1,7 @@
 'use client'
 
 import React, { useState, useEffect } from 'react';
-import { Avatar, Grid, Paper, Typography, IconButton, Box, Container } from '@mui/material';
+import { Avatar, Paper, Typography, IconButton, Box, Container, List, ListItem, ListItemText, ListItemSecondaryAction } from '@mui/material';
 import AddCircleIcon from '@mui/icons-material/AddCircle';
 import MonitorHeartIcon from '@mui/icons-material/MonitorHeart';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
@@ -21,24 +21,28 @@ const Item = ({ exame, onAdd }) => {
   const formattedPrice = parseFloat(exame.preço).toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
 
   return (
-    <Grid item xs={12} sm={6} md={4}>
-      <Paper elevation={2} sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', p: 2, borderRadius: '10px' }}>
-        <Typography variant="body1">{exame.nome}</Typography>
+    <ListItem divider>
+      <ListItemText
+        primary={exame.nome}
+      />
+      <ListItemSecondaryAction>
         <Box display="flex" alignItems="center">
-          <Typography variant="body1" sx={{ minWidth: '80px' }}>{formattedPrice}</Typography>
-          <IconButton aria-label="adicionar exame" onClick={() => onAdd(exame)}>
+          <Typography variant="body1" sx={{ minWidth: '80px', textAlign: 'right', mr: 2 }}>
+            {formattedPrice}
+          </Typography>
+          <IconButton edge="end" aria-label="add" onClick={() => onAdd(exame)}>
             <AddCircleIcon sx={{ color: 'primary.main' }} />
           </IconButton>
         </Box>
-      </Paper>
-    </Grid>
+      </ListItemSecondaryAction>
+    </ListItem>
   );
 };
 
 export default function ExamesTable() {
   const [exames, setExames] = useState([]);
   const [page, setPage] = useState(1);
-  const itemsPerPage = 10;
+  const itemsPerPage = 5;
   const { addItemToCart } = useCart();
 
   useEffect(() => {
@@ -67,12 +71,12 @@ export default function ExamesTable() {
               Exames
             </Typography>
           </Box>
-          <Grid container spacing={2}>
+          <List>
             {paginatedExames.map((exame: any) => (
               <Item key={exame.id} exame={exame} onAdd={addItemToCart} />
             ))}
-          </Grid>
-          <Pagination count={count} page={page} onChange={handleChangePage} sx={{ mt: 2, justifyContent: 'center' }} />
+          </List>
+          <Pagination count={count} page={page} onChange={handleChangePage} sx={{ mt: 2, display: 'flex', justifyContent: 'center' }} />
         </Paper>
       </Container>
     </ThemeProvider>
