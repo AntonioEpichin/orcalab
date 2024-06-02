@@ -29,6 +29,7 @@ function InnerRootLayout({ children }) {
         <LogoSection />
         <main>
           {children}
+          <SpeedInsights />
         </main>
         <Footer />
       </body>
