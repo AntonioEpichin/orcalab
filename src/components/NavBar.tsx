@@ -1,4 +1,3 @@
-// NavBar.tsx
 'use client';
 
 import React from 'react';
@@ -12,6 +11,8 @@ import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import AccountCircle from '@mui/icons-material/AccountCircle';
 import Badge from '@mui/material/Badge'; // Importing Badge component
 import { useCart } from './CartContext';
+import Link from 'next/link';
+import { SvgIcon } from '@mui/material';
 
 const drawerWidth = 350;
 
@@ -79,19 +80,18 @@ export default function NavBar() {
             color="inherit"
             onClick={toggleCart}
           >
-            <Badge badgeContent={cartItems.length} color="error"> {/* Add Badge around the cart icon */}
+            <Badge badgeContent={cartItems.length} color="error">
               <ShoppingCartIcon />
             </Badge>
           </IconButton>
-          <IconButton
-            size="large"
-            edge="end"
-            aria-label="conta do usuário"
-            aria-haspopup="true"
-            color="inherit"
-          >
-            <AccountCircle />
-          </IconButton>
+
+          <Link href="/login" passHref>
+      <IconButton size="large" edge="end" aria-label="conta do usuário" aria-haspopup="true">
+        <SvgIcon sx={{ color: "white"}}> 
+          <AccountCircle />
+        </SvgIcon>
+      </IconButton>
+    </Link>
         </Toolbar>
       </AppBar>
     </Box>
