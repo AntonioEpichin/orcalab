@@ -8,6 +8,7 @@ import Cart from "../components/Cart";
 import { useCart } from "../components/CartContext";
 import { CartProvider } from "../components/CartContext";
 import React from 'react';
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 export default function RootLayout({ children }) {
   return (
