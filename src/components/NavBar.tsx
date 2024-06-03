@@ -13,6 +13,8 @@ import Badge from '@mui/material/Badge'; // Importing Badge component
 import { useCart } from './CartContext';
 import Link from 'next/link';
 import { SvgIcon } from '@mui/material';
+import { useSearch } from './SearchContext';
+
 
 const drawerWidth = 350;
 
@@ -39,7 +41,13 @@ const AppBar = styled(MuiAppBar, {
 
 export default function NavBar() {
   const theme = useTheme();
-  const { isCartOpen, toggleCart, cartItems } = useCart(); // Retrieve cartItems from the context
+  const { isCartOpen, toggleCart, cartItems } = useCart();
+  const { setSearchTerm } = useSearch(); // Use the context
+
+  const handleSearchChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+      setSearchTerm(e.target.value);
+  };
+
 
   return (
     <Box sx={{ flexGrow: 1 }}>
@@ -72,6 +80,7 @@ export default function NavBar() {
               }}
               placeholder="Pesquise por Exame"
               inputProps={{ 'aria-label': 'search' }}
+              onChange={handleSearchChange}
             />
           </Box>
           <IconButton

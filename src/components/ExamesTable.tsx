@@ -7,6 +7,8 @@ import MonitorHeartIcon from '@mui/icons-material/MonitorHeart';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import { Pagination } from '@mui/material';
 import { useCart } from './CartContext';
+import { useSearch } from './SearchContext'; 
+
 
 const defaultTheme = createTheme({
   palette: {
@@ -44,6 +46,7 @@ export default function ExamesTable() {
   const [page, setPage] = useState(1);
   const itemsPerPage = 5;
   const { addItemToCart } = useCart();
+  const { searchTerm } = useSearch();
 
   useEffect(() => {
     fetch('/exames.json')
@@ -56,8 +59,13 @@ export default function ExamesTable() {
     setPage(newPage);
   };
 
-  const count = Math.ceil(exames.length / itemsPerPage);
-  const paginatedExames = exames.slice((page - 1) * itemsPerPage, page * itemsPerPage);
+const filteredExames = exames.filter(exame =>
+        exame.nome.toLowerCase().includes(searchTerm.toLowerCase())
+    );
+    
+    const count = Math.ceil(filteredExames.length / itemsPerPage);
+    const paginatedExames = filteredExames.slice((page - 1) * itemsPerPage, page * itemsPerPage);
+
 
   return (
     <ThemeProvider theme={defaultTheme}>

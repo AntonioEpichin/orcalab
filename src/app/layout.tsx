@@ -9,12 +9,16 @@ import { useCart } from "../components/CartContext";
 import { CartProvider } from "../components/CartContext";
 import React from 'react';
 import { SpeedInsights } from "@vercel/speed-insights/next"
+import { SearchProvider } from '../components/SearchContext';
+
 
 export default function RootLayout({ children }) {
   return (
-    <CartProvider>
-      <InnerRootLayout>{children}</InnerRootLayout>
-    </CartProvider>
+      <CartProvider>
+          <SearchProvider> 
+              <InnerRootLayout>{children}</InnerRootLayout>
+          </SearchProvider>
+      </CartProvider>
   );
 }
 
