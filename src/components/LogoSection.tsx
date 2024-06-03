@@ -61,7 +61,9 @@ const LogoSection = () => {
                 />
                 <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-start', marginLeft: 2, marginTop: 2, }}>
                     <Typography variant="h6" sx={{ fontWeight: 'bold', marginBottom: 1 }}>
-                        Logomarca
+                        <Link href= "/" sx={{ textDecoration: 'none', color: 'inherit' }}>    
+                        Logomarca 
+                        </Link>
                     </Typography>
                     <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: '-moz-initial' }}>
                         <Link href={mapUrl} sx={{ textDecoration: 'none' }} target="_blank" color="inherit">

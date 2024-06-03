@@ -45,7 +45,7 @@ export default function NavBar() {
   const { setSearchTerm } = useSearch(); // Use the context
 
   const handleSearchChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-      setSearchTerm(e.target.value);
+    setSearchTerm(e.target.value);
   };
 
 
@@ -95,12 +95,12 @@ export default function NavBar() {
           </IconButton>
 
           <Link href="/login" passHref>
-      <IconButton size="large" edge="end" aria-label="conta do usuário" aria-haspopup="true">
-        <SvgIcon sx={{ color: "white"}}> 
-          <AccountCircle />
-        </SvgIcon>
-      </IconButton>
-    </Link>
+            <IconButton size="large" edge="end" aria-label="conta do usuário" aria-haspopup="true">
+              <SvgIcon sx={{ color: "white" }}>
+                <AccountCircle />
+              </SvgIcon>
+            </IconButton>
+          </Link>
         </Toolbar>
       </AppBar>
     </Box>
