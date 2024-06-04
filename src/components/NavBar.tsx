@@ -10,10 +10,10 @@ import InputBase from '@mui/material/InputBase';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import AccountCircle from '@mui/icons-material/AccountCircle';
 import Badge from '@mui/material/Badge'; // Importing Badge component
-import { useCart } from './CartContext';
+import { useCart } from '../context/CartContext';
 import Link from 'next/link';
 import { SvgIcon } from '@mui/material';
-import { useSearch } from './SearchContext';
+import { useSearch } from '../context/SearchContext';
 
 
 const drawerWidth = 350;

@@ -11,7 +11,7 @@ import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import DeleteIcon from '@mui/icons-material/Delete';
 import Button from '@mui/material/Button';
 import { useTheme } from '@mui/material/styles';
-import { useCart } from './CartContext';
+import { useCart } from '../context/CartContext';
 
 // Assuming you have a CartItem interface defined in CartContext
 interface CartItem {

@@ -1,22 +1,61 @@
+
 import * as React from 'react';
 import { Avatar, Button, CssBaseline, TextField, Link, Grid, Box, Typography, Container } from '@mui/material';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import LockOutlinedIcon from '@mui/icons-material/LockOutlined';
+import { useSession, signOut } from 'next-auth/react';
 import dynamic from "next/dynamic";
 import login from "@/app/(auth)/login/_actions/login";
-
 
 const defaultTheme = createTheme({
   palette: {
     primary: {
-      main: '#418041',  // Cor principal verde escuro
-      light: 'rgba(65, 128, 65, 0.8)',  // Verde claro para efeitos de hover
+      main: '#418041',
+      light: 'rgba(65, 128, 65, 0.8)',
     }
   }
 });
 
 function SignIn() {
+  const { data: session, status } = useSession();
 
+  const handleLogout = async () => {
+    await signOut({ redirect: false });
+    window.location.href = '/login';
+  };
+
+  if (status === 'authenticated') {
+    return (
+      <ThemeProvider theme={defaultTheme}>
+        <Container component="main" maxWidth="xs">
+          <CssBaseline />
+          <Box
+            sx={{
+              marginTop: 8,
+              display: 'flex',
+              flexDirection: 'column',
+              alignItems: 'center',
+            }}
+          >
+            <Avatar sx={{ m: 1, bgcolor: 'primary.main' }}>
+              <LockOutlinedIcon />
+            </Avatar>
+            <Typography component="h1" variant="h5">
+              Você já está logado {session.user.name}
+            </Typography>
+            <Button
+              onClick={handleLogout}
+              fullWidth
+              variant="contained"
+              sx={{ mt: 3, mb: 2 }}
+            >
+              Logout
+            </Button>
+          </Box>
+        </Container>
+      </ThemeProvider>
+    );
+  }
 
   return (
     <ThemeProvider theme={defaultTheme}>
@@ -84,4 +123,4 @@ function SignIn() {
   );
 }
 
-export default dynamic(() => Promise.resolve(SignIn), { ssr: false })
+export default dynamic(() => Promise.resolve(SignIn), { ssr: false });
