@@ -1,16 +1,13 @@
 'use client'
 
-import React, { createContext, useState, useContext, ReactNode } from 'react';
+import React, { createContext, useState, useContext, ReactNode, useEffect } from 'react';
 
-// Define the type for the items in the cart
 interface CartItem {
   nome: string;
   id: string;
   preço: number;
-  // Add other properties of the item as needed
 }
 
-// Define the type for the context state
 interface CartContextState {
   cartItems: CartItem[];
   total: number;
@@ -21,7 +18,6 @@ interface CartContextState {
   toggleCart: () => void;
 }
 
-// Initialize the context with undefined to enforce the use of the provider
 const CartContext = createContext<CartContextState | undefined>(undefined);
 
 interface CartProviderProps {
@@ -33,31 +29,39 @@ export const CartProvider = ({ children }: CartProviderProps) => {
   const [total, setTotal] = useState(0);
   const [isCartOpen, setIsCartOpen] = useState(false);
 
+  useEffect(() => {
+    const storedCartItems = localStorage.getItem('cartItems');
+    const storedTotal = localStorage.getItem('total');
+    if (storedCartItems && storedTotal) {
+      setCartItems(JSON.parse(storedCartItems));
+      setTotal(parseFloat(storedTotal));
+    }
+  }, []);
+
+  useEffect(() => {
+    localStorage.setItem('cartItems', JSON.stringify(cartItems));
+    localStorage.setItem('total', total.toString());
+  }, [cartItems, total]);
+
   const addItemToCart = (item: CartItem) => {
     setCartItems((prevItems) => {
-      // Check if the item is already in the cart
       const existingItem = prevItems.find(cartItem => cartItem.id === item.id);
       if (existingItem) {
-        // If the item is already in the cart, do nothing
         return prevItems;
       } else {
-        // If the item is not in the cart, add it
-        setTotal((prevTotal) => prevTotal + parseFloat(item.preço.toString()));
         return [...prevItems, item];
       }
     });
-    setIsCartOpen(true); // Open the cart when an item is added
+    setTotal((prevTotal) => prevTotal + item.preço);
+    setIsCartOpen(true);
   };
 
   const removeItemFromCart = (item: CartItem) => {
     setCartItems((prevItems) => {
-      const index = prevItems.indexOf(item);
-      if (index > -1) {
-        prevItems.splice(index, 1);
-        setTotal((prevTotal) => prevTotal - parseFloat(item.preço.toString()));
-      }
-      return [...prevItems];
+      const updatedItems = prevItems.filter(cartItem => cartItem.id !== item.id);
+      return updatedItems;
     });
+    setTotal((prevTotal) => prevTotal - item.preço);
   };
 
   const clearCart = () => {

@@ -12,20 +12,29 @@ import DeleteIcon from '@mui/icons-material/Delete';
 import Button from '@mui/material/Button';
 import { useTheme } from '@mui/material/styles';
 import { useCart } from '../context/CartContext';
+import { useRouter } from 'next/navigation';
 
-// Assuming you have a CartItem interface defined in CartContext
 interface CartItem {
   id: string;
   nome: string;
   preço: number;
-  // Add other properties of the item as needed
 }
 
 const drawerWidth = 350;
 
-function Cart() {
+const Cart = () => {
   const theme = useTheme();
-  const { cartItems, total, removeItemFromCart, clearCart, isCartOpen, toggleCart } = useCart();
+  const { cartItems, removeItemFromCart, clearCart, isCartOpen, toggleCart } = useCart();
+  const router = useRouter();
+
+  const handleCheckout = () => {
+    toggleCart();
+    router.push('/checkout');
+  };
+
+  const calculateTotal = () => {
+    return cartItems.reduce((sum, item) => sum + item.preço, 0);
+  };
 
   return (
     <Drawer
@@ -67,11 +76,11 @@ function Cart() {
           {cartItems.map((item, index) => (
             <ListItem key={index} sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
               <ListItemText 
-                primaryTypographyProps={{ color: '#FFFFFF', variant: 'body2' }} // Cor e variante do texto
-                primary={`${item.nome} - ${parseFloat(item.preço.toString()).toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}`} 
+                primaryTypographyProps={{ color: '#FFFFFF', variant: 'body2' }}
+                primary={`${item.nome} - ${item.preço.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}`} 
               />
               <IconButton edge="end" aria-label="delete" onClick={() => removeItemFromCart(item)} size="small">
-                <DeleteIcon sx={{ color: 'red', fontSize: '1rem' }} /> {/* Ícone menor */}
+                <DeleteIcon sx={{ color: 'red', fontSize: '1rem' }} />
               </IconButton>
             </ListItem>
           ))}
@@ -80,10 +89,10 @@ function Cart() {
       <Divider />
       <Box sx={{ padding: 2 }}>
         <Typography variant="h6" sx={{ textAlign: 'center', fontWeight: 'bold', color: '#FFFFFF' }}>
-          Total: {total.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}
+          Total: {calculateTotal().toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}
         </Typography>
         <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'center', mt: 2 }}>
-          <Button variant="contained" color="secondary" sx={{ mb: 1, width: '100%' }} onClick={() => alert('Compra finalizada!')}>
+          <Button variant="contained" color="secondary" sx={{ mb: 1, width: '100%' }} onClick={handleCheckout}>
             Finalizar compra
           </Button>
           <Button variant="contained" color="error" sx={{ width: '100%' }} onClick={clearCart}>
@@ -93,6 +102,6 @@ function Cart() {
       </Box>
     </Drawer>
   );
-}
+};
 
 export default Cart;
