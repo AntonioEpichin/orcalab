@@ -1,16 +1,9 @@
-import { SessionProvider } from 'next-auth/react';
-import { ReactNode } from 'react';
+import { SessionProvider } from "next-auth/react";
 
-interface Props {
-  children: ReactNode;
-}
-
-const SessionProviderWrapper = ({ children }: Props) => {
+export default function SessionProviderWrapper({ children }) {
   return (
     <SessionProvider>
       {children}
     </SessionProvider>
   );
-};
-
-export default SessionProviderWrapper;
+}

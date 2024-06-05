@@ -1,10 +1,8 @@
-
 import * as React from 'react';
 import { Avatar, Button, CssBaseline, TextField, Link, Grid, Box, Typography, Container } from '@mui/material';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import LockOutlinedIcon from '@mui/icons-material/LockOutlined';
 import { useSession, signOut } from 'next-auth/react';
-import dynamic from "next/dynamic";
 import login from "@/app/(auth)/login/_actions/login";
 
 const defaultTheme = createTheme({
@@ -16,15 +14,28 @@ const defaultTheme = createTheme({
   }
 });
 
-function SignIn() {
-  const { data: session, status } = useSession();
+function SignIn({ session }) {
+  const { status } = useSession();
+  const [loading, setLoading] = React.useState(true);
+
+  React.useEffect(() => {
+    if (status === 'loading') {
+      setLoading(true);
+    } else {
+      setLoading(false);
+    }
+  }, [status]);
 
   const handleLogout = async () => {
     await signOut({ redirect: false });
     window.location.href = '/login';
   };
 
-  if (status === 'authenticated') {
+  if (loading) {
+    return <div>Loading...</div>;
+  }
+
+  if (status === 'authenticated' || session) {
     return (
       <ThemeProvider theme={defaultTheme}>
         <Container component="main" maxWidth="xs">
@@ -41,7 +52,7 @@ function SignIn() {
               <LockOutlinedIcon />
             </Avatar>
             <Typography component="h1" variant="h5">
-              Você já está logado {session.user.name}
+              Você já está logado
             </Typography>
             <Button
               onClick={handleLogout}
@@ -123,4 +134,4 @@ function SignIn() {
   );
 }
 
-export default dynamic(() => Promise.resolve(SignIn), { ssr: false });
+export default SignIn;

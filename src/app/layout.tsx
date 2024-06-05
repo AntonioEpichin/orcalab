@@ -12,7 +12,6 @@ import { SpeedInsights } from "@vercel/speed-insights/next"
 import { SearchProvider } from '../context/SearchContext';
 import SessionProviderWrapper from "@/context/SessionProviderWrapper";
 
-
 export default function RootLayout({ children }) {
   return (
     <SessionProviderWrapper>
