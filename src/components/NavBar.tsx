@@ -15,7 +15,6 @@ import Link from 'next/link';
 import { SvgIcon } from '@mui/material';
 import { useSearch } from '../context/SearchContext';
 
-
 const drawerWidth = 350;
 
 interface AppBarProps extends MuiAppBarProps {
@@ -48,10 +47,9 @@ export default function NavBar() {
     setSearchTerm(e.target.value);
   };
 
-
   return (
     <Box sx={{ flexGrow: 1 }}>
-      <AppBar position="fixed" open={isCartOpen} sx={{ backgroundColor: theme.palette.success.main }}>
+      <AppBar position="fixed" open={isCartOpen} sx={{ backgroundColor: '#006A39' }}>
         <Toolbar sx={{ justifyContent: 'flex-end' }}>
           <Box sx={{
             position: 'relative',

@@ -43,7 +43,7 @@ const Cart = () => {
         flexShrink: 0,
         '& .MuiDrawer-paper': {
           width: drawerWidth,
-          backgroundColor: theme.palette.success.main,
+          backgroundColor: '#006A39',
           color: '#FFFFFF',
           height: '100vh',
           position: 'fixed',
@@ -93,7 +93,7 @@ const Cart = () => {
         </Typography>
         <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'center', mt: 2 }}>
           <Button variant="contained" color="secondary" sx={{ mb: 1, width: '100%' }} onClick={handleCheckout}>
-            Finalizar compra
+            Finalizar orçamento
           </Button>
           <Button variant="contained" color="error" sx={{ width: '100%' }} onClick={clearCart}>
             Limpar carrinho

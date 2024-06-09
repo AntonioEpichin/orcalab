@@ -48,7 +48,7 @@ const LogoSection = () => {
             }}>
 
                 <Box component="img"
-                    src="/images/logo-2.png"
+                    src="/images/logo-cremasco.jpg"
                     alt="Logomarca"
                     sx={{
                         borderRadius: '50%',
@@ -62,7 +62,7 @@ const LogoSection = () => {
                 <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-start', marginLeft: 2, marginTop: 2, }}>
                     <Typography variant="h6" sx={{ fontWeight: 'bold', marginBottom: 1 }}>
                         <Link href= "/" sx={{ textDecoration: 'none', color: 'inherit' }}>    
-                        Logomarca 
+                        Cremasco Medicina Diagnóstica 
                         </Link>
                     </Typography>
                     <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: '-moz-initial' }}>
