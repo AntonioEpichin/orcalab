@@ -25,7 +25,7 @@ export default function Footer() {
             INFORMAÇÕES GERAIS
           </Typography>
           <Typography variant="body2" color="inherit">
-            Aqui vai o texto ou links para informações gerais.
+            AT Solutions
           </Typography>
         </Grid>
         <Grid item xs={12} sm={6} md={4}>
