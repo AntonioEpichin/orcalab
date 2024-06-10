@@ -1,4 +1,3 @@
-// src/components/ExamesTable.tsx
 'use client'
 
 import React, { useState, useEffect } from 'react';
@@ -11,6 +10,8 @@ import { useCart } from '../context/CartContext';
 import { useSearch } from '../context/SearchContext';
 import { useJsonFile } from '../context/JsonFileContext';
 import InputBase from '@mui/material/InputBase';
+import { useSession } from 'next-auth/react';
+import { useRouter } from 'next/navigation';
 
 const defaultTheme = createTheme({
   palette: {
@@ -75,6 +76,8 @@ export default function ExamesTable() {
   const { addItemToCart, isCartOpen } = useCart();
   const { searchTerm, setSearchTerm } = useSearch();
   const { selectedFile } = useJsonFile();
+  const { data: session } = useSession();
+  const router = useRouter();
 
   const handleSearchChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setSearchTerm(e.target.value);
@@ -91,10 +94,19 @@ export default function ExamesTable() {
     setPage(newPage);
   };
 
+  const handleAddToCart = (exame) => {
+    if (!session) {
+      alert('Você precisa estar logado para adicionar exames ao carrinho.');
+      router.push('/login');
+      return;
+    }
+    addItemToCart(exame);
+  };
+
   const filteredExames = exames.filter(exame =>
     exame.nome.toLowerCase().includes(searchTerm.toLowerCase())
   );
-    
+
   const count = Math.ceil(filteredExames.length / itemsPerPage);
   const paginatedExames = filteredExames.slice((page - 1) * itemsPerPage, page * itemsPerPage);
 
@@ -134,7 +146,7 @@ export default function ExamesTable() {
           </Box>
           <List>
             {paginatedExames.map((exame: any) => (
-              <Item key={exame.id} exame={exame} onAdd={addItemToCart} />
+              <Item key={exame.id} exame={exame} onAdd={handleAddToCart} />
             ))}
           </List>
           <Pagination count={count} page={page} onChange={handleChangePage} sx={{ mt: 2, display: 'flex', justifyContent: 'center' }} />
