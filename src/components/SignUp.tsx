@@ -5,8 +5,6 @@ import Avatar from '@mui/material/Avatar';
 import Button from '@mui/material/Button';
 import CssBaseline from '@mui/material/CssBaseline';
 import TextField from '@mui/material/TextField';
-import FormControlLabel from '@mui/material/FormControlLabel';
-import Checkbox from '@mui/material/Checkbox';
 import Link from '@mui/material/Link';
 import Grid from '@mui/material/Grid';
 import Box from '@mui/material/Box';
@@ -17,22 +15,18 @@ import dynamic from "next/dynamic";
 import LockOutlinedIcon from '@mui/icons-material/LockOutlined';
 import register from '@/app/(auth)/signup/_actions/register';
 
-
-
-
 const defaultTheme = createTheme({
   palette: {
     primary: {
-      main: '#418041',  // Cor principal verde escuro
-      light: 'rgba(65, 128, 65, 0.8)',  // Verde claro para efeitos de hover
+      main: '#006A39',
+      light: 'rgba(65, 128, 65, 0.8)',
     }
   }
 });
 
 function SignUp() {
- 
   return (
-    <ThemeProvider theme={defaultTheme} >
+    <ThemeProvider theme={defaultTheme}>
       <Container component="main" maxWidth="sm">
         <CssBaseline />
         <Box
@@ -43,7 +37,7 @@ function SignUp() {
             alignItems: 'center',
           }}
         >
-          <Avatar sx={{ m: 1, bgcolor: '#418041' }}>
+          <Avatar sx={{ m: 1, bgcolor: '#006A39' }}>
             <LockOutlinedIcon />
           </Avatar>
           <Typography component="h1" variant="h5">
@@ -55,7 +49,7 @@ function SignUp() {
                 <TextField
                   required
                   fullWidth
-                  id="nome"
+                  id="name"
                   label="Nome"
                   name="name"
                   autoComplete="name"
@@ -66,20 +60,10 @@ function SignUp() {
                 <TextField
                   required
                   fullWidth
-                  id="dataNascimento"
-                  label="Data de nascimento"
-                  name="dataNascimento"
-                  type="date"
-                  InputLabelProps={{ shrink: true }}
-                />
-              </Grid>
-              <Grid item xs={12}>
-                <TextField
-                  required
-                  fullWidth
-                  id="cpf"
-                  label="CPF"
-                  name="cpf"
+                  id="email"
+                  label="E-mail"
+                  name="email"
+                  autoComplete="email"
                 />
               </Grid>
               <Grid item xs={12}>
@@ -97,35 +81,11 @@ function SignUp() {
                 <TextField
                   required
                   fullWidth
-                  name="confirmPassword"
-                  label="Confirmação de senha"
+                  name="confirm_password"
+                  label="Confirme sua Senha"
                   type="password"
-                  id="confirmPassword"
+                  id="confirm_password"
                   autoComplete="new-password"
-                />
-              </Grid>
-              <Grid item xs={12}>
-                <TextField
-                  fullWidth
-                  id="telefone"
-                  label="Telefone"
-                  name="telefone"
-                  type="tel"
-                />
-              </Grid>
-              <Grid item xs={12}>
-                <TextField
-                  fullWidth
-                  id="email"
-                  label="E-mail"
-                  name="email"
-                  type="email"
-                />
-              </Grid>
-              <Grid item xs={12}>
-                <FormControlLabel
-                  control={<Checkbox value="acceptTerms" color="primary" name="terms" />}
-                  label="Li e aceito os *Termos de Uso"
                 />
               </Grid>
             </Grid>
@@ -133,14 +93,14 @@ function SignUp() {
               type="submit"
               fullWidth
               variant="contained"
-              sx={{ mt: 3, mb: 2}}
+              sx={{ mt: 3, mb: 2 }}
             >
-             Continuar
+              Continuar
             </Button>
             <Grid container justifyContent="center">
               <Grid item>
-              <span>Já tem uma conta? </span> <Link href="/login" variant="body2">
-                Entrar
+                <span>Já tem uma conta? </span> <Link href="/login" variant="body2">
+                  Entrar
                 </Link>
               </Grid>
             </Grid>
@@ -151,4 +111,4 @@ function SignUp() {
   );
 }
 
-export default dynamic(() => Promise.resolve(SignUp), { ssr: false })
+export default dynamic(() => Promise.resolve(SignUp), { ssr: false });

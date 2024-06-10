@@ -80,7 +80,7 @@ export default function NavBar() {
                 },
               }}
             >
-              <MenuItem value="exames.json">Exames</MenuItem>
+              <MenuItem value="exames.json">Particular</MenuItem>
               <MenuItem value="precosEspeciais.json">Preços Especiais</MenuItem>
             </CustomSelect>
           </Paper>
