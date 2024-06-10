@@ -1,3 +1,4 @@
+// src/app/layout.tsx
 'use client'
 
 import "./globals.css";
@@ -10,6 +11,7 @@ import { CartProvider } from "../context/CartContext";
 import React from 'react';
 import { SpeedInsights } from "@vercel/speed-insights/next"
 import { SearchProvider } from '../context/SearchContext';
+import { JsonFileProvider } from '../context/JsonFileContext';
 import SessionProviderWrapper from "@/context/SessionProviderWrapper";
 
 export default function RootLayout({ children }) {
@@ -17,7 +19,9 @@ export default function RootLayout({ children }) {
     <SessionProviderWrapper>
       <CartProvider>
         <SearchProvider>
-          <InnerRootLayout>{children}</InnerRootLayout>
+          <JsonFileProvider>
+            <InnerRootLayout>{children}</InnerRootLayout>
+          </JsonFileProvider>
         </SearchProvider>
       </CartProvider>
     </SessionProviderWrapper>

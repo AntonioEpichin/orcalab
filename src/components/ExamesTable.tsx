@@ -1,3 +1,4 @@
+// src/components/ExamesTable.tsx
 'use client'
 
 import React, { useState, useEffect } from 'react';
@@ -7,7 +8,8 @@ import MonitorHeartIcon from '@mui/icons-material/MonitorHeart';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import { Pagination } from '@mui/material';
 import { useCart } from '../context/CartContext';
-import { useSearch } from '../context/SearchContext'; 
+import { useSearch } from '../context/SearchContext';
+import { useJsonFile } from '../context/JsonFileContext';
 import InputBase from '@mui/material/InputBase';
 
 const defaultTheme = createTheme({
@@ -72,17 +74,18 @@ export default function ExamesTable() {
   const itemsPerPage = 5;
   const { addItemToCart, isCartOpen } = useCart();
   const { searchTerm, setSearchTerm } = useSearch();
+  const { selectedFile } = useJsonFile();
 
   const handleSearchChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setSearchTerm(e.target.value);
   };
 
   useEffect(() => {
-    fetch('/exames.json')
+    fetch(`/${selectedFile}`)
       .then(response => response.json())
       .then(data => setExames(data))
       .catch(error => console.error('Error fetching exams data:', error));
-  }, []);
+  }, [selectedFile]);
 
   const handleChangePage = (event, newPage) => {
     setPage(newPage);

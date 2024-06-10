@@ -8,7 +8,7 @@ import login from "@/app/(auth)/login/_actions/login";
 const defaultTheme = createTheme({
   palette: {
     primary: {
-      main: '#418041',
+      main: '#006A39',
       light: 'rgba(65, 128, 65, 0.8)',
     }
   }
