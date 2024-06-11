@@ -72,7 +72,7 @@ const searchInputStyles = (theme) => ({
 export default function ExamesTable() {
   const [exames, setExames] = useState([]);
   const [page, setPage] = useState(1);
-  const itemsPerPage = 5;
+  const itemsPerPage = 6;
   const { addItemToCart, isCartOpen } = useCart();
   const { searchTerm, setSearchTerm } = useSearch();
   const { selectedFile } = useJsonFile();
