@@ -31,11 +31,12 @@ const CustomSelect = styled(Select)(({ theme }) => ({
 
 export default function NavBar() {
   const theme = useTheme();
-  const { isCartOpen, toggleCart, cartItems } = useCart();
+  const { isCartOpen, toggleCart, cartItems, clearCart } = useCart();
   const { selectedFile, setSelectedFile } = useJsonFile();
 
   const handleFileChange = (event) => {
     setSelectedFile(event.target.value);
+    clearCart(); // Clear the cart when a new file is selected
   };
 
   return (
