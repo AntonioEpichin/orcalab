@@ -13,6 +13,8 @@ import Button from '@mui/material/Button';
 import { useTheme } from '@mui/material/styles';
 import { useCart } from '../context/CartContext';
 import { useRouter } from 'next/navigation';
+import { PDFDocument, rgb, StandardFonts } from 'pdf-lib';
+import { saveAs } from 'file-saver';
 
 interface CartItem {
   id: string;
@@ -28,12 +30,67 @@ const Cart = () => {
   const router = useRouter();
 
   const handleCheckout = () => {
-    toggleCart();
-    router.push('/checkout');
+    generatePDF();
   };
 
   const calculateTotal = () => {
     return cartItems.reduce((sum, item) => sum + item.preço, 0);
+  };
+
+  const generatePDF = async () => {
+    try {
+      // Load the existing PDF template
+      const existingPdfBytes = await fetch('/Timbrado.pdf').then(res => res.arrayBuffer());
+      const pdfDoc = await PDFDocument.load(existingPdfBytes);
+
+      // Embed the font
+      const helveticaFont = await pdfDoc.embedFont(StandardFonts.Helvetica);
+
+      // Get the first page of the template
+      const pages = pdfDoc.getPages();
+      let page = pages[0];
+      let yOffset = page.getHeight() - 150;
+
+      // Add the cart items to the PDF
+      cartItems.forEach(item => {
+        page.drawText(`${item.nome} - ${item.preço.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}`, {
+          x: 50,
+          y: yOffset,
+          size: 12,
+          font: helveticaFont,
+          color: rgb(0, 0, 0),
+        });
+        yOffset -= 20;
+
+        // Check if we need to add a new page
+        if (yOffset < 100) {
+          page = pdfDoc.addPage();
+          yOffset = page.getHeight() - 150;
+        }
+      });
+
+      // Add the total
+      page.drawText(`Total: ${calculateTotal().toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}`, {
+        x: 50,
+        y: yOffset - 30,
+        size: 12,
+        font: helveticaFont,
+        color: rgb(0, 0, 0),
+      });
+
+      // Serialize the PDF to bytes (a Uint8Array)
+      const pdfBytes = await pdfDoc.save();
+
+      // Trigger the download
+      const blob = new Blob([pdfBytes], { type: 'application/pdf' });
+      saveAs(blob, 'orcamento.pdf');
+
+      // Clear the cart
+      clearCart();
+      toggleCart();
+    } catch (error) {
+      console.error('Error generating PDF:', error);
+    }
   };
 
   return (
