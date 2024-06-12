@@ -3,8 +3,9 @@
 import React, { createContext, useState, useContext, ReactNode, useEffect } from 'react';
 
 interface CartItem {
-  nome: string;
   id: string;
+  nome: string;
+  código: string; // Ensure the código property is included
   preço: number;
 }
 

@@ -106,7 +106,7 @@ export default function ExamesTable() {
     addItemToCart({
       id: exame.id,
       nome: exame.nome,
-      código: exame.código,
+      código: exame.código, // Ensure código is added here
       preço: exame.preço
     });
   };
