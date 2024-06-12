@@ -1,3 +1,5 @@
+// component/ExamesTable.tsx
+
 'use client'
 
 import React, { useState, useEffect } from 'react';
@@ -10,7 +12,7 @@ import { useCart } from '../context/CartContext';
 import { useSearch } from '../context/SearchContext';
 import { useJsonFile } from '../context/JsonFileContext';
 import InputBase from '@mui/material/InputBase';
-import { useSession } from 'next-auth/react';
+import { useSession, signIn } from 'next-auth/react';
 import { useRouter } from 'next/navigation';
 
 const defaultTheme = createTheme({
@@ -79,7 +81,7 @@ export default function ExamesTable() {
   const { addItemToCart, isCartOpen } = useCart();
   const { searchTerm, setSearchTerm } = useSearch();
   const { selectedFile } = useJsonFile();
-  const { data: session } = useSession();
+  const { data: session, status } = useSession();
   const router = useRouter();
 
   const handleSearchChange = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -97,16 +99,19 @@ export default function ExamesTable() {
     setPage(newPage);
   };
 
-  const handleAddToCart = (exame) => {
+  const handleAddToCart = async (exame) => {
+    if (status === 'loading') return;
+
     if (!session) {
       alert('Você precisa estar logado para adicionar exames ao carrinho.');
-      router.push('/login');
+      router.push(`/login?callbackUrl=${encodeURIComponent(window.location.pathname)}`);
       return;
     }
+
     addItemToCart({
       id: exame.id,
       nome: exame.nome,
-      código: exame.código, // Ensure código is added here
+      código: exame.código,
       preço: exame.preço
     });
   };
