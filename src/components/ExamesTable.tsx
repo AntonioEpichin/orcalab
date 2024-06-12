@@ -103,7 +103,12 @@ export default function ExamesTable() {
       router.push('/login');
       return;
     }
-    addItemToCart(exame);
+    addItemToCart({
+      id: exame.id,
+      nome: exame.nome,
+      código: exame.código,
+      preço: exame.preço
+    });
   };
 
   const filteredExames = exames.filter(exame =>

@@ -19,7 +19,7 @@ import { saveAs } from 'file-saver';
 interface CartItem {
   id: string;
   nome: string;
-  código: string;  // Add the código property
+  código: string;  // Ensure the código property is included
   preço: number;
 }
 
