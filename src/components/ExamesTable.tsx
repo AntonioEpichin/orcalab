@@ -33,8 +33,11 @@ const Item = ({ exame, onAdd }) => {
         primary={exame.nome}
       />
       <ListItemSecondaryAction>
-        <Box display="flex" alignItems="center">
-          <Typography variant="body1" sx={{ minWidth: '80px', textAlign: 'right', mr: 2 }}>
+        <Box display="flex" alignItems="center" justifyContent="space-between" width="200px">
+          <Typography variant="body1" sx={{ textAlign: 'center', flex: 1 }}>
+            {exame.código}
+          </Typography>
+          <Typography variant="body1" sx={{ textAlign: 'right', flex: 1 }}>
             {formattedPrice}
           </Typography>
           <IconButton edge="end" aria-label="add" onClick={() => onAdd(exame)}>
@@ -113,21 +116,21 @@ export default function ExamesTable() {
   return (
     <ThemeProvider theme={defaultTheme}>
       <Container component="main" maxWidth={false} sx={{ padding: 0 }}>
-        <Paper sx={{ 
-          padding: 2, 
-          borderRadius: '10px', 
-          backgroundColor: '#e0e0e0', 
+        <Paper sx={{
+          padding: 2,
+          borderRadius: '10px',
+          backgroundColor: '#e0e0e0',
           width: `calc(100% - ${isCartOpen ? drawerWidth : 0}px)`,
           transition: 'width 0.3s',
           marginRight: isCartOpen ? `${drawerWidth}px` : 0
         }}>
-          <Box sx={{ 
-            display: 'flex', 
-            alignItems: 'center', 
-            pl: 2, 
-            mb: 2, 
-            backgroundColor: 'primary.main', 
-            borderRadius: '10px' 
+          <Box sx={{
+            display: 'flex',
+            alignItems: 'center',
+            pl: 2,
+            mb: 2,
+            backgroundColor: 'primary.main',
+            borderRadius: '10px'
           }}>
             <Avatar sx={{ m: 1, bgcolor: 'primary.main' }}>
               <MonitorHeartIcon fontSize='large' />

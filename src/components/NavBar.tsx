@@ -81,8 +81,8 @@ export default function NavBar() {
                 },
               }}
             >
-              <MenuItem value="exames.json">Particular</MenuItem>
-              <MenuItem value="precosEspeciais.json">Preços Especiais</MenuItem>
+              <MenuItem value="tabelas/balcão/particularCremasco.json">Particular</MenuItem>
+              <MenuItem value="tabelas/balcão/precosEspeciais.json">Preços Especiais</MenuItem>
             </CustomSelect>
           </Paper>
           <Box sx={{ display: 'flex', alignItems: 'center', ml: 2 }}>

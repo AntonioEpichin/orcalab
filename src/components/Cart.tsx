@@ -19,6 +19,7 @@ import { saveAs } from 'file-saver';
 interface CartItem {
   id: string;
   nome: string;
+  código: string;  // Add the código property
   preço: number;
 }
 
@@ -53,7 +54,7 @@ const Cart = () => {
 
       // Add the cart items to the PDF
       cartItems.forEach(item => {
-        page.drawText(`${item.nome} - ${item.preço.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}`, {
+        page.drawText(`${item.nome} (cód: ${item.código}) - ${item.preço.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}`, {
           x: 50,
           y: yOffset,
           size: 12,
@@ -134,7 +135,7 @@ const Cart = () => {
             <ListItem key={index} sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
               <ListItemText 
                 primaryTypographyProps={{ color: '#FFFFFF', variant: 'body2' }}
-                primary={`${item.nome} - ${item.preço.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}`} 
+                primary={`${item.nome} (cód: ${item.código}) - ${item.preço.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}`} 
               />
               <IconButton edge="end" aria-label="delete" onClick={() => removeItemFromCart(item)} size="small">
                 <DeleteIcon sx={{ color: 'red', fontSize: '1rem' }} />
