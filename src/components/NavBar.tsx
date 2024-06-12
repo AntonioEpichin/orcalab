@@ -1,9 +1,11 @@
+// components/NavBar.tsx
+
 'use client';
 
-import React, { useState, SyntheticEvent } from 'react';
+import React, { useState, useEffect } from 'react';
 import { styled, useTheme } from '@mui/material/styles';
 import Box from '@mui/material/Box';
-import MuiAppBar from '@mui/material/AppBar';
+import AppBar from '@mui/material/AppBar';
 import Toolbar from '@mui/material/Toolbar';
 import IconButton from '@mui/material/IconButton';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
@@ -16,7 +18,7 @@ import { useJsonFile } from '../context/JsonFileContext';
 
 const drawerWidth = 350;
 
-const AppBar = styled(MuiAppBar)(({ theme }) => ({
+const CustomAppBar = styled(AppBar)(({ theme }) => ({
   transition: theme.transitions.create(['margin', 'width'], {
     easing: theme.transitions.easing.sharp,
     duration: theme.transitions.duration.leavingScreen,
@@ -25,14 +27,14 @@ const AppBar = styled(MuiAppBar)(({ theme }) => ({
 
 const CustomAutocomplete = styled(Autocomplete)(({ theme }) => ({
   '& .MuiAutocomplete-inputRoot': {
-    fontWeight: 'bold',  // Make the selected item bold
-    padding: '2px 4px',  // Adjust padding for smaller size
-    color: 'gray',  // Change text color
+    fontWeight: 'bold',
+    padding: '1px 2px',
+    color: 'gray',
   },
   '& .MuiAutocomplete-input': {
-    whiteSpace: 'nowrap',  // Prevent text from wrapping
-    overflow: 'hidden',  // Hide overflow text
-    textOverflow: 'ellipsis',  // Display ellipsis for overflow text
+    whiteSpace: 'nowrap',
+    overflow: 'hidden',
+    textOverflow: 'ellipsis',
   },
 }));
 
@@ -41,34 +43,40 @@ type TableOption = {
   value: string;
 };
 
-const tableOptions: TableOption[] = [
-  { label: 'PARTICULAR CREMASCO', value: 'tabelas/balcão/PARTICULAR CREMASCO.json' },
-  { label: 'INTERMEDICINA', value: 'tabelas/balcão/INTERMEDICINA.json' },
-  { label: 'PRECOS ESPECIAIS CREMASCO', value: 'tabelas/balcão/PRECOS ESPECIAIS CREMASCO.json' },
-  { label: 'MDG BENEFICIOS', value: 'tabelas/balcão/MDG BENEFICIOS.json' },
-  { label: 'YOU SAUDE - ANALISES CLINICAS', value: 'tabelas/faturado/YOU SAUDE - ANALISES CLINICAS.json' },
-  // Add more table options as needed
-];
-
 export default function NavBar() {
   const theme = useTheme();
   const { isCartOpen, toggleCart, cartItems, clearCart } = useCart();
   const { selectedFile, setSelectedFile } = useJsonFile();
   const [inputValue, setInputValue] = useState('');
+  const [tableOptions, setTableOptions] = useState<TableOption[]>([]);
+
+  useEffect(() => {
+    const fetchTableOptions = async () => {
+      try {
+        const response = await fetch('/api/tables');
+        const data: TableOption[] = await response.json();
+        setTableOptions(data);
+      } catch (error) {
+        console.error('Failed to fetch table options', error);
+      }
+    };
+
+    fetchTableOptions();
+  }, []);
 
   const handleFileChange = (
-    event: SyntheticEvent<Element, Event>,
+    event: React.SyntheticEvent<Element, Event>,
     newValue: TableOption | null
   ) => {
     if (newValue) {
       setSelectedFile(newValue.value);
-      clearCart(); // Clear the cart when a new file is selected
+      clearCart();
     }
   };
 
   return (
     <Box sx={{ flexGrow: 1 }}>
-      <AppBar
+      <CustomAppBar
         position="fixed"
         sx={{
           backgroundColor: '#006A39',
@@ -93,7 +101,7 @@ export default function NavBar() {
               color: theme.palette.text.primary,
               boxShadow: 'none',
               border: 'none',
-              minWidth: '361px',  // Adjust minimum width for more space
+              minWidth: '361px',
             }}
           >
             <CustomAutocomplete
@@ -106,7 +114,7 @@ export default function NavBar() {
               renderInput={(params: AutocompleteRenderInputParams) => (
                 <TextField
                   {...params}
-                  placeholder="Select a table"
+                  placeholder="Selecione uma tabela"
                   sx={{
                     '& .MuiOutlinedInput-input': {
                       padding: theme.spacing(0.5, 1),
@@ -119,7 +127,7 @@ export default function NavBar() {
               )}
               sx={{
                 width: '100%',
-                maxWidth: '361px',  // Adjust maximum width for more space
+                maxWidth: '361px',
                 color: 'gray',
                 '& .MuiAutocomplete-option': {
                   display: 'block',
@@ -148,7 +156,7 @@ export default function NavBar() {
             </Link>
           </Box>
         </Toolbar>
-      </AppBar>
+      </CustomAppBar>
     </Box>
   );
 }
