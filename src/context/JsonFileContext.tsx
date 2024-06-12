@@ -9,7 +9,7 @@ interface JsonFileContextType {
 const JsonFileContext = createContext<JsonFileContextType | undefined>(undefined);
 
 export const JsonFileProvider = ({ children }: { children: ReactNode }) => {
-  const [selectedFile, setSelectedFile] = useState<string>('tabelas/balcão/particularCremasco.json');
+  const [selectedFile, setSelectedFile] = useState<string>('tabelas/balcão/PARTICULAR CREMASCO.json');
 
   return (
     <JsonFileContext.Provider value={{ selectedFile, setSelectedFile }}>

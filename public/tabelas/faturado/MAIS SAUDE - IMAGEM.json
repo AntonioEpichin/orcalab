@@ -1,0 +1,626 @@
+[
+    {
+        "id": 819,
+        "nome": "PUNCAO ASPIRATIVA POR AGULHA FINA GUIADA POR ULTRASSOM",
+        "preço": 0,
+        "código": 40601072
+    },
+    {
+        "id": 990,
+        "nome": "US - GLANDULAS SALIVARES (TODAS)",
+        "preço": 0,
+        "código": 40901033
+    },
+    {
+        "id": 996,
+        "nome": "ECODOPPLERCARDIOGRAMA TRANSTORACICO",
+        "preço": 0,
+        "código": 40901106
+    },
+    {
+        "id": 997,
+        "nome": "US - MAMAS FEMININA",
+        "preço": 0,
+        "código": 40901114
+    },
+    {
+        "id": 998,
+        "nome": "US - ABDOME TOTAL (ABDOME SUPERIOR, RINS, BEXIGA, AORTA, VEIA CAVA INF",
+        "preço": 0,
+        "código": 40901122
+    },
+    {
+        "id": 999,
+        "nome": "US - ABDOME SUPERIOR (FIGADO, VIAS BILIARES, VESICULA, PANCREAS E BACO",
+        "preço": 0,
+        "código": 40901130
+    },
+    {
+        "id": 1000,
+        "nome": "US - APARELHO URINARIO FEMININO (RINS, URETERES E BEXIGA)",
+        "preço": 0,
+        "código": 40901157
+    },
+    {
+        "id": 1001,
+        "nome": "US - APARELHO URINARIO MASCULINO (RINS, URETERES E BEXIGA)",
+        "preço": 0,
+        "código": 40901165
+    },
+    {
+        "id": 1002,
+        "nome": "US - ABDOME INFERIOR MASCULINO (BEXIGA, PROSTATA E VESICULAS SEMINAIS)",
+        "preço": 0,
+        "código": 40901173
+    },
+    {
+        "id": 1003,
+        "nome": "US - ABDOME INFERIOR FEMININO (BEXIGA, UTERO, OVARIO E ANEXOS)",
+        "preço": 0,
+        "código": 40901181
+    },
+    {
+        "id": 1004,
+        "nome": "US - DERMATOLOGICO - PELE E SUBCUTANEO",
+        "preço": 0,
+        "código": 40901190
+    },
+    {
+        "id": 1005,
+        "nome": "US - ORGAOS SUPERFICIAIS (ESCROTO)",
+        "preço": 0,
+        "código": 40901203
+    },
+    {
+        "id": 1006,
+        "nome": "US - ORGAOS SUPERFICIAIS (PENIS)",
+        "preço": 0,
+        "código": 40901203
+    },
+    {
+        "id": 1008,
+        "nome": "US - ESTRUTURAS SUPERFICIAIS (CERVICAL)",
+        "preço": 0,
+        "código": 40901211
+    },
+    {
+        "id": 1009,
+        "nome": "US - ESTRUTURAS SUPERFICIAIS (AXILAS)",
+        "preço": 0,
+        "código": 40901211
+    },
+    {
+        "id": 1010,
+        "nome": "US - ARTICULAR (POR ARTICULACAO)",
+        "preço": 0,
+        "código": 40901220
+    },
+    {
+        "id": 1011,
+        "nome": "US - OBSTETRICA",
+        "preço": 0,
+        "código": 40901238
+    },
+    {
+        "id": 1012,
+        "nome": "US - OBSTETRICA COM DOPPLER COLORIDO",
+        "preço": 0,
+        "código": 40901246
+    },
+    {
+        "id": 1013,
+        "nome": "US - OBSTETRICA COM TRANSLUCENCIA NUCAL",
+        "preço": 0,
+        "código": 40901254
+    },
+    {
+        "id": 1014,
+        "nome": "US - OBSTETRICA GESTACAO MULTIPLA: CADA FETO",
+        "preço": 0,
+        "código": 40901270
+    },
+    {
+        "id": 1015,
+        "nome": "US - OBSTETRICA GESTACAO MULTIPLA COM DOPPLER COLORIDO: CADA FETO",
+        "preço": 0,
+        "código": 40901289
+    },
+    {
+        "id": 1016,
+        "nome": "US - OBSTETRICA 1º TRIMESTRE (ENDOVAGINAL)",
+        "preço": 0,
+        "código": 40901297
+    },
+    {
+        "id": 1017,
+        "nome": "US - TRANSVAGINAL (UTERO, OVARIO, ANEXOS E VAGINA)",
+        "preço": 0,
+        "código": 40901300
+    },
+    {
+        "id": 1018,
+        "nome": "US - TRANSVAGINAL PARA CONTROLE DE OVULACAO (3 OU MAIS EXAMES)",
+        "preço": 0,
+        "código": 40901319
+    },
+    {
+        "id": 1019,
+        "nome": "US - PROSTATA (VIA ABDOMINAL)",
+        "preço": 0,
+        "código": 40901750
+    },
+    {
+        "id": 1021,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": 40901386
+    },
+    {
+        "id": 1023,
+        "nome": "DOPPLER COLORIDO DE AORTA E ILIACAS",
+        "preço": 0,
+        "código": 40901408
+    },
+    {
+        "id": 1024,
+        "nome": "DOPPLER COLORIDO DE ARTERIAS VISCERAIS",
+        "preço": 0,
+        "código": 40901416
+    },
+    {
+        "id": 1026,
+        "nome": "DOPPLER COLORIDO DE VEIA CAVA SUPERIOR OU INFERIOR",
+        "preço": 0,
+        "código": 40901432
+    },
+    {
+        "id": 1029,
+        "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO SUPERIOR - UNILATERAL",
+        "preço": 0,
+        "código": 40901467
+    },
+    {
+        "id": 1030,
+        "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO INFERIOR - UNILATERAL",
+        "preço": 0,
+        "código": 40901475
+    },
+    {
+        "id": 1031,
+        "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO INFERIOR - UNILATERAL",
+        "preço": 0,
+        "código": 40901483
+    },
+    {
+        "id": 1110,
+        "nome": "US - ARTICULAR (POR ARTICULACAO)",
+        "preço": 0,
+        "código": 40901220
+    },
+    {
+        "id": 1111,
+        "nome": "US - ARTICULAR (POR ARTICULACAO)",
+        "preço": 0,
+        "código": 40901220
+    },
+    {
+        "id": 1112,
+        "nome": "US - ARTICULAR (POR ARTICULACAO)",
+        "preço": 0,
+        "código": 40901220
+    },
+    {
+        "id": 1113,
+        "nome": "US - ARTICULAR (POR ARTICULACAO)",
+        "preço": 0,
+        "código": 40901220
+    },
+    {
+        "id": 1178,
+        "nome": "US - OBSTETRICA MORFOLOGICA - COM DOPPLER",
+        "preço": 0,
+        "código": 40901262
+    },
+    {
+        "id": 1179,
+        "nome": "US - OBSTETRICA MORFOLOGICA",
+        "preço": 0,
+        "código": 40901262
+    },
+    {
+        "id": 1181,
+        "nome": "US - TRANSVAGINAL - COM DOPPLER",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1184,
+        "nome": "US - OBSTETRICA MORFOLOGICA ",
+        "preço": 0,
+        "código": 40901262
+    },
+    {
+        "id": 1208,
+        "nome": "US - ORGAOS SUPERFICIAIS (TIREOIDE) - COM DOPPLER",
+        "preço": 0,
+        "código": 40901262
+    },
+    {
+        "id": 1243,
+        "nome": "US - ESTRUTURAS SUPERFICIAIS (PAREDE ABDOMINAL)",
+        "preço": 0,
+        "código": 40901130
+    },
+    {
+        "id": 1316,
+        "nome": "US - PROSTATA TRANSRETAL (NAO INCLUI ABDOME INFERIOR MASCULINO)",
+        "preço": 0,
+        "código": 40901335
+    },
+    {
+        "id": 1320,
+        "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO INFERIOR - UNILATERAL",
+        "preço": 0,
+        "código": 40901483
+    },
+    {
+        "id": 1371,
+        "nome": "MAMOGRAFIA DIGITAL BILATERAL",
+        "preço": 0,
+        "código": 40808041
+    },
+    {
+        "id": 1388,
+        "nome": "RX - TORAX - 2 INCIDENCIAS ",
+        "preço": 0,
+        "código": 40805026
+    },
+    {
+        "id": 1400,
+        "nome": "US - OBSTETRICA COM TRANSLUCENCIA NUCAL - COM DOPPLER",
+        "preço": 0,
+        "código": 40901254
+    },
+    {
+        "id": 1404,
+        "nome": "US - RETROPERITONEO (GRANDES VASOS OU ADRENAIS) ",
+        "preço": 0,
+        "código": 40901238
+    },
+    {
+        "id": 1421,
+        "nome": "US - OBSTETRICA COM DOPPLER COLORIDO",
+        "preço": 0,
+        "código": 40901246
+    },
+    {
+        "id": 1423,
+        "nome": "US - MAMAS MASCULINA",
+        "preço": 0,
+        "código": 40901114
+    },
+    {
+        "id": 1428,
+        "nome": "DOPPLER COLORIDO TRANSFONTANELA",
+        "preço": 0,
+        "código": 40901351
+    },
+    {
+        "id": 1445,
+        "nome": "US - ARTICULAR (POR ARTICULACAO) - COM DOPPLER",
+        "preço": 0,
+        "código": 40901220
+    },
+    {
+        "id": 1457,
+        "nome": "US - ARTICULAR (POR ARTICULACAO)",
+        "preço": 0,
+        "código": 40901220
+    },
+    {
+        "id": 1458,
+        "nome": "US - ARTICULAR (POR ARTICULACAO)",
+        "preço": 0,
+        "código": 40901220
+    },
+    {
+        "id": 1459,
+        "nome": "US - ARTICULAR (POR ARTICULACAO)",
+        "preço": 0,
+        "código": 40901220
+    },
+    {
+        "id": 1465,
+        "nome": "US - ORGAOS SUPERFICIAIS (TIREOIDE)",
+        "preço": 0,
+        "código": 40901203
+    },
+    {
+        "id": 1466,
+        "nome": "PUNCAO OU BIOPSIA MAMARIA PERCUTANEA POR AGULHA FINA ORIENTADA POR US ",
+        "preço": 0,
+        "código": 40808084
+    },
+    {
+        "id": 1469,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": 40901386
+    },
+    {
+        "id": 1473,
+        "nome": "DENSITOMETRIA OSSEA (1 SEGMENTO)",
+        "preço": 0,
+        "código": 40808122
+    },
+    {
+        "id": 1474,
+        "nome": "ELETROCARDIOGRAMA (ECG)",
+        "preço": 0,
+        "código": 40101010
+    },
+    {
+        "id": 1479,
+        "nome": "US - ESTRUTURAS SUPERFICIAIS (MUSCULO)",
+        "preço": 0,
+        "código": 40901211
+    },
+    {
+        "id": 1483,
+        "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL",
+        "preço": 0,
+        "código": 40808033
+    },
+    {
+        "id": 1490,
+        "nome": "RX - BACIA",
+        "preço": 0,
+        "código": 40804011
+    },
+    {
+        "id": 1508,
+        "nome": "01 FAT PUNCAO ASPIRATIVA POR AGULHA FINA GUIADA POR ULTRASSOM",
+        "preço": 0,
+        "código": 40601072
+    },
+    {
+        "id": 1518,
+        "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR (OU DOIS SEGMENTOS)",
+        "preço": 0,
+        "código": 40808130
+    },
+    {
+        "id": 1548,
+        "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
+        "preço": 0,
+        "código": 41001125
+    },
+    {
+        "id": 1555,
+        "nome": "TC - TORAX",
+        "preço": 0,
+        "código": 41001079
+    },
+    {
+        "id": 1559,
+        "nome": "BIOPSIA PERCUTANEA DE FRAGMENTO MAMARIO POR AGULHA GROSSA (CORE BIOPSY",
+        "preço": 0,
+        "código": 40808092
+    },
+    {
+        "id": 1583,
+        "nome": "US - ABDOME INFERIOR FEMININO - UNIMED",
+        "preço": 0,
+        "código": 40901181
+    },
+    {
+        "id": 1613,
+        "nome": "US - ABDOME SUPERIOR - COM DOPPLER",
+        "preço": 0,
+        "código": 40901130
+    },
+    {
+        "id": 1633,
+        "nome": "US - ARTICULAR (POR ARTICULACAO) - COM DOPPLER",
+        "preço": 0,
+        "código": 40901220
+    },
+    {
+        "id": 1634,
+        "nome": "US - ARTICULAR (POR ARTICULACAO) - COM DOPPLER",
+        "preço": 0,
+        "código": 40901220
+    },
+    {
+        "id": 1635,
+        "nome": "US - ARTICULAR (POR ARTICULACAO) - COM DOPPLER",
+        "preço": 0,
+        "código": 40901220
+    },
+    {
+        "id": 1637,
+        "nome": "RX - ARTICULACAO TIBIOTARSICA (TORNOZELO)",
+        "preço": 0,
+        "código": 40804089
+    },
+    {
+        "id": 1651,
+        "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
+        "preço": 0,
+        "código": 41001125
+    },
+    {
+        "id": 1670,
+        "nome": "US - ORGAOS SUPERFICIAIS (ESCROTO) - COM DOPPLER ",
+        "preço": 0,
+        "código": 40901203
+    },
+    {
+        "id": 1673,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": 40901386
+    },
+    {
+        "id": 1703,
+        "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
+        "preço": 0,
+        "código": 41001125
+    },
+    {
+        "id": 1706,
+        "nome": "US - OBSTETRICA GESTACAO MULTIPLA COM DOPPLER COLORIDO: CADA FETO",
+        "preço": 0,
+        "código": 40901289
+    },
+    {
+        "id": 1713,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": 40901386
+    },
+    {
+        "id": 1728,
+        "nome": "MONITORACAO AMBULATORIAL DA PRESSAO ARTERIAL - MAPA (MAPA 24 HORAS)",
+        "preço": 0,
+        "código": 20102038
+    },
+    {
+        "id": 1729,
+        "nome": "HOLTER DE 24 HORAS - 3 CANAIS - DIGITAL",
+        "preço": 0,
+        "código": 20102011
+    },
+    {
+        "id": 1730,
+        "nome": "US - ORGAOS SUPERFICIAIS (CRANIO)",
+        "preço": 0,
+        "código": 40901203
+    },
+    {
+        "id": 1732,
+        "nome": "US - ESTRUTURAS SUPERFICIAIS (TENDAO)",
+        "preço": 0,
+        "código": 40901211
+    },
+    {
+        "id": 1741,
+        "nome": "US - ESTRUTURAS SUPERFICIAIS (TENDAO) - UNIMED",
+        "preço": 0,
+        "código": 40901211
+    },
+    {
+        "id": 1742,
+        "nome": "US - MAMAS FEMININA - UNIMED",
+        "preço": 0,
+        "código": 40901114
+    },
+    {
+        "id": 1743,
+        "nome": "US - ORGAOS SUPERFICIAIS (PENIS) - UNIMED",
+        "preço": 0,
+        "código": 40901203
+    },
+    {
+        "id": 1744,
+        "nome": "US - ORGAOS SUPERFICIAIS (ESCROTO) - UNIMED",
+        "preço": 0,
+        "código": 40901203
+    },
+    {
+        "id": 1745,
+        "nome": "US - ORGAOS SUPERFICIAIS (TIREOIDE) - UNIMED",
+        "preço": 0,
+        "código": 40901203
+    },
+    {
+        "id": 1746,
+        "nome": "US - ORGAOS SUPERFICIAIS (TIREOIDE) - COM DOPPLER - UNIMED",
+        "preço": 0,
+        "código": 40901262
+    },
+    {
+        "id": 1758,
+        "nome": "US - ESTRUTURAS SUPERFICIAIS (TENDAO) - COM DOPPLER ",
+        "preço": 0,
+        "código": 40901211
+    },
+    {
+        "id": 1761,
+        "nome": "DOPPLER CONVENCIONAL DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": 40901386
+    },
+    {
+        "id": 1762,
+        "nome": "DOPPLER CONVENCIONAL DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": 40901386
+    },
+    {
+        "id": 1763,
+        "nome": "DOPPLER COLORIDO DE VASOS CERVICAIS ARTERIAIS (CAROTIDAS E VERTEBRAIS)",
+        "preço": 0,
+        "código": 40901360
+    },
+    {
+        "id": 1770,
+        "nome": "US - ESTRUTURAS SUPERFICIAIS (MUSCULO)",
+        "preço": 0,
+        "código": 40901211
+    },
+    {
+        "id": 1786,
+        "nome": "US - ESTRUTURAS SUPERFICIAIS (TENDAO)",
+        "preço": 0,
+        "código": 40901211
+    },
+    {
+        "id": 1848,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": 40901386
+    },
+    {
+        "id": 1849,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": 40901386
+    },
+    {
+        "id": 1850,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": 40901386
+    },
+    {
+        "id": 1851,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": 40901386
+    },
+    {
+        "id": 1889,
+        "nome": "US - OBSTETRICA COM TRANSLUCENCIA NUCAL - COM DOPPLER",
+        "preço": 0,
+        "código": 40901254
+    },
+    {
+        "id": 1948,
+        "nome": "US - OBSTETRICA COM TRANSLUCENCIA NUCAL",
+        "preço": 0,
+        "código": 40901254
+    },
+    {
+        "id": 1964,
+        "nome": "US - OBSTETRICA",
+        "preço": 0,
+        "código": 40901238
+    },
+    {
+        "id": 2063,
+        "nome": "US - ESTRUTURAS SUPERFICIAIS (AXILAS)",
+        "preço": 0,
+        "código": 40901211
+    }
+]

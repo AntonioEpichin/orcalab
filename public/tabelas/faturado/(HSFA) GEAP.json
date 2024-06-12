@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1549,
+        "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
+        "preço": 0,
+        "código": 41001010
+    },
+    {
+        "id": 1554,
+        "nome": "TC - PESCOCO (PARTES MOLES, LARINGE, TIREOIDE, FARINGE E GLADULAS SALI",
+        "preço": 0,
+        "código": 41001060
+    },
+    {
+        "id": 1555,
+        "nome": "TC - TORAX",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1719,
+        "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
+        "preço": 0,
+        "código": 41001010
+    }
+]

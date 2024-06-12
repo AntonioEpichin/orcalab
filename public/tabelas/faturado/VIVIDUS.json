@@ -1,0 +1,128 @@
+[
+    {
+        "id": 29,
+        "nome": "TSH - HORMONIO TIREOESTIMULANTE ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 180,
+        "nome": "UREIA - POS HEMODIALISE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 183,
+        "nome": "GLICOSE - 2 HORAS POS PRANDIAL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 536,
+        "nome": "HEMOGRAMA COMPLETO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 539,
+        "nome": "COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 40601323
+    },
+    {
+        "id": 559,
+        "nome": "COLESTEROL (VLDL)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 568,
+        "nome": "TRIGLICERIDEOS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 576,
+        "nome": "COLESTEROL (LDL)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 578,
+        "nome": "GLICOSE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 580,
+        "nome": "COLESTEROL (HDL) ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 592,
+        "nome": "CREATININA ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 593,
+        "nome": "COLESTEROL TOTAL ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 872,
+        "nome": "1 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 40601323
+    },
+    {
+        "id": 1791,
+        "nome": "ROTINA ANUAL DA MULHER",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1792,
+        "nome": "ROTINA ANUAL DO HOMEM",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1793,
+        "nome": "ROTINA ANUAL DA CRIANCA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1794,
+        "nome": "ROTINA ANUAL ADICIONAL PARA O CASO DE DIABETES",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1795,
+        "nome": "ROTINA GESTANTE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1796,
+        "nome": "ROTINA ANUAL IDOSO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 2009,
+        "nome": "CREATININA POS DIALISE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 2010,
+        "nome": "GLICOSE POS DIALISE",
+        "preço": 0,
+        "código": null
+    }
+]

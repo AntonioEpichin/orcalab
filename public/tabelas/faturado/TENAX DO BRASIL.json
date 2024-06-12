@@ -1,0 +1,32 @@
+[
+    {
+        "id": 4,
+        "nome": "FERRITINA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 118,
+        "nome": "PROTEINA C REATIVA, QUANTITATIVA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 495,
+        "nome": "DIMERO D",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 536,
+        "nome": "HEMOGRAMA COMPLETO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1399,
+        "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR",
+        "preço": 0,
+        "código": null
+    }
+]

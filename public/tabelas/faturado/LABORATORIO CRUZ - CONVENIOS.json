@@ -1,0 +1,92 @@
+[
+    {
+        "id": 470,
+        "nome": "1 HISTOPATOLOGICO ",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 472,
+        "nome": "1 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 477,
+        "nome": "1 COLORACAO ESPECIAL POR COLORACAO",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 539,
+        "nome": "COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 40601137
+    },
+    {
+        "id": 749,
+        "nome": "1 FAT PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
+        "preço": 0,
+        "código": 40601196
+    },
+    {
+        "id": 751,
+        "nome": "1 FAT PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 40601196
+    },
+    {
+        "id": 764,
+        "nome": "REVISAO DE COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 40601137
+    },
+    {
+        "id": 780,
+        "nome": "1 FAT HISTOPATOLOGICO",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 876,
+        "nome": "1 PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
+        "preço": 0,
+        "código": 40601196
+    },
+    {
+        "id": 1170,
+        "nome": "2 COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 40601137
+    },
+    {
+        "id": 1247,
+        "nome": "8 FAT PD EM FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
+        "preço": 0,
+        "código": 40601196
+    },
+    {
+        "id": 1433,
+        "nome": "1 HISTOPATOLOGICO - RETIFICACAO",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1434,
+        "nome": "2 HISTOPATOLOGICO - RETIFICACAO",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1767,
+        "nome": "9 FAT PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
+        "preço": 0,
+        "código": 40601196
+    },
+    {
+        "id": 1768,
+        "nome": "10 FAT PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
+        "preço": 0,
+        "código": 40601196
+    }
+]

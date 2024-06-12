@@ -1,0 +1,458 @@
+[
+    {
+        "id": 469,
+        "nome": "IGE ESPECIFICO - LARANJA (F33)",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 470,
+        "nome": "1 HISTOPATOLOGICO ",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 472,
+        "nome": "1 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 40601200
+    },
+    {
+        "id": 473,
+        "nome": "1 PD EM PECA CIRURGICA OU ANATOMICA COMPLEXA",
+        "preço": 0,
+        "código": 40601218
+    },
+    {
+        "id": 474,
+        "nome": "1 PD CITOPATOLOGICO ONCOT. LIQ. E RASP. CUTANEOS",
+        "preço": 0,
+        "código": 40601129
+    },
+    {
+        "id": 477,
+        "nome": "1 COLORACAO ESPECIAL POR COLORACAO",
+        "preço": 0,
+        "código": 40601269
+    },
+    {
+        "id": 539,
+        "nome": "COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 40601137
+    },
+    {
+        "id": 717,
+        "nome": "5 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 751,
+        "nome": "1 FAT PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 40601200
+    },
+    {
+        "id": 752,
+        "nome": "1 FAT PD EM PECA CIRURGICA OU ANATOMICA COMPLEXA",
+        "preço": 0,
+        "código": 40601200
+    },
+    {
+        "id": 754,
+        "nome": "4 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 40601030
+    },
+    {
+        "id": 755,
+        "nome": "6 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 40601030
+    },
+    {
+        "id": 756,
+        "nome": "7 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 40601030
+    },
+    {
+        "id": 758,
+        "nome": "1 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 40601030
+    },
+    {
+        "id": 759,
+        "nome": "2 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 40601030
+    },
+    {
+        "id": 760,
+        "nome": "3 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 40601030
+    },
+    {
+        "id": 761,
+        "nome": "5 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 40601030
+    },
+    {
+        "id": 762,
+        "nome": "8 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 40601030
+    },
+    {
+        "id": 763,
+        "nome": "9 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 40601030
+    },
+    {
+        "id": 768,
+        "nome": "1 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 40601226
+    },
+    {
+        "id": 769,
+        "nome": "3 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 40601226
+    },
+    {
+        "id": 780,
+        "nome": "1 FAT HISTOPATOLOGICO",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 808,
+        "nome": "1 PD PRE OPERAT. SEM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 40601013
+    },
+    {
+        "id": 811,
+        "nome": "1 PD PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 40601021
+    },
+    {
+        "id": 812,
+        "nome": "1 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 40601030
+    },
+    {
+        "id": 816,
+        "nome": "3 NECROPSIA DE EMBRIAO/FETO ATE 500 GRAMAS",
+        "preço": 0,
+        "código": 40601056
+    },
+    {
+        "id": 817,
+        "nome": "2 NECROPSIA DE EMBRIAO/FETO ATE 500 GRAMAS",
+        "preço": 0,
+        "código": 40601056
+    },
+    {
+        "id": 818,
+        "nome": "1 MICROSCOPIA ELETRONICA",
+        "preço": 0,
+        "código": 40601064
+    },
+    {
+        "id": 843,
+        "nome": "1 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 844,
+        "nome": "2 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 845,
+        "nome": "3 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 846,
+        "nome": "4 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 851,
+        "nome": "1 PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 40601234
+    },
+    {
+        "id": 852,
+        "nome": "2 PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 40601234
+    },
+    {
+        "id": 853,
+        "nome": "3 PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 40601234
+    },
+    {
+        "id": 854,
+        "nome": "4 PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 40601234
+    },
+    {
+        "id": 855,
+        "nome": "1 PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 40601242
+    },
+    {
+        "id": 856,
+        "nome": "2 PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 40601242
+    },
+    {
+        "id": 857,
+        "nome": "3 PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 40601242
+    },
+    {
+        "id": 858,
+        "nome": "4 PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 40601242
+    },
+    {
+        "id": 859,
+        "nome": "1 PD EM LAMINAS DE PAAF ATE 5",
+        "preço": 0,
+        "código": 40601250
+    },
+    {
+        "id": 860,
+        "nome": "1 PD EM IMUNOFLUORESCENCIA",
+        "preço": 0,
+        "código": 40601277
+    },
+    {
+        "id": 861,
+        "nome": "2 PD EM IMUNOFLUORESCENCIA",
+        "preço": 0,
+        "código": 40601277
+    },
+    {
+        "id": 862,
+        "nome": "3 PD EM IMUNOFLUORESCENCIA",
+        "preço": 0,
+        "código": 40601277
+    },
+    {
+        "id": 863,
+        "nome": "4 PD EM IMUNOFLUORESCENCIA",
+        "preço": 0,
+        "código": 40601277
+    },
+    {
+        "id": 864,
+        "nome": "1 PD EM PAINEL DE HIBRIDIZACAO IN SITU",
+        "preço": 0,
+        "código": 40601285
+    },
+    {
+        "id": 865,
+        "nome": "2 PD EM PAINEL DE HIBRIDIZACAO IN SITU",
+        "preço": 0,
+        "código": 40601285
+    },
+    {
+        "id": 866,
+        "nome": "3 PD EM PAINEL DE HIBRIDIZACAO IN SITU",
+        "preço": 0,
+        "código": 40601285
+    },
+    {
+        "id": 867,
+        "nome": "4 PD EM PAINEL DE HIBRIDIZACAO IN SITU",
+        "preço": 0,
+        "código": 40601285
+    },
+    {
+        "id": 868,
+        "nome": "1 PD POR CAPTURA HIBRIDA",
+        "preço": 0,
+        "código": 40601293
+    },
+    {
+        "id": 869,
+        "nome": "2 PD POR CAPTURA HIBRIDA",
+        "preço": 0,
+        "código": 40601293
+    },
+    {
+        "id": 870,
+        "nome": "3 PD POR CAPTURA HIBRIDA",
+        "preço": 0,
+        "código": 40601293
+    },
+    {
+        "id": 871,
+        "nome": "4 PD POR CAPTURA HIBRIDA",
+        "preço": 0,
+        "código": 40601293
+    },
+    {
+        "id": 872,
+        "nome": "1 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 40601323
+    },
+    {
+        "id": 873,
+        "nome": "2 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 40601323
+    },
+    {
+        "id": 874,
+        "nome": "3 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 40601323
+    },
+    {
+        "id": 875,
+        "nome": "4 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 40601323
+    },
+    {
+        "id": 876,
+        "nome": "1 PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
+        "preço": 0,
+        "código": 40601196
+    },
+    {
+        "id": 1044,
+        "nome": "1 PD EM LAMINAS DE PAAF ATE 5 - REVISAO",
+        "preço": 0,
+        "código": 40601153
+    },
+    {
+        "id": 1170,
+        "nome": "2 COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 40601137
+    },
+    {
+        "id": 1305,
+        "nome": "PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES) - REVISAO",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 1327,
+        "nome": "6 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 1328,
+        "nome": "7 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 1329,
+        "nome": "8 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 1330,
+        "nome": "9 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 1454,
+        "nome": "1 NECROPSIA DE EMBRIAO/FETO ATE 500 GRAMAS",
+        "preço": 0,
+        "código": 40601056
+    },
+    {
+        "id": 1456,
+        "nome": "2 PD EM LAMINAS DE PAAF ATE 5 - REVISAO",
+        "preço": 0,
+        "código": 40601153
+    },
+    {
+        "id": 1687,
+        "nome": "22 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 40601226
+    },
+    {
+        "id": 1688,
+        "nome": "23 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 40601226
+    },
+    {
+        "id": 1689,
+        "nome": "24 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 40601226
+    },
+    {
+        "id": 1690,
+        "nome": "25 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 40601226
+    },
+    {
+        "id": 1691,
+        "nome": "26 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 40601226
+    },
+    {
+        "id": 1692,
+        "nome": "27 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 40601226
+    },
+    {
+        "id": 1693,
+        "nome": "28 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 40601226
+    },
+    {
+        "id": 2050,
+        "nome": "29 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 40601226
+    },
+    {
+        "id": 2051,
+        "nome": "30 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 40601226
+    }
+]

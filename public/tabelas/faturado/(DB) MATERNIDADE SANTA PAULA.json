@@ -1,0 +1,224 @@
+[
+    {
+        "id": 54,
+        "nome": "HEPATITE B - HBSAC - (ANTI ANTIGENO DE SUPERFICIE)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 59,
+        "nome": "HEPATITE B - HBSAG - (AU, ANTIGENO AUSTRALIA) ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 109,
+        "nome": "HIV1+ HIV2",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 118,
+        "nome": "PROTEINA C REATIVA, QUANTITATIVA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 127,
+        "nome": "SIFILIS - VDRL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 130,
+        "nome": "HCV (ANTICORPOS CONTRA O VIRUS DA HEPATITE C)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 141,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310426
+    },
+    {
+        "id": 152,
+        "nome": "PSA TOTAL - ANTIGENO PROSTATICO ESPECIFICO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 185,
+        "nome": "CULTURA - FUNGOS (1ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 243,
+        "nome": "GLICOSE - 3 HORAS POS PRANDIAL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 294,
+        "nome": "ACIDO METIL HIPURICO - URINA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 295,
+        "nome": "ACIDO HIPURICO (PARA TUOLENO) - URINA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 308,
+        "nome": "CULTURA - FUNGOS (3ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 383,
+        "nome": "CULTURA - FUNGOS (4ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 472,
+        "nome": "1 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 536,
+        "nome": "HEMOGRAMA COMPLETO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 545,
+        "nome": "VHS - VELOCIDADE DE HEMOSSEDIMENTACAO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 558,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (1ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 578,
+        "nome": "GLICOSE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 609,
+        "nome": "GLICOSE - 2 HORAS BASAL E POS PRANDIAL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 640,
+        "nome": "CULTURA - FUNGOS (5ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 891,
+        "nome": "HIV 1 E 2 - TESTE RAPIDO ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 904,
+        "nome": "EAS - EXAME DE URINA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 907,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS",
+        "preço": 0,
+        "código": 40310400
+    },
+    {
+        "id": 909,
+        "nome": "CULTURA - FUNGOS (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 915,
+        "nome": "CULTURA - BK",
+        "preço": 0,
+        "código": 40310159
+    },
+    {
+        "id": 1240,
+        "nome": "PESQUISA DE FUNGOS (A FRESCO)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1399,
+        "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR",
+        "preço": 0,
+        "código": 40304618
+    },
+    {
+        "id": 1520,
+        "nome": "PESQUISA DE FUNGOS (A FRESCO) (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1521,
+        "nome": "PESQUISA DE FUNGOS (A FRESCO) (3ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1522,
+        "nome": "PESQUISA DE FUNGOS (A FRESCO) (4ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1832,
+        "nome": "HIV1 OU HIV2",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1837,
+        "nome": "ANTIGENO AUSTRALIA (HBSAG)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1856,
+        "nome": "HEPATITE C - ANTI-HCV",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 2010,
+        "nome": "GLICOSE POS DIALISE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 2048,
+        "nome": "SIFILIS - VDRL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 2059,
+        "nome": "PESQUISA DE FUNGOS (KOH)",
+        "preço": 0,
+        "código": null
+    }
+]

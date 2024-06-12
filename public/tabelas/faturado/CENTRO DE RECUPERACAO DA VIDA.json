@@ -1,0 +1,104 @@
+[
+    {
+        "id": 56,
+        "nome": "ANTI-DNA ",
+        "preço": 0,
+        "código": 40306062
+    },
+    {
+        "id": 93,
+        "nome": "BACTERIOSCOPIA - DIVERSOS MATERIAIS (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310060
+    },
+    {
+        "id": 131,
+        "nome": "ANTIGENO HLA B27",
+        "preço": 0,
+        "código": 40306887
+    },
+    {
+        "id": 351,
+        "nome": "OXCARBAZEPINA",
+        "preço": 0,
+        "código": 40302288
+    },
+    {
+        "id": 374,
+        "nome": "1,25-DIHIDROXI VITAMINA D",
+        "preço": 0,
+        "código": 0
+    },
+    {
+        "id": 394,
+        "nome": "SELENIO",
+        "preço": 0,
+        "código": 0
+    },
+    {
+        "id": 412,
+        "nome": "VITAMINA B1",
+        "preço": 0,
+        "código": 0
+    },
+    {
+        "id": 627,
+        "nome": "CADMIO",
+        "preço": 0,
+        "código": 40313190
+    },
+    {
+        "id": 659,
+        "nome": "TROPONINA - TESTE RAPIDO",
+        "preço": 0,
+        "código": 40
+    },
+    {
+        "id": 818,
+        "nome": "1 MICROSCOPIA ELETRONICA",
+        "preço": 0,
+        "código": 40601064
+    },
+    {
+        "id": 1102,
+        "nome": "TESTOSTERONA TOTAL",
+        "preço": 0,
+        "código": 40316513
+    },
+    {
+        "id": 1244,
+        "nome": "_CALCITONINA - ASPIRADO DE PUNCAO (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 40316165
+    },
+    {
+        "id": 1399,
+        "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1652,
+        "nome": "TROPONINA (QUANTITATIVO)",
+        "preço": 0,
+        "código": 40
+    },
+    {
+        "id": 1892,
+        "nome": "TROPONINA (QUANTITATIVO) AMOSTRA 2",
+        "preço": 0,
+        "código": 40
+    },
+    {
+        "id": 1893,
+        "nome": "TROPONINA (QUANTITATIVO) AMOSTRA 3",
+        "preço": 0,
+        "código": 40
+    },
+    {
+        "id": 1894,
+        "nome": "TROPONINA (QUANTITATIVO) AMOSTRA 4",
+        "preço": 0,
+        "código": 40
+    }
+]

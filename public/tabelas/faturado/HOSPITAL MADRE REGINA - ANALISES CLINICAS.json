@@ -1,0 +1,1844 @@
+[
+    {
+        "id": 1,
+        "nome": "VITAMINA B12",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 4,
+        "nome": "FERRITINA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 5,
+        "nome": "TEMPO TROMBOPLASTINA PARCIAL ATIVADA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 7,
+        "nome": "COOMBS DIRETO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 8,
+        "nome": "ZINCO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 11,
+        "nome": "ALDOSTERONA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 17,
+        "nome": "SULFATO DE DEHIDROEPIANDROSTERONA (S-DHEA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 18,
+        "nome": "DIHIDROTESTOSTERONA (DHT) ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 19,
+        "nome": "ESTRADIOL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 21,
+        "nome": "FOLICO ESTIMULANTE, HORMONIO (FSH) ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 23,
+        "nome": "BETA HCG - QUANTITATIVO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 24,
+        "nome": "LH - HORMONIO LUTEINIZANTE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 26,
+        "nome": "PROGESTERONA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 27,
+        "nome": "TRIIODOTIRONINA (T3) ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 28,
+        "nome": "TIREOGLOBULINA ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 29,
+        "nome": "TSH - HORMONIO TIREOESTIMULANTE ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 30,
+        "nome": "ANDROSTENEDIONA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 31,
+        "nome": "HCG, PESQUISA DE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 32,
+        "nome": "DEHIDROEPIANDROSTERONA (DHEA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 34,
+        "nome": "ESTRONA - E1",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 38,
+        "nome": "INSULINA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 39,
+        "nome": "PARATORMONIO - PTH OU FRACAO (CADA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 40,
+        "nome": "PROLACTINA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 41,
+        "nome": "TIROXINA (T4)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 42,
+        "nome": "TESTOSTERONA LIVRE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 43,
+        "nome": "TIROXINA T4 LIVRE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 45,
+        "nome": "ANTICORPO ANTI-TIREOGLOBULINA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 46,
+        "nome": "HEPATITE A IGG",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 47,
+        "nome": "HEPATITE A IGM",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 49,
+        "nome": "ANTICARDIOLIPINA IGG ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 52,
+        "nome": "ANTICORPO ANTI-SM",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 54,
+        "nome": "HEPATITE B - HBSAC - (ANTI ANTIGENO DE SUPERFICIE)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 56,
+        "nome": "ANTI-DNA ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 58,
+        "nome": "ASLO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 59,
+        "nome": "HEPATITE B - HBSAG - (AU, ANTIGENO AUSTRALIA) ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 60,
+        "nome": "HEPATITE B - ANTI HBC TOTAL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 63,
+        "nome": "CITOMEGALOVIRUS IGG ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 64,
+        "nome": "COMPLEMENTO C4 ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 65,
+        "nome": "COMPLEMENTO C3 ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 77,
+        "nome": "ANTIGENO CA 125",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 79,
+        "nome": "ANTIGENO CARCINOEMBRIOGENICO (CEA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 80,
+        "nome": "MICOLOGICO DIRETO (4ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 81,
+        "nome": "CLEARANCE DE CREATININA - UNIRA 24H",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 82,
+        "nome": "ACIDO URICO - URINA 24H",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 86,
+        "nome": "CREATININA - URINA RECENTE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 89,
+        "nome": "FOSFORO - URINA 24H",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 92,
+        "nome": "BAAR (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310051
+    },
+    {
+        "id": 93,
+        "nome": "BACTERIOSCOPIA - DIVERSOS MATERIAIS (1ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 99,
+        "nome": "CALCIO - URINA 24H",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 104,
+        "nome": "FAN - FATOR ANTINUCLEAR",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 109,
+        "nome": "HIV1+ HIV2",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 111,
+        "nome": "IMUNOGLOBULINA IGA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 112,
+        "nome": "IMUNOGLOBULINA IGE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 113,
+        "nome": "IMUNOGLOBULINA IGG",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 114,
+        "nome": "IMUNOGLOBULINA IGM",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 118,
+        "nome": "PROTEINA C REATIVA, QUANTITATIVA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 123,
+        "nome": "PROTEINA - URINA 24H",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 125,
+        "nome": "HOMOCISTEINA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 127,
+        "nome": "SIFILIS - VDRL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 129,
+        "nome": "SIFILIS - FTA-ABS-IGG ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 130,
+        "nome": "HCV (ANTICORPOS CONTRA O VIRUS DA HEPATITE C)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 135,
+        "nome": "WAALER - ROSE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 137,
+        "nome": "LITIO BASAL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 139,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 140,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (3ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 141,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 144,
+        "nome": "ANTIBIOGRAMA - FEZES",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 145,
+        "nome": "ANTIBIOGRAMA - URINA",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 146,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 147,
+        "nome": "ALBUMINA ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 149,
+        "nome": "FATOR RH",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 150,
+        "nome": "RUBEOLA IGM",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 151,
+        "nome": "RUBEOLA IGG",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 152,
+        "nome": "PSA TOTAL - ANTIGENO PROSTATICO ESPECIFICO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 153,
+        "nome": "ANTIBIOGRAMA - HEMOCULTURA",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 159,
+        "nome": "BAAR (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310051
+    },
+    {
+        "id": 160,
+        "nome": "BAAR (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310051
+    },
+    {
+        "id": 166,
+        "nome": "HEPATITE B - ANTI HBC IGM",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 167,
+        "nome": "HEPATITE B - HBEAG - (ANTIGENO \"E\")",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 171,
+        "nome": "PEPTIDEO C",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 173,
+        "nome": "CORTISOL BASAL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 174,
+        "nome": "ANTIBIOGRAMA - HEMOCULTURA (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 180,
+        "nome": "UREIA - POS HEMODIALISE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 182,
+        "nome": "MICOLOGICO DIRETO (1ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 183,
+        "nome": "GLICOSE - 2 HORAS POS PRANDIAL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 184,
+        "nome": "ANTIBIOGRAMA - URINA (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 197,
+        "nome": "HTLV 1 E 2 ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 200,
+        "nome": "ANTIGENO CA 19.9",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 205,
+        "nome": "PESQUISA SANGUE OCULTO NAS FEZES (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 206,
+        "nome": "PESQUISA SANGUE OCULTO NAS FEZES (3ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 207,
+        "nome": "PESQUISA SANGUE OCULTO NAS FEZES (4ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 208,
+        "nome": "PESQUISA SANGUE OCULTO NAS FEZES (5ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 209,
+        "nome": "ROTINA DE LIQUIDO PLEURAL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 221,
+        "nome": "CALCITONINA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 225,
+        "nome": "ANTICARDIOLIPINA IGM ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 226,
+        "nome": "CITOMEGALOVIRUS IGM ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 228,
+        "nome": "PROTEINAS TOTAIS ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 230,
+        "nome": "SIFILIS - FTA-ABS-IGM",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 233,
+        "nome": "MICOLOGICO DIRETO (3ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 236,
+        "nome": "VITAMINA A",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 239,
+        "nome": "CHLAMYDIA TRACHOMATIS IGG",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 240,
+        "nome": "CHLAMYDIA TRACHOMATIS IGM",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 244,
+        "nome": "ANTIBIOGRAMA - URINA (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 245,
+        "nome": "DENGUE IGG",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 246,
+        "nome": "GASOMETRIA VENOSA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 249,
+        "nome": "ROTINA LIQUIDO ASCITICO - DIVERSOS MATERIAIS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 255,
+        "nome": "SOMATOMEDINA C (IGF1)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 265,
+        "nome": "RENINA ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 272,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 277,
+        "nome": "IGF BP3 - PROTEINA LIGADORA-3 DO IGF",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 282,
+        "nome": "ANTI-TPO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 292,
+        "nome": "GLICOSE - 1 HORA POS DEXTROSOL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 297,
+        "nome": "LEPTOSPIROSE IGM ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 300,
+        "nome": "DENGUE IGM",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 304,
+        "nome": "ACIDO FOLICO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 305,
+        "nome": "MICOLOGICO DIRETO (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 326,
+        "nome": "ALUMINIO ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 328,
+        "nome": "SHBG (GLOBULINA LIGADORA DOS HORMONIOS SEXUAIS)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 334,
+        "nome": "ACTH HORMONIO ADRENOCORTICOTROFICO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 338,
+        "nome": "CLORO - URINA 24H",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 348,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (4ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 352,
+        "nome": "PCR ULTRA-SENSIVEL (PROTEINA C REATIVA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 358,
+        "nome": "PSA LIVRE (NAO INCLUI PSA TOTAL)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 361,
+        "nome": "TOXOPLASMOSE IGG",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 372,
+        "nome": "CAPACIDADE TOTAL DE COMBINACAO DO FERRO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 374,
+        "nome": "1,25-DIHIDROXI VITAMINA D",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 375,
+        "nome": "VITAMINA \"D\" 25 HIDROXI",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 380,
+        "nome": "TOXOPLASMOSE IGM",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 391,
+        "nome": "TROPONINA T ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 397,
+        "nome": "COMPLEMENTO CH-50",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 410,
+        "nome": "VITAMINA E ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 418,
+        "nome": "ALBUMINURIA - URINA RECENTE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 419,
+        "nome": "VITAMINA C - ACIDO ASCORBICO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 424,
+        "nome": "T3 REVERSO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 455,
+        "nome": "CALCIO - URINA RECENTE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 456,
+        "nome": "ACIDO URICO - URINA RECENTE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 458,
+        "nome": "GLICOSE - 3 HORAS POS DEXTROSOL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 495,
+        "nome": "DIMERO D",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 532,
+        "nome": "CREATINO FOSFAQUINASE - FRACAO MB - MASSA ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 536,
+        "nome": "HEMOGRAMA COMPLETO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 537,
+        "nome": "PERFIL LIPIDICO/LIPIDOGRAMA - CT, HDL, LDL, VLDL e TRI",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 538,
+        "nome": "ESPERMOGRAMA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 541,
+        "nome": "RETICULOCITOS CONTAGEM",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 542,
+        "nome": "ERITROGRAMA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 543,
+        "nome": "CLASSIFICACAO SANGUINEA - GRUPO ABO E FATOR RH",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 544,
+        "nome": "COAGULOGRAMA (TAP, PTTK, CONTAGEM DE PLAQUETAS)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 545,
+        "nome": "VHS - VELOCIDADE DE HEMOSSEDIMENTACAO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 547,
+        "nome": "FIBRINOGENIO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 549,
+        "nome": "HEMATOCRITO, DETERMINACAO DO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 550,
+        "nome": "HEMOGLOBINA, DOSAGEM DE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 551,
+        "nome": "CONTAGEM DE PLAQUETAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 555,
+        "nome": "TEMPO DE COAGULACAO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 556,
+        "nome": "TEMPO DE SANGRAMENTO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 558,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (1ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 559,
+        "nome": "COLESTEROL (VLDL)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 563,
+        "nome": "PESQUISA SANGUE OCULTO NAS FEZES",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 566,
+        "nome": "ASPARTATO AMINOTRANSFERASE (TGO, AST)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 567,
+        "nome": "ALANINA AMINOTRANSFERASE (TGP, ALT)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 568,
+        "nome": "TRIGLICERIDEOS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 569,
+        "nome": "UREIA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 570,
+        "nome": "TRANSFERRINA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 572,
+        "nome": "ALBUMINA - DIVERSOS MATERIAIS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 573,
+        "nome": "T3 LIVRE ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 574,
+        "nome": "MAGNESIO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 575,
+        "nome": "HEMOGLOBINA GLICADA (FRACAO A1C) ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 576,
+        "nome": "COLESTEROL (LDL)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 577,
+        "nome": "LIPASE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 578,
+        "nome": "GLICOSE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 579,
+        "nome": "GLICOSE - 2 HORAS POS DEXTROSOL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 580,
+        "nome": "COLESTEROL (HDL) ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 581,
+        "nome": "FOSFORO ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 583,
+        "nome": "GAMA-GLUTAMIL TRANSFERASE ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 585,
+        "nome": "FOSFATASE ALCALINA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 586,
+        "nome": "PROTEINAS TOTAIS E FRACOES",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 587,
+        "nome": "FERRO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 590,
+        "nome": "DESIDROGENASE LACTICA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 592,
+        "nome": "CREATININA ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 593,
+        "nome": "COLESTEROL TOTAL ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 594,
+        "nome": "CREATINO FOSFOQUINASE TOTAL (CK) ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 595,
+        "nome": "CREATINO FOSFOQUINASE - FRACAO MB - ATIVIDADE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 596,
+        "nome": "CALCIO ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 598,
+        "nome": "AMILASE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 599,
+        "nome": "ACIDO URICO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 600,
+        "nome": "BILIRRUBINAS (DIRETA, INDIRETA E TOTAL)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 603,
+        "nome": "ALFA-FETOPROTEINA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 604,
+        "nome": "ELETROFORESE DE LIPOPROTEINAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 605,
+        "nome": "ELETROFORESE DE PROTEINAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 608,
+        "nome": "GASOMETRIA ARTERIAL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 612,
+        "nome": "ACIDO LACTICO (LACTATO)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 613,
+        "nome": "MERCURIO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 618,
+        "nome": "ROTINA DE LIQUOR",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 636,
+        "nome": "ISOENZIMAS DE CPK",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 639,
+        "nome": "MICOLOGICO DIRETO (5ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 640,
+        "nome": "CULTURA - FUNGOS (5ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 659,
+        "nome": "TROPONINA - TESTE RAPIDO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 670,
+        "nome": "PROTEINA S FUNCIONAL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 671,
+        "nome": "MICOLOGICO DIRETO (6ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 771,
+        "nome": "ESQUISTOSSOMOSE IGG",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 801,
+        "nome": "TAP - TEMPO DE ATIVIDADE DA PROTOMBINA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 881,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (6ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 882,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (7ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 883,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (8ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 884,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (9ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 885,
+        "nome": "ANTIBIOGRAMA - FEZES (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 904,
+        "nome": "EAS - EXAME DE URINA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 905,
+        "nome": "SODIO ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 906,
+        "nome": "POTASSIO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 907,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 908,
+        "nome": "CULTURA - FEZES",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 909,
+        "nome": "CULTURA - FUNGOS (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 910,
+        "nome": "CULTURA - AUTOMATIZADA ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 911,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 912,
+        "nome": "HEMOCULTURA (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310248
+    },
+    {
+        "id": 913,
+        "nome": "HEMOCULTURA (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310248
+    },
+    {
+        "id": 914,
+        "nome": "HEMOCULTURA (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310248
+    },
+    {
+        "id": 915,
+        "nome": "CULTURA - BK",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 916,
+        "nome": "CULTURA - BK (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 917,
+        "nome": "CULTURA - BK (3ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 918,
+        "nome": "CULTURA - BK (4ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 919,
+        "nome": "CULTURA - BK (5ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 920,
+        "nome": "CULTURA - AUTOMATIZADA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 921,
+        "nome": "CULTURA - BK (6ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 922,
+        "nome": "CULTURA - BK (7ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 923,
+        "nome": "CULTURA - BK (8ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 924,
+        "nome": "CULTURA - BK (9ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 925,
+        "nome": "CULTURA - BK (10ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 926,
+        "nome": "CULTURA - FEZES (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 927,
+        "nome": "CULTURA AUTOMATIZADA - MICROBIOLOGIA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 928,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (4ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 929,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (3ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 930,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (5ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 931,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (6ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 932,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (7ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 933,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (8ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 934,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (9ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 960,
+        "nome": "CLORO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 961,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (5ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 1040,
+        "nome": "PESQUISA DE VRE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1042,
+        "nome": "PESQUISA DE MRSA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1084,
+        "nome": "CHUMBO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1086,
+        "nome": "INDICE DE SATURACAO DE TRANSFERRINA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1087,
+        "nome": "ANTICOAGULANTE LUPICO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1102,
+        "nome": "TESTOSTERONA TOTAL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1115,
+        "nome": "GASOMETRIA ARTERIAL COMPLETA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1121,
+        "nome": "CREATININA - URINA 24H",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1132,
+        "nome": "ROTINA LIQUIDO SINOVIAL ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1135,
+        "nome": "MICROALBUMINURIA - URINA 24H",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1166,
+        "nome": "FATOR REUMATOIDE, TESTE DO LATEX (QUALITATIVO)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1173,
+        "nome": "LIPASE - MATERIAS DIVERSOS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1175,
+        "nome": "CLORO - LIQUOR",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1210,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (6ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1211,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (7ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1212,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (8ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1213,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (9ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1214,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (10ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1225,
+        "nome": "TEMPO DE TROMBINA - DETERMINACAO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1238,
+        "nome": "COBRE ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1254,
+        "nome": "ANTIBIOGRAMA - FEZES (3ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1286,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (10ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 1399,
+        "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1415,
+        "nome": "CLORO/CLORETO - URINA RECENTE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1424,
+        "nome": "GLICOSE - 4 HORAS POS DEXTROSOL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1439,
+        "nome": "ACIDO LACTICO (LACTATO) - LIQUOR",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1448,
+        "nome": "ANTIBIOGRAMA - URINA (4ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 1492,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (11ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 1493,
+        "nome": "PESQUISA DE MULTI-R ",
+        "preço": 0,
+        "código": 40310124
+    },
+    {
+        "id": 1494,
+        "nome": "GLICOSE - 2 HORAS POS DEXTROSOL (MADRE REGINA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1501,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (12ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 1502,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (13ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 1503,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (14ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 1504,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (15ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 1505,
+        "nome": "BILIRRUBINAS (AVALIACAO DE EXASANGUINEOTRANSFUSAO)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1507,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (16ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 1579,
+        "nome": "HEMOCULTURA (4ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1580,
+        "nome": "HEMOCULTURA (5ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1582,
+        "nome": "HEMOCULTURA (1ª E 2ª AMOSTRA) (MADRE REGINA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1606,
+        "nome": "PESQUISA SANGUE OCULTO NAS FEZES (6ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1652,
+        "nome": "TROPONINA (QUANTITATIVO)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1831,
+        "nome": "HEMOGLOBINA GLICADA (1A TOTAL) ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1832,
+        "nome": "HIV1 OU HIV2",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1833,
+        "nome": "ANTIBIOGRAMA - NAO AUTOMATIZADO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1834,
+        "nome": "TESTE ORAL DE TOLERANCIA A GLICOSE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1837,
+        "nome": "ANTIGENO AUSTRALIA (HBSAG)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1856,
+        "nome": "HEPATITE C - ANTI-HCV",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1875,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (17ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 1876,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (18ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 1877,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (19ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 1878,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (20ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310418
+    },
+    {
+        "id": 1887,
+        "nome": "BNP - PEPTIDEO NATRIURETICO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1892,
+        "nome": "TROPONINA (QUANTITATIVO) AMOSTRA 2",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1893,
+        "nome": "TROPONINA (QUANTITATIVO) AMOSTRA 3",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1894,
+        "nome": "TROPONINA (QUANTITATIVO) AMOSTRA 4",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1937,
+        "nome": "ASLO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1958,
+        "nome": "ANTI-TPO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 2002,
+        "nome": "TESTE ORAL DE TOLERANCIA A GLICOSE (2 HORAS)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 2007,
+        "nome": "POTASSIO POS DIALISE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 2008,
+        "nome": "SODIO POS DIALISE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 2009,
+        "nome": "CREATININA POS DIALISE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 2010,
+        "nome": "GLICOSE POS DIALISE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 2045,
+        "nome": "PESQUISA DE MRSA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 2048,
+        "nome": "SIFILIS - VDRL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 2070,
+        "nome": "HEMOCULTURA (6ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310248
+    },
+    {
+        "id": 2071,
+        "nome": "HEMOCULTURA (7ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310248
+    },
+    {
+        "id": 2072,
+        "nome": "HEMOCULTURA (8ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310248
+    },
+    {
+        "id": 2073,
+        "nome": "HEMOCULTURA (9ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310248
+    },
+    {
+        "id": 2074,
+        "nome": "HEMOCULTURA (10ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310248
+    },
+    {
+        "id": 2118,
+        "nome": "ELETROFORESE DE PROTEINAS",
+        "preço": 0,
+        "código": null
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 539,
+        "nome": "COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 40601137
+    },
+    {
+        "id": 770,
+        "nome": "FAT COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 40601137
+    },
+    {
+        "id": 872,
+        "nome": "1 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 40601323
+    },
+    {
+        "id": 873,
+        "nome": "2 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 40601323
+    },
+    {
+        "id": 874,
+        "nome": "3 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 40601323
+    },
+    {
+        "id": 875,
+        "nome": "4 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 40601323
+    }
+]

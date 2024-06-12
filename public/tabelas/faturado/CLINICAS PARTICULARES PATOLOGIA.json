@@ -1,0 +1,794 @@
+[
+    {
+        "id": 93,
+        "nome": "BACTERIOSCOPIA - DIVERSOS MATERIAIS (1ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 141,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (1ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 185,
+        "nome": "CULTURA - FUNGOS (1ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 253,
+        "nome": "BACTERIOSCOPIA - DIVERSOS MATERIAIS (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 308,
+        "nome": "CULTURA - FUNGOS (3ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 383,
+        "nome": "CULTURA - FUNGOS (4ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 470,
+        "nome": "1 HISTOPATOLOGICO ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 472,
+        "nome": "1 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 473,
+        "nome": "1 PD EM PECA CIRURGICA OU ANATOMICA COMPLEXA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 474,
+        "nome": "1 PD CITOPATOLOGICO ONCOT. LIQ. E RASP. CUTANEOS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 476,
+        "nome": "1 PD EM REV. LAMINAS OU CORTES HISTOLOGICOS SERIADOS",
+        "preço": 0,
+        "código": 40601153
+    },
+    {
+        "id": 477,
+        "nome": "1 COLORACAO ESPECIAL POR COLORACAO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 478,
+        "nome": "1 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 479,
+        "nome": "2 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 480,
+        "nome": "3 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 481,
+        "nome": "4 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 511,
+        "nome": "ANTIBIOGRAMA - FUNGOS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 539,
+        "nome": "COLPOCITOLOGICO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 620,
+        "nome": "5 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 621,
+        "nome": "6 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 622,
+        "nome": "7 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 623,
+        "nome": "8 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 624,
+        "nome": "9 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 626,
+        "nome": "CATECOLAMINAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 640,
+        "nome": "CULTURA - FUNGOS (5ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 648,
+        "nome": "DETECCAO E GENOTIPAGEM HPV DE ALTO RISCO",
+        "preço": 0,
+        "código": 0
+    },
+    {
+        "id": 680,
+        "nome": "1 FAT PD PRE OPERAT. SEM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 40601013
+    },
+    {
+        "id": 682,
+        "nome": "1 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 40601021
+    },
+    {
+        "id": 683,
+        "nome": "2 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 40601021
+    },
+    {
+        "id": 684,
+        "nome": "3 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 40601021
+    },
+    {
+        "id": 685,
+        "nome": "4 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 40601021
+    },
+    {
+        "id": 717,
+        "nome": "5 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 733,
+        "nome": "1 FAT PD EM LAMINAS DE PAAF ATE 5",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 751,
+        "nome": "1 FAT PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 752,
+        "nome": "1 FAT PD EM PECA CIRURGICA OU ANATOMICA COMPLEXA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 764,
+        "nome": "REVISAO DE COLPOCITOLOGICO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 768,
+        "nome": "1 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 769,
+        "nome": "3 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 770,
+        "nome": "FAT COLPOCITOLOGICO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 782,
+        "nome": "1 PD EM REV. LAMINAS OU CORTES HISTOLOGICOS SERIADOS",
+        "preço": 0,
+        "código": 40601153
+    },
+    {
+        "id": 788,
+        "nome": "HISTOPATOLOGICO VETERINARIO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 789,
+        "nome": "HISTOPATOLOGICO VETERINARIO 2",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 790,
+        "nome": "HISTOPATOLOGICO VETERINARIO 3",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 808,
+        "nome": "1 PD PRE OPERAT. SEM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 40601013
+    },
+    {
+        "id": 811,
+        "nome": "1 PD PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 40601021
+    },
+    {
+        "id": 812,
+        "nome": "1 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 40601030
+    },
+    {
+        "id": 813,
+        "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 40601021
+    },
+    {
+        "id": 816,
+        "nome": "3 NECROPSIA DE EMBRIAO/FETO ATE 500 GRAMAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 819,
+        "nome": "PUNCAO ASPIRATIVA POR AGULHA FINA GUIADA POR ULTRASSOM",
+        "preço": 0,
+        "código": 40601072
+    },
+    {
+        "id": 820,
+        "nome": "PUNCAO ASPIRATIVA POR AGULHA FINA GUIADA POR ULTRASSOM (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 821,
+        "nome": "PUNCAO ASPIRATIVA POR AGULHA FINA GUIADA POR ULTRASSOM (3ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 822,
+        "nome": "PUNCAO ASPIRATIVA POR AGULHA FINA GUIADA POR ULTRASSOM (4ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 839,
+        "nome": "1 PD EM CITOLOGIA HORMONAL ISOLADA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 843,
+        "nome": "1 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 844,
+        "nome": "2 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 845,
+        "nome": "3 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 846,
+        "nome": "4 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 851,
+        "nome": "1 PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 40601234
+    },
+    {
+        "id": 852,
+        "nome": "2 PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 40601234
+    },
+    {
+        "id": 853,
+        "nome": "3 PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 40601234
+    },
+    {
+        "id": 854,
+        "nome": "4 PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 40601234
+    },
+    {
+        "id": 855,
+        "nome": "1 PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 40601242
+    },
+    {
+        "id": 856,
+        "nome": "2 PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 40601242
+    },
+    {
+        "id": 857,
+        "nome": "3 PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 40601242
+    },
+    {
+        "id": 858,
+        "nome": "4 PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 40601242
+    },
+    {
+        "id": 859,
+        "nome": "1 PD EM LAMINAS DE PAAF ATE 5",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 868,
+        "nome": "1 PD POR CAPTURA HIBRIDA",
+        "preço": 0,
+        "código": 40601293
+    },
+    {
+        "id": 869,
+        "nome": "2 PD POR CAPTURA HIBRIDA",
+        "preço": 0,
+        "código": 40601293
+    },
+    {
+        "id": 870,
+        "nome": "3 PD POR CAPTURA HIBRIDA",
+        "preço": 0,
+        "código": 40601293
+    },
+    {
+        "id": 871,
+        "nome": "4 PD POR CAPTURA HIBRIDA",
+        "preço": 0,
+        "código": 40601293
+    },
+    {
+        "id": 872,
+        "nome": "1 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 873,
+        "nome": "2 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 874,
+        "nome": "3 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 875,
+        "nome": "4 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 876,
+        "nome": "1 PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 877,
+        "nome": "RETIRADA DE LAMINA OU BLOCO DO CREMASCO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 907,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 909,
+        "nome": "CULTURA - FUNGOS (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 935,
+        "nome": "PESQUISA DE SANGUE HUMANO - FEZES",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 939,
+        "nome": "_EXAME TESTE PATOLOGIA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 967,
+        "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 40601021
+    },
+    {
+        "id": 968,
+        "nome": "6 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 40601021
+    },
+    {
+        "id": 969,
+        "nome": "7 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 40601021
+    },
+    {
+        "id": 970,
+        "nome": "8 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 40601021
+    },
+    {
+        "id": 973,
+        "nome": "3 FAT PD PRE OPERAT. SEM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 40601013
+    },
+    {
+        "id": 974,
+        "nome": "2 FAT PD PRE OPERAT. SEM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 40601013
+    },
+    {
+        "id": 980,
+        "nome": "STREPTOCOCCUS AGALACTIAE (BETA HEMOLITICO DO GRUPO B)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 982,
+        "nome": "DEVOLUCAO - 1 FAT EM PD DE DEVOLUCAO DE BLOCO/LAMINA RETIRADAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1035,
+        "nome": "HISTOPATOLOGICO VETERINARIO 4",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1044,
+        "nome": "1 PD EM LAMINAS DE PAAF ATE 5 - REVISAO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1145,
+        "nome": "PESQUISA DE SANGUE HUMANO NAS FEZES (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1146,
+        "nome": "PESQUISA DE SANGUE HUMANO NAS FEZES (3ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1164,
+        "nome": "STREPTOCOCCUS AGALACTIAE (BETA HEMOLITICO DO GRUPO B) (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1165,
+        "nome": "HISTOPATOLOGICO VETERINARIO 8",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1170,
+        "nome": "2 COLPOCITOLOGICO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1192,
+        "nome": "REVISAO EXTERNA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1286,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (10ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1287,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (10ª AMOSTRA) ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1291,
+        "nome": "PAINEL INFECCOES SEXUALMENTE TRANSMISSIVEIS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1305,
+        "nome": "PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES) - REVISAO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1327,
+        "nome": "6 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1328,
+        "nome": "7 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1329,
+        "nome": "8 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1330,
+        "nome": "9 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1433,
+        "nome": "1 HISTOPATOLOGICO - RETIFICACAO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1434,
+        "nome": "2 HISTOPATOLOGICO - RETIFICACAO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1435,
+        "nome": "1 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES) - RETIFICACA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1436,
+        "nome": "2 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES) - RETIFICACA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1454,
+        "nome": "1 NECROPSIA DE EMBRIAO/FETO ATE 500 GRAMAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1485,
+        "nome": "9 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 40601021
+    },
+    {
+        "id": 1491,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (11ª AMOSTRA)\t",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1492,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (11ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1497,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (12ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1532,
+        "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 40601021
+    },
+    {
+        "id": 1533,
+        "nome": "6 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 40601021
+    },
+    {
+        "id": 1534,
+        "nome": "8 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 40601021
+    },
+    {
+        "id": 1535,
+        "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 40601021
+    },
+    {
+        "id": 1536,
+        "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 40601021
+    },
+    {
+        "id": 1622,
+        "nome": "HISTOPATOLOGICO VETERINARIO 10",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1687,
+        "nome": "22 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1688,
+        "nome": "23 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1689,
+        "nome": "24 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1690,
+        "nome": "25 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1691,
+        "nome": "26 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1692,
+        "nome": "27 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1693,
+        "nome": "28 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1718,
+        "nome": "PUNCAO BIOPSIA/ASPIRATIVA DE ORGAO OU ESTRUTURA SUPERFICIAL ORIENTADA ",
+        "preço": 0,
+        "código": 40601072
+    },
+    {
+        "id": 1721,
+        "nome": "PUNCAO BIOPSIA/ASPIRATIVA DE ORGAO OU ESTRUTURA SUPERFICIAL ORIENTADA ",
+        "preço": 0,
+        "código": 40601072
+    },
+    {
+        "id": 1817,
+        "nome": "DETECCAO DO HPV DE ALTO RISCO POR PCR",
+        "preço": 0,
+        "código": 0
+    },
+    {
+        "id": 1819,
+        "nome": "1 FAT PAINEL INFECCOES SEXUALMENTE TRANSMISSIVEIS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 2050,
+        "nome": "29 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 2051,
+        "nome": "30 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null
+    }
+]

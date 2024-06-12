@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1382,
+        "nome": "RX - PE OU PODODACTILOS",
+        "preço": 0,
+        "código": 40804097
+    },
+    {
+        "id": 1383,
+        "nome": "RX - PERNA",
+        "preço": 0,
+        "código": 40804070
+    },
+    {
+        "id": 1385,
+        "nome": "RX - SEIOS DA FACE",
+        "preço": 0,
+        "código": 40801063
+    },
+    {
+        "id": 1387,
+        "nome": "RX - TORAX - 1 INCIDENCIA",
+        "preço": 0,
+        "código": 40805018
+    },
+    {
+        "id": 1551,
+        "nome": "TC - FACE OU SEIOS DA FACE",
+        "preço": 0,
+        "código": 41001036
+    },
+    {
+        "id": 1556,
+        "nome": "TC - ABDOME TOTAL (ABDOME SUPERIOR, PELVE E RETROPERITONIO)",
+        "preço": 0,
+        "código": 41001095
+    },
+    {
+        "id": 1654,
+        "nome": "RX - PE OU PODODACTILOS",
+        "preço": 0,
+        "código": 40804097
+    },
+    {
+        "id": 1668,
+        "nome": "RX - PERNA",
+        "preço": 0,
+        "código": 40804070
+    }
+]

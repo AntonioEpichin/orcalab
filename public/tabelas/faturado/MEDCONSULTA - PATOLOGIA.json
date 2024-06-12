@@ -1,0 +1,554 @@
+[
+    {
+        "id": 470,
+        "nome": "1 HISTOPATOLOGICO ",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 472,
+        "nome": "1 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 40601200
+    },
+    {
+        "id": 477,
+        "nome": "1 COLORACAO ESPECIAL POR COLORACAO",
+        "preço": 0,
+        "código": 40601269
+    },
+    {
+        "id": 539,
+        "nome": "COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 40601137
+    },
+    {
+        "id": 626,
+        "nome": "CATECOLAMINAS",
+        "preço": 0,
+        "código": 40601196
+    },
+    {
+        "id": 648,
+        "nome": "DETECCAO E GENOTIPAGEM HPV DE ALTO RISCO",
+        "preço": 0,
+        "código": 40601293
+    },
+    {
+        "id": 717,
+        "nome": "5 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 745,
+        "nome": "1 FAT PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 40601323
+    },
+    {
+        "id": 746,
+        "nome": "2 FAT PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 40601323
+    },
+    {
+        "id": 747,
+        "nome": "3 FAT PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 40601323
+    },
+    {
+        "id": 748,
+        "nome": "4 FAT PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 40601323
+    },
+    {
+        "id": 749,
+        "nome": "1 FAT PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
+        "preço": 0,
+        "código": 40601196
+    },
+    {
+        "id": 751,
+        "nome": "1 FAT PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 40601200
+    },
+    {
+        "id": 764,
+        "nome": "REVISAO DE COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 40601137
+    },
+    {
+        "id": 768,
+        "nome": "1 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 40601226
+    },
+    {
+        "id": 770,
+        "nome": "FAT COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 40601137
+    },
+    {
+        "id": 780,
+        "nome": "1 FAT HISTOPATOLOGICO",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 783,
+        "nome": "5 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 40601200
+    },
+    {
+        "id": 784,
+        "nome": "6 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 40601200
+    },
+    {
+        "id": 785,
+        "nome": "7 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 40601200
+    },
+    {
+        "id": 786,
+        "nome": "8 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 40601200
+    },
+    {
+        "id": 787,
+        "nome": "9 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 40601200
+    },
+    {
+        "id": 788,
+        "nome": "HISTOPATOLOGICO VETERINARIO",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 789,
+        "nome": "HISTOPATOLOGICO VETERINARIO 2",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 790,
+        "nome": "HISTOPATOLOGICO VETERINARIO 3",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 791,
+        "nome": "HISTOPATOLOGICO VETERINARIO 4",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 792,
+        "nome": "HISTOPATOLOGICO VETERINARIO 5",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 793,
+        "nome": "HISTOPATOLOGICO VETERINARIO 6",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 794,
+        "nome": "HISTOPATOLOGICO VETERINARIO 7",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 795,
+        "nome": "HISTOPATOLOGICO VETERINARIO 8",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 796,
+        "nome": "HISTOPATOLOGICO VETERINARIO 9",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 839,
+        "nome": "1 PD EM CITOLOGIA HORMONAL ISOLADA",
+        "preço": 0,
+        "código": 40601137
+    },
+    {
+        "id": 843,
+        "nome": "1 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 872,
+        "nome": "1 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 40601323
+    },
+    {
+        "id": 873,
+        "nome": "2 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 40601323
+    },
+    {
+        "id": 874,
+        "nome": "3 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 40601323
+    },
+    {
+        "id": 875,
+        "nome": "4 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 40601323
+    },
+    {
+        "id": 876,
+        "nome": "1 PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
+        "preço": 0,
+        "código": 40601196
+    },
+    {
+        "id": 891,
+        "nome": "HIV 1 E 2 - TESTE RAPIDO ",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 892,
+        "nome": "HISTOPATOLOGICO VETERINARIO 13",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 893,
+        "nome": "HISTOPATOLOGICO VETERINARIO 14",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 894,
+        "nome": "HISTOPATOLOGICO VETERINARIO 15",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 895,
+        "nome": "HISTOPATOLOGICO VETERINARIO 16",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 896,
+        "nome": "HISTOPATOLOGICO VETERINARIO 17",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 897,
+        "nome": "HISTOPATOLOGICO VETERINARIO",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 898,
+        "nome": "HISTOPATOLOGICO VETERINARIO 2",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 899,
+        "nome": "HISTOPATOLOGICO VETERINARIO 3",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 900,
+        "nome": "HISTOPATOLOGICO VETERINARIO 4",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 901,
+        "nome": "HISTOPATOLOGICO VETERINARIO 5",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 944,
+        "nome": "TESTE SHIFT",
+        "preço": 0,
+        "código": 40601200
+    },
+    {
+        "id": 1035,
+        "nome": "HISTOPATOLOGICO VETERINARIO 4",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1036,
+        "nome": "HISTOPATOLOGICO VETERINARIO 5",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1039,
+        "nome": "HISTOPATOLOGICO VETERINARIO 6",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1118,
+        "nome": "HEPATITE C - TESTE RAPIDO",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1119,
+        "nome": "HEPATITE B - TESTE RAPIDO",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1156,
+        "nome": "HISTOPATOLOGICO VETERINARIO 7",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1165,
+        "nome": "HISTOPATOLOGICO VETERINARIO 8",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1170,
+        "nome": "2 COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 40601137
+    },
+    {
+        "id": 1247,
+        "nome": "8 FAT PD EM FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
+        "preço": 0,
+        "código": 40601196
+    },
+    {
+        "id": 1422,
+        "nome": "HIV 1 E 2 (EM GESTANTES) - TESTE RAPIDO",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1433,
+        "nome": "1 HISTOPATOLOGICO - RETIFICACAO",
+        "preço": 0,
+        "código": 40601200
+    },
+    {
+        "id": 1434,
+        "nome": "2 HISTOPATOLOGICO - RETIFICACAO",
+        "preço": 0,
+        "código": 40601200
+    },
+    {
+        "id": 1615,
+        "nome": "HISTOPATOLOGICO VETERINARIO 9",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1616,
+        "nome": "HISTOPATOLOGICO VETERINARIO 10",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1617,
+        "nome": "HISTOPATOLOGICO VETERINARIO 11",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1618,
+        "nome": "HISTOPATOLOGICO VETERINARIO 12",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1619,
+        "nome": "HISTOPATOLOGICO VETERINARIO 18",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1620,
+        "nome": "HISTOPATOLOGICO VETERINARIO 19",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1621,
+        "nome": "HISTOPATOLOGICO VETERINARIO 20",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1622,
+        "nome": "HISTOPATOLOGICO VETERINARIO 10",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1623,
+        "nome": "HISTOPATOLOGICO VETERINARIO 11",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1624,
+        "nome": "HISTOPATOLOGICO VETERINARIO 12",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1625,
+        "nome": "HISTOPATOLOGICO VETERINARIO 13",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1626,
+        "nome": "HISTOPATOLOGICO VETERINARIO 14",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1627,
+        "nome": "HISTOPATOLOGICO VETERINARIO 15",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1628,
+        "nome": "HISTOPATOLOGICO VETERINARIO 16",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1629,
+        "nome": "HISTOPATOLOGICO VETERINARIO 17",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1630,
+        "nome": "HISTOPATOLOGICO VETERINARIO 18",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1631,
+        "nome": "HISTOPATOLOGICO VETERINARIO 19",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1632,
+        "nome": "HISTOPATOLOGICO VETERINARIO 20",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1687,
+        "nome": "22 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 40601226
+    },
+    {
+        "id": 1688,
+        "nome": "23 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 40601226
+    },
+    {
+        "id": 1689,
+        "nome": "24 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 40601226
+    },
+    {
+        "id": 1690,
+        "nome": "25 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 40601226
+    },
+    {
+        "id": 1691,
+        "nome": "26 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 40601226
+    },
+    {
+        "id": 1692,
+        "nome": "27 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 40601226
+    },
+    {
+        "id": 1693,
+        "nome": "28 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 40601226
+    },
+    {
+        "id": 1767,
+        "nome": "9 FAT PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
+        "preço": 0,
+        "código": 40601196
+    },
+    {
+        "id": 1768,
+        "nome": "10 FAT PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
+        "preço": 0,
+        "código": 40601196
+    },
+    {
+        "id": 1817,
+        "nome": "DETECCAO DO HPV DE ALTO RISCO POR PCR",
+        "preço": 0,
+        "código": 40601293
+    },
+    {
+        "id": 2050,
+        "nome": "29 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 40601226
+    },
+    {
+        "id": 2051,
+        "nome": "30 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 40601226
+    }
+]

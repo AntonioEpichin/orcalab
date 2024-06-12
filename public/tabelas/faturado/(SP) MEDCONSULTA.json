@@ -1,0 +1,146 @@
+[
+    {
+        "id": 997,
+        "nome": "US - MAMAS FEMININA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1017,
+        "nome": "US - TRANSVAGINAL (UTERO, OVARIO, ANEXOS E VAGINA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1338,
+        "nome": "RX - ABDOME SIMPLES",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1339,
+        "nome": "RX - ADENOIDES OU CAVUM",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1344,
+        "nome": "RX - ARTICULACAO COXOFEMORAL (QUADRIL)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1346,
+        "nome": "RX - ARTICULACAO ESTERNOCLAVICULAR",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1348,
+        "nome": "RX - ARTICULACAO TIBIOTARSICA (TORNOZELO)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1349,
+        "nome": "RX - BACIA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1350,
+        "nome": "RX - BRACO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1354,
+        "nome": "RX - COLUNA CERVICAL - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1357,
+        "nome": "RX - COLUNA LOMBO-SACRA - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1364,
+        "nome": "RX - CRANIO - 2 INCIDENCIAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1365,
+        "nome": "RX - CRANIO - 4 INCIDENCIAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1366,
+        "nome": "RX - CRANIO - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1385,
+        "nome": "RX - SEIOS DA FACE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1387,
+        "nome": "RX - TORAX - 1 INCIDENCIA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1388,
+        "nome": "RX - TORAX - 2 INCIDENCIAS ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1402,
+        "nome": "RX - ABDOME AGUDO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1423,
+        "nome": "US - MAMAS MASCULINA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1483,
+        "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1518,
+        "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR (OU DOIS SEGMENTOS)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1637,
+        "nome": "RX - ARTICULACAO TIBIOTARSICA (TORNOZELO)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1672,
+        "nome": "RX - ARTICULACAO COXOFEMORAL (QUADRIL)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1742,
+        "nome": "US - MAMAS FEMININA - UNIMED",
+        "preço": 0,
+        "código": null
+    }
+]

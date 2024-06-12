@@ -1,0 +1,338 @@
+[
+    {
+        "id": 56,
+        "nome": "ANTI-DNA ",
+        "preço": 0,
+        "código": 40306062
+    },
+    {
+        "id": 93,
+        "nome": "BACTERIOSCOPIA - DIVERSOS MATERIAIS (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310060
+    },
+    {
+        "id": 296,
+        "nome": "ANTIENDOMISIO IGG",
+        "preço": 0,
+        "código": 40306259
+    },
+    {
+        "id": 349,
+        "nome": "ANTICORPOS ANTI MIELOPEROXIDASE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 446,
+        "nome": "FLUOR URINARIO - INICIO DA JORNADA DE TRABALHO",
+        "preço": 0,
+        "código": 28150155
+    },
+    {
+        "id": 450,
+        "nome": "CURVA GLICEMICA POS DEXTROSOL - 2 DOSAGENS (J.60)",
+        "preço": 0,
+        "código": 40302709
+    },
+    {
+        "id": 462,
+        "nome": "GLICOSE - 1 HORA POS DEXTROSOL (J.60)",
+        "preço": 0,
+        "código": 40302709
+    },
+    {
+        "id": 467,
+        "nome": "GLICOSE - 3 HORAS POS DEXTROSOL",
+        "preço": 0,
+        "código": 40302709
+    },
+    {
+        "id": 475,
+        "nome": "TIREOGLOBULINA - PUNCAO (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 28050800
+    },
+    {
+        "id": 618,
+        "nome": "ROTINA DE LIQUOR",
+        "preço": 0,
+        "código": 40309100
+    },
+    {
+        "id": 625,
+        "nome": "ACIDOS BILIARES",
+        "preço": 0,
+        "código": 40601226
+    },
+    {
+        "id": 627,
+        "nome": "CADMIO",
+        "preço": 0,
+        "código": 40313190
+    },
+    {
+        "id": 659,
+        "nome": "TROPONINA - TESTE RAPIDO",
+        "preço": 0,
+        "código": 40302571
+    },
+    {
+        "id": 738,
+        "nome": "1 FAT PD EM PAINEL DE HIBRIDIZACAO IN SITU",
+        "preço": 0,
+        "código": 40601285
+    },
+    {
+        "id": 741,
+        "nome": "1 FAT PD POR CAPTURA HIBRIDA",
+        "preço": 0,
+        "código": 40601293
+    },
+    {
+        "id": 753,
+        "nome": "CA 27-29",
+        "preço": 0,
+        "código": 0
+    },
+    {
+        "id": 771,
+        "nome": "ESQUISTOSSOMOSE IGG",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 864,
+        "nome": "1 PD EM PAINEL DE HIBRIDIZACAO IN SITU",
+        "preço": 0,
+        "código": 40601285
+    },
+    {
+        "id": 868,
+        "nome": "1 PD POR CAPTURA HIBRIDA",
+        "preço": 0,
+        "código": 40601293
+    },
+    {
+        "id": 891,
+        "nome": "HIV 1 E 2 - TESTE RAPIDO ",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 965,
+        "nome": "_HER2 FISH PARA AMPLIFICACAO GENETICA EM TUMOR DE MAMA",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 971,
+        "nome": "TIREOGLOBULINA - PUNCAO (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 28050800
+    },
+    {
+        "id": 972,
+        "nome": "TIREOGLOBULINA - PUNCAO (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 28050800
+    },
+    {
+        "id": 989,
+        "nome": "AQUAPORINA 4 (AQP4) - LIQUOR",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1019,
+        "nome": "US - PROSTATA (VIA ABDOMINAL)",
+        "preço": 0,
+        "código": 40901173
+    },
+    {
+        "id": 1040,
+        "nome": "PESQUISA DE VRE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1041,
+        "nome": "PESQUISA DE ESBL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1084,
+        "nome": "CHUMBO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1114,
+        "nome": "CITOMEGALOVIRUS (QUANTITATIVO) POR PCR",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1116,
+        "nome": "CITOMEGALOVIRUS (QUALITATIVO) POR PCR - DIVERSOS MATERIAIS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1118,
+        "nome": "HEPATITE C - TESTE RAPIDO",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1119,
+        "nome": "HEPATITE B - TESTE RAPIDO",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1134,
+        "nome": "ROTINA LCR QUIMIOCITOLOGICO ",
+        "preço": 0,
+        "código": 40309100
+    },
+    {
+        "id": 1182,
+        "nome": "ANTICORPOS BETA 2 GLICOPROTEINA I - IGA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1185,
+        "nome": "PESQUISA DE BANDAS OLIGOCLONAIS POR ISOFOCALIZACAO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1194,
+        "nome": "AMONIA - URINA 24H",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1238,
+        "nome": "COBRE ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1249,
+        "nome": "TIREOGLOBULINA - PUNCAO (4ª AMOSTRA)",
+        "preço": 0,
+        "código": 28050800
+    },
+    {
+        "id": 1264,
+        "nome": "HORMONIO ANTI MULERIANO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1272,
+        "nome": "CITOMEGALOVIRUS (QUANTITATIVO) POR PCR - URINA RECENTE",
+        "preço": 0,
+        "código": 40314030
+    },
+    {
+        "id": 1283,
+        "nome": "HERPES SIMPLEX TIPO 1 E 2 POR PCR",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1284,
+        "nome": "ANALISE DE DNA PELA TECNICA MULTIPLEX POR LOCUS EXTRA, POR AMOSTRA",
+        "preço": 0,
+        "código": 40503054
+    },
+    {
+        "id": 1285,
+        "nome": "EXTRACAO DE DNA (SANGUE, URINA, LIQUIDO AMINIOTICO, VILO TROFOBLASTICO",
+        "preço": 0,
+        "código": 40503097
+    },
+    {
+        "id": 1422,
+        "nome": "HIV 1 E 2 (EM GESTANTES) - TESTE RAPIDO",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1461,
+        "nome": "CLOSTRIDIUM DIFFICILE POR PCR - FEZES",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1483,
+        "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1484,
+        "nome": "CITOMEGALOVIRUS (QUANTITATIVO) POR PCR - LIQUOR",
+        "preço": 0,
+        "código": 40314030
+    },
+    {
+        "id": 1518,
+        "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR (OU DOIS SEGMENTOS)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1531,
+        "nome": "CITOMEGALOVIRUS (QUALITATIVO) POR PCR - LIQUOR",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1652,
+        "nome": "TROPONINA (QUANTITATIVO)",
+        "preço": 0,
+        "código": 40302571
+    },
+    {
+        "id": 1892,
+        "nome": "TROPONINA (QUANTITATIVO) AMOSTRA 2",
+        "preço": 0,
+        "código": 40302571
+    },
+    {
+        "id": 1893,
+        "nome": "TROPONINA (QUANTITATIVO) AMOSTRA 3",
+        "preço": 0,
+        "código": 40302571
+    },
+    {
+        "id": 1894,
+        "nome": "TROPONINA (QUANTITATIVO) AMOSTRA 4",
+        "preço": 0,
+        "código": 40302571
+    },
+    {
+        "id": 1921,
+        "nome": "ÁCIDO VANIL MANDELICO AMOSTRA ISOLADA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 2039,
+        "nome": "CITOMEGALOVÍRUS - DETECÇÃO POR PCR",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 2076,
+        "nome": "HERPES SIMPLEX TIPO 1 E 2 POR PCR",
+        "preço": 0,
+        "código": null
+    }
+]

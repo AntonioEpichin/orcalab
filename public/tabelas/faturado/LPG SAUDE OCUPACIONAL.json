@@ -1,0 +1,92 @@
+[
+    {
+        "id": 54,
+        "nome": "HEPATITE B - HBSAC - (ANTI ANTIGENO DE SUPERFICIE)",
+        "preço": 0,
+        "código": 40306992
+    },
+    {
+        "id": 59,
+        "nome": "HEPATITE B - HBSAG - (AU, ANTIGENO AUSTRALIA) ",
+        "preço": 0,
+        "código": 40307018
+    },
+    {
+        "id": 60,
+        "nome": "HEPATITE B - ANTI HBC TOTAL",
+        "preço": 0,
+        "código": 40306950
+    },
+    {
+        "id": 127,
+        "nome": "SIFILIS - VDRL",
+        "preço": 0,
+        "código": 40307760
+    },
+    {
+        "id": 130,
+        "nome": "HCV (ANTICORPOS CONTRA O VIRUS DA HEPATITE C)",
+        "preço": 0,
+        "código": 40307026
+    },
+    {
+        "id": 139,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 40303110
+    },
+    {
+        "id": 140,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 40303110
+    },
+    {
+        "id": 536,
+        "nome": "HEMOGRAMA COMPLETO",
+        "preço": 0,
+        "código": 40304361
+    },
+    {
+        "id": 558,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 40303110
+    },
+    {
+        "id": 578,
+        "nome": "GLICOSE",
+        "preço": 0,
+        "código": 40302040
+    },
+    {
+        "id": 904,
+        "nome": "EAS - EXAME DE URINA",
+        "preço": 0,
+        "código": 40311210
+    },
+    {
+        "id": 1837,
+        "nome": "ANTIGENO AUSTRALIA (HBSAG)",
+        "preço": 0,
+        "código": 40307018
+    },
+    {
+        "id": 1856,
+        "nome": "HEPATITE C - ANTI-HCV",
+        "preço": 0,
+        "código": 40307026
+    },
+    {
+        "id": 2010,
+        "nome": "GLICOSE POS DIALISE",
+        "preço": 0,
+        "código": 40302040
+    },
+    {
+        "id": 2048,
+        "nome": "SIFILIS - VDRL",
+        "preço": 0,
+        "código": 40307760
+    }
+]

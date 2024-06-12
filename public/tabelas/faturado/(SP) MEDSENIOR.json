@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1473,
+        "nome": "DENSITOMETRIA OSSEA (1 SEGMENTO)",
+        "preço": 0,
+        "código": 40808122
+    },
+    {
+        "id": 1474,
+        "nome": "ELETROCARDIOGRAMA (ECG)",
+        "preço": 0,
+        "código": 40101010
+    },
+    {
+        "id": 1475,
+        "nome": "TESTE ERGOMETRICO CONVENCIONAL - 3 OU MAIS DERIVACOES SIMULTANEAS",
+        "preço": 0,
+        "código": 40101045
+    },
+    {
+        "id": 1518,
+        "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR (OU DOIS SEGMENTOS)",
+        "preço": 0,
+        "código": 40808130
+    }
+]

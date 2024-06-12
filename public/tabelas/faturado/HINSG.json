@@ -1,0 +1,110 @@
+[
+    {
+        "id": 476,
+        "nome": "1 PD EM REV. LAMINAS OU CORTES HISTOLOGICOS SERIADOS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 717,
+        "nome": "5 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 718,
+        "nome": "2 FAT PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 719,
+        "nome": "3 FAT PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 720,
+        "nome": "4 FAT PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 721,
+        "nome": "1 FAT PD EM REACAO IMUNOISTOQUIMICA ISOLADA",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 722,
+        "nome": "2 FAT PD EM REACAO IMUNOISTOQUIMICA ISOLADA",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 843,
+        "nome": "1 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 844,
+        "nome": "2 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 845,
+        "nome": "3 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 846,
+        "nome": "4 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 1305,
+        "nome": "PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES) - REVISAO",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 1327,
+        "nome": "6 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 1328,
+        "nome": "7 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 1329,
+        "nome": "8 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 1330,
+        "nome": "9 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 1435,
+        "nome": "1 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES) - RETIFICACA",
+        "preço": 0,
+        "código": 40601170
+    },
+    {
+        "id": 1436,
+        "nome": "2 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES) - RETIFICACA",
+        "preço": 0,
+        "código": 40601170
+    }
+]

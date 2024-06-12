@@ -1,0 +1,158 @@
+[
+    {
+        "id": 93,
+        "nome": "BACTERIOSCOPIA - DIVERSOS MATERIAIS (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310060
+    },
+    {
+        "id": 141,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (1ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 146,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 185,
+        "nome": "CULTURA - FUNGOS (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310140
+    },
+    {
+        "id": 272,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (3ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 308,
+        "nome": "CULTURA - FUNGOS (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310140
+    },
+    {
+        "id": 383,
+        "nome": "CULTURA - FUNGOS (4ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310140
+    },
+    {
+        "id": 511,
+        "nome": "ANTIBIOGRAMA - FUNGOS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 539,
+        "nome": "COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 40601137
+    },
+    {
+        "id": 640,
+        "nome": "CULTURA - FUNGOS (5ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310140
+    },
+    {
+        "id": 648,
+        "nome": "DETECCAO E GENOTIPAGEM HPV DE ALTO RISCO",
+        "preço": 0,
+        "código": 40601293
+    },
+    {
+        "id": 872,
+        "nome": "1 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 40601323
+    },
+    {
+        "id": 907,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS",
+        "preço": 0,
+        "código": 40310400
+    },
+    {
+        "id": 909,
+        "nome": "CULTURA - FUNGOS (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310140
+    },
+    {
+        "id": 911,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310400
+    },
+    {
+        "id": 980,
+        "nome": "STREPTOCOCCUS AGALACTIAE (BETA HEMOLITICO DO GRUPO B)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1064,
+        "nome": "CULTURA - FUNGOS (20ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310140
+    },
+    {
+        "id": 1065,
+        "nome": "CULTURA - FUNGOS (19ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310140
+    },
+    {
+        "id": 1066,
+        "nome": "CULTURA - FUNGOS (6ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310140
+    },
+    {
+        "id": 1067,
+        "nome": "CULTURA - FUNGOS (18ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310140
+    },
+    {
+        "id": 1068,
+        "nome": "CULTURA - FUNGOS (17ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310140
+    },
+    {
+        "id": 1164,
+        "nome": "STREPTOCOCCUS AGALACTIAE (BETA HEMOLITICO DO GRUPO B) (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1291,
+        "nome": "PAINEL INFECCOES SEXUALMENTE TRANSMISSIVEIS",
+        "preço": 0,
+        "código": 40601285
+    },
+    {
+        "id": 1817,
+        "nome": "DETECCAO DO HPV DE ALTO RISCO POR PCR",
+        "preço": 0,
+        "código": 40601293
+    },
+    {
+        "id": 1819,
+        "nome": "1 FAT PAINEL INFECCOES SEXUALMENTE TRANSMISSIVEIS",
+        "preço": 0,
+        "código": 40601293
+    },
+    {
+        "id": 1824,
+        "nome": "ANTIBIOGRAMA - FUNGOS (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    }
+]

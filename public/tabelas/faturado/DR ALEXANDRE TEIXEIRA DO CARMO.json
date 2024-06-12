@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1473,
+        "nome": "DENSITOMETRIA OSSEA (1 SEGMENTO)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1518,
+        "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR (OU DOIS SEGMENTOS)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1710,
+        "nome": "DENSITOMETRIA OSSEA - CORPO INTEIRO ",
+        "preço": 0,
+        "código": null
+    }
+]

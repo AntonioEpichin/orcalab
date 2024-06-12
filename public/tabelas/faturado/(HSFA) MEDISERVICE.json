@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1008,
+        "nome": "US - ESTRUTURAS SUPERFICIAIS (CERVICAL)",
+        "preço": 0,
+        "código": 40901211
+    },
+    {
+        "id": 1009,
+        "nome": "US - ESTRUTURAS SUPERFICIAIS (AXILAS)",
+        "preço": 0,
+        "código": 40901211
+    },
+    {
+        "id": 1243,
+        "nome": "US - ESTRUTURAS SUPERFICIAIS (PAREDE ABDOMINAL)",
+        "preço": 0,
+        "código": 40901211
+    },
+    {
+        "id": 1479,
+        "nome": "US - ESTRUTURAS SUPERFICIAIS (MUSCULO)",
+        "preço": 0,
+        "código": 40901211
+    },
+    {
+        "id": 1653,
+        "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
+        "preço": 0,
+        "código": 41101227
+    },
+    {
+        "id": 1656,
+        "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
+        "preço": 0,
+        "código": 41101227
+    },
+    {
+        "id": 1732,
+        "nome": "US - ESTRUTURAS SUPERFICIAIS (TENDAO)",
+        "preço": 0,
+        "código": 40901211
+    },
+    {
+        "id": 1770,
+        "nome": "US - ESTRUTURAS SUPERFICIAIS (MUSCULO)",
+        "preço": 0,
+        "código": 40901211
+    },
+    {
+        "id": 1786,
+        "nome": "US - ESTRUTURAS SUPERFICIAIS (TENDAO)",
+        "preço": 0,
+        "código": 40901211
+    },
+    {
+        "id": 2063,
+        "nome": "US - ESTRUTURAS SUPERFICIAIS (AXILAS)",
+        "preço": 0,
+        "código": 40901211
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1222,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 40316203
+    },
+    {
+        "id": 1231,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 40316203
+    },
+    {
+        "id": 1290,
+        "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 40316203
+    },
+    {
+        "id": 1331,
+        "nome": "CONSULTA EM CONSULTORIO (NO HORARIO NORMAL OU PREESTABELECIDO)",
+        "preço": 0,
+        "código": 10101012
+    },
+    {
+        "id": 2128,
+        "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 5 DOSAGENS (J.60.90.120.150)",
+        "preço": 0,
+        "código": 40316203
+    }
+]

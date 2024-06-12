@@ -1,0 +1,704 @@
+[
+    {
+        "id": 2,
+        "nome": "ACIDO CITRICO - URINA 24H",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 16,
+        "nome": "CURVA INSULINICA - 6 DOSAGENS (J.60.120.180.240.300)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 56,
+        "nome": "ANTI-DNA ",
+        "preço": 0,
+        "código": 40306062
+    },
+    {
+        "id": 78,
+        "nome": "ANTIGENO CA 72-4",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 93,
+        "nome": "BACTERIOSCOPIA - DIVERSOS MATERIAIS (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310060
+    },
+    {
+        "id": 94,
+        "nome": "BACTERIOSCOPIA - FEZES",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 123,
+        "nome": "PROTEINA - URINA 24H",
+        "preço": 0,
+        "código": 40311171
+    },
+    {
+        "id": 166,
+        "nome": "HEPATITE B - ANTI HBC IGM",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 167,
+        "nome": "HEPATITE B - HBEAG - (ANTIGENO \"E\")",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 173,
+        "nome": "CORTISOL BASAL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 197,
+        "nome": "HTLV 1 E 2 ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 204,
+        "nome": "CICLOSPORINA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 210,
+        "nome": "LEVEDURAS - FEZES (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 268,
+        "nome": "IGE ESPECIFICO - FORMIGA DO FOGO (I70)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 270,
+        "nome": "HEMOGLOBINOPATIA - TESTE DO PEZINHO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 271,
+        "nome": "IGE ESPECIFICO - PERNILONGO AEDES COMMUNIS (I71)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 274,
+        "nome": "IGE ESPECIFICO - VENENO DE ABELHA (I1)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 276,
+        "nome": "IGE ESPECIFICO - MILHO (F8)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 277,
+        "nome": "IGF BP3 - PROTEINA LIGADORA-3 DO IGF",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 278,
+        "nome": "IGE ESPECIFICO - CAMARAO (F24)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 283,
+        "nome": "INSULINA - 2 HORAS POS DEXTROSOL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 284,
+        "nome": "IGE ESPECIFICO - GATO (PELO E CASPA) (E1)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 289,
+        "nome": "IGE ESPECIFICO - GEMA DE OVO (F75)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 292,
+        "nome": "GLICOSE - 1 HORA POS DEXTROSOL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 293,
+        "nome": "BACTERIOSCOPIA - DIVERSOS MATERIAIS (4ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 296,
+        "nome": "ANTIENDOMISIO IGG",
+        "preço": 0,
+        "código": 40306259
+    },
+    {
+        "id": 297,
+        "nome": "LEPTOSPIROSE IGM ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 298,
+        "nome": "ANTIMUSCULO LISO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 307,
+        "nome": "CERULOPLASMINA ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 314,
+        "nome": "PATERNIDADE - FILHO, MAE E SUPOSTO PAI",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 316,
+        "nome": "ANTICORPOS ANTI-ILHOTAS DE LANGERHANS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 317,
+        "nome": "HISTONA ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 320,
+        "nome": "IGE ESPECIFICO - PEIXE BACALHAU (F3)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 321,
+        "nome": "IGE ESPECIFICO - LAGOSTA (F80)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 325,
+        "nome": "MACROPROLACTINA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 328,
+        "nome": "SHBG (GLOBULINA LIGADORA DOS HORMONIOS SEXUAIS)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 334,
+        "nome": "ACTH HORMONIO ADRENOCORTICOTROFICO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 342,
+        "nome": "TOXOPLASMOSE IGM - TESTE DO PEZINHO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 349,
+        "nome": "ANTICORPOS ANTI MIELOPEROXIDASE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 350,
+        "nome": "LARVAS - FEZES",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 353,
+        "nome": "ANTI-JO1",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 358,
+        "nome": "PSA LIVRE (NAO INCLUI PSA TOTAL)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 366,
+        "nome": "VARICELLA ZOSTER IGM ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 376,
+        "nome": "COCAINA - URINA RECENTE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 377,
+        "nome": "TETRAHIDROCANABINOL (MACONHA) - URINA RECENTE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 382,
+        "nome": "VITAMINA B6",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 386,
+        "nome": "PESQUISA DE OVOS E CISTOS DE PARASITAS - FEZES",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 388,
+        "nome": "VARICELLA ZOSTER IGG",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 390,
+        "nome": "ANTI-CCP (ANTI PEPTIDIO CITRULINADO CICLICO)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 396,
+        "nome": "SUBPOPULACAO LINFOCITARIA CD3-CD4-CD8",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 400,
+        "nome": "HEMOGLOBINA FETAL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 408,
+        "nome": "CELULAS NK",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 439,
+        "nome": "17-HIDROXIPREGNENOLONA ",
+        "preço": 0,
+        "código": 28050894
+    },
+    {
+        "id": 466,
+        "nome": "ANFETAMINAS - URINA RECENTE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 475,
+        "nome": "TIREOGLOBULINA - PUNCAO (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 28050800
+    },
+    {
+        "id": 617,
+        "nome": "LIQUIDO SINOVIAL - DIVERSOS MATERIAIS ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 618,
+        "nome": "ROTINA DE LIQUOR",
+        "preço": 0,
+        "código": 40309100
+    },
+    {
+        "id": 625,
+        "nome": "ACIDOS BILIARES",
+        "preço": 0,
+        "código": 40601226
+    },
+    {
+        "id": 632,
+        "nome": "CA 50",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 659,
+        "nome": "TROPONINA - TESTE RAPIDO",
+        "preço": 0,
+        "código": 40302571
+    },
+    {
+        "id": 757,
+        "nome": "ANTICORPOS ANTI CHIKUNGUNYA IGG E IGM",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 771,
+        "nome": "ESQUISTOSSOMOSE IGG",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 878,
+        "nome": "PESQUISA DE FUNGOS (TINTA DA CHINA) - LIQUOR",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 879,
+        "nome": "RELACAO PROTEINA/CREATININA - URINA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 891,
+        "nome": "HIV 1 E 2 - TESTE RAPIDO ",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 902,
+        "nome": "VITAMINA B3",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 903,
+        "nome": "VIRUS ZIKA POR PCR",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 935,
+        "nome": "PESQUISA DE SANGUE HUMANO - FEZES",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 956,
+        "nome": "EXAME TOXICOLOGICO - CABELO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 957,
+        "nome": "TOXOPLASMOSE IGG - AVIDEZ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 980,
+        "nome": "STREPTOCOCCUS AGALACTIAE (BETA HEMOLITICO DO GRUPO B)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 981,
+        "nome": "PESQUISA DE MUCO - FEZES",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 983,
+        "nome": "IGE ESPECIFICO - UVA (F259)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1042,
+        "nome": "PESQUISA DE MRSA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1085,
+        "nome": "CHUMBO - URINA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1090,
+        "nome": "MICOPLASMA PNEUMONIAE IGM",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1091,
+        "nome": "PESQUISA DE FUNGOS (TINTA DA CHINA) (2ª AMOSTRA) - LIQUOR",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1099,
+        "nome": "IGE MULTIPLO - FUNGOS (MX1)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1101,
+        "nome": "IGE ESPECIFICO - QUEIJO TIPO CHEDDAR (F81)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1103,
+        "nome": "HIV 1 E 2 - CARGA VIRAL (QUANTITATIVO) POR PCR",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1104,
+        "nome": "CHAGAS IGG ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1105,
+        "nome": "CHAGAS IGM",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1106,
+        "nome": "FATOR V DE LEIDEN - PCR ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1107,
+        "nome": "MUTACAO DA PROTROMBINA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1135,
+        "nome": "MICROALBUMINURIA - URINA 24H",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1145,
+        "nome": "PESQUISA DE SANGUE HUMANO NAS FEZES (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1146,
+        "nome": "PESQUISA DE SANGUE HUMANO NAS FEZES (3ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1155,
+        "nome": "IGE ESPECIFICO - CASTANHA DE CAJU (F202)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1160,
+        "nome": "INSULINA LIVRE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1164,
+        "nome": "STREPTOCOCCUS AGALACTIAE (BETA HEMOLITICO DO GRUPO B) (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1198,
+        "nome": "HIV 1 E 2 (QUALITATIVO) POR PCR",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1206,
+        "nome": "CADEIA KAPPA-LAMBDA LEVE LIVRE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1229,
+        "nome": "PROTEINURIA - URINA RECENTE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1238,
+        "nome": "COBRE ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1240,
+        "nome": "PESQUISA DE FUNGOS (A FRESCO)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1241,
+        "nome": "BACTERIOSCOPIA - DIVERSOS MATERIAIS (5ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1242,
+        "nome": "BACTERIOSCOPIA - DIVERSOS MATERIAIS (6ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1264,
+        "nome": "HORMONIO ANTI MULERIANO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1335,
+        "nome": "PROTEINA C REATIVA (QUALITATIVA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1399,
+        "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR",
+        "preço": 0,
+        "código": 40314618
+    },
+    {
+        "id": 1422,
+        "nome": "HIV 1 E 2 (EM GESTANTES) - TESTE RAPIDO",
+        "preço": 0,
+        "código": 40601110
+    },
+    {
+        "id": 1464,
+        "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR - LAUDO INGLES",
+        "preço": 0,
+        "código": 40314618
+    },
+    {
+        "id": 1493,
+        "nome": "PESQUISA DE MULTI-R ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1495,
+        "nome": "SARS-COV IGG (QUANTITATIVO) - PESSOAS VACINADAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1520,
+        "nome": "PESQUISA DE FUNGOS (A FRESCO) (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1521,
+        "nome": "PESQUISA DE FUNGOS (A FRESCO) (3ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1522,
+        "nome": "PESQUISA DE FUNGOS (A FRESCO) (4ª AMOSTRA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1652,
+        "nome": "TROPONINA (QUANTITATIVO)",
+        "preço": 0,
+        "código": 40302571
+    },
+    {
+        "id": 1892,
+        "nome": "TROPONINA (QUANTITATIVO) AMOSTRA 2",
+        "preço": 0,
+        "código": 40302571
+    },
+    {
+        "id": 1893,
+        "nome": "TROPONINA (QUANTITATIVO) AMOSTRA 3",
+        "preço": 0,
+        "código": 40302571
+    },
+    {
+        "id": 1894,
+        "nome": "TROPONINA (QUANTITATIVO) AMOSTRA 4",
+        "preço": 0,
+        "código": 40302571
+    },
+    {
+        "id": 1942,
+        "nome": "IGE ESPECIFICO - CAMARAO (F24)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1944,
+        "nome": "IGE ESPECIFICO - GEMA DE OVO (F75)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1954,
+        "nome": "IGE ESPECIFICO - GATO (PELO E CASPA) (E1)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1989,
+        "nome": "EXAME TOXICOLOGICO - CABELO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 2045,
+        "nome": "PESQUISA DE MRSA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 2059,
+        "nome": "PESQUISA DE FUNGOS (KOH)",
+        "preço": 0,
+        "código": null
+    }
+]

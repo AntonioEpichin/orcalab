@@ -1,0 +1,140 @@
+[
+    {
+        "id": 3,
+        "nome": "ELETROFORESE DE HEMOGLOBINA",
+        "preço": 0,
+        "código": 40304353
+    },
+    {
+        "id": 27,
+        "nome": "TRIIODOTIRONINA (T3) ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 42,
+        "nome": "TESTOSTERONA LIVRE",
+        "preço": 0,
+        "código": 40316505
+    },
+    {
+        "id": 54,
+        "nome": "HEPATITE B - HBSAC - (ANTI ANTIGENO DE SUPERFICIE)",
+        "preço": 0,
+        "código": 40306992
+    },
+    {
+        "id": 152,
+        "nome": "PSA TOTAL - ANTIGENO PROSTATICO ESPECIFICO",
+        "preço": 0,
+        "código": 40316130
+    },
+    {
+        "id": 169,
+        "nome": "TESTE DO PEZINHO - PLUS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 201,
+        "nome": "HERPES SIMPLES IGG",
+        "preço": 0,
+        "código": 40307585
+    },
+    {
+        "id": 202,
+        "nome": "HERPES SIMPLES IGM",
+        "preço": 0,
+        "código": 40307093
+    },
+    {
+        "id": 245,
+        "nome": "DENGUE IGG",
+        "preço": 0,
+        "código": 40306798
+    },
+    {
+        "id": 260,
+        "nome": "CATECOLAMINAS FRACIONADAS - URINA 24H",
+        "preço": 0,
+        "código": 40311058
+    },
+    {
+        "id": 261,
+        "nome": "CATECOLAMINAS",
+        "preço": 0,
+        "código": 40316173
+    },
+    {
+        "id": 300,
+        "nome": "DENGUE IGM",
+        "preço": 0,
+        "código": 40306798
+    },
+    {
+        "id": 328,
+        "nome": "SHBG (GLOBULINA LIGADORA DOS HORMONIOS SEXUAIS)",
+        "preço": 0,
+        "código": 40316300
+    },
+    {
+        "id": 374,
+        "nome": "1,25-DIHIDROXI VITAMINA D",
+        "preço": 0,
+        "código": 40305015
+    },
+    {
+        "id": 418,
+        "nome": "ALBUMINURIA - URINA RECENTE",
+        "preço": 0,
+        "código": 40311171
+    },
+    {
+        "id": 424,
+        "nome": "T3 REVERSO",
+        "preço": 0,
+        "código": 40316483
+    },
+    {
+        "id": 495,
+        "nome": "DIMERO D",
+        "preço": 0,
+        "código": 40304906
+    },
+    {
+        "id": 544,
+        "nome": "COAGULOGRAMA (TAP, PTTK, CONTAGEM DE PLAQUETAS)",
+        "preço": 0,
+        "código": 40304922
+    },
+    {
+        "id": 599,
+        "nome": "ACIDO URICO",
+        "preço": 0,
+        "código": 40301150
+    },
+    {
+        "id": 618,
+        "nome": "ROTINA DE LIQUOR",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1102,
+        "nome": "TESTOSTERONA TOTAL",
+        "preço": 0,
+        "código": 40316513
+    },
+    {
+        "id": 1134,
+        "nome": "ROTINA LCR QUIMIOCITOLOGICO ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1135,
+        "nome": "MICROALBUMINURIA - URINA 24H",
+        "preço": 0,
+        "código": 40311171
+    }
+]

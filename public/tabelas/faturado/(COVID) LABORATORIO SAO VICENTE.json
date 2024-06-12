@@ -1,0 +1,56 @@
+[
+    {
+        "id": 23,
+        "nome": "BETA HCG - QUANTITATIVO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 31,
+        "nome": "HCG, PESQUISA DE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 547,
+        "nome": "FIBRINOGENIO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 590,
+        "nome": "DESIDROGENASE LACTICA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 905,
+        "nome": "SODIO ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 906,
+        "nome": "POTASSIO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1399,
+        "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 2007,
+        "nome": "POTASSIO POS DIALISE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 2008,
+        "nome": "SODIO POS DIALISE",
+        "preço": 0,
+        "código": null
+    }
+]

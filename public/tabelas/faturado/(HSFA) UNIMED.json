@@ -1,0 +1,74 @@
+[
+    {
+        "id": 998,
+        "nome": "US - ABDOME TOTAL (ABDOME SUPERIOR, RINS, BEXIGA, AORTA, VEIA CAVA INF",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 999,
+        "nome": "US - ABDOME SUPERIOR (FIGADO, VIAS BILIARES, VESICULA, PANCREAS E BACO",
+        "preço": 0,
+        "código": 40901130
+    },
+    {
+        "id": 1003,
+        "nome": "US - ABDOME INFERIOR FEMININO (BEXIGA, UTERO, OVARIO E ANEXOS)",
+        "preço": 0,
+        "código": 40901181
+    },
+    {
+        "id": 1017,
+        "nome": "US - TRANSVAGINAL (UTERO, OVARIO, ANEXOS E VAGINA)",
+        "preço": 0,
+        "código": 40901300
+    },
+    {
+        "id": 1030,
+        "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO INFERIOR - UNILATERAL",
+        "preço": 0,
+        "código": 40901475
+    },
+    {
+        "id": 1031,
+        "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO INFERIOR - UNILATERAL",
+        "preço": 0,
+        "código": 40901483
+    },
+    {
+        "id": 1256,
+        "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO INFERIOR - UNILATERAL",
+        "preço": 0,
+        "código": 40901475
+    },
+    {
+        "id": 1320,
+        "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO INFERIOR - UNILATERAL",
+        "preço": 0,
+        "código": 40901483
+    },
+    {
+        "id": 1380,
+        "nome": "RX - PANORAMICA DE MANDIBULA (ORTOPANTOMOGRAFIA)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1591,
+        "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO INFERIOR - UNILATERAL - UNIMED",
+        "preço": 0,
+        "código": 40901475
+    },
+    {
+        "id": 1684,
+        "nome": "ARCO CIRURGICO - INTENSIFICADOR DE IMAGEM",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1734,
+        "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO INFERIOR - UNILATERAL - UNIMED",
+        "preço": 0,
+        "código": 40901475
+    }
+]

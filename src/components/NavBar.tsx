@@ -1,6 +1,6 @@
 'use client';
 
-import React from 'react';
+import React, { useState, SyntheticEvent } from 'react';
 import { styled, useTheme } from '@mui/material/styles';
 import Box from '@mui/material/Box';
 import MuiAppBar from '@mui/material/AppBar';
@@ -10,7 +10,7 @@ import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import AccountCircle from '@mui/icons-material/AccountCircle';
 import Badge from '@mui/material/Badge';
 import Link from 'next/link';
-import { SvgIcon, MenuItem, Select, Paper } from '@mui/material';
+import { SvgIcon, Paper, TextField, Autocomplete, AutocompleteRenderInputParams } from '@mui/material';
 import { useCart } from '../context/CartContext';
 import { useJsonFile } from '../context/JsonFileContext';
 
@@ -23,20 +23,47 @@ const AppBar = styled(MuiAppBar)(({ theme }) => ({
   }),
 }));
 
-const CustomSelect = styled(Select)(({ theme }) => ({
-  '& .MuiSelect-select': {
+const CustomAutocomplete = styled(Autocomplete)(({ theme }) => ({
+  '& .MuiAutocomplete-inputRoot': {
     fontWeight: 'bold',  // Make the selected item bold
+    padding: '2px 4px',  // Adjust padding for smaller size
+    color: 'gray',  // Change text color
+  },
+  '& .MuiAutocomplete-input': {
+    whiteSpace: 'nowrap',  // Prevent text from wrapping
+    overflow: 'hidden',  // Hide overflow text
+    textOverflow: 'ellipsis',  // Display ellipsis for overflow text
   },
 }));
+
+type TableOption = {
+  label: string;
+  value: string;
+};
+
+const tableOptions: TableOption[] = [
+  { label: 'PARTICULAR CREMASCO', value: 'tabelas/balcão/PARTICULAR CREMASCO.json' },
+  { label: 'INTERMEDICINA', value: 'tabelas/balcão/INTERMEDICINA.json' },
+  { label: 'PRECOS ESPECIAIS CREMASCO', value: 'tabelas/balcão/PRECOS ESPECIAIS CREMASCO.json' },
+  { label: 'MDG BENEFICIOS', value: 'tabelas/balcão/MDG BENEFICIOS.json' },
+  { label: 'YOU SAUDE - ANALISES CLINICAS', value: 'tabelas/faturado/YOU SAUDE - ANALISES CLINICAS.json' },
+  // Add more table options as needed
+];
 
 export default function NavBar() {
   const theme = useTheme();
   const { isCartOpen, toggleCart, cartItems, clearCart } = useCart();
   const { selectedFile, setSelectedFile } = useJsonFile();
+  const [inputValue, setInputValue] = useState('');
 
-  const handleFileChange = (event) => {
-    setSelectedFile(event.target.value);
-    clearCart(); // Clear the cart when a new file is selected
+  const handleFileChange = (
+    event: SyntheticEvent<Element, Event>,
+    newValue: TableOption | null
+  ) => {
+    if (newValue) {
+      setSelectedFile(newValue.value);
+      clearCart(); // Clear the cart when a new file is selected
+    }
   };
 
   return (
@@ -66,24 +93,39 @@ export default function NavBar() {
               color: theme.palette.text.primary,
               boxShadow: 'none',
               border: 'none',
+              minWidth: '361px',  // Adjust minimum width for more space
             }}
           >
-            <CustomSelect
-              value={selectedFile}
+            <CustomAutocomplete
+              value={tableOptions.find(option => option.value === selectedFile) || null}
               onChange={handleFileChange}
+              inputValue={inputValue}
+              onInputChange={(event, newInputValue) => setInputValue(newInputValue)}
+              options={tableOptions}
+              getOptionLabel={(option: TableOption) => option.label}
+              renderInput={(params: AutocompleteRenderInputParams) => (
+                <TextField
+                  {...params}
+                  placeholder="Select a table"
+                  sx={{
+                    '& .MuiOutlinedInput-input': {
+                      padding: theme.spacing(0.5, 1),
+                    },
+                    '& .MuiOutlinedInput-notchedOutline': {
+                      border: 'none',
+                    },
+                  }}
+                />
+              )}
               sx={{
+                width: '100%',
+                maxWidth: '361px',  // Adjust maximum width for more space
                 color: 'gray',
-                '& .MuiOutlinedInput-input': {
-                  padding: theme.spacing(0.5, 2),
-                },
-                '& .MuiOutlinedInput-notchedOutline': {
-                  border: 'none',
+                '& .MuiAutocomplete-option': {
+                  display: 'block',
                 },
               }}
-            >
-              <MenuItem value="tabelas/balcão/particularCremasco.json">Particular</MenuItem>
-              <MenuItem value="tabelas/balcão/precosEspeciais.json">Preços Especiais</MenuItem>
-            </CustomSelect>
+            />
           </Paper>
           <Box sx={{ display: 'flex', alignItems: 'center', ml: 2 }}>
             <IconButton

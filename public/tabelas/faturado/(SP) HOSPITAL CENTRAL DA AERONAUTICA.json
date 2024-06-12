@@ -1,0 +1,572 @@
+[
+    {
+        "id": 996,
+        "nome": "ECODOPPLERCARDIOGRAMA TRANSTORACICO",
+        "preço": 0,
+        "código": 40901106
+    },
+    {
+        "id": 997,
+        "nome": "US - MAMAS FEMININA",
+        "preço": 0,
+        "código": 40901114
+    },
+    {
+        "id": 998,
+        "nome": "US - ABDOME TOTAL (ABDOME SUPERIOR, RINS, BEXIGA, AORTA, VEIA CAVA INF",
+        "preço": 0,
+        "código": 40901122
+    },
+    {
+        "id": 1005,
+        "nome": "US - ORGAOS SUPERFICIAIS (ESCROTO)",
+        "preço": 0,
+        "código": 40901203
+    },
+    {
+        "id": 1006,
+        "nome": "US - ORGAOS SUPERFICIAIS (PENIS)",
+        "preço": 0,
+        "código": 40901203
+    },
+    {
+        "id": 1012,
+        "nome": "US - OBSTETRICA COM DOPPLER COLORIDO",
+        "preço": 0,
+        "código": 40901246
+    },
+    {
+        "id": 1017,
+        "nome": "US - TRANSVAGINAL (UTERO, OVARIO, ANEXOS E VAGINA)",
+        "preço": 0,
+        "código": 40901300
+    },
+    {
+        "id": 1021,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": 40901351
+    },
+    {
+        "id": 1022,
+        "nome": "DOPPLER COLORIDO DE AORTA E ARTERIAS RENAIS",
+        "preço": 0,
+        "código": 40901394
+    },
+    {
+        "id": 1023,
+        "nome": "DOPPLER COLORIDO DE AORTA E ILIACAS",
+        "preço": 0,
+        "código": 40901408
+    },
+    {
+        "id": 1024,
+        "nome": "DOPPLER COLORIDO DE ARTERIAS VISCERAIS",
+        "preço": 0,
+        "código": 40901416
+    },
+    {
+        "id": 1028,
+        "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO SUPERIOR - UNILATERAL",
+        "preço": 0,
+        "código": 40901459
+    },
+    {
+        "id": 1030,
+        "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO INFERIOR - UNILATERAL",
+        "preço": 0,
+        "código": 40901475
+    },
+    {
+        "id": 1338,
+        "nome": "RX - ABDOME SIMPLES",
+        "preço": 0,
+        "código": 40808017
+    },
+    {
+        "id": 1339,
+        "nome": "RX - ADENOIDES OU CAVUM",
+        "preço": 0,
+        "código": 40801128
+    },
+    {
+        "id": 1340,
+        "nome": "RX - ANTEBRACO",
+        "preço": 0,
+        "código": 40803104
+    },
+    {
+        "id": 1341,
+        "nome": "RX - ARCOS ZIGOMATICOS OU MALAR OU APOFISES ESTILOIDES",
+        "preço": 0,
+        "código": 40801101
+    },
+    {
+        "id": 1342,
+        "nome": "RX - ARTICULACAO TEMPOROMANDIBULAR - BILATERAL",
+        "preço": 0,
+        "código": 40801110
+    },
+    {
+        "id": 1343,
+        "nome": "RX - ARTICULACAO ACROMIOCLAVICULAR",
+        "preço": 0,
+        "código": 40803066
+    },
+    {
+        "id": 1344,
+        "nome": "RX - ARTICULACAO COXOFEMORAL (QUADRIL)",
+        "preço": 0,
+        "código": 40804038
+    },
+    {
+        "id": 1345,
+        "nome": "RX - ARTICULACAO ESCAPULOUMERAL (OMBRO)",
+        "preço": 0,
+        "código": 40803074
+    },
+    {
+        "id": 1346,
+        "nome": "RX - ARTICULACAO ESTERNOCLAVICULAR",
+        "preço": 0,
+        "código": 40803023
+    },
+    {
+        "id": 1347,
+        "nome": "RX - ARTICULACAO SACROILIACAS",
+        "preço": 0,
+        "código": 40804020
+    },
+    {
+        "id": 1348,
+        "nome": "RX - ARTICULACAO TIBIOTARSICA (TORNOZELO)",
+        "preço": 0,
+        "código": 40804089
+    },
+    {
+        "id": 1349,
+        "nome": "RX - BACIA",
+        "preço": 0,
+        "código": 40804011
+    },
+    {
+        "id": 1350,
+        "nome": "RX - BRACO",
+        "preço": 0,
+        "código": 40803082
+    },
+    {
+        "id": 1351,
+        "nome": "RX - CALCANEO",
+        "preço": 0,
+        "código": 40804100
+    },
+    {
+        "id": 1352,
+        "nome": "RX - CLAVICULA",
+        "preço": 0,
+        "código": 40803040
+    },
+    {
+        "id": 1354,
+        "nome": "RX - COLUNA CERVICAL - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": 40802019
+    },
+    {
+        "id": 1355,
+        "nome": "RX - COLUNA DORSAL - 4 INCIDENCIAS",
+        "preço": 0,
+        "código": 40802043
+    },
+    {
+        "id": 1356,
+        "nome": "RX - COLUNA DORSAL - 2 INCIDENCIAS",
+        "preço": 0,
+        "código": 40802035
+    },
+    {
+        "id": 1357,
+        "nome": "RX - COLUNA LOMBO-SACRA - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": 40802051
+    },
+    {
+        "id": 1358,
+        "nome": "RX - COLUNA LOMBO-SACRA - 5 INCIDENCIAS",
+        "preço": 0,
+        "código": 40802050
+    },
+    {
+        "id": 1359,
+        "nome": "RX - SACRO-COCCIX",
+        "preço": 0,
+        "código": 40802078
+    },
+    {
+        "id": 1360,
+        "nome": "RX - CORACAO E VASOS DA BASE",
+        "preço": 0,
+        "código": 40805050
+    },
+    {
+        "id": 1361,
+        "nome": "RX - COSTELAS - POR HEMITORAX",
+        "preço": 0,
+        "código": 40803031
+    },
+    {
+        "id": 1362,
+        "nome": "RX - COTOVELO",
+        "preço": 0,
+        "código": 40803090
+    },
+    {
+        "id": 1363,
+        "nome": "RX - COXA",
+        "preço": 0,
+        "código": 40804046
+    },
+    {
+        "id": 1364,
+        "nome": "RX - CRANIO - 2 INCIDENCIAS",
+        "preço": 0,
+        "código": 40801012
+    },
+    {
+        "id": 1366,
+        "nome": "RX - CRANIO - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": 40801020
+    },
+    {
+        "id": 1367,
+        "nome": "RX - ESCANOMETRIA",
+        "preço": 0,
+        "código": 40804119
+    },
+    {
+        "id": 1368,
+        "nome": "RX - ESTERNO",
+        "preço": 0,
+        "código": 40803015
+    },
+    {
+        "id": 1370,
+        "nome": "RX - JOELHO",
+        "preço": 0,
+        "código": 40804054
+    },
+    {
+        "id": 1372,
+        "nome": "RX - MAO OU QUIRODACTILOS",
+        "preço": 0,
+        "código": 40803120
+    },
+    {
+        "id": 1373,
+        "nome": "RX - MAOS E PUNHOS PARA IDADE OSSEA",
+        "preço": 0,
+        "código": 40803139
+    },
+    {
+        "id": 1376,
+        "nome": "RX - OMOPLATA OU ESCAPULA",
+        "preço": 0,
+        "código": 40803058
+    },
+    {
+        "id": 1378,
+        "nome": "RX - OSSOS DA FACE",
+        "preço": 0,
+        "código": 40801098
+    },
+    {
+        "id": 1381,
+        "nome": "RX - PATELA",
+        "preço": 0,
+        "código": 40804062
+    },
+    {
+        "id": 1382,
+        "nome": "RX - PE OU PODODACTILOS",
+        "preço": 0,
+        "código": 40804097
+    },
+    {
+        "id": 1383,
+        "nome": "RX - PERNA",
+        "preço": 0,
+        "código": 40804070
+    },
+    {
+        "id": 1384,
+        "nome": "RX - PUNHO",
+        "preço": 0,
+        "código": 40803112
+    },
+    {
+        "id": 1385,
+        "nome": "RX - SEIOS DA FACE",
+        "preço": 0,
+        "código": 40801063
+    },
+    {
+        "id": 1387,
+        "nome": "RX - TORAX - 1 INCIDENCIA",
+        "preço": 0,
+        "código": 40805018
+    },
+    {
+        "id": 1388,
+        "nome": "RX - TORAX - 2 INCIDENCIAS ",
+        "preço": 0,
+        "código": 40805026
+    },
+    {
+        "id": 1389,
+        "nome": "RX - TORAX - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": 40805042
+    },
+    {
+        "id": 1390,
+        "nome": "RX - TORAX - 4 INCIDENCIAS",
+        "preço": 0,
+        "código": 40805034
+    },
+    {
+        "id": 1402,
+        "nome": "RX - ABDOME AGUDO",
+        "preço": 0,
+        "código": 40808025
+    },
+    {
+        "id": 1406,
+        "nome": "RX - ANTEBRACO",
+        "preço": 0,
+        "código": 40803104
+    },
+    {
+        "id": 1407,
+        "nome": "RX - ARCOS ZIGOMATICOS OU MALAR OU APOFISES ESTILOIDES",
+        "preço": 0,
+        "código": 40801101
+    },
+    {
+        "id": 1413,
+        "nome": "RX - OMOPLATA OU ESCAPULA",
+        "preço": 0,
+        "código": 40803058
+    },
+    {
+        "id": 1423,
+        "nome": "US - MAMAS MASCULINA",
+        "preço": 0,
+        "código": 40901114
+    },
+    {
+        "id": 1465,
+        "nome": "US - ORGAOS SUPERFICIAIS (TIREOIDE)",
+        "preço": 0,
+        "código": 40901203
+    },
+    {
+        "id": 1469,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": 40901351
+    },
+    {
+        "id": 1471,
+        "nome": "RX - LARINGE OU HIPOFARINGE OU PESCOCO (PARTES MOLES)",
+        "preço": 0,
+        "código": 40805077
+    },
+    {
+        "id": 1472,
+        "nome": "RX - ORELHA, MASTOIDES OU ROCHEDOS - BILATERAL",
+        "preço": 0,
+        "código": 40801047
+    },
+    {
+        "id": 1474,
+        "nome": "ELETROCARDIOGRAMA (ECG)",
+        "preço": 0,
+        "código": 40101010
+    },
+    {
+        "id": 1475,
+        "nome": "TESTE ERGOMETRICO CONVENCIONAL - 3 OU MAIS DERIVACOES SIMULTANEAS",
+        "preço": 0,
+        "código": 40101045
+    },
+    {
+        "id": 1483,
+        "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL",
+        "preço": 0,
+        "código": 40808033
+    },
+    {
+        "id": 1486,
+        "nome": "RX - CLAVICULA",
+        "preço": 0,
+        "código": 40803040
+    },
+    {
+        "id": 1518,
+        "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR (OU DOIS SEGMENTOS)",
+        "preço": 0,
+        "código": 408080130
+    },
+    {
+        "id": 1575,
+        "nome": "RX - CALCANEO",
+        "preço": 0,
+        "código": 40804100
+    },
+    {
+        "id": 1609,
+        "nome": "RX - ARTICULACAO ACROMIOCLAVICULAR",
+        "preço": 0,
+        "código": 40803066
+    },
+    {
+        "id": 1637,
+        "nome": "RX - ARTICULACAO TIBIOTARSICA (TORNOZELO)",
+        "preço": 0,
+        "código": 40804089
+    },
+    {
+        "id": 1654,
+        "nome": "RX - PE OU PODODACTILOS",
+        "preço": 0,
+        "código": 40804097
+    },
+    {
+        "id": 1660,
+        "nome": "RX - COTOVELO",
+        "preço": 0,
+        "código": 40803090
+    },
+    {
+        "id": 1668,
+        "nome": "RX - PERNA",
+        "preço": 0,
+        "código": 40804070
+    },
+    {
+        "id": 1672,
+        "nome": "RX - ARTICULACAO COXOFEMORAL (QUADRIL)",
+        "preço": 0,
+        "código": 40804038
+    },
+    {
+        "id": 1673,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": 40901351
+    },
+    {
+        "id": 1674,
+        "nome": "RX - COSTELAS - POR HEMITORAX",
+        "preço": 0,
+        "código": 40803031
+    },
+    {
+        "id": 1679,
+        "nome": "RX - COXA",
+        "preço": 0,
+        "código": 40804046
+    },
+    {
+        "id": 1704,
+        "nome": "RX - ARTICULACAO ESCAPULOUMERAL (OMBRO)",
+        "preço": 0,
+        "código": 40803074
+    },
+    {
+        "id": 1713,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": 40901351
+    },
+    {
+        "id": 1717,
+        "nome": "RX - ARTICULACAO TEMPOROMANDIBULAR - BILATERAL",
+        "preço": 0,
+        "código": 40801110
+    },
+    {
+        "id": 1730,
+        "nome": "US - ORGAOS SUPERFICIAIS (CRANIO)",
+        "preço": 0,
+        "código": 40901203
+    },
+    {
+        "id": 1742,
+        "nome": "US - MAMAS FEMININA - UNIMED",
+        "preço": 0,
+        "código": 40901114
+    },
+    {
+        "id": 1743,
+        "nome": "US - ORGAOS SUPERFICIAIS (PENIS) - UNIMED",
+        "preço": 0,
+        "código": 40901203
+    },
+    {
+        "id": 1744,
+        "nome": "US - ORGAOS SUPERFICIAIS (ESCROTO) - UNIMED",
+        "preço": 0,
+        "código": 40901203
+    },
+    {
+        "id": 1745,
+        "nome": "US - ORGAOS SUPERFICIAIS (TIREOIDE) - UNIMED",
+        "preço": 0,
+        "código": 40901203
+    },
+    {
+        "id": 1761,
+        "nome": "DOPPLER CONVENCIONAL DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": 40901351
+    },
+    {
+        "id": 1762,
+        "nome": "DOPPLER CONVENCIONAL DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": 40901351
+    },
+    {
+        "id": 1848,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": 40901351
+    },
+    {
+        "id": 1849,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": 40901351
+    },
+    {
+        "id": 1850,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": 40901351
+    },
+    {
+        "id": 1851,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": 40901351
+    },
+    {
+        "id": 1922,
+        "nome": "DOPPLER COLORIDO DE AORTA E ARTERIAS RENAIS",
+        "preço": 0,
+        "código": 40901394
+    }
+]

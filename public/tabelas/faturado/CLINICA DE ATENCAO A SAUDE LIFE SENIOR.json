@@ -1,0 +1,80 @@
+[
+    {
+        "id": 118,
+        "nome": "PROTEINA C REATIVA, QUANTITATIVA",
+        "preço": 0,
+        "código": 40308361
+    },
+    {
+        "id": 536,
+        "nome": "HEMOGRAMA COMPLETO",
+        "preço": 0,
+        "código": 40304361
+    },
+    {
+        "id": 569,
+        "nome": "UREIA",
+        "preço": 0,
+        "código": 40302580
+    },
+    {
+        "id": 592,
+        "nome": "CREATININA ",
+        "preço": 0,
+        "código": 40301630
+    },
+    {
+        "id": 594,
+        "nome": "CREATINO FOSFOQUINASE TOTAL (CK) ",
+        "preço": 0,
+        "código": 40301648
+    },
+    {
+        "id": 904,
+        "nome": "EAS - EXAME DE URINA",
+        "preço": 0,
+        "código": 40311210
+    },
+    {
+        "id": 1652,
+        "nome": "TROPONINA (QUANTITATIVO)",
+        "preço": 0,
+        "código": 40302571
+    },
+    {
+        "id": 1865,
+        "nome": "PACOTE EXAMES PA LIFE SENIOR",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1866,
+        "nome": "PACOTE EXAMES PA LIFE SENIOR CARDIO",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1892,
+        "nome": "TROPONINA (QUANTITATIVO) AMOSTRA 2",
+        "preço": 0,
+        "código": 40302571
+    },
+    {
+        "id": 1893,
+        "nome": "TROPONINA (QUANTITATIVO) AMOSTRA 3",
+        "preço": 0,
+        "código": 40302571
+    },
+    {
+        "id": 1894,
+        "nome": "TROPONINA (QUANTITATIVO) AMOSTRA 4",
+        "preço": 0,
+        "código": 40302571
+    },
+    {
+        "id": 2009,
+        "nome": "CREATININA POS DIALISE",
+        "preço": 0,
+        "código": 40301630
+    }
+]

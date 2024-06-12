@@ -1,0 +1,284 @@
+[
+    {
+        "id": 997,
+        "nome": "US - MAMAS FEMININA",
+        "preço": 0,
+        "código": 40901114
+    },
+    {
+        "id": 998,
+        "nome": "US - ABDOME TOTAL (ABDOME SUPERIOR, RINS, BEXIGA, AORTA, VEIA CAVA INF",
+        "preço": 0,
+        "código": 40901122
+    },
+    {
+        "id": 999,
+        "nome": "US - ABDOME SUPERIOR (FIGADO, VIAS BILIARES, VESICULA, PANCREAS E BACO",
+        "preço": 0,
+        "código": 40901130
+    },
+    {
+        "id": 1000,
+        "nome": "US - APARELHO URINARIO FEMININO (RINS, URETERES E BEXIGA)",
+        "preço": 0,
+        "código": 40901157
+    },
+    {
+        "id": 1001,
+        "nome": "US - APARELHO URINARIO MASCULINO (RINS, URETERES E BEXIGA)",
+        "preço": 0,
+        "código": 40901769
+    },
+    {
+        "id": 1002,
+        "nome": "US - ABDOME INFERIOR MASCULINO (BEXIGA, PROSTATA E VESICULAS SEMINAIS)",
+        "preço": 0,
+        "código": 40901173
+    },
+    {
+        "id": 1003,
+        "nome": "US - ABDOME INFERIOR FEMININO (BEXIGA, UTERO, OVARIO E ANEXOS)",
+        "preço": 0,
+        "código": 40901181
+    },
+    {
+        "id": 1005,
+        "nome": "US - ORGAOS SUPERFICIAIS (ESCROTO)",
+        "preço": 0,
+        "código": 40901203
+    },
+    {
+        "id": 1011,
+        "nome": "US - OBSTETRICA",
+        "preço": 0,
+        "código": 40901238
+    },
+    {
+        "id": 1012,
+        "nome": "US - OBSTETRICA COM DOPPLER COLORIDO",
+        "preço": 0,
+        "código": 40901246
+    },
+    {
+        "id": 1013,
+        "nome": "US - OBSTETRICA COM TRANSLUCENCIA NUCAL",
+        "preço": 0,
+        "código": 40901254
+    },
+    {
+        "id": 1016,
+        "nome": "US - OBSTETRICA 1º TRIMESTRE (ENDOVAGINAL)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1017,
+        "nome": "US - TRANSVAGINAL (UTERO, OVARIO, ANEXOS E VAGINA)",
+        "preço": 0,
+        "código": 40901300
+    },
+    {
+        "id": 1019,
+        "nome": "US - PROSTATA (VIA ABDOMINAL)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1179,
+        "nome": "US - OBSTETRICA MORFOLOGICA",
+        "preço": 0,
+        "código": 40901262
+    },
+    {
+        "id": 1353,
+        "nome": "RX - COLUNA CERVICAL - 5 INCIDENCIAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1354,
+        "nome": "RX - COLUNA CERVICAL - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1423,
+        "nome": "US - MAMAS MASCULINA",
+        "preço": 0,
+        "código": 40901114
+    },
+    {
+        "id": 1465,
+        "nome": "US - ORGAOS SUPERFICIAIS (TIREOIDE)",
+        "preço": 0,
+        "código": 40901203
+    },
+    {
+        "id": 1483,
+        "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1518,
+        "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR (OU DOIS SEGMENTOS)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1547,
+        "nome": "TC - MANDIBULA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1548,
+        "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1549,
+        "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1550,
+        "nome": "TC - MASTOIDES OU ORELHAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1551,
+        "nome": "TC - FACE OU SEIOS DA FACE",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1552,
+        "nome": "TC - PELVE OU BACIA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1553,
+        "nome": "TC - ABDOME SUPERIOR",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1554,
+        "nome": "TC - PESCOCO (PARTES MOLES, LARINGE, TIREOIDE, FARINGE E GLADULAS SALI",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1555,
+        "nome": "TC - TORAX",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1556,
+        "nome": "TC - ABDOME TOTAL (ABDOME SUPERIOR, PELVE E RETROPERITONIO)",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1565,
+        "nome": "TC - SEGMENTO APENDICULAR (BRACO OU ANTEBRACO OU MAO OU PERNA OU PE) ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1567,
+        "nome": "TC - ARTICULACOES TEMPOROMANDIBULARES",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1583,
+        "nome": "US - ABDOME INFERIOR FEMININO - UNIMED",
+        "preço": 0,
+        "código": 40901181
+    },
+    {
+        "id": 1613,
+        "nome": "US - ABDOME SUPERIOR - COM DOPPLER",
+        "preço": 0,
+        "código": 40901130
+    },
+    {
+        "id": 1653,
+        "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
+        "preço": 0,
+        "código": 63000291
+    },
+    {
+        "id": 1656,
+        "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
+        "preço": 0,
+        "código": 63000291
+    },
+    {
+        "id": 1680,
+        "nome": "TC - SEGMENTO APENDICULAR (BRACO OU ANTEBRACO OU MAO OU PERNA OU PE) ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1682,
+        "nome": "TC - TORAX",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1719,
+        "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1742,
+        "nome": "US - MAMAS FEMININA - UNIMED",
+        "preço": 0,
+        "código": 40901114
+    },
+    {
+        "id": 1744,
+        "nome": "US - ORGAOS SUPERFICIAIS (ESCROTO) - UNIMED",
+        "preço": 0,
+        "código": 40901203
+    },
+    {
+        "id": 1745,
+        "nome": "US - ORGAOS SUPERFICIAIS (TIREOIDE) - UNIMED",
+        "preço": 0,
+        "código": 40901203
+    },
+    {
+        "id": 1847,
+        "nome": "TC - SEGMENTO APENDICULAR (BRACO OU ANTEBRACO OU MAO OU PERNA OU PE) ",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1924,
+        "nome": "TC - ARTICULACOES TEMPOROMANDIBULARES",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1948,
+        "nome": "US - OBSTETRICA COM TRANSLUCENCIA NUCAL",
+        "preço": 0,
+        "código": 40901254
+    },
+    {
+        "id": 1964,
+        "nome": "US - OBSTETRICA",
+        "preço": 0,
+        "código": 40901238
+    }
+]

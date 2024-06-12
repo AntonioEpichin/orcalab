@@ -1,0 +1,128 @@
+[
+    {
+        "id": 998,
+        "nome": "US - ABDOME TOTAL (ABDOME SUPERIOR, RINS, BEXIGA, AORTA, VEIA CAVA INF",
+        "preço": 0,
+        "código": 40901122
+    },
+    {
+        "id": 1031,
+        "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO INFERIOR - UNILATERAL",
+        "preço": 0,
+        "código": 40901483
+    },
+    {
+        "id": 1320,
+        "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO INFERIOR - UNILATERAL",
+        "preço": 0,
+        "código": 40901483
+    },
+    {
+        "id": 1548,
+        "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
+        "preço": 0,
+        "código": 41001125
+    },
+    {
+        "id": 1549,
+        "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
+        "preço": 0,
+        "código": 41001010
+    },
+    {
+        "id": 1551,
+        "nome": "TC - FACE OU SEIOS DA FACE",
+        "preço": 0,
+        "código": 41001036
+    },
+    {
+        "id": 1552,
+        "nome": "TC - PELVE OU BACIA",
+        "preço": 0,
+        "código": 41001117
+    },
+    {
+        "id": 1553,
+        "nome": "TC - ABDOME SUPERIOR",
+        "preço": 0,
+        "código": 41001109
+    },
+    {
+        "id": 1555,
+        "nome": "TC - TORAX",
+        "preço": 0,
+        "código": 41001079
+    },
+    {
+        "id": 1556,
+        "nome": "TC - ABDOME TOTAL (ABDOME SUPERIOR, PELVE E RETROPERITONIO)",
+        "preço": 0,
+        "código": 41001095
+    },
+    {
+        "id": 1566,
+        "nome": "TC - ARTICULACAO (ESTERNOCLAVICULAR OU OMBRO OU COTOVELO OU PUNHO OU S",
+        "preço": 0,
+        "código": 41001141
+    },
+    {
+        "id": 1651,
+        "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
+        "preço": 0,
+        "código": 41001125
+    },
+    {
+        "id": 1669,
+        "nome": "TC - ARTICULACAO (ESTERNOCLAVICULAR OU OMBRO OU COTOVELO OU PUNHO OU S",
+        "preço": 0,
+        "código": 41001141
+    },
+    {
+        "id": 1673,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1682,
+        "nome": "TC - TORAX",
+        "preço": 0,
+        "código": 41001079
+    },
+    {
+        "id": 1684,
+        "nome": "ARCO CIRURGICO - INTENSIFICADOR DE IMAGEM",
+        "preço": 0,
+        "código": null
+    },
+    {
+        "id": 1703,
+        "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
+        "preço": 0,
+        "código": 41001125
+    },
+    {
+        "id": 1719,
+        "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
+        "preço": 0,
+        "código": 41001010
+    },
+    {
+        "id": 1763,
+        "nome": "DOPPLER COLORIDO DE VASOS CERVICAIS ARTERIAIS (CAROTIDAS E VERTEBRAIS)",
+        "preço": 0,
+        "código": 40901360
+    },
+    {
+        "id": 1913,
+        "nome": "TC - ARTICULACAO (ESTERNOCLAVICULAR OU OMBRO OU COTOVELO OU PUNHO OU S",
+        "preço": 0,
+        "código": 41001141
+    },
+    {
+        "id": 1914,
+        "nome": "TC - ARTICULACAO (ESTERNOCLAVICULAR OU OMBRO OU COTOVELO OU PUNHO OU S",
+        "preço": 0,
+        "código": 41001141
+    }
+]
