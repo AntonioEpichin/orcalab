@@ -1,4 +1,4 @@
-// component/ExamesTable.tsx
+// components/ExamesTable.tsx
 
 'use client'
 
@@ -12,7 +12,7 @@ import { useCart } from '../context/CartContext';
 import { useSearch } from '../context/SearchContext';
 import { useJsonFile } from '../context/JsonFileContext';
 import InputBase from '@mui/material/InputBase';
-import { useSession, signIn } from 'next-auth/react';
+import { useSession, getSession } from 'next-auth/react';
 import { useRouter } from 'next/navigation';
 
 const defaultTheme = createTheme({
@@ -102,6 +102,7 @@ export default function ExamesTable() {
   const handleAddToCart = async (exame) => {
     if (status === 'loading') return;
 
+    const session = await getSession();
     if (!session) {
       alert('Você precisa estar logado para adicionar exames ao carrinho.');
       router.push(`/login?callbackUrl=${encodeURIComponent(window.location.pathname)}`);
@@ -115,6 +116,17 @@ export default function ExamesTable() {
       preço: exame.preço
     });
   };
+
+  useEffect(() => {
+    const checkSession = async () => {
+      const session = await getSession();
+      if (!session && status !== 'loading') {
+        router.push(`/login?callbackUrl=${encodeURIComponent(window.location.pathname)}`);
+      }
+    };
+
+    checkSession();
+  }, [status, router]);
 
   const filteredExames = exames.filter(exame =>
     exame.nome.toLowerCase().includes(searchTerm.toLowerCase())
