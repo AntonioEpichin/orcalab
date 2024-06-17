@@ -30,6 +30,7 @@ function SignIn({ session }) {
   const { status } = useSession();
   const [loading, setLoading] = React.useState(true);
   const [formErrors, setFormErrors] = useState<Partial<SignInFormData>>({});
+  const [loginError, setLoginError] = useState<string | null>(null);
 
   React.useEffect(() => {
     if (status === 'loading') {
@@ -56,12 +57,12 @@ function SignIn({ session }) {
       SignInSchema.parse(data);
       setFormErrors({});
       
-      // Convert data object back to FormData
       const loginData = new FormData();
       loginData.append('email', data.email);
       loginData.append('password', data.password);
 
       await login(loginData);
+      setLoginError(null);
     } catch (error) {
       if (error instanceof z.ZodError) {
         const errors = error.errors.reduce((acc: Partial<SignInFormData>, curr) => {
@@ -69,6 +70,8 @@ function SignIn({ session }) {
           return acc;
         }, {});
         setFormErrors(errors);
+      } else if (error.message) {
+        setLoginError(error.message);
       }
     }
   };
@@ -153,6 +156,11 @@ function SignIn({ session }) {
               error={Boolean(formErrors.password)}
               helperText={formErrors.password}
             />
+            {loginError && (
+              <Typography color="error" variant="body2" align="center">
+                Credenciais inválidas, tente novamente
+              </Typography>
+            )}
             <Button
               type="submit"
               fullWidth
