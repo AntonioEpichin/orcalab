@@ -693,7 +693,7 @@
         "id": 130,
         "nome": "HCV (ANTICORPOS CONTRA O VIRUS DA HEPATITE C)",
         "preço": 0,
-        "código": 40307026
+        "código": 40307174
     },
     {
         "id": 131,
@@ -5043,7 +5043,7 @@
         "id": 1856,
         "nome": "HEPATITE C - ANTI-HCV",
         "preço": 0,
-        "código": 40307026
+        "código": 40307174
     },
     {
         "id": 1857,
