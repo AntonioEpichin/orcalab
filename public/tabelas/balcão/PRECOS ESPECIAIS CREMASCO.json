@@ -6056,7 +6056,7 @@
     {
         "id": 1178,
         "nome": "US - OBSTETRICA MORFOLOGICA - COM DOPPLER",
-        "preço": 215.0,
+        "preço": 275.0,
         "código": 40901262
     },
     {
@@ -6176,7 +6176,7 @@
     {
         "id": 1208,
         "nome": "US - ORGAOS SUPERFICIAIS (TIREOIDE) - COM DOPPLER",
-        "preço": 105.0,
+        "preço": 165.0,
         "código": 40901203
     },
     {
@@ -7100,7 +7100,7 @@
     {
         "id": 1445,
         "nome": "US - ARTICULAR (POR ARTICULACAO) - COM DOPPLER",
-        "preço": 85.0,
+        "preço": 145.0,
         "código": 40901220
     },
     {
@@ -7130,7 +7130,7 @@
     {
         "id": 1452,
         "nome": "US - ABDOME TOTAL - COM DOPPLER",
-        "preço": 105.0,
+        "preço": 165.0,
         "código": 40901122
     },
     {
@@ -7724,19 +7724,19 @@
     {
         "id": 1633,
         "nome": "US - ARTICULAR (POR ARTICULACAO) - COM DOPPLER",
-        "preço": 85.0,
+        "preço": 145.0,
         "código": 40901220
     },
     {
         "id": 1634,
         "nome": "US - ARTICULAR (POR ARTICULACAO) - COM DOPPLER",
-        "preço": 85.0,
+        "preço": 145.0,
         "código": 40901220
     },
     {
         "id": 1635,
         "nome": "US - ARTICULAR (POR ARTICULACAO) - COM DOPPLER",
-        "preço": 85.0,
+        "preço": 145.0,
         "código": 40901220
     },
     {
@@ -7862,13 +7862,13 @@
     {
         "id": 1670,
         "nome": "US - ORGAOS SUPERFICIAIS (ESCROTO) - COM DOPPLER ",
-        "preço": 105.0,
+        "preço": 165.0,
         "código": 40901203
     },
     {
         "id": 1671,
         "nome": "US - ESTRUTURAS SUPERFICIAIS - COM DOPPLER",
-        "preço": 105.0,
+        "preço": 165.0,
         "código": 40901211
     },
     {
@@ -8084,13 +8084,13 @@
     {
         "id": 1748,
         "nome": "US - ORGAOS SUPERFICIAIS (PENIS) - COM DOPPLER",
-        "preço": 105.0,
+        "preço": 165.0,
         "código": 40901203
     },
     {
         "id": 1751,
         "nome": "US - ORGAOS SUPERFICIAIS (CRANIO) - COM DOPPLER",
-        "preço": 105.0,
+        "preço": 165.0,
         "código": 40901203
     },
     {
@@ -8102,19 +8102,19 @@
     {
         "id": 1755,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (AXILA) - COM DOPPLER",
-        "preço": 105.0,
+        "preço": 165.0,
         "código": 40901203
     },
     {
         "id": 1756,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (MUSCULO) - COM DOPPLER",
-        "preço": 105.0,
+        "preço": 165.0,
         "código": 40901211
     },
     {
         "id": 1758,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (TENDAO) - COM DOPPLER ",
-        "preço": 105.0,
+        "preço": 165.0,
         "código": 40901211
     },
     {

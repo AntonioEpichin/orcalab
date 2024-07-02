@@ -6326,7 +6326,7 @@
     {
         "id": 1091,
         "nome": "US - OBSTETRICA MORFOLOGICA - COM DOPPLER",
-        "preço": 250.0,
+        "preço": 320.0,
         "código": 40901262
     },
     {
@@ -6338,7 +6338,7 @@
     {
         "id": 1094,
         "nome": "US - TRANSVAGINAL - COM DOPPLER",
-        "preço": 90.0,
+        "preço": 160.0,
         "código": 40901300
     },
     {
@@ -6464,7 +6464,7 @@
     {
         "id": 1116,
         "nome": "US - ORGAOS SUPERFICIAIS (TIREOIDE) - COM DOPPLER",
-        "preço": 120.0,
+        "preço": 190.0,
         "código": 40901203
     },
     {
@@ -7682,7 +7682,7 @@
     {
         "id": 1323,
         "nome": "US - ARTICULAR (POR ARTICULACAO) - COM DOPPLER",
-        "preço": 100.0,
+        "preço": 170.0,
         "código": 40901220
     },
     {
@@ -7724,7 +7724,7 @@
     {
         "id": 1330,
         "nome": "US - ABDOME TOTAL - COM DOPPLER",
-        "preço": 120.0,
+        "preço": 190.0,
         "código": 40901122
     },
     {
@@ -8426,19 +8426,19 @@
     {
         "id": 1450,
         "nome": "US - ARTICULAR (POR ARTICULACAO) - COM DOPPLER",
-        "preço": 100.0,
+        "preço": 170.0,
         "código": 40901220
     },
     {
         "id": 1451,
         "nome": "US - ARTICULAR (POR ARTICULACAO) - COM DOPPLER",
-        "preço": 100.0,
+        "preço": 170.0,
         "código": 40901220
     },
     {
         "id": 1452,
         "nome": "US - ARTICULAR (POR ARTICULACAO) - COM DOPPLER",
-        "preço": 100.0,
+        "preço": 170.0,
         "código": 40901220
     },
     {
@@ -8810,13 +8810,13 @@
     {
         "id": 1516,
         "nome": "US - ORGAOS SUPERFICIAIS (PENIS) - COM DOPPLER",
-        "preço": 120.0,
+        "preço": 190.0,
         "código": 40901203
     },
     {
         "id": 1517,
         "nome": "US - ORGAOS SUPERFICIAIS (CRANIO) - COM DOPPLER",
-        "preço": 120.0,
+        "preço": 190.0,
         "código": 40901203
     },
     {
@@ -8828,7 +8828,7 @@
     {
         "id": 1519,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (AXILA) - COM DOPPLER",
-        "preço": 120.0,
+        "preço": 190.0,
         "código": 40901203
     },
     {
@@ -8840,7 +8840,7 @@
     {
         "id": 1521,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (TENDAO) - COM DOPPLER ",
-        "preço": 120.0,
+        "preço": 190.0,
         "código": 40901211
     },
     {
@@ -9760,5 +9760,11 @@
         "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 5 DOSAGENS (J.60.90.120.150)",
         "preço": 100.0,
         "código": 40316203
+    },
+    {
+        "id": 1677,
+        "nome": "POLIMORFISMO DO PAI-1",
+        "preço": 224.0,
+        "código": null
     }
 ]
