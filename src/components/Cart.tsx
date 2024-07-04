@@ -23,6 +23,11 @@ interface CartItem {
   preço: number;
 }
 
+interface Orientation {
+  nome: string;
+  orientacao: string;
+}
+
 const drawerWidth = 350;
 
 const Cart = () => {
@@ -36,6 +41,12 @@ const Cart = () => {
 
   const calculateTotal = () => {
     return cartItems.reduce((sum, item) => sum + item.preço, 0);
+  };
+
+  const fetchOrientations = async (): Promise<Orientation[]> => {
+    const response = await fetch('tabelas/orientations.json');
+    const data = await response.json();
+    return data;
   };
 
   const generatePDF = async () => {
@@ -52,8 +63,12 @@ const Cart = () => {
       let page = pages[0];
       let yOffset = page.getHeight() - 150;
 
+      // Fetch orientations
+      const orientations = await fetchOrientations();
+
       // Add the cart items to the PDF
       cartItems.forEach(item => {
+        // Draw item name, code, and price
         page.drawText(`${item.nome} (cód: ${item.código}) - ${item.preço.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}`, {
           x: 50,
           y: yOffset,
@@ -62,6 +77,22 @@ const Cart = () => {
           color: rgb(0, 0, 0),
         });
         yOffset -= 20;
+
+        // Find and add the orientation for the current item
+        const itemOrientations = orientations.filter(orientation => orientation.nome === item.nome);
+        itemOrientations.forEach(orientation => {
+          page.drawText(`Orientação: ${orientation.orientacao}`, {
+            x: 50,
+            y: yOffset,
+            size: 10,
+            font: helveticaFont,
+            color: rgb(0, 0, 0),
+          });
+          yOffset -= 15;
+        });
+
+        // Add spacing between items
+        yOffset -= 10;
 
         // Check if we need to add a new page
         if (yOffset < 100) {

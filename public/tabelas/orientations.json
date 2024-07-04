@@ -1,0 +1,4766 @@
+[{
+    "id": 1,
+    "ProcedimentoId.Mnemonico": "B12",
+    "nome": "VITAMINA B12",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 2,
+    "ProcedimentoId.Mnemonico": "ACCIT24H",
+    "nome": "ACIDO CITRICO - URINA 24H",
+    "orientacao": "Não fazer esforço físico durante a coleta."
+   },
+   {
+    "id": 3,
+    "ProcedimentoId.Mnemonico": "ACCIT24H",
+    "nome": "ACIDO CITRICO - URINA 24H",
+    "orientacao": "Dados: Informar o volume da diurese."
+   },
+   {
+    "id": 4,
+    "ProcedimentoId.Mnemonico": "FERRI",
+    "nome": "FERRITINA",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 5,
+    "ProcedimentoId.Mnemonico": "PTTK",
+    "nome": "TEMPO TROMBOPLASTINA PARCIAL ATIVADA",
+    "orientacao": "Jejum não obrigatório, aconselhaveu 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 6,
+    "ProcedimentoId.Mnemonico": "COOD",
+    "nome": "COOMBS DIRETO",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 7,
+    "ProcedimentoId.Mnemonico": "ALDOST",
+    "nome": "ALDOSTERONA",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 8,
+    "ProcedimentoId.Mnemonico": "ALFA1AT",
+    "nome": "ALFA-1-ANTITRIPSINA ",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 9,
+    "ProcedimentoId.Mnemonico": "17AHPROG",
+    "nome": "17-ALFA-HIDROXIPROGESTERONA",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 10,
+    "ProcedimentoId.Mnemonico": "C16H",
+    "nome": "CORTISOL - 16:00 HORAS",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 11,
+    "ProcedimentoId.Mnemonico": "C8H",
+    "nome": "CORTISOL - 08:00 HORAS",
+    "orientacao": "8 horas para a coleta da manha e de 3 horas para a coleta da tarde."
+   },
+   {
+    "id": 12,
+    "ProcedimentoId.Mnemonico": "CI6",
+    "nome": "CURVA INSULINICA - 6 DOSAGENS (J.60.120.180.240.300)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 13,
+    "ProcedimentoId.Mnemonico": "SDHEA",
+    "nome": "SULFATO DE DEHIDROEPIANDROSTERONA (S-DHEA)",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 14,
+    "ProcedimentoId.Mnemonico": "DHT",
+    "nome": "DIHIDROTESTOSTERONA (DHT) ",
+    "orientacao": "4 Horas desejável;\nLactentes: Antes da Próxima Mamada;\nCrianças: Conforme orientação médica;"
+   },
+   {
+    "id": 15,
+    "ProcedimentoId.Mnemonico": "ESTR",
+    "nome": "ESTRADIOL",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 16,
+    "ProcedimentoId.Mnemonico": "ESTR",
+    "nome": "ESTRADIOL",
+    "orientacao": "Medicação: Suplementação exógena de Estradiol pode elevar os níveis séricos de Estrona e Estrona-3-Sulfato, e ocasionar interferência na dosagem do Estradiol."
+   },
+   {
+    "id": 17,
+    "ProcedimentoId.Mnemonico": "FSH",
+    "nome": "FOLICO ESTIMULANTE, HORMONIO (FSH) ",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 18,
+    "ProcedimentoId.Mnemonico": "BETA",
+    "nome": "BETA HCG - QUANTITATIVO",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 19,
+    "ProcedimentoId.Mnemonico": "LH",
+    "nome": "LH - HORMONIO LUTEINIZANTE",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 20,
+    "ProcedimentoId.Mnemonico": "POOL",
+    "nome": "PROLACTINA (POOL)",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 21,
+    "ProcedimentoId.Mnemonico": "PROG",
+    "nome": "PROGESTERONA",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 22,
+    "ProcedimentoId.Mnemonico": "T3",
+    "nome": "TRIIODOTIRONINA (T3) ",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 23,
+    "ProcedimentoId.Mnemonico": "TIRE",
+    "nome": "TIREOGLOBULINA ",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 24,
+    "ProcedimentoId.Mnemonico": "TSH",
+    "nome": "TSH - HORMONIO TIREOESTIMULANTE ",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 25,
+    "ProcedimentoId.Mnemonico": "ANDR",
+    "nome": "ANDROSTENEDIONA",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 26,
+    "ProcedimentoId.Mnemonico": "HCG",
+    "nome": "HCG, PESQUISA DE",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 27,
+    "ProcedimentoId.Mnemonico": "DHEA",
+    "nome": "DEHIDROEPIANDROSTERONA (DHEA)",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 28,
+    "ProcedimentoId.Mnemonico": "ESTRONA",
+    "nome": "ESTRONA - E1",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 29,
+    "ProcedimentoId.Mnemonico": "GH",
+    "nome": "CRESCIMENTO, HORMONIO DO (HGH) ",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 30,
+    "ProcedimentoId.Mnemonico": "INSU",
+    "nome": "INSULINA",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 31,
+    "ProcedimentoId.Mnemonico": "PTH",
+    "nome": "PARATORMONIO - PTH OU FRACAO (CADA)",
+    "orientacao": "4 Horas desejável;\nLactentes: Antes da Próxima Mamada;\nCrianças: Conforme orientação médica;"
+   },
+   {
+    "id": 32,
+    "ProcedimentoId.Mnemonico": "PRL",
+    "nome": "PROLACTINA",
+    "orientacao": "Repouso de 30 minutos para quem fez exercício físico ou conforme orientação médica"
+   },
+   {
+    "id": 33,
+    "ProcedimentoId.Mnemonico": "T4",
+    "nome": "TIROXINA (T4)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 34,
+    "ProcedimentoId.Mnemonico": "T4",
+    "nome": "TIROXINA (T4)",
+    "orientacao": "Colher a amostra preferencialmente antes da administração da próxima dose de medicamentos a base de Levotiroxina (Euthirox, Puran T-4, Synthroid, Tethroid, etc) ou conforme orientação do médico."
+   },
+   {
+    "id": 35,
+    "ProcedimentoId.Mnemonico": "TSL",
+    "nome": "TESTOSTERONA LIVRE",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 36,
+    "ProcedimentoId.Mnemonico": "T4L",
+    "nome": "TIROXINA T4 LIVRE",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 37,
+    "ProcedimentoId.Mnemonico": "ACSCL70",
+    "nome": "ANTI - ESCLERODERMA (SCL 70)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 38,
+    "ProcedimentoId.Mnemonico": "AAT",
+    "nome": "ANTICORPO ANTI-TIREOGLOBULINA",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 39,
+    "ProcedimentoId.Mnemonico": "HAVG",
+    "nome": "HEPATITE A IGG",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 40,
+    "ProcedimentoId.Mnemonico": "HAVM",
+    "nome": "HEPATITE A IGM",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 41,
+    "ProcedimentoId.Mnemonico": "ACAINSU",
+    "nome": "ANTICORPOS ANTI-INSULINA",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 42,
+    "ProcedimentoId.Mnemonico": "CARG",
+    "nome": "ANTICARDIOLIPINA IGG ",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 43,
+    "ProcedimentoId.Mnemonico": "CENT",
+    "nome": "ANTICENTROMERO",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 44,
+    "ProcedimentoId.Mnemonico": "RNP",
+    "nome": "RNP, AUTO ANTICORPOS ANTI",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 45,
+    "ProcedimentoId.Mnemonico": "SM",
+    "nome": "ANTICORPO ANTI-SM",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 46,
+    "ProcedimentoId.Mnemonico": "SSB",
+    "nome": "ANTI-LA\/SSB ",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 47,
+    "ProcedimentoId.Mnemonico": "AHBS",
+    "nome": "HEPATITE B - HBSAC - (ANTI ANTIGENO DE SUPERFICIE)",
+    "orientacao": "Jejum de 4 horas ou mais."
+   },
+   {
+    "id": 48,
+    "ProcedimentoId.Mnemonico": "AHBE",
+    "nome": "HEPATITE B - ANTI-HBE",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 49,
+    "ProcedimentoId.Mnemonico": "DNA",
+    "nome": "ANTI-DNA ",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 50,
+    "ProcedimentoId.Mnemonico": "SSA",
+    "nome": "ANTI-RO\/SSA",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 51,
+    "ProcedimentoId.Mnemonico": "ASLO",
+    "nome": "ASLO",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 52,
+    "ProcedimentoId.Mnemonico": "ASLO",
+    "nome": "ASLO",
+    "orientacao": "Medicação: Informar o uso de medicamentos ou a existência de patologia tireoidiana."
+   },
+   {
+    "id": 53,
+    "ProcedimentoId.Mnemonico": "AU",
+    "nome": "HEPATITE B - HBSAG - (AU, ANTIGENO AUSTRALIA) ",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 54,
+    "ProcedimentoId.Mnemonico": "HBCG",
+    "nome": "HEPATITE B - ANTI HBC TOTAL",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 55,
+    "ProcedimentoId.Mnemonico": "CAXUMBAG",
+    "nome": "CAXUMBA IGG",
+    "orientacao": "Jejum obrigatório de 8 horas. \nIntervalo entre mamadas para lactentes."
+   },
+   {
+    "id": 56,
+    "ProcedimentoId.Mnemonico": "CITG",
+    "nome": "CITOMEGALOVIRUS IGG ",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 57,
+    "ProcedimentoId.Mnemonico": "C4",
+    "nome": "COMPLEMENTO C4 ",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 58,
+    "ProcedimentoId.Mnemonico": "C3",
+    "nome": "COMPLEMENTO C3 ",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 59,
+    "ProcedimentoId.Mnemonico": "CRIO",
+    "nome": "CRIOGLOBULINAS",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 60,
+    "ProcedimentoId.Mnemonico": "FENITO",
+    "nome": "FENITOINA ",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 61,
+    "ProcedimentoId.Mnemonico": "FENITO",
+    "nome": "FENITOINA ",
+    "orientacao": "Medicação: Realizar coleta antes de uma das tomadas do medicamento (2 horas antes) ou conforme orientação médica."
+   },
+   {
+    "id": 62,
+    "ProcedimentoId.Mnemonico": "PELOCAO",
+    "nome": "IGE ESPECIFICO - CAO (PELO) (E5)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 63,
+    "ProcedimentoId.Mnemonico": "CLARAOVO",
+    "nome": "IGE ESPECIFICO - CLARA DE OVO (F1)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 64,
+    "ProcedimentoId.Mnemonico": "CACAU",
+    "nome": "IGE ESPECIFICO - CACAU (F93)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 65,
+    "ProcedimentoId.Mnemonico": "AMENDOIM",
+    "nome": "IGE ESPECIFICO - AMENDOIM (F13)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 66,
+    "ProcedimentoId.Mnemonico": "SOJA",
+    "nome": "IGE ESPECIFICO - GRAO DE SOJA (F14)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 67,
+    "ProcedimentoId.Mnemonico": "FEIJAOB",
+    "nome": "IGE ESPECIFICO - FEIJAO BRANCO (F15)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 68,
+    "ProcedimentoId.Mnemonico": "TOMATE",
+    "nome": "IGE ESPECIFICO - TOMATE (F25)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 69,
+    "ProcedimentoId.Mnemonico": "PORCO",
+    "nome": "IGE ESPECIFICO - CARNE DE PORCO (F26)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 70,
+    "ProcedimentoId.Mnemonico": "VACA",
+    "nome": "IGE ESPECIFICO - CARNE DE VACA (F27)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 71,
+    "ProcedimentoId.Mnemonico": "CA125",
+    "nome": "ANTIGENO CA 125",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 72,
+    "ProcedimentoId.Mnemonico": "CA72-4",
+    "nome": "ANTIGENO CA 72-4",
+    "orientacao": "Jejum obrigatório de 8 horas. \nIntervalo entre mamadas para lactentes."
+   },
+   {
+    "id": 73,
+    "ProcedimentoId.Mnemonico": "CEA",
+    "nome": "ANTIGENO CARCINOEMBRIOGENICO (CEA)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 74,
+    "ProcedimentoId.Mnemonico": "CC24H",
+    "nome": "CLEARANCE DE CREATININA - UNIRA 24H",
+    "orientacao": "Informar ao laboratório dados precisos referentes ao peso, altura do paciente e volume urinário referente às 24 horas."
+   },
+   {
+    "id": 75,
+    "ProcedimentoId.Mnemonico": "FOSF24H",
+    "nome": "FOSFORO - URINA 24H",
+    "orientacao": "Dados: Informar o volume da diurese."
+   },
+   {
+    "id": 76,
+    "ProcedimentoId.Mnemonico": "MAGU24H",
+    "nome": "MAGNESIO - URINA 24H",
+    "orientacao": "Preparo: Informar o volume da diurese."
+   },
+   {
+    "id": 77,
+    "ProcedimentoId.Mnemonico": "SODU24H",
+    "nome": "SODIO - URINA 24H",
+    "orientacao": "Dados: Informar o volume da diurese."
+   },
+   {
+    "id": 78,
+    "ProcedimentoId.Mnemonico": "CALU24H",
+    "nome": "CALCIO - URINA 24H",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 79,
+    "ProcedimentoId.Mnemonico": "BATATA",
+    "nome": "IGE ESPECIFICO - BATATA (F35)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 80,
+    "ProcedimentoId.Mnemonico": "COCO",
+    "nome": "IGE ESPECIFICO - COCO (F36)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 81,
+    "ProcedimentoId.Mnemonico": "GALINHA",
+    "nome": "IGE ESPECIFICO - GALINHA (CARNE) (F83)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 82,
+    "ProcedimentoId.Mnemonico": "TRIGO",
+    "nome": "IGE ESPECIFICO - TRIGO (F4)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 83,
+    "ProcedimentoId.Mnemonico": "FAN",
+    "nome": "FAN - FATOR ANTINUCLEAR",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 84,
+    "ProcedimentoId.Mnemonico": "CABRA",
+    "nome": "IGE ESPECIFICO - LEITE DE CABRA (F300)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 85,
+    "ProcedimentoId.Mnemonico": "CEREAIS",
+    "nome": "IGE MULTIPLO - SEMENTES (FX3)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 86,
+    "ProcedimentoId.Mnemonico": "EPITELIO",
+    "nome": "IGE MULTIPLO - EPITELIO DE ANIMAIS (EX1)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 87,
+    "ProcedimentoId.Mnemonico": "HIV",
+    "nome": "HIV1+ HIV2",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 88,
+    "ProcedimentoId.Mnemonico": "POEIRA",
+    "nome": "IGE MULTIPLO - POEIRA (HX2)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 89,
+    "ProcedimentoId.Mnemonico": "IGA",
+    "nome": "IMUNOGLOBULINA IGA",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 90,
+    "ProcedimentoId.Mnemonico": "IGE",
+    "nome": "IMUNOGLOBULINA IGE",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 91,
+    "ProcedimentoId.Mnemonico": "IGG",
+    "nome": "IMUNOGLOBULINA IGG",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 92,
+    "ProcedimentoId.Mnemonico": "IGM",
+    "nome": "IMUNOGLOBULINA IGM",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 93,
+    "ProcedimentoId.Mnemonico": "FUNGOS",
+    "nome": "IGE MULTIPLO - FUNGOS (MX2)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 94,
+    "ProcedimentoId.Mnemonico": "PCR",
+    "nome": "PROTEINA C REATIVA, QUANTITATIVA",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 95,
+    "ProcedimentoId.Mnemonico": "IGG1",
+    "nome": "SUB CLASSES DE IGG - 1",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 96,
+    "ProcedimentoId.Mnemonico": "IGG2",
+    "nome": "SUB CLASSES DE IGG - 2",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 97,
+    "ProcedimentoId.Mnemonico": "PU24H",
+    "nome": "PROTEINA - URINA 24H",
+    "orientacao": "Dados: Informar o volume da diurese."
+   },
+   {
+    "id": 98,
+    "ProcedimentoId.Mnemonico": "IGG4",
+    "nome": "SUB CLASSES DE IGG - 4",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 99,
+    "ProcedimentoId.Mnemonico": "HOMOCIST",
+    "nome": "HOMOCISTEINA",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 100,
+    "ProcedimentoId.Mnemonico": "VDRL",
+    "nome": "SIFILIS - VDRL",
+    "orientacao": "Indicado o jejum de 8 horas. Porém não é obrigatório."
+   },
+   {
+    "id": 101,
+    "ProcedimentoId.Mnemonico": "OXAL24H",
+    "nome": "OXALATO - URINA 24H",
+    "orientacao": "Dieta: Evitar limão, abacaxi, morango, gelatina, acerola, laranja, espinafre, tomate, leite e derivados."
+   },
+   {
+    "id": 102,
+    "ProcedimentoId.Mnemonico": "FTAIGG",
+    "nome": "SIFILIS - FTA-ABS-IGG ",
+    "orientacao": " Jejum: Evitar qualquer alimento ou medicamento que contenha Vitamina C 48 horas antes e durante a coleta."
+   },
+   {
+    "id": 103,
+    "ProcedimentoId.Mnemonico": "HVC",
+    "nome": "HCV (ANTICORPOS CONTRA O VIRUS DA HEPATITE C)",
+    "orientacao": " Outros: Não realizar esforço físico durante a coleta."
+   },
+   {
+    "id": 104,
+    "ProcedimentoId.Mnemonico": "FR",
+    "nome": "FATOR REUMATOIDE (QUANTITATIVO)",
+    "orientacao": " Dados: Informar o volume da diurese."
+   },
+   {
+    "id": 105,
+    "ProcedimentoId.Mnemonico": "PAULB",
+    "nome": "PAUL BUNNEL (MONONUCLEOSE)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 106,
+    "ProcedimentoId.Mnemonico": "WAALER",
+    "nome": "WAALER - ROSE",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 107,
+    "ProcedimentoId.Mnemonico": "CGT2",
+    "nome": "CURVA GLICEMICA - 2 HORAS (J.30.60.120)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 108,
+    "ProcedimentoId.Mnemonico": "LITIO",
+    "nome": "LITIO BASAL",
+    "orientacao": "Jejum obrigatório de 8 horas."
+   },
+   {
+    "id": 109,
+    "ProcedimentoId.Mnemonico": "HBH",
+    "nome": "HEMOGLOBINA H - TALASSEMIA",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 110,
+    "ProcedimentoId.Mnemonico": "MITM2",
+    "nome": "ANTICORPOS ANTI - MITOCONDRIA M2",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 111,
+    "ProcedimentoId.Mnemonico": "GHDX5D",
+    "nome": "GH COM SUPRESSAO DE DEXTROSOL - 5 DOSAGENS (J.30.60.90.120)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 112,
+    "ProcedimentoId.Mnemonico": "ALB",
+    "nome": "ALBUMINA ",
+    "orientacao": "Coletar ate 02 horas apos o horario habitual de acordar."
+   },
+   {
+    "id": 113,
+    "ProcedimentoId.Mnemonico": "GS",
+    "nome": "GRUPO SANGUINEO ABO",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 114,
+    "ProcedimentoId.Mnemonico": "RH",
+    "nome": "FATOR RH",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 115,
+    "ProcedimentoId.Mnemonico": "RUBM",
+    "nome": "RUBEOLA IGM",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 116,
+    "ProcedimentoId.Mnemonico": "RUBG",
+    "nome": "RUBEOLA IGG",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 117,
+    "ProcedimentoId.Mnemonico": "BRU",
+    "nome": "BRUCELOSE",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 118,
+    "ProcedimentoId.Mnemonico": "CGD5",
+    "nome": "CURVA GLICEMICA - 5 DOSAGENS (J.60.120.180.240)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 119,
+    "ProcedimentoId.Mnemonico": "CGD3",
+    "nome": "CURVA GLICEMICA - 3 DOSAGENS (J.60.120)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 120,
+    "ProcedimentoId.Mnemonico": "CA15-3",
+    "nome": "ANTIGENO CA 15-3",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 121,
+    "ProcedimentoId.Mnemonico": "LEITE",
+    "nome": "IGE ESPECIFICO - LEITE DE VACA (F2)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 122,
+    "ProcedimentoId.Mnemonico": "CI4",
+    "nome": "CURVA INSULINICA - 4 DOSAGENS (J.60.120.180)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 123,
+    "ProcedimentoId.Mnemonico": "EPS-IGG",
+    "nome": "EPSTEIN BARR VIRUS IGG",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 124,
+    "ProcedimentoId.Mnemonico": "HBCM",
+    "nome": "HEPATITE B - ANTI HBC IGM",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 125,
+    "ProcedimentoId.Mnemonico": "HBEAG",
+    "nome": "HEPATITE B - HBEAG - (ANTIGENO \"E\")",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 126,
+    "ProcedimentoId.Mnemonico": "AMPLIADO",
+    "nome": "TESTE DO PEZINHO - AMPLIADO",
+    "orientacao": "Dieta: Coletar preferencialmente após 48 horas da primeira mamada. Medicação: Uso de corticoides pela mãe e pelo bebê devem ser sinalizados no cartão de coleta. Dados: Obrigatório o preenchimento da idade gestacional, peso e transfusão sanguínea no cartão de coleta."
+   },
+   {
+    "id": 127,
+    "ProcedimentoId.Mnemonico": "AMPLIADO",
+    "nome": "TESTE DO PEZINHO - AMPLIADO",
+    "orientacao": "Medicação: Uso de corticoides pela mãe e pelo bebê devem ser sinalizados no cartão de coleta."
+   },
+   {
+    "id": 128,
+    "ProcedimentoId.Mnemonico": "AMPLIADO",
+    "nome": "TESTE DO PEZINHO - AMPLIADO",
+    "orientacao": "Dados: Obrigatório o preenchimento da idade gestacional, peso e transfusão sanguínea no cartão de coleta."
+   },
+   {
+    "id": 129,
+    "ProcedimentoId.Mnemonico": "PLUS",
+    "nome": "TESTE DO PEZINHO - PLUS",
+    "orientacao": "Dieta: Coletar preferencialmente após 48 horas da primeira mamada.\nMedicação: Uso de corticóides pela mãe e pelo bebê devem ser sinalizados no cartão de coleta.\nDados: Obrigatório o preenchimento da idade gestacional, peso e transfusão sanguíena no cartão de coleta."
+   },
+   {
+    "id": 130,
+    "ProcedimentoId.Mnemonico": "PEPTC",
+    "nome": "PEPTIDEO C",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 131,
+    "ProcedimentoId.Mnemonico": "PEPTC",
+    "nome": "PEPTIDEO C",
+    "orientacao": "Medicação: Pacientes em tratamento com doses elevadas de biotina (superior a 5 mg\/dL), a coleta deve ser realizada até no mínimo 8 horas após a última administração. "
+   },
+   {
+    "id": 132,
+    "ProcedimentoId.Mnemonico": "CB",
+    "nome": "CORTISOL BASAL",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 133,
+    "ProcedimentoId.Mnemonico": "GP",
+    "nome": "GLICOSE - 2 HORAS POS PRANDIAL",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 134,
+    "ProcedimentoId.Mnemonico": "PSAL",
+    "nome": "PSA TOTAL\/LIVRE - FRACOES TOTAL E LIVRE",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 135,
+    "ProcedimentoId.Mnemonico": "PKU",
+    "nome": "FENILALANINA",
+    "orientacao": "Dieta: Coletar preferencialmente após 48 horas da primeira mamada. Medicação: Uso de corticoides pela mãe e pelo bebê devem ser sinalizados no cartão de coleta. Dados: Obrigatório o preenchimento da idade gestacional, peso e transfusão sanguínea no cartão de coleta."
+   },
+   {
+    "id": 136,
+    "ProcedimentoId.Mnemonico": "BASICO",
+    "nome": "TESTE DO PEZINHO - BASICO",
+    "orientacao": "Dieta: Coletar preferencialmente após 48 horas da primeira mamada. Medicação: Uso de corticoides pela mãe e pelo bebê devem ser sinalizados no cartão de coleta. Dados: Obrigatório o preenchimento da idade gestacional, peso e transfusão sanguínea no cartão de coleta."
+   },
+   {
+    "id": 137,
+    "ProcedimentoId.Mnemonico": "HTLV1E2",
+    "nome": "HTLV 1 E 2 ",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 138,
+    "ProcedimentoId.Mnemonico": "CROMOUR",
+    "nome": "CROMO - URINA",
+    "orientacao": "Preparo CROMU: Dieta: Evitar a ingestão de alimentos que podem elevar os níveis de cromo: Carnes, frango e frutos do mar, ovos, Leite e derivados."
+   },
+   {
+    "id": 139,
+    "ProcedimentoId.Mnemonico": "CA19\/9",
+    "nome": "ANTIGENO CA 19.9",
+    "orientacao": "Grãos integrais como aveia, linhaça e chia.Alimentos integrais, como arroz e pão. Frutas, como uva, maçã e laranja. Vegetais, como espinafre, brócolis, alho e tomate."
+   },
+   {
+    "id": 140,
+    "ProcedimentoId.Mnemonico": "HERG",
+    "nome": "HERPES SIMPLES IGG",
+    "orientacao": "Leguminosas, como feijão, soja e milho."
+   },
+   {
+    "id": 141,
+    "ProcedimentoId.Mnemonico": "PSO2",
+    "nome": "PESQUISA SANGUE OCULTO NAS FEZES (2ª AMOSTRA)",
+    "orientacao": "Medicação: Suplementos a base de cromo (picolinato de cromo)."
+   },
+   {
+    "id": 142,
+    "ProcedimentoId.Mnemonico": "PSO2",
+    "nome": "PESQUISA SANGUE OCULTO NAS FEZES (2ª AMOSTRA)",
+    "orientacao": "Medicação: Suplementos a base de cromo (picolinato de cromo)"
+   },
+   {
+    "id": 143,
+    "ProcedimentoId.Mnemonico": "PSO2",
+    "nome": "PESQUISA SANGUE OCULTO NAS FEZES (2ª AMOSTRA)",
+    "orientacao": "Outros: Não realizar coleta em período menstrual e em sangramentos devido a hemorroidas."
+   },
+   {
+    "id": 144,
+    "ProcedimentoId.Mnemonico": "PSO2",
+    "nome": "PESQUISA SANGUE OCULTO NAS FEZES (2ª AMOSTRA)",
+    "orientacao": "Bebida alcoólica: Desejável abstinência nas 72 horas que antecedem o teste"
+   },
+   {
+    "id": 145,
+    "ProcedimentoId.Mnemonico": "PSO3",
+    "nome": "PESQUISA SANGUE OCULTO NAS FEZES (3ª AMOSTRA)",
+    "orientacao": "Dieta SOP: Necessário realização de restrição alimentar. O paciente deve fazer dieta rigorosa por 4 dias antes da realização do exame e no dia de coleta de fezes, da qual se excluem carnes vermelhas, nabo,  vegetais (couve-flor, brocólis, beterraba) e chocolates."
+   },
+   {
+    "id": 146,
+    "ProcedimentoId.Mnemonico": "PSO3",
+    "nome": "PESQUISA SANGUE OCULTO NAS FEZES (3ª AMOSTRA)",
+    "orientacao": "Medicação: Evitar medicamentos como antiinflamatórios, corticoides, aspirina, composto de ferro, vitamina C e medicamentos que causam irritação gastrointestinal. "
+   },
+   {
+    "id": 147,
+    "ProcedimentoId.Mnemonico": "PSO3",
+    "nome": "PESQUISA SANGUE OCULTO NAS FEZES (3ª AMOSTRA)",
+    "orientacao": "Outros: Não realizar coleta em período menstrual e em sangramentos devido a hemorroidas."
+   },
+   {
+    "id": 148,
+    "ProcedimentoId.Mnemonico": "PSO3",
+    "nome": "PESQUISA SANGUE OCULTO NAS FEZES (3ª AMOSTRA)",
+    "orientacao": "Bebida alcoólica: Desejável abstinência nas 72 horas que antecedem o teste"
+   },
+   {
+    "id": 149,
+    "ProcedimentoId.Mnemonico": "CGT6",
+    "nome": "CURVA GLICEMICA - 6 HORAS (J.30.60.120.180.240.300.360)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 150,
+    "ProcedimentoId.Mnemonico": "CGD2",
+    "nome": "CURVA GLICEMICA - 2 DOSAGENS (J.60)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 151,
+    "ProcedimentoId.Mnemonico": "CG6H",
+    "nome": "CURVA GLICEMICA - 6 HORAS (J.30.60.120.180.240)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 152,
+    "ProcedimentoId.Mnemonico": "C1Q",
+    "nome": "COMPLEMENTO C1Q",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 153,
+    "ProcedimentoId.Mnemonico": "CH100",
+    "nome": "COMPLEMENTO CH-100",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 154,
+    "ProcedimentoId.Mnemonico": "ELE",
+    "nome": "IMUNOELETROFORESE DE PROTEINAS",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 155,
+    "ProcedimentoId.Mnemonico": "ERITROP",
+    "nome": "ERITROPOETINA",
+    "orientacao": "Jejum: Não é necessário jejum ou preparos especiais. Outros: Colher as amostras a mesma hora do dia, principalmente no período matutino das 07:30 da manhã e 12:00 (meio-dia)."
+   },
+   {
+    "id": 156,
+    "ProcedimentoId.Mnemonico": "CARM",
+    "nome": "ANTICARDIOLIPINA IGM ",
+    "orientacao": " Outros: Colher as amostras a mesma hora do dia, principalmente no período matutino das 07:30 da manhã e 12:00 (meio-dia)."
+   },
+   {
+    "id": 157,
+    "ProcedimentoId.Mnemonico": "CITM",
+    "nome": "CITOMEGALOVIRUS IGM ",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 158,
+    "ProcedimentoId.Mnemonico": "HEMATOSC",
+    "nome": "HEMATOSCOPIA",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 159,
+    "ProcedimentoId.Mnemonico": "FTAIGM",
+    "nome": "SIFILIS - FTA-ABS-IGM",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 160,
+    "ProcedimentoId.Mnemonico": "ANCAGEM",
+    "nome": "ANTINEUTROFILOS (ANCA) P E C",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 161,
+    "ProcedimentoId.Mnemonico": "VITA",
+    "nome": "VITAMINA A",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 162,
+    "ProcedimentoId.Mnemonico": "VITA",
+    "nome": "VITAMINA A",
+    "orientacao": "Informar medicamentos em uso"
+   },
+   {
+    "id": 163,
+    "ProcedimentoId.Mnemonico": "VITA",
+    "nome": "VITAMINA A",
+    "orientacao": "Bebida alcoólica: A abstinência é obrigatória nas 24 horas que antecedem o exame."
+   },
+   {
+    "id": 164,
+    "ProcedimentoId.Mnemonico": "CLAG",
+    "nome": "CHLAMYDIA TRACHOMATIS IGG",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 165,
+    "ProcedimentoId.Mnemonico": "DENGUEG",
+    "nome": "DENGUE IGG",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 166,
+    "ProcedimentoId.Mnemonico": "SOMATOME",
+    "nome": "SOMATOMEDINA C (IGF1)",
+    "orientacao": "Jejum de 4 horas ou mais."
+   },
+   {
+    "id": 167,
+    "ProcedimentoId.Mnemonico": "WBHIV",
+    "nome": "HIV 1 E 2 - WESTERN BLOT",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 168,
+    "ProcedimentoId.Mnemonico": "FRUTOSA",
+    "nome": "FRUTOSAMINAS (PROTEINAS GLICOSILADAS)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 169,
+    "ProcedimentoId.Mnemonico": "CATECOLA",
+    "nome": "CATECOLAMINAS",
+    "orientacao": "Preparo CATEP:\nBebida alcoólica: A abstinência é desejável nos 5 dias que antecedem o teste.\nDieta: Não é recomendado ingerir durante 5 dias antes da coleta os seguintes alimentos: banana, laranja, abacaxi, queijo, café, chá, chocolate, caramelos, marmeladas, doces, sorvetes, nozes e bebidas alcoólicas. Não fumar nas 4 horas que antecederem a coleta.\nMedicação: A critério médico, suspender por 7 dias antes da coleta os medicamentos: alfa-metil-dopa, antidepressivos tricíclicos, betabloqueadores, bloqueadores de canal de cálcio, bromocriptina, broncodilatadores, clonidina, clorpromazina, descongestionantes nasais, fenotiazina, haloperidol, inibidores da ECA (enzima conversora de angiotensina), inibidores da MAO (Monoamina oxidase), levodopa, moderadores de apetite, prazosina, quinidina, reserpina, teofilina, tetraciclina, vasodilatadores."
+   },
+   {
+    "id": 170,
+    "ProcedimentoId.Mnemonico": "GLOBAL",
+    "nome": "CONTAGEM GLOBAL DE CELULAS - LIQUOR",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 171,
+    "ProcedimentoId.Mnemonico": "RENIN",
+    "nome": "RENINA ",
+    "orientacao": "Preparo RENIN: Jejum: Aconselhável de 4 horas. Exercícios: Evitar a realização de atividade física. Medicação: A suspensão de medicamentos interferentes deve ser orientada exclusivamente pelo médico. Como sugestão para o profissional médico, os períodos a seguir são fornecidos: espironolactona, eplerenona, amilorida e triantereno, diuréticos perdedores de potássio e derivados de raiz de alcaçuz: 4 semanas; diuréticos poupadores de potássio, inibidores da ECA, anti-inflamatórios não esteroides, laxantes e antagonistas do canal de cálcio: 2 semanas; bloqueadores do receptor tipo 1 da angiotensina II, inibidores da renina: 2 semanas. Uso de contraceptivo oral ou Terapia de Reposição Hormonal pode diminuir a concentração da renina direta.\nCondições clínicas que alteram a relação aldosterona\/renina: distúrbios do potássio e sódio, insuficiência renal, gravidez, hipertensão renovascular e hipertensão maligna."
+   },
+   {
+    "id": 172,
+    "ProcedimentoId.Mnemonico": "BARATA",
+    "nome": "IGE ESPECIFICO - BARATA DOMESTICA (I6)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 173,
+    "ProcedimentoId.Mnemonico": "FORMIGA",
+    "nome": "IGE ESPECIFICO - FORMIGA DO FOGO (I70)",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 174,
+    "ProcedimentoId.Mnemonico": "MARIMBON",
+    "nome": "IGE ESPECIFICO - VENENO DE MARIMBONDO (I4)",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 175,
+    "ProcedimentoId.Mnemonico": "HBPATIA",
+    "nome": "HEMOGLOBINOPATIA - TESTE DO PEZINHO",
+    "orientacao": "- Colher preferencialmente entre 3º e o 30º dia de vida e no máximo até o 90º dia. "
+   },
+   {
+    "id": 176,
+    "ProcedimentoId.Mnemonico": "PERNILON",
+    "nome": "IGE ESPECIFICO - PERNILONGO AEDES COMMUNIS (I71)",
+    "orientacao": "- Coletar antes do 3º dia de vida apenas caso exista solicitação médica. "
+   },
+   {
+    "id": 177,
+    "ProcedimentoId.Mnemonico": "CARBOXHB",
+    "nome": "CARBOXIHEMOGLOBINA",
+    "orientacao": "- Caso o recém-nascido tenha recebido transfusão sanguínea, recomenda-se aguardar, no mínimo,120 dias e realizar o exame eletroforese de hemoglobina. "
+   },
+   {
+    "id": 178,
+    "ProcedimentoId.Mnemonico": "ABELHA",
+    "nome": "IGE ESPECIFICO - VENENO DE ABELHA (I1)",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 179,
+    "ProcedimentoId.Mnemonico": "MILHO",
+    "nome": "IGE ESPECIFICO - MILHO (F8)",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 180,
+    "ProcedimentoId.Mnemonico": "IGFBP3",
+    "nome": "IGF BP3 - PROTEINA LIGADORA-3 DO IGF",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 181,
+    "ProcedimentoId.Mnemonico": "CAMARAO",
+    "nome": "IGE ESPECIFICO - CAMARAO (F24)",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 182,
+    "ProcedimentoId.Mnemonico": "VESPA",
+    "nome": "IGE ESPECIFICO - VESPA COMUM (I3)",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 183,
+    "ProcedimentoId.Mnemonico": "INSUDX2",
+    "nome": "INSULINA - 2 HORAS POS DEXTROSOL",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 184,
+    "ProcedimentoId.Mnemonico": "GATO",
+    "nome": "IGE ESPECIFICO - GATO (PELO E CASPA) (E1)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 185,
+    "ProcedimentoId.Mnemonico": "CAVALO",
+    "nome": "IGE ESPECIFICO - CAVALO (EPITELIO E CASPA)",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 186,
+    "ProcedimentoId.Mnemonico": "TRAB",
+    "nome": "TRAB - ANTI-RECEPTOR DE TSH",
+    "orientacao": "Medicação: Pacientes em tratamento com doses elevadas de biotina (superior a 5 mg\/dL), a coleta deve ser realizada até no mínimo 8 horas após a última administração. Jejum: Aconselhável de 4 horas."
+   },
+   {
+    "id": 187,
+    "ProcedimentoId.Mnemonico": "FARINAE",
+    "nome": "IGE ESPECIFICO - DERMATOPHAGOIDES FARINAE (D2)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 188,
+    "ProcedimentoId.Mnemonico": "PTERO",
+    "nome": "IGE ESPECIFICO - DERMATOPHAGOIDES PTERONYSSINUS (D1)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 189,
+    "ProcedimentoId.Mnemonico": "GEMA",
+    "nome": "IGE ESPECIFICO - GEMA DE OVO (F75)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 190,
+    "ProcedimentoId.Mnemonico": "AMH",
+    "nome": "ACIDO METIL HIPURICO - URINA",
+    "orientacao": "Medicação: A biotransformação do xileno a ácido metil-hipúrico é inibida na  presença de ácido acetil salicílico (Aspirina). "
+   },
+   {
+    "id": 191,
+    "ProcedimentoId.Mnemonico": "AMH",
+    "nome": "ACIDO METIL HIPURICO - URINA",
+    "orientacao": "Dieta: O álcool inibe a biotransformação dos Xilenos e diminui  a excreção urinária do Ácido Metil Hipúrico."
+   },
+   {
+    "id": 192,
+    "ProcedimentoId.Mnemonico": "TUOLENO",
+    "nome": "ACIDO HIPURICO (PARA TUOLENO) - URINA",
+    "orientacao": "Preparo AH: Dieta: Um dia antes da coleta evitar: frutas (ameixa, pêssegos), grãos verdes de café, alimentos conservados com benzoatos, massa de tomate, mostarda, refrigerantes , alguns tipos de pães, chimarrão, e o consumo de álcool."
+   },
+   {
+    "id": 193,
+    "ProcedimentoId.Mnemonico": "ENDOIGG",
+    "nome": "ANTIENDOMISIO IGG",
+    "orientacao": "Medicação: Um  dia antes da coleta evitar: Antidepressivos IMAO, femprobamato, dietilpropiona e cocaína podem aumentar a excreção urinária do ácido hipúrico. Paracetamol, etanol, tabagismo e exposição concomitante ao benzeno inibem a biotransformação hepática do tolueno, acarretando em concentrações urinárias baixas. A suspensão de medicamentos fica à critério médico."
+   },
+   {
+    "id": 194,
+    "ProcedimentoId.Mnemonico": "MUSCULO",
+    "nome": "ANTIMUSCULO LISO",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 195,
+    "ProcedimentoId.Mnemonico": "DENGUEM",
+    "nome": "DENGUE IGM",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 196,
+    "ProcedimentoId.Mnemonico": "DENGUEGM",
+    "nome": "DENGUE IGG E IGM",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 197,
+    "ProcedimentoId.Mnemonico": "CG150",
+    "nome": "CURVA CLICEMICA - 5 DOSAGENS (J.60.90.120.150)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 198,
+    "ProcedimentoId.Mnemonico": "LPA",
+    "nome": "LIPOPROTEINA (A)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 199,
+    "ProcedimentoId.Mnemonico": "LPA",
+    "nome": "LIPOPROTEINA (A)",
+    "orientacao": "Jejum não obrigatório."
+   },
+   {
+    "id": 200,
+    "ProcedimentoId.Mnemonico": "GBDX30M",
+    "nome": "GLICOSE - 30 MINUTOS POS DEXTROSOL",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 201,
+    "ProcedimentoId.Mnemonico": "CERULO",
+    "nome": "CERULOPLASMINA ",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 202,
+    "ProcedimentoId.Mnemonico": "GLICO24H",
+    "nome": "GLICOSE - URINA 24H",
+    "orientacao": "Dados: Informar o volume da diurese."
+   },
+   {
+    "id": 203,
+    "ProcedimentoId.Mnemonico": "EPS-IGM",
+    "nome": "EPSTEIN BARR VIRUS IGM",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 204,
+    "ProcedimentoId.Mnemonico": "GAD",
+    "nome": "GAD, AUTO ANTICORPOS ANTI",
+    "orientacao": "Jejum de 4 horas ou mais."
+   },
+   {
+    "id": 205,
+    "ProcedimentoId.Mnemonico": "PEIXE",
+    "nome": "IGE ESPECIFICO - PEIXE BACALHAU (F3)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 206,
+    "ProcedimentoId.Mnemonico": "LAGOSTA",
+    "nome": "IGE ESPECIFICO - LAGOSTA (F80)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 207,
+    "ProcedimentoId.Mnemonico": "MACROPRO",
+    "nome": "MACROPROLACTINA",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 208,
+    "ProcedimentoId.Mnemonico": "MACROPRO",
+    "nome": "MACROPROLACTINA",
+    "orientacao": "Aconselhável repouso de 30 minutos para pacientes que antes da coleta tiveram algum estímulo como: exercícios físicos, relações sexuais, hipoglicemia e estresse."
+   },
+   {
+    "id": 209,
+    "ProcedimentoId.Mnemonico": "ALUMINIO",
+    "nome": "ALUMINIO ",
+    "orientacao": "Medicação: Medicamentos que apresentem alumínio em sua composição devem ser evitados."
+   },
+   {
+    "id": 210,
+    "ProcedimentoId.Mnemonico": "ALUMINIO",
+    "nome": "ALUMINIO ",
+    "orientacao": "Enviar amostra única para a realização deste exame."
+   },
+   {
+    "id": 211,
+    "ProcedimentoId.Mnemonico": "IONICO",
+    "nome": "CALCIO IONICO ",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 212,
+    "ProcedimentoId.Mnemonico": "ACTH-C",
+    "nome": "ACTH HORMONIO ADRENOCORTICOTROFICO",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 213,
+    "ProcedimentoId.Mnemonico": "CGI30",
+    "nome": " CURVA GLICEMICA E INSULINA 6 DOSAGENS (J.30.60.120.180.240)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 214,
+    "ProcedimentoId.Mnemonico": "CLORU24H",
+    "nome": "CLORO - URINA 24H",
+    "orientacao": "Dados: Informar o volume da diurese."
+   },
+   {
+    "id": 215,
+    "ProcedimentoId.Mnemonico": "C17H",
+    "nome": "CORTISOL - 17:00 HORAS",
+    "orientacao": "Bebida alcoólica: A abstinência é desejável nas 72 horas que antecedem o teste.\n Exercícios: Evitar a realização de atividade física.\n Jejum: Aconselhável de 4 horas.\n\nOutros: A escovação é permitida até duas horas antes da realização da coleta, evitando que o sangramento gengival interfira na amostra de saliva.\n Medicação: As amostras não devem ser colhidas em pacientes em tratamento com doses elevadas de biotina (superior a 5mg\/dL) até no mínimo 8 horas após a administração da biotina."
+   },
+   {
+    "id": 216,
+    "ProcedimentoId.Mnemonico": "PCRU",
+    "nome": "PCR ULTRA-SENSIVEL (PROTEINA C REATIVA)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 217,
+    "ProcedimentoId.Mnemonico": "JO1",
+    "nome": "ANTI-JO1",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 218,
+    "ProcedimentoId.Mnemonico": "GB16H",
+    "nome": "GLICOSE - 16:00H",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 219,
+    "ProcedimentoId.Mnemonico": "PSALIVRE",
+    "nome": "PSA LIVRE (NAO INCLUI PSA TOTAL)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 220,
+    "ProcedimentoId.Mnemonico": "CAXM-C",
+    "nome": "CAXUMBA IGM ",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 221,
+    "ProcedimentoId.Mnemonico": "CASEINA",
+    "nome": "IGE ESPECIFICO - CASEINA (F78)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 222,
+    "ProcedimentoId.Mnemonico": "BANANA",
+    "nome": "IGE ESPECIFICO - BANANA (F92)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 223,
+    "ProcedimentoId.Mnemonico": "ZOSTERM",
+    "nome": "VARICELLA ZOSTER IGM ",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 224,
+    "ProcedimentoId.Mnemonico": "HBPCR",
+    "nome": "HEPATITE B (QUANTITATIVO) POR PCR",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 225,
+    "ProcedimentoId.Mnemonico": "NOZES",
+    "nome": "IGE ESPECIFICO - NOZ (F256)",
+    "orientacao": "Não é necessário jejum ou cuidados especiais."
+   },
+   {
+    "id": 226,
+    "ProcedimentoId.Mnemonico": "ASPERGI",
+    "nome": "IGE ESPECIFICO - ASPERGILLUS FUMIGATUS (M3)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 227,
+    "ProcedimentoId.Mnemonico": "SEROTO-C",
+    "nome": "SEROTONINA",
+    "orientacao": "Bebida alcoólica: A abstinência é obrigatória nas 24 horas que antecedem o exame."
+   },
+   {
+    "id": 228,
+    "ProcedimentoId.Mnemonico": "SEROTO-C",
+    "nome": "SEROTONINA",
+    "orientacao": "Jejum obrigatório de 8 horas."
+   },
+   {
+    "id": 229,
+    "ProcedimentoId.Mnemonico": "SEROTO-C",
+    "nome": "SEROTONINA",
+    "orientacao": "Dieta: Não ingerir nas 24 horas que antecedem o exame: café, chá, chocolate, mate, refrigerante, abacate, abacaxi, ameixa, banana, berinjela, picles, kiwi, manga, nozes, tomate e alimentos aromatizados com baunilha."
+   },
+   {
+    "id": 230,
+    "ProcedimentoId.Mnemonico": "SEROTO-C",
+    "nome": "SEROTONINA",
+    "orientacao": "Medicação: De acordo com orientação médica, interromper o uso de inibidores da MAO (monoamina oxidase), lítio, imipramina, metildopa, paracetamol, morfina, naproxeno e reserpina."
+   },
+   {
+    "id": 231,
+    "ProcedimentoId.Mnemonico": "CTCF",
+    "nome": "CAPACIDADE TOTAL DE COMBINACAO DO FERRO",
+    "orientacao": "Jejum obrigatório de 8 horas."
+   },
+   {
+    "id": 232,
+    "ProcedimentoId.Mnemonico": "CTELOPEP",
+    "nome": "C-TELOPEPTIDEO",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 233,
+    "ProcedimentoId.Mnemonico": "CTELOPEP",
+    "nome": "C-TELOPEPTIDEO",
+    "orientacao": "Medicação: Pacientes em tratamento com doses elevadas de biotina (superior a 5 mg\/dL), a coleta deve ser realizada até no mínimo 8 horas após a última administração. "
+   },
+   {
+    "id": 234,
+    "ProcedimentoId.Mnemonico": "VIT1,25",
+    "nome": "1,25-DIHIDROXI VITAMINA D",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 235,
+    "ProcedimentoId.Mnemonico": "VI25",
+    "nome": "VITAMINA \"D\" 25 HIDROXI",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 236,
+    "ProcedimentoId.Mnemonico": "COCAINA",
+    "nome": "COCAINA - URINA RECENTE",
+    "orientacao": "Amostra isolada: Coletar em frasco apropriado preferencialmente a primeira urina da manhã ou com intervalo mínimo de 4 horas após a última micção. Desprezar o primeiro jato de urina e sem interromper a miccção, coletar o jato médio."
+   },
+   {
+    "id": 237,
+    "ProcedimentoId.Mnemonico": "MACONHA",
+    "nome": "TETRAHIDROCANABINOL (MACONHA) - URINA RECENTE",
+    "orientacao": "Amostra isolada: Coletar em frasco apropriado preferencialmente a primeira urina da manhã ou com intervalo mínimo de 4 horas após a última micção. Desprezar o primeiro jato de urina e sem interromper a miccção, coletar o jato médio."
+   },
+   {
+    "id": 238,
+    "ProcedimentoId.Mnemonico": "GB30MPP",
+    "nome": "GLICOSE - 30 MINUTOS POS PRANDIAL",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 239,
+    "ProcedimentoId.Mnemonico": "VT6-C",
+    "nome": "VITAMINA B6",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 240,
+    "ProcedimentoId.Mnemonico": "TRANSGLU",
+    "nome": "ANTI TRANSGLUTAMINASE TECIDUAL IGA",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 241,
+    "ProcedimentoId.Mnemonico": "PSRU",
+    "nome": "SUBSTANCIAS REDUTORAS - URINA RECENTE",
+    "orientacao": "Medicação: Evitar o uso de vitamina C medicamentoso, penicilina e tetraciclinas ou conforme orientação médica."
+   },
+   {
+    "id": 242,
+    "ProcedimentoId.Mnemonico": "PSRU",
+    "nome": "SUBSTANCIAS REDUTORAS - URINA RECENTE",
+    "orientacao": "Dieta: Manter a ingestão habitual de líquidos."
+   },
+   {
+    "id": 243,
+    "ProcedimentoId.Mnemonico": "ZOSTERG",
+    "nome": "VARICELLA ZOSTER IGG",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 244,
+    "ProcedimentoId.Mnemonico": "GLUTEN",
+    "nome": "IGE ESPECIFICO - GLUTEN (F79)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 245,
+    "ProcedimentoId.Mnemonico": "CARA",
+    "nome": "CARDIOLIPINA IGA",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 246,
+    "ProcedimentoId.Mnemonico": "FX5",
+    "nome": "IGE MULTIPLO - ALIMENTOS (CLARA,LEITE,TRIGO,AMENDOIM, SOJA) (FX5)",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 247,
+    "ProcedimentoId.Mnemonico": "CH50",
+    "nome": "COMPLEMENTO CH-50",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 248,
+    "ProcedimentoId.Mnemonico": "ORGANURI",
+    "nome": "ACIDOS ORGANICOS (QUANTITATIVO) - URINA",
+    "orientacao": "Dados: Imprescindível informar: Data de nascimento, Sexo, Resumo da história clínica, e Hipótese diagnóstica do médico solicitante."
+   },
+   {
+    "id": 249,
+    "ProcedimentoId.Mnemonico": "HBFETAL",
+    "nome": "HEMOGLOBINA FETAL",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 250,
+    "ProcedimentoId.Mnemonico": "GB17H",
+    "nome": "GLICOSE - 17:00H",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 251,
+    "ProcedimentoId.Mnemonico": "HAPTOG",
+    "nome": "HAPTOGLOBINA",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 252,
+    "ProcedimentoId.Mnemonico": "VITE",
+    "nome": "VITAMINA E ",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 253,
+    "ProcedimentoId.Mnemonico": "METAN24H",
+    "nome": "METANEFRINAS FRACOES - URINA 24H",
+    "orientacao": "Medicação: Suspender, à critério médico, o uso dos seguintes medicamentos: alfa bloqueadores, antidepressivos, diuréticos, estimulantes do SNC, vasodilatadores, anti-hipertensivos. Dieta: 24 horas antes da coleta de urina o paciente deverá evitar a ingestão de fumo, café, chá, refrigerantes com cola. Dados: Informar o volume da diurese."
+   },
+   {
+    "id": 254,
+    "ProcedimentoId.Mnemonico": "LKM",
+    "nome": "ANTI-LKM-1",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 255,
+    "ProcedimentoId.Mnemonico": "ALBU",
+    "nome": "ALBUMINURIA - URINA RECENTE",
+    "orientacao": "Exercícios: Evitar a realização de atividade fisica."
+   },
+   {
+    "id": 256,
+    "ProcedimentoId.Mnemonico": "VITC-C",
+    "nome": "VITAMINA C - ACIDO ASCORBICO",
+    "orientacao": "Jejum de 4 horas ou mais."
+   },
+   {
+    "id": 257,
+    "ProcedimentoId.Mnemonico": "VITC-C",
+    "nome": "VITAMINA C - ACIDO ASCORBICO",
+    "orientacao": "À critério do médico fazer a suspensão de suplementos vitamínicos nas 24 horas que antecedem a coleta de sangue para o exame."
+   },
+   {
+    "id": 258,
+    "ProcedimentoId.Mnemonico": "ENDOIGA",
+    "nome": "ENDOMISIO IGA",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 259,
+    "ProcedimentoId.Mnemonico": "ACECOLI",
+    "nome": "COLINESTERASE ERITROCITARIA",
+    "orientacao": "A amostra pode ser coletada em qualquer dia e horário, desde que o trabalhador esteja em trabalho contínuo nas últimas 4 (quatro) semanas sem afastamento maior que 4 (quatro) dias."
+   },
+   {
+    "id": 260,
+    "ProcedimentoId.Mnemonico": "FATORV-C",
+    "nome": "FATOR V - FATOR DA COAGULACAO",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 261,
+    "ProcedimentoId.Mnemonico": "AMP",
+    "nome": "AMP CICLICO - URINA 24H",
+    "orientacao": "Dados: Informar o volume da diurese."
+   },
+   {
+    "id": 262,
+    "ProcedimentoId.Mnemonico": "AMP",
+    "nome": "AMP CICLICO - URINA 24H",
+    "orientacao": "Outros: Necessário enviar alíquota única."
+   },
+   {
+    "id": 263,
+    "ProcedimentoId.Mnemonico": "SARG",
+    "nome": "SARAMPO IGG ",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 264,
+    "ProcedimentoId.Mnemonico": "C2",
+    "nome": "COMPLEMENTO C2",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 265,
+    "ProcedimentoId.Mnemonico": "C2",
+    "nome": "COMPLEMENTO C2",
+    "orientacao": "Enviar duas amostras para a realização deste exame."
+   },
+   {
+    "id": 266,
+    "ProcedimentoId.Mnemonico": "ELPRO24H",
+    "nome": "ELETROFORESE DE PROTEINAS - URINA 24H",
+    "orientacao": "Dados: Informar o volume da diurese."
+   },
+   {
+    "id": 267,
+    "ProcedimentoId.Mnemonico": "FLUOI",
+    "nome": "FLUOR URINARIO - INICIO DA JORNADA DE TRABALHO",
+    "orientacao": "Dieta: Concentrações elevadas de flúor na água potável, bem como o consumo de chá, frutos do mar e cremes dentais podem acarretar em valores elevados. Outros: Retirar a roupa ou uniforme contaminado antes da coleta."
+   },
+   {
+    "id": 268,
+    "ProcedimentoId.Mnemonico": "PREALB",
+    "nome": "PRE-ALBUMINA ",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 269,
+    "ProcedimentoId.Mnemonico": "BRUIGM",
+    "nome": "BRUCELA IGM",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 270,
+    "ProcedimentoId.Mnemonico": "CITRICO",
+    "nome": "CITRATO - URINA RECENTE",
+    "orientacao": "Não fazer esforço físico durante a coleta."
+   },
+   {
+    "id": 271,
+    "ProcedimentoId.Mnemonico": "HELIIGG",
+    "nome": "HELICOBACTER PYLORI IGG",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 272,
+    "ProcedimentoId.Mnemonico": "HELIIGM",
+    "nome": "HELICOBACTER PYLORI IGM",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 273,
+    "ProcedimentoId.Mnemonico": "HELIIGA",
+    "nome": "HELICOBACTER PYLORI - IGA",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 274,
+    "ProcedimentoId.Mnemonico": "GBDX1H",
+    "nome": "GLICOSE - 1 HORA POS DEXTROSOL (J.60)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 275,
+    "ProcedimentoId.Mnemonico": "ANFE",
+    "nome": "ANFETAMINAS - URINA RECENTE",
+    "orientacao": "A urina deve ser coletada em um recipiente limpo e seco. A urina coletada em qualquer momento do dia pode ser utilizada."
+   },
+   {
+    "id": 276,
+    "ProcedimentoId.Mnemonico": "GBDX3H",
+    "nome": "GLICOSE - 3 HORAS POS DEXTROSOL",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 277,
+    "ProcedimentoId.Mnemonico": "LAC4",
+    "nome": "LACTOSE TESTE DE TOLERANCIA - 4 DOSAGENS (J.20.40.60)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 278,
+    "ProcedimentoId.Mnemonico": "LARANJA",
+    "nome": "IGE ESPECIFICO - LARANJA (F33)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 279,
+    "ProcedimentoId.Mnemonico": "SARM",
+    "nome": "SARAMPO IGM",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 280,
+    "ProcedimentoId.Mnemonico": "CITOL1",
+    "nome": "1 PD CITOPATOLOGICO ONCOT. LIQ. E RASP. CUTANEOS",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 281,
+    "ProcedimentoId.Mnemonico": "TIRECER1",
+    "nome": "TIREOGLOBULINA - PUNCAO (1ª AMOSTRA)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 282,
+    "ProcedimentoId.Mnemonico": "A2",
+    "nome": "HEMOGLOBINA A2",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 283,
+    "ProcedimentoId.Mnemonico": "DIMERO",
+    "nome": "DIMERO D",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 284,
+    "ProcedimentoId.Mnemonico": "NUCLEOSS",
+    "nome": "ANTI NUCLEOSSOMO",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 285,
+    "ProcedimentoId.Mnemonico": "CHAGHEM",
+    "nome": "CHAGAS HEMOAGLUTINACAO",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 286,
+    "ProcedimentoId.Mnemonico": "SEMENTES",
+    "nome": "IGE MULTIPLO - SEMENTES OLEAGINOSAS (FX1)",
+    "orientacao": "Não é necessário jejum ou cuidados especiais."
+   },
+   {
+    "id": 287,
+    "ProcedimentoId.Mnemonico": "BRUIGG",
+    "nome": "BRUCELA IGG ",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 288,
+    "ProcedimentoId.Mnemonico": "PENICI-G",
+    "nome": "IGE ESPECIFICO - PENICILINA G (C1)",
+    "orientacao": "Não é necessário jejum ou cuidados especiais."
+   },
+   {
+    "id": 289,
+    "ProcedimentoId.Mnemonico": "PENICI-V",
+    "nome": "IGE ESPECIFICA - PENICILINA V (C2)",
+    "orientacao": "Não é necessário jejum ou cuidados especiais."
+   },
+   {
+    "id": 290,
+    "ProcedimentoId.Mnemonico": "AMARELO",
+    "nome": "IGE ESPECIFICO - CORANTE AMARELO (C279)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 291,
+    "ProcedimentoId.Mnemonico": "VDRLL",
+    "nome": "SIFILIS VDRL - LIQUOR",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 292,
+    "ProcedimentoId.Mnemonico": "CARANGUE",
+    "nome": "IGE ESPECIFICO - CARANGUEJO (APF23)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 293,
+    "ProcedimentoId.Mnemonico": "VIII-C",
+    "nome": "FATOR VIII DA COAGULACAO",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 294,
+    "ProcedimentoId.Mnemonico": "HUNTINGT",
+    "nome": "HUNTINGTON",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 295,
+    "ProcedimentoId.Mnemonico": "HUNTINGT",
+    "nome": "HUNTINGTON",
+    "orientacao": "Dados: É obrigatório o envio da cópia do pedido médico."
+   },
+   {
+    "id": 296,
+    "ProcedimentoId.Mnemonico": "LACTOALB",
+    "nome": "IGE ESPECIFICO - ALFA LACTOALBUMINA (F76)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 297,
+    "ProcedimentoId.Mnemonico": "LACTOGLO",
+    "nome": "IGE ESPECIFICO - BETA-LACTOGLOBULINA (F77)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 298,
+    "ProcedimentoId.Mnemonico": "CKMM",
+    "nome": "CREATINO FOSFAQUINASE - FRACAO MB - MASSA ",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 299,
+    "ProcedimentoId.Mnemonico": "ABACAXI",
+    "nome": "IGE ESPECIFICO - ABACAXI (F210)",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 300,
+    "ProcedimentoId.Mnemonico": "HEM",
+    "nome": "HEMOGRAMA COMPLETO",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 301,
+    "ProcedimentoId.Mnemonico": "LIP",
+    "nome": "PERFIL LIPIDICO\/LIPIDOGRAMA - CT, HDL, LDL, VLDL e TRI",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 302,
+    "ProcedimentoId.Mnemonico": "LEU",
+    "nome": "LEUCOGRAMA",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 303,
+    "ProcedimentoId.Mnemonico": "RET",
+    "nome": "RETICULOCITOS CONTAGEM",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 304,
+    "ProcedimentoId.Mnemonico": "ERI",
+    "nome": "ERITROGRAMA",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 305,
+    "ProcedimentoId.Mnemonico": "GSA",
+    "nome": "CLASSIFICACAO SANGUINEA - GRUPO ABO E FATOR RH",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 306,
+    "ProcedimentoId.Mnemonico": "COA",
+    "nome": "COAGULOGRAMA (TAP, PTTK, CONTAGEM DE PLAQUETAS)",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 307,
+    "ProcedimentoId.Mnemonico": "VHS",
+    "nome": "VHS - VELOCIDADE DE HEMOSSEDIMENTACAO",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 308,
+    "ProcedimentoId.Mnemonico": "FIBR-C",
+    "nome": "FIBRINOGENIO",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 309,
+    "ProcedimentoId.Mnemonico": "HEMACIAS",
+    "nome": "HEMACIAS, CONTAGEM",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 310,
+    "ProcedimentoId.Mnemonico": "HCTO",
+    "nome": "HEMATOCRITO, DETERMINACAO DO",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 311,
+    "ProcedimentoId.Mnemonico": "HB",
+    "nome": "HEMOGLOBINA, DOSAGEM DE",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 312,
+    "ProcedimentoId.Mnemonico": "PLA",
+    "nome": "CONTAGEM DE PLAQUETAS",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 313,
+    "ProcedimentoId.Mnemonico": "PLAS",
+    "nome": "PLASMODIUM, PESQUISA EM GOTA ESPESSA MALARIA",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 314,
+    "ProcedimentoId.Mnemonico": "PL",
+    "nome": "PROVA DO LACO",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 315,
+    "ProcedimentoId.Mnemonico": "EPF",
+    "nome": "EPF - PARASITOLOGICO DE FEZES (1ª AMOSTRA)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 316,
+    "ProcedimentoId.Mnemonico": "EPF",
+    "nome": "EPF - PARASITOLOGICO DE FEZES (1ª AMOSTRA)",
+    "orientacao": "Aproximadamente metade do frasco de fezes (frasco próprio)"
+   },
+   {
+    "id": 317,
+    "ProcedimentoId.Mnemonico": "EPF",
+    "nome": "EPF - PARASITOLOGICO DE FEZES (1ª AMOSTRA)",
+    "orientacao": "Antes de coletar as fezes, se necessário, urinar no vaso sanitário para evitar a contaminação do material. Em casos de crianças utilizar coletor, se necessário. \n- Evitar o uso de antiácido, laxantes e de contraste oral (utilizado em exames radiológicos) no mínimo 3 dias antes da coleta das fezes ou conforme orientação médica. \n- Defecar em vasilhame limpo e seco. \n- Retirar frações de fezes em diferentes partes do bolo fecal (inicio, \nmeio e fim) e colocar em frasco fornecido pelo laboratório ou adquirido em farmácia, sem liquido conservante, de modo que complete pelo menos meio frasco. \n- Sempre que houver muco (catarro), pus ou sangue, colher esta porção \npara que seja analisada, informando a presença dessas substancias ao \nentregar o material. \n- Caso seja visualizado algum parasita, coletá-lo informando o achado ao atendente no momento da entrega do material para o adequado \nprocessamento da amostra. "
+   },
+   {
+    "id": 318,
+    "ProcedimentoId.Mnemonico": "VLDL",
+    "nome": "COLESTEROL (VLDL)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 319,
+    "ProcedimentoId.Mnemonico": "PSO",
+    "nome": "PESQUISA SANGUE OCULTO NAS FEZES",
+    "orientacao": "Dieta SOP: Necessário realização de restrição alimentar. O paciente deve fazer dieta rigorosa por 4 dias antes da realização do exame e no dia de coleta de fezes, da qual se excluem carnes vermelhas, nabo,  vegetais (couve-flor, brocólis, beterraba) e chocolates."
+   },
+   {
+    "id": 320,
+    "ProcedimentoId.Mnemonico": "PSO",
+    "nome": "PESQUISA SANGUE OCULTO NAS FEZES",
+    "orientacao": "Medicação: Evitar medicamentos como antiinflamatórios, corticoides, aspirina, composto de ferro, vitamina C e medicamentos que causam irritação gastrointestinal. "
+   },
+   {
+    "id": 321,
+    "ProcedimentoId.Mnemonico": "PSO",
+    "nome": "PESQUISA SANGUE OCULTO NAS FEZES",
+    "orientacao": "Outros: Não realizar coleta em período menstrual e em sangramentos devido a hemorroidas."
+   },
+   {
+    "id": 322,
+    "ProcedimentoId.Mnemonico": "PSO",
+    "nome": "PESQUISA SANGUE OCULTO NAS FEZES",
+    "orientacao": "Bebida alcoólica: Desejável abstinência nas 72 horas que antecedem o teste"
+   },
+   {
+    "id": 323,
+    "ProcedimentoId.Mnemonico": "PSR",
+    "nome": "SUBSTANCIAS REDUTORAS - FEZES ",
+    "orientacao": "Medicação: Evitar o uso de laxantes, supositórios, vitamina C medicamentoso, penicilina e tetraciclinas ou conforme orientação médica."
+   },
+   {
+    "id": 324,
+    "ProcedimentoId.Mnemonico": "TGO",
+    "nome": "ASPARTATO AMINOTRANSFERASE (TGO, AST)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 325,
+    "ProcedimentoId.Mnemonico": "TGP",
+    "nome": "ALANINA AMINOTRANSFERASE (TGP, ALT)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 326,
+    "ProcedimentoId.Mnemonico": "TRI",
+    "nome": "TRIGLICERIDEOS",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 327,
+    "ProcedimentoId.Mnemonico": "URE",
+    "nome": "UREIA",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 328,
+    "ProcedimentoId.Mnemonico": "TRANS",
+    "nome": "TRANSFERRINA",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 329,
+    "ProcedimentoId.Mnemonico": "T3L",
+    "nome": "T3 LIVRE ",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 330,
+    "ProcedimentoId.Mnemonico": "MAG",
+    "nome": "MAGNESIO",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 331,
+    "ProcedimentoId.Mnemonico": "HG",
+    "nome": "HEMOGLOBINA GLICADA (FRACAO A1C) ",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 332,
+    "ProcedimentoId.Mnemonico": "LDL",
+    "nome": "COLESTEROL (LDL)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 333,
+    "ProcedimentoId.Mnemonico": "LIPA",
+    "nome": "LIPASE",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 334,
+    "ProcedimentoId.Mnemonico": "GB",
+    "nome": "GLICOSE",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 335,
+    "ProcedimentoId.Mnemonico": "GPD",
+    "nome": "GLICOSE - 2 HORAS POS DEXTROSOL",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 336,
+    "ProcedimentoId.Mnemonico": "HDL",
+    "nome": "COLESTEROL (HDL) ",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 337,
+    "ProcedimentoId.Mnemonico": "FOS",
+    "nome": "FOSFORO ",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 338,
+    "ProcedimentoId.Mnemonico": "FRUTOSE",
+    "nome": "FRUTOSE",
+    "orientacao": "Realização da Coleta: \nExame realizado somente na Unidade Matriz. \nDe segunda-feira a sexta-feira horário das 8:00 as 16:30 horas e aos \n Sábados das 8:00 as 10:30 horas \nNas dependências do laboratório. \nNão realizamos coleta aos domingos e feriados. \n\nInstruções e preparo: \nNão necessita abstinência de ejaculação; A forma de coleta do material é por masturbação, sem que haja perda do material, diretamente no frasco estéril. "
+   },
+   {
+    "id": 339,
+    "ProcedimentoId.Mnemonico": "GT",
+    "nome": "GAMA-GLUTAMIL TRANSFERASE ",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 340,
+    "ProcedimentoId.Mnemonico": "FAT",
+    "nome": "FOSFATASE ACIDA TOTAL",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 341,
+    "ProcedimentoId.Mnemonico": "FAL",
+    "nome": "FOSFATASE ALCALINA",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 342,
+    "ProcedimentoId.Mnemonico": "PTF",
+    "nome": "PROTEINAS TOTAIS E FRACOES",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 343,
+    "ProcedimentoId.Mnemonico": "FER",
+    "nome": "FERRO",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 344,
+    "ProcedimentoId.Mnemonico": "FENO",
+    "nome": "FENOBARBITAL",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 345,
+    "ProcedimentoId.Mnemonico": "DIGO",
+    "nome": "DIGITOXINA OU DIGOXINA ",
+    "orientacao": "Informar medicamentos em uso"
+   },
+   {
+    "id": 346,
+    "ProcedimentoId.Mnemonico": "DIGO",
+    "nome": "DIGITOXINA OU DIGOXINA ",
+    "orientacao": "Medicação: As amostras devem ser obtidas no vale ou pelo menos 8 horas após a dose."
+   },
+   {
+    "id": 347,
+    "ProcedimentoId.Mnemonico": "COL",
+    "nome": "COLESTEROL TOTAL ",
+    "orientacao": "Pode se ingerir água neste período."
+   },
+   {
+    "id": 348,
+    "ProcedimentoId.Mnemonico": "CARBAMA",
+    "nome": "CARBAMAZEPINA ",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 349,
+    "ProcedimentoId.Mnemonico": "CARBAMA",
+    "nome": "CARBAMAZEPINA ",
+    "orientacao": "O paciente deve estar com a dosagem estavel da medicacao ha pelo menos dois dias."
+   },
+   {
+    "id": 350,
+    "ProcedimentoId.Mnemonico": "CARBAMA",
+    "nome": "CARBAMAZEPINA ",
+    "orientacao": "Manter, obrigatoriamente, o horario usual de tomar o medicamento e fazer a coleta da amostra ate uma hora antes desse momento habitual ou, entao, de acordo com o pedido medico."
+   },
+   {
+    "id": 351,
+    "ProcedimentoId.Mnemonico": "AMI",
+    "nome": "AMILASE",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 352,
+    "ProcedimentoId.Mnemonico": "AUR",
+    "nome": "ACIDO URICO",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 353,
+    "ProcedimentoId.Mnemonico": "VAL",
+    "nome": "ACIDO VALPROICO",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 354,
+    "ProcedimentoId.Mnemonico": "VAL",
+    "nome": "ACIDO VALPROICO",
+    "orientacao": "Indicar a hora da ultima dose."
+   },
+   {
+    "id": 355,
+    "ProcedimentoId.Mnemonico": "VAL",
+    "nome": "ACIDO VALPROICO",
+    "orientacao": "O paciente deve estar com a dosagem estavel da medicacao ha pelo menos dois dias."
+   },
+   {
+    "id": 356,
+    "ProcedimentoId.Mnemonico": "VAL",
+    "nome": "ACIDO VALPROICO",
+    "orientacao": "Manter, obrigatoriamente, o horario usual de tomar o medicamento e fazer a coleta da amostra ate uma hora antes desse momento habitual ou, entao, de acordo com o pedido medico."
+   },
+   {
+    "id": 357,
+    "ProcedimentoId.Mnemonico": "FETO",
+    "nome": "ALFA-FETOPROTEINA",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 358,
+    "ProcedimentoId.Mnemonico": "COLI",
+    "nome": "COLINESTERASE PLASMATICA",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 359,
+    "ProcedimentoId.Mnemonico": "LAC3",
+    "nome": "LACTOSE TESTE DE TOLERANCIA - 3 DOSAGENS (J.30.60)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 360,
+    "ProcedimentoId.Mnemonico": "MALT",
+    "nome": "MALTOSE TESTE DE TOLERANCIA - 3 DOSAGENS (J.30.60)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 361,
+    "ProcedimentoId.Mnemonico": "LACTATO",
+    "nome": "ACIDO LACTICO (LACTATO)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 362,
+    "ProcedimentoId.Mnemonico": "SAC",
+    "nome": "SACAROSE TESTE DE TOLERANCIA - 3 DOSAGENS (J.30.60)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 363,
+    "ProcedimentoId.Mnemonico": "ACIDBILI",
+    "nome": "ACIDOS BILIARES",
+    "orientacao": "Jejum obrigatório de 12 horas ou conforme orientação médica."
+   },
+   {
+    "id": 364,
+    "ProcedimentoId.Mnemonico": "CATECO",
+    "nome": "CATECOLAMINAS",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 365,
+    "ProcedimentoId.Mnemonico": "CINA-S",
+    "nome": "CREATINA",
+    "orientacao": "Outros CINA:\nObrigatório informar: sexo, idade, uso de medicamento, suplementos, dados clinicos e hipótese diagnóstica do paciente.\nEnviar amostra única para a realização deste exame. "
+   },
+   {
+    "id": 366,
+    "ProcedimentoId.Mnemonico": "HIVWBREC",
+    "nome": "HIV 1 E 2 - WESTERN BLOT - RECOLETA",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 367,
+    "ProcedimentoId.Mnemonico": "MI2",
+    "nome": "ANTICORPOS ANTI MI-2 AUTO",
+    "orientacao": "Outros: As amostras devem ser enviadas em tudo seco (removidas do coágulo, eritrócitos ou gel separador)."
+   },
+   {
+    "id": 368,
+    "ProcedimentoId.Mnemonico": "HOMABETA",
+    "nome": "INDICE DE HOMA - BETA ",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 369,
+    "ProcedimentoId.Mnemonico": "VITB2",
+    "nome": "VITAMINA B2",
+    "orientacao": "À critério do médico fazer a suspensão de suplementos vitamínicos nas 24 horas que antecedem a coleta de sangue para o exame."
+   },
+   {
+    "id": 370,
+    "ProcedimentoId.Mnemonico": "VITB2",
+    "nome": "VITAMINA B2",
+    "orientacao": "Jejum de 8 horas"
+   },
+   {
+    "id": 371,
+    "ProcedimentoId.Mnemonico": "ALDUR24H",
+    "nome": "ALDOSTERONA - URINA 24H",
+    "orientacao": "Dieta ALD24:\nEvitar a ingestão excessiva de alcaçuz, pois esta substância pode diminuir os níveis de Aldosterona, visto que essa substância possui um efeito similar ao da Aldosterona.\nExercícios ALD24:\nO exercício excessivo e o estresse podem estimular a secreção adrenocorticais e elevar o nível de aldosterona.\nMedicação ALD24:\nÀ critério clínico, suspender medicações que alterem o equilíbrio de sódio, potássio e líquidos (ex.: diuréticos, hipotensores, esteroides) para maior precisão do resultado.\n Entre os fármacos que aumentam os níveis de Aldosterona incluem-se diazóxido, hidralacina e nitroprusiato; já entre os fármacos que podem reduzir os níveis de aldosterona encontram-se  fludrocortisona e propranolol.\nDados: Informar o volume da diurese.\n Outros: Postura, dieta e gestação influenciam o resultado."
+   },
+   {
+    "id": 372,
+    "ProcedimentoId.Mnemonico": "ACUR",
+    "nome": "RELACAO ALBUMINA\/CREATININA - URINA RECENTE",
+    "orientacao": "Exercícios: Evitar a realização de atividade fisica."
+   },
+   {
+    "id": 373,
+    "ProcedimentoId.Mnemonico": "OVOMUCOI",
+    "nome": "IGE ESPECIFICO - OVOMUCOIDE (F233)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 374,
+    "ProcedimentoId.Mnemonico": "AVELA",
+    "nome": "IGE ESPECIFICO - AVELA (F17)",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 375,
+    "ProcedimentoId.Mnemonico": "CORTSALI",
+    "nome": "CORTISOL SALIVAR (1ª AMOSTRA)",
+    "orientacao": "Bebida alcoólica: A abstinência é desejável nas 72 horas que antecedem o teste.\n Exercícios: Evitar a realização de atividade física.\n Jejum: Aconselhável de 4 horas.\n\nOutros: A escovação é permitida até duas horas antes da realização da coleta, evitando que o sangramento gengival interfira na amostra de saliva.\n Medicação: As amostras não devem ser colhidas em pacientes em tratamento com doses elevadas de biotina (superior a 5mg\/dL) até no mínimo 8 horas após a administração da biotina."
+   },
+   {
+    "id": 376,
+    "ProcedimentoId.Mnemonico": "MAMAO",
+    "nome": "IGE ESPECIFICO - MAMAO (F293)",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 377,
+    "ProcedimentoId.Mnemonico": "COBRE24H",
+    "nome": "COBRE - URINA 24H",
+    "orientacao": "Medicação: Carbamazepina, estrógenos, contraceptivos orais, fenobarbital e fenitoína podem interferir no resultado do exame.\n Dados: Informar o volume da diurese."
+   },
+   {
+    "id": 378,
+    "ProcedimentoId.Mnemonico": "CENTEIO",
+    "nome": "IGE ESPECIFICO - CENTEIO (F5)",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 379,
+    "ProcedimentoId.Mnemonico": "CEVADA",
+    "nome": "IGE ESPECIFICO - CEVADA (F6)",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 380,
+    "ProcedimentoId.Mnemonico": "CGT1",
+    "nome": "CURVA GLICEMICA - 1 HORA (J.30.60)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 381,
+    "ProcedimentoId.Mnemonico": "CRYPORI1",
+    "nome": "CRIPTOSPORIDIUM - FEZES",
+    "orientacao": "Medicação: Evitar o uso de laxantes, antidiarreicos, antiácidos e de contraste oral (utilizado em exames radiológicos) no mínimo 72 horas antes da coleta das fezes ou conforme orientação médica."
+   },
+   {
+    "id": 382,
+    "ProcedimentoId.Mnemonico": "CG3HORAS",
+    "nome": "CURVA GLICEMICA - 3 HORAS (J.30.60.120.180)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 383,
+    "ProcedimentoId.Mnemonico": "ESQIGG",
+    "nome": "ESQUISTOSSOMOSE IGG",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 384,
+    "ProcedimentoId.Mnemonico": "F11-C",
+    "nome": "FATOR XI DA COAGULACAO",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 385,
+    "ProcedimentoId.Mnemonico": "GBM",
+    "nome": "GLICOSE",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 386,
+    "ProcedimentoId.Mnemonico": "BETERRA",
+    "nome": "IGE ESPECIFICO - BETERRABA (F319)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 387,
+    "ProcedimentoId.Mnemonico": "CEBOLA",
+    "nome": "IGE ESPECIFICO - CEBOLA (F48)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 388,
+    "ProcedimentoId.Mnemonico": "TAP",
+    "nome": "TAP - TEMPO DE ATIVIDADE DA PROTOMBINA",
+    "orientacao": "Jejum não obrigatório, aconselhaveu 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 389,
+    "ProcedimentoId.Mnemonico": "RPC",
+    "nome": "RELACAO PROTEINA\/CREATININA - URINA",
+    "orientacao": "Exercícios: Evitar a realização de atividade fisica."
+   },
+   {
+    "id": 390,
+    "ProcedimentoId.Mnemonico": "HIVTR",
+    "nome": "HIV 1 E 2 - TESTE RAPIDO ",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 391,
+    "ProcedimentoId.Mnemonico": "VITAB3",
+    "nome": "VITAMINA B3",
+    "orientacao": "Enviar amostra única para a realização deste exame."
+   },
+   {
+    "id": 392,
+    "ProcedimentoId.Mnemonico": "EAS",
+    "nome": "EAS - EXAME DE URINA",
+    "orientacao": "Dieta: Manter a ingestão habitual de líquidos."
+   },
+   {
+    "id": 393,
+    "ProcedimentoId.Mnemonico": "EAS",
+    "nome": "EAS - EXAME DE URINA",
+    "orientacao": "Exercícios: Evitar a prática de exercício físico antes da coleta de urina."
+   },
+   {
+    "id": 394,
+    "ProcedimentoId.Mnemonico": "EAS",
+    "nome": "EAS - EXAME DE URINA",
+    "orientacao": "Medicação: Evitar o uso de medicamentos e de contraste oral (utilizado em exames radiológicos), ou conforme orientação médica."
+   },
+   {
+    "id": 395,
+    "ProcedimentoId.Mnemonico": "EAS",
+    "nome": "EAS - EXAME DE URINA",
+    "orientacao": "Outros: Abstinência sexual por período de 24 horas antes da coleta de urina."
+   },
+   {
+    "id": 396,
+    "ProcedimentoId.Mnemonico": "EAS",
+    "nome": "EAS - EXAME DE URINA",
+    "orientacao": "Evitar coletar no período menstrual"
+   },
+   {
+    "id": 397,
+    "ProcedimentoId.Mnemonico": "CGD6",
+    "nome": "CURVA GLICEMICA - 6 DOSAGENS (J.60.120.180.240.300)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 398,
+    "ProcedimentoId.Mnemonico": "CTSAL8H",
+    "nome": "CORTISOL SALIVAR - 08:00 HORAS ",
+    "orientacao": "Bebida alcoólica: A abstinência é desejável nas 72 horas que antecedem o teste.\n Exercícios: Evitar a realização de atividade física.\n Jejum: Aconselhável de 4 horas.\n\nOutros: A escovação é permitida até duas horas antes da realização da coleta, evitando que o sangramento gengival interfira na amostra de saliva.\n Medicação: As amostras não devem ser colhidas em pacientes em tratamento com doses elevadas de biotina (superior a 5mg\/dL) até no mínimo 8 horas após a administração da biotina."
+   },
+   {
+    "id": 399,
+    "ProcedimentoId.Mnemonico": "CTSAL11H",
+    "nome": "CORTISOL SALIVAR - 11:00 HORAS",
+    "orientacao": "Bebida alcoólica: A abstinência é desejável nas 72 horas que antecedem o teste.\n Exercícios: Evitar a realização de atividade física.\n Jejum: Aconselhável de 4 horas.\n\nOutros: A escovação é permitida até duas horas antes da realização da coleta, evitando que o sangramento gengival interfira na amostra de saliva.\n Medicação: As amostras não devem ser colhidas em pacientes em tratamento com doses elevadas de biotina (superior a 5mg\/dL) até no mínimo 8 horas após a administração da biotina."
+   },
+   {
+    "id": 400,
+    "ProcedimentoId.Mnemonico": "CTSAL16H",
+    "nome": "CORTISOL SALIVAR - 16:00 HORAS",
+    "orientacao": "Bebida alcoólica: A abstinência é desejável nas 72 horas que antecedem o teste.\n Exercícios: Evitar a realização de atividade física.\n Jejum: Aconselhável de 4 horas.\n\nOutros: A escovação é permitida até duas horas antes da realização da coleta, evitando que o sangramento gengival interfira na amostra de saliva.\n Medicação: As amostras não devem ser colhidas em pacientes em tratamento com doses elevadas de biotina (superior a 5mg\/dL) até no mínimo 8 horas após a administração da biotina."
+   },
+   {
+    "id": 401,
+    "ProcedimentoId.Mnemonico": "CTSAL23H",
+    "nome": "CORTISOL SALIVAR - 23:00 HORAS",
+    "orientacao": "Bebida alcoólica: A abstinência é desejável nas 72 horas que antecedem o teste.\n Exercícios: Evitar a realização de atividade física.\n Jejum: Aconselhável de 4 horas.\n\nOutros: A escovação é permitida até duas horas antes da realização da coleta, evitando que o sangramento gengival interfira na amostra de saliva.\n Medicação: As amostras não devem ser colhidas em pacientes em tratamento com doses elevadas de biotina (superior a 5mg\/dL) até no mínimo 8 horas após a administração da biotina."
+   },
+   {
+    "id": 402,
+    "ProcedimentoId.Mnemonico": "IMUFENO",
+    "nome": "IMUNOFENOTIPAGEM - NEOPLASIA HEMATOLOGICA",
+    "orientacao": "Dados: É obrigatório o envio de cópia do pedido médico, formulário (disponível no site DB) preenchido corretamente contendo hipótese diagnóstica, achados clínicos e laudo de hemograma recente.\nOutros: É recomendável o envio de uma lâmina de esfregaço de aspirado medular para a análise morfológica para auxílio na realização do exame."
+   },
+   {
+    "id": 403,
+    "ProcedimentoId.Mnemonico": "BIOTINA",
+    "nome": "BIOTINA",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 404,
+    "ProcedimentoId.Mnemonico": "DROGACAB",
+    "nome": "EXAME TOXICOLOGICO - CABELO",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 405,
+    "ProcedimentoId.Mnemonico": "DROGACAB",
+    "nome": "EXAME TOXICOLOGICO - CABELO",
+    "orientacao": "ATENÇÃO AOS VALORES E FORMA DE PAGAMENTO\n\n* Para Renovação de CNH (Detran), Admissional e Demissional – Valor do exame R$ 298,00  (R$ 258,00 podendo ser parcelado em 6x, R$ 40,00 no ato do atendimento) cadastrar pelo site Psychemedcis;  \n\n* Para concurso Público: Valor do exame R$ 324,00 à vista (R$ 294,00 o custo do exame e R$ 40,00 taxa de coleta), envio manual.  \n\n* Para uso Pessoal: Valor do exame R$ 390,00 à vista (R$350,00 o custo do exame e R$ 40,00 no ato do atendimento), envio manual.\n\nQualquer dúvida procure seu supervisor."
+   },
+   {
+    "id": 406,
+    "ProcedimentoId.Mnemonico": "TOXAVIDE",
+    "nome": "TOXOPLASMOSE IGG - AVIDEZ",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 407,
+    "ProcedimentoId.Mnemonico": "CS24",
+    "nome": "CORTISOL SALIVAR - 00:00 HORAS",
+    "orientacao": "Bebida alcoólica: A abstinência é desejável nas 72 horas que antecedem o teste.\n Exercícios: Evitar a realização de atividade física.\n Jejum: Aconselhável de 4 horas.\n\nOutros: A escovação é permitida até duas horas antes da realização da coleta, evitando que o sangramento gengival interfira na amostra de saliva.\n Medicação: As amostras não devem ser colhidas em pacientes em tratamento com doses elevadas de biotina (superior a 5mg\/dL) até no mínimo 8 horas após a administração da biotina."
+   },
+   {
+    "id": 408,
+    "ProcedimentoId.Mnemonico": "OMEGA5",
+    "nome": "IGE ESPECIFICO - OMEGA-5 (F416)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 409,
+    "ProcedimentoId.Mnemonico": "TIRECER2",
+    "nome": "TIREOGLOBULINA - PUNCAO (2ª AMOSTRA)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 410,
+    "ProcedimentoId.Mnemonico": "TIRECER3",
+    "nome": "TIREOGLOBULINA - PUNCAO (3ª AMOSTRA)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 411,
+    "ProcedimentoId.Mnemonico": "UVA",
+    "nome": "IGE ESPECIFICO - UVA (F259)",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 412,
+    "ProcedimentoId.Mnemonico": "IGELULA",
+    "nome": "IGE ESPECIFICO - LULA",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 413,
+    "ProcedimentoId.Mnemonico": "IGEPOLVO",
+    "nome": "IGE ESPECIFICO - POLVO",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 414,
+    "ProcedimentoId.Mnemonico": "USABDOME",
+    "nome": "US - ABDOME TOTAL (ABDOME SUPERIOR, RINS, BEXIGA, AORTA, VEIA CAVA INF",
+    "orientacao": "Jejum obrigatório de 6 horas ou conforme orientação médica."
+   },
+   {
+    "id": 415,
+    "ProcedimentoId.Mnemonico": "LEISH",
+    "nome": "LEISHMANIOSE IGG E IGM ",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 416,
+    "ProcedimentoId.Mnemonico": "CENOURA",
+    "nome": "IGE ESPECIFICO - CENOURA (F31)",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 417,
+    "ProcedimentoId.Mnemonico": "RISTOC",
+    "nome": "ATIVIDADE DO COFATOR DA RISTOCETINA",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 418,
+    "ProcedimentoId.Mnemonico": "EPFSM1",
+    "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (1ª AMOSTRA)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 419,
+    "ProcedimentoId.Mnemonico": "EPFSM1",
+    "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (1ª AMOSTRA)",
+    "orientacao": "Aproximadamente metade do frasco de fezes (frasco próprio)"
+   },
+   {
+    "id": 420,
+    "ProcedimentoId.Mnemonico": "EPFSM1",
+    "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (1ª AMOSTRA)",
+    "orientacao": "Antes de coletar as fezes, se necessário, urinar no vaso sanitário para evitar a contaminação do material. Em casos de crianças utilizar coletor, se necessário. \n- Evitar o uso de antiácido, laxantes e de contraste oral (utilizado em exames radiológicos) no mínimo 3 dias antes da coleta das fezes ou conforme orientação médica. \n- Defecar em vasilhame limpo e seco. \n- Retirar frações de fezes em diferentes partes do bolo fecal (inicio, \nmeio e fim) e colocar em frasco fornecido pelo laboratório ou adquirido em farmácia, sem liquido conservante, de modo que complete pelo menos meio frasco. \n- Sempre que houver muco (catarro), pus ou sangue, colher esta porção \npara que seja analisada, informando a presença dessas substancias ao \nentregar o material. \n- Caso seja visualizado algum parasita, coletá-lo informando o achado ao atendente no momento da entrega do material para o adequado \nprocessamento da amostra. "
+   },
+   {
+    "id": 421,
+    "ProcedimentoId.Mnemonico": "EPFSM2",
+    "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (2ª AMOSTRA) ",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 422,
+    "ProcedimentoId.Mnemonico": "EPFSM2",
+    "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (2ª AMOSTRA) ",
+    "orientacao": "Aproximadamente metade do frasco de fezes (frasco próprio)"
+   },
+   {
+    "id": 423,
+    "ProcedimentoId.Mnemonico": "EPFSM2",
+    "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (2ª AMOSTRA) ",
+    "orientacao": "Antes de coletar as fezes, se necessário, urinar no vaso sanitário para evitar a contaminação do material. Em casos de crianças utilizar coletor, se necessário. \n- Evitar o uso de antiácido, laxantes e de contraste oral (utilizado em exames radiológicos) no mínimo 3 dias antes da coleta das fezes ou conforme orientação médica. \n- Defecar em vasilhame limpo e seco. \n- Retirar frações de fezes em diferentes partes do bolo fecal (inicio, \nmeio e fim) e colocar em frasco fornecido pelo laboratório ou adquirido em farmácia, sem liquido conservante, de modo que complete pelo menos meio frasco. \n- Sempre que houver muco (catarro), pus ou sangue, colher esta porção \npara que seja analisada, informando a presença dessas substancias ao \nentregar o material. \n- Caso seja visualizado algum parasita, coletá-lo informando o achado ao atendente no momento da entrega do material para o adequado \nprocessamento da amostra. "
+   },
+   {
+    "id": 424,
+    "ProcedimentoId.Mnemonico": "EPFSM3",
+    "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (3ª AMOSTRA)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 425,
+    "ProcedimentoId.Mnemonico": "EPFSM3",
+    "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (3ª AMOSTRA)",
+    "orientacao": "Aproximadamente metade do frasco de fezes (frasco próprio)"
+   },
+   {
+    "id": 426,
+    "ProcedimentoId.Mnemonico": "EPFSM3",
+    "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (3ª AMOSTRA)",
+    "orientacao": "Antes de coletar as fezes, se necessário, urinar no vaso sanitário para evitar a contaminação do material. Em casos de crianças utilizar coletor, se necessário. \n- Evitar o uso de antiácido, laxantes e de contraste oral (utilizado em exames radiológicos) no mínimo 3 dias antes da coleta das fezes ou conforme orientação médica. \n- Defecar em vasilhame limpo e seco. \n- Retirar frações de fezes em diferentes partes do bolo fecal (inicio, \nmeio e fim) e colocar em frasco fornecido pelo laboratório ou adquirido em farmácia, sem liquido conservante, de modo que complete pelo menos meio frasco. \n- Sempre que houver muco (catarro), pus ou sangue, colher esta porção \npara que seja analisada, informando a presença dessas substancias ao \nentregar o material. \n- Caso seja visualizado algum parasita, coletá-lo informando o achado ao atendente no momento da entrega do material para o adequado \nprocessamento da amostra. "
+   },
+   {
+    "id": 427,
+    "ProcedimentoId.Mnemonico": "EPFSM4",
+    "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (4ª AMOSTRA)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 428,
+    "ProcedimentoId.Mnemonico": "EPFSM4",
+    "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (4ª AMOSTRA)",
+    "orientacao": "Aproximadamente metade do frasco de fezes (frasco próprio)"
+   },
+   {
+    "id": 429,
+    "ProcedimentoId.Mnemonico": "EPFSM4",
+    "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (4ª AMOSTRA)",
+    "orientacao": "Antes de coletar as fezes, se necessário, urinar no vaso sanitário para evitar a contaminação do material. Em casos de crianças utilizar coletor, se necessário. \n- Evitar o uso de antiácido, laxantes e de contraste oral (utilizado em exames radiológicos) no mínimo 3 dias antes da coleta das fezes ou conforme orientação médica. \n- Defecar em vasilhame limpo e seco. \n- Retirar frações de fezes em diferentes partes do bolo fecal (inicio, \nmeio e fim) e colocar em frasco fornecido pelo laboratório ou adquirido em farmácia, sem liquido conservante, de modo que complete pelo menos meio frasco. \n- Sempre que houver muco (catarro), pus ou sangue, colher esta porção \npara que seja analisada, informando a presença dessas substancias ao \nentregar o material. \n- Caso seja visualizado algum parasita, coletá-lo informando o achado ao atendente no momento da entrega do material para o adequado \nprocessamento da amostra. "
+   },
+   {
+    "id": 430,
+    "ProcedimentoId.Mnemonico": "EPFSM5",
+    "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (5ª AMOSTRA)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 431,
+    "ProcedimentoId.Mnemonico": "EPFSM5",
+    "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (5ª AMOSTRA)",
+    "orientacao": "Aproximadamente metade do frasco de fezes (frasco próprio)"
+   },
+   {
+    "id": 432,
+    "ProcedimentoId.Mnemonico": "EPFSM5",
+    "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (5ª AMOSTRA)",
+    "orientacao": "Antes de coletar as fezes, se necessário, urinar no vaso sanitário para evitar a contaminação do material. Em casos de crianças utilizar coletor, se necessário. \n- Evitar o uso de antiácido, laxantes e de contraste oral (utilizado em exames radiológicos) no mínimo 3 dias antes da coleta das fezes ou conforme orientação médica. \n- Defecar em vasilhame limpo e seco. \n- Retirar frações de fezes em diferentes partes do bolo fecal (inicio, \nmeio e fim) e colocar em frasco fornecido pelo laboratório ou adquirido em farmácia, sem liquido conservante, de modo que complete pelo menos meio frasco. \n- Sempre que houver muco (catarro), pus ou sangue, colher esta porção \npara que seja analisada, informando a presença dessas substancias ao \nentregar o material. \n- Caso seja visualizado algum parasita, coletá-lo informando o achado ao atendente no momento da entrega do material para o adequado \nprocessamento da amostra. "
+   },
+   {
+    "id": 433,
+    "ProcedimentoId.Mnemonico": "COOICSV",
+    "nome": "COOMBS INDIRETO",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 434,
+    "ProcedimentoId.Mnemonico": "IST",
+    "nome": "INDICE DE SATURACAO DE TRANSFERRINA",
+    "orientacao": "Jejum obrigatório de 8 horas."
+   },
+   {
+    "id": 435,
+    "ProcedimentoId.Mnemonico": "HEZIGM",
+    "nome": "HERPES ZOSTER IGM ",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 436,
+    "ProcedimentoId.Mnemonico": "APMX1",
+    "nome": "IGE MULTIPLO - FUNGOS (MX1)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 437,
+    "ProcedimentoId.Mnemonico": "HBGE",
+    "nome": "HEPATITE B (HBV) - GENOTIPAGEM",
+    "orientacao": "Não é necessário jejum ou cuidados especiais."
+   },
+   {
+    "id": 438,
+    "ProcedimentoId.Mnemonico": "HCVTR",
+    "nome": "HEPATITE C - TESTE RAPIDO",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 439,
+    "ProcedimentoId.Mnemonico": "AAUTR",
+    "nome": "HEPATITE B - TESTE RAPIDO",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 440,
+    "ProcedimentoId.Mnemonico": "CI6D",
+    "nome": "CURVA INSULINICA - 6 DOSAGENS (J.60.120.180.240.300)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 441,
+    "ProcedimentoId.Mnemonico": "ADEVIRUS",
+    "nome": "ADENOVIRUS - FEZEZ",
+    "orientacao": "Medicação: Usar laxativos somente quando houver orientação médica. Evitar o uso de antidiarreicos,  antiácidos e de contraste oral (utilizado em exames radiológicos) no mínimo 72 horas antes da coleta das fezes ou conforme orientação médica."
+   },
+   {
+    "id": 442,
+    "ProcedimentoId.Mnemonico": "MAM24H",
+    "nome": "MICROALBUMINURIA - URINA 24H",
+    "orientacao": "Dados: Informar o volume da diurese."
+   },
+   {
+    "id": 443,
+    "ProcedimentoId.Mnemonico": "MAM24H",
+    "nome": "MICROALBUMINURIA - URINA 24H",
+    "orientacao": "Exercícios: Evitar a realização de atividade fisica."
+   },
+   {
+    "id": 444,
+    "ProcedimentoId.Mnemonico": "PARVIGG",
+    "nome": "PARVOVIRUS IGG",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 445,
+    "ProcedimentoId.Mnemonico": "PARVIGM",
+    "nome": "PARVOVIRUS IGM ",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 446,
+    "ProcedimentoId.Mnemonico": "RENINAT",
+    "nome": "RENINA - ATIVIDADE PLASMATICA ",
+    "orientacao": "Jejum noturno aconselhável 8 horas"
+   },
+   {
+    "id": 447,
+    "ProcedimentoId.Mnemonico": "OST",
+    "nome": "OSTEOCALCINA ",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 448,
+    "ProcedimentoId.Mnemonico": "OST",
+    "nome": "OSTEOCALCINA ",
+    "orientacao": "Medicação: Pacientes em tratamento com doses elevadas de biotina (superior a 5 mg\/dL), a coleta deve ser realizada até no mínimo 8 horas após a última administração. "
+   },
+   {
+    "id": 449,
+    "ProcedimentoId.Mnemonico": "CDAB",
+    "nome": "CLOSTRIDIUM DIFFICILE TOXINA A E B - FEZES",
+    "orientacao": "Medicação: Usar laxativos somente quando houver orientação médica."
+   },
+   {
+    "id": 450,
+    "ProcedimentoId.Mnemonico": "CDAB",
+    "nome": "CLOSTRIDIUM DIFFICILE TOXINA A E B - FEZES",
+    "orientacao": "Outros: Evitar o uso de antiácidos e de contraste oral (utilizado em exames radiológicos) no mínimo 72 horas antes da coleta das fezes ou conforme orientação médica."
+   },
+   {
+    "id": 451,
+    "ProcedimentoId.Mnemonico": "IME",
+    "nome": "IMUNOFIXACAO DE PROTEINAS SERICAS (QUALITATIVO)",
+    "orientacao": "Jejum obrigatório de 8 horas."
+   },
+   {
+    "id": 452,
+    "ProcedimentoId.Mnemonico": "F202",
+    "nome": "IGE ESPECIFICO - CASTANHA DE CAJU (F202)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 453,
+    "ProcedimentoId.Mnemonico": "CPG",
+    "nome": "CHLAMYDIA PNEUMONIAE IGG",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 454,
+    "ProcedimentoId.Mnemonico": "COM",
+    "nome": "CHLAMYDIA PNEUMONIAE IGM",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 455,
+    "ProcedimentoId.Mnemonico": "INSLIV",
+    "nome": "INSULINA LIVRE",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 456,
+    "ProcedimentoId.Mnemonico": "TACROCSV",
+    "nome": "TACROLIMUS",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 457,
+    "ProcedimentoId.Mnemonico": "TACROCSV",
+    "nome": "TACROLIMUS",
+    "orientacao": "Anotar medicamentos e dosagem em uso."
+   },
+   {
+    "id": 458,
+    "ProcedimentoId.Mnemonico": "TACROCSV",
+    "nome": "TACROLIMUS",
+    "orientacao": "Anotar data e horário da coleta e da última dose."
+   },
+   {
+    "id": 459,
+    "ProcedimentoId.Mnemonico": "BENZO",
+    "nome": "BENZODIAZEPINICOS - URINA",
+    "orientacao": "Amostra isolada: Coletar em frasco apropriado preferencialmente a primeira urina da manhã ou com intervalo mínimo de 4 horas após a última micção. Desprezar o primeiro jato de urina e sem interromper a miccção, coletar o jato médio."
+   },
+   {
+    "id": 460,
+    "ProcedimentoId.Mnemonico": "FRQ",
+    "nome": "FATOR REUMATOIDE, TESTE DO LATEX (QUALITATIVO)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 461,
+    "ProcedimentoId.Mnemonico": "B2GP1",
+    "nome": "ANTICORPOS BETA 2 GLICOPROTEINA I - IGA",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 462,
+    "ProcedimentoId.Mnemonico": "COL-ME",
+    "nome": "COLESTEROL TOTAL (SUSPEITA DE MORTE ENCEFALICA)",
+    "orientacao": "Pode se ingerir água neste período."
+   },
+   {
+    "id": 463,
+    "ProcedimentoId.Mnemonico": "TRI-ME",
+    "nome": "TRIGLICERIDEOS (SUSPEITA DE MORTE ENCEFALICA)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 464,
+    "ProcedimentoId.Mnemonico": "GB-C",
+    "nome": "GLICOSE - CAPILAR",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 465,
+    "ProcedimentoId.Mnemonico": "PCRMYCO",
+    "nome": "PCR PARA TUBERCULOSE COM GENE DE RESISTENCIA",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 466,
+    "ProcedimentoId.Mnemonico": "AMONU",
+    "nome": "AMONIA - URINA 24H",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 467,
+    "ProcedimentoId.Mnemonico": "AMONU",
+    "nome": "AMONIA - URINA 24H",
+    "orientacao": "Informar o volume total \nRefrigerar a urina desde o início da coleta. \nNão fazer esforço físico durante o período da coleta. \nO cliente deve manter sua rotina diária. \nNão é necessário aumentar a ingestão de líquidos, exceto sob orientação médica."
+   },
+   {
+    "id": 468,
+    "ProcedimentoId.Mnemonico": "GIA-M",
+    "nome": "GIARDIA LAMBLIA IGM",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 469,
+    "ProcedimentoId.Mnemonico": "GIAR",
+    "nome": "GIARDIA LAMBLIA IGG",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 470,
+    "ProcedimentoId.Mnemonico": "IMUD",
+    "nome": "IMUNOFENOTIPAGEM PARA PESQUISAS DE DRM",
+    "orientacao": "Preparo IMUD:\nDados: É obrigatório o envio de cópia do pedido médico, formulário (disponível no site DB) preenchido corretamente, cópia do laudo de hemograma recente e laudo com o diagnóstico da leucemia.\nOutros: Devido à baixa estabilidade, as amostras devem chegar ao DB até quinta-feira. Este exame não é realizado em feriados, vésperas e pontes de feriados.\nEm casos excepcionais, as amostras coletadas na sexta-feira e no sábado poderão ser enviadas sob restrição, mediante comunicação via e-mail ao representante e à assessoria científica. Entretanto, implica-se em possível degradação da amostra, de forma que a análise, bem como o resultado, poderão ser comprometidos. Em casos de degeneração celular as amostras serão rejeitadas."
+   },
+   {
+    "id": 471,
+    "ProcedimentoId.Mnemonico": "DHLASC",
+    "nome": "DEHIDROGENASE LACTICA - LIQUIDO ASCITICO",
+    "orientacao": "Dados: É obrigatório o envio de cópia do pedido médico, formulário (disponível no site DB) preenchido corretamente, cópia do laudo de hemograma recente e laudo com o diagnóstico da leucemia."
+   },
+   {
+    "id": 472,
+    "ProcedimentoId.Mnemonico": "FLC",
+    "nome": "CADEIA KAPPA-LAMBDA LEVE LIVRE",
+    "orientacao": "Outros: Devido à baixa estabilidade, as amostras devem chegar ao DB até quinta-feira. Este exame não é realizado em feriados, vésperas e pontes de feriados."
+   },
+   {
+    "id": 473,
+    "ProcedimentoId.Mnemonico": "OSU24",
+    "nome": "OSMOLALIDADE - URINA 24H",
+    "orientacao": "Em casos excepcionais, as amostras coletadas na sexta-feira e no sábado poderão ser enviadas sob restrição, mediante comunicação via e-mail ao representante e à assessoria científica. Entretanto, implica-se em possível degradação da amostra, de forma que a análise, bem como o resultado, poderão ser comprometidos. Em casos de degeneração celular as amostras serão rejeitadas."
+   },
+   {
+    "id": 474,
+    "ProcedimentoId.Mnemonico": "CORTD",
+    "nome": "CORTISOL - APOS SUPRESSAO COM DEXAMETASONA",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 475,
+    "ProcedimentoId.Mnemonico": "CORTD",
+    "nome": "CORTISOL - APOS SUPRESSAO COM DEXAMETASONA",
+    "orientacao": "Medicação: O paciente deve tomar a medicação dexametasona 1 mg na noite anterior à coleta, entre 23 e 24 horas e comparecer ao laboratório entre 7 e 8 horas da manhã para a coleta do sangue."
+   },
+   {
+    "id": 476,
+    "ProcedimentoId.Mnemonico": "SEXABEBE",
+    "nome": "SEXAGEM FETAL",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 477,
+    "ProcedimentoId.Mnemonico": "SEXABEBE",
+    "nome": "SEXAGEM FETAL",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica.4"
+   },
+   {
+    "id": 478,
+    "ProcedimentoId.Mnemonico": "SEXABEBE",
+    "nome": "SEXAGEM FETAL",
+    "orientacao": "COLETA REALIZADA APARTIR DA 8ª(OITAVA) SEMANA GESTACIONAL COMPLETA"
+   },
+   {
+    "id": 479,
+    "ProcedimentoId.Mnemonico": "OVOALBU",
+    "nome": "IGE ESPECIFICO - OVOALBUMINA (F232)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 480,
+    "ProcedimentoId.Mnemonico": "LIQAFETO",
+    "nome": "ALFA FETOPROTEINA - LIQUOR",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 481,
+    "ProcedimentoId.Mnemonico": "PLA-C",
+    "nome": "CONTAGEM DE PLAQUETAS",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 482,
+    "ProcedimentoId.Mnemonico": "PLA-SE",
+    "nome": "CONTAGEM DE PLAQUETAS (SEM EDTA)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 483,
+    "ProcedimentoId.Mnemonico": "PLIMA",
+    "nome": "PESQUISA DE LINFOCITOS IMATUROS E MADUROS ANORMAIS",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 484,
+    "ProcedimentoId.Mnemonico": "NIQUELUR",
+    "nome": "NIQUEL - URINA ",
+    "orientacao": "Pacientes em diálise podem apresentar níveis elevados."
+   },
+   {
+    "id": 485,
+    "ProcedimentoId.Mnemonico": "EVEROL",
+    "nome": "EVEROLIMUS",
+    "orientacao": "As amostras para análise de Everolimus deve ser coletadas antes da administração do medicamento (concentração mínima) para confirmar a prescrição de uma dose apropriada. A concentração mínima é que melhor indica o nível terapêutico de Everolimus."
+   },
+   {
+    "id": 486,
+    "ProcedimentoId.Mnemonico": "PHFECAL",
+    "nome": "PH FECAL",
+    "orientacao": "Medicação: Evitar o uso de laxativos,  antiácidos e de contraste oral (utilizado em exames radiológicos) no mínimo 72 horas antes da coleta das fezes ou conforme orientação médica."
+   },
+   {
+    "id": 487,
+    "ProcedimentoId.Mnemonico": "COBU",
+    "nome": "COBRE - URINA RECENTE",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 488,
+    "ProcedimentoId.Mnemonico": "COBU",
+    "nome": "COBRE - URINA RECENTE",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica.8"
+   },
+   {
+    "id": 489,
+    "ProcedimentoId.Mnemonico": "CUB",
+    "nome": "COBRE ",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 490,
+    "ProcedimentoId.Mnemonico": "D73",
+    "nome": "IGE ESPECIFICO - GLYCYPHAGUS DOMESTICUS (D73)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 491,
+    "ProcedimentoId.Mnemonico": "_CALC-P3",
+    "nome": "_CALCITONINA - ASPIRADO DE PUNCAO (3ª AMOSTRA)",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 492,
+    "ProcedimentoId.Mnemonico": "GH3-CLO",
+    "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.60.90.120)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 493,
+    "ProcedimentoId.Mnemonico": "GH4-CLO",
+    "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.30.60.90)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 494,
+    "ProcedimentoId.Mnemonico": "TIRECER4",
+    "nome": "TIREOGLOBULINA - PUNCAO (4ª AMOSTRA)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 495,
+    "ProcedimentoId.Mnemonico": "ZIN-UR",
+    "nome": "ZINCO - URINA RECENTE",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 496,
+    "ProcedimentoId.Mnemonico": "ALUM",
+    "nome": "ALUMINIO - URINA RECENTE",
+    "orientacao": "Medicação: Medicamentos que apresentem alumínio em sua composição devem ser evitados."
+   },
+   {
+    "id": 497,
+    "ProcedimentoId.Mnemonico": "ALUM",
+    "nome": "ALUMINIO - URINA RECENTE",
+    "orientacao": "Enviar amostra única para a realização deste exame."
+   },
+   {
+    "id": 498,
+    "ProcedimentoId.Mnemonico": "ARSENURI",
+    "nome": "ARSENICO - URINA RECENTE",
+    "orientacao": "Dieta: Não ingerir frutos do mar três dias antes da coleta."
+   },
+   {
+    "id": 499,
+    "ProcedimentoId.Mnemonico": "GH4-INS",
+    "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.60.90.120)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 500,
+    "ProcedimentoId.Mnemonico": "GH5-INS",
+    "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.30.60.90)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 501,
+    "ProcedimentoId.Mnemonico": "EPF1KATO",
+    "nome": "EPF - KATO KATZ (1ª AMOSTRA)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 502,
+    "ProcedimentoId.Mnemonico": "EPF1KATO",
+    "nome": "EPF - KATO KATZ (1ª AMOSTRA)",
+    "orientacao": "Aproximadamente metade do frasco de fezes (frasco próprio)"
+   },
+   {
+    "id": 503,
+    "ProcedimentoId.Mnemonico": "EPF1KATO",
+    "nome": "EPF - KATO KATZ (1ª AMOSTRA)",
+    "orientacao": "Antes de coletar as fezes, se necessário, urinar no vaso sanitário para evitar a contaminação do material. Em casos de crianças utilizar coletor, se necessário. \n- Evitar o uso de antiácido, laxantes e de contraste oral (utilizado em exames radiológicos) no mínimo 3 dias antes da coleta das fezes ou conforme orientação médica. \n- Defecar em vasilhame limpo e seco. \n- Retirar frações de fezes em diferentes partes do bolo fecal (inicio, \nmeio e fim) e colocar em frasco fornecido pelo laboratório ou adquirido em farmácia, sem liquido conservante, de modo que complete pelo menos meio frasco. \n- Sempre que houver muco (catarro), pus ou sangue, colher esta porção \npara que seja analisada, informando a presença dessas substancias ao \nentregar o material. \n- Caso seja visualizado algum parasita, coletá-lo informando o achado ao atendente no momento da entrega do material para o adequado \nprocessamento da amostra. "
+   },
+   {
+    "id": 504,
+    "ProcedimentoId.Mnemonico": "EPF2KATO",
+    "nome": "EPF - KATO KATZ (2ª AMOSTRA)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 505,
+    "ProcedimentoId.Mnemonico": "EPF2KATO",
+    "nome": "EPF - KATO KATZ (2ª AMOSTRA)",
+    "orientacao": "Aproximadamente metade do frasco de fezes (frasco próprio)"
+   },
+   {
+    "id": 506,
+    "ProcedimentoId.Mnemonico": "EPF2KATO",
+    "nome": "EPF - KATO KATZ (2ª AMOSTRA)",
+    "orientacao": "Antes de coletar as fezes, se necessário, urinar no vaso sanitário para evitar a contaminação do material. Em casos de crianças utilizar coletor, se necessário. \n- Evitar o uso de antiácido, laxantes e de contraste oral (utilizado em exames radiológicos) no mínimo 3 dias antes da coleta das fezes ou conforme orientação médica. \n- Defecar em vasilhame limpo e seco. \n- Retirar frações de fezes em diferentes partes do bolo fecal (inicio, \nmeio e fim) e colocar em frasco fornecido pelo laboratório ou adquirido em farmácia, sem liquido conservante, de modo que complete pelo menos meio frasco. \n- Sempre que houver muco (catarro), pus ou sangue, colher esta porção \npara que seja analisada, informando a presença dessas substancias ao \nentregar o material. \n- Caso seja visualizado algum parasita, coletá-lo informando o achado ao atendente no momento da entrega do material para o adequado \nprocessamento da amostra. "
+   },
+   {
+    "id": 507,
+    "ProcedimentoId.Mnemonico": "EPF3KATO",
+    "nome": "EPF - KATO KATZ (3ª AMOSTRA)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 508,
+    "ProcedimentoId.Mnemonico": "EPF3KATO",
+    "nome": "EPF - KATO KATZ (3ª AMOSTRA)",
+    "orientacao": "Aproximadamente metade do frasco de fezes (frasco próprio)"
+   },
+   {
+    "id": 509,
+    "ProcedimentoId.Mnemonico": "EPF3KATO",
+    "nome": "EPF - KATO KATZ (3ª AMOSTRA)",
+    "orientacao": "Antes de coletar as fezes, se necessário, urinar no vaso sanitário para evitar a contaminação do material. Em casos de crianças utilizar coletor, se necessário. \n- Evitar o uso de antiácido, laxantes e de contraste oral (utilizado em exames radiológicos) no mínimo 3 dias antes da coleta das fezes ou conforme orientação médica. \n- Defecar em vasilhame limpo e seco. \n- Retirar frações de fezes em diferentes partes do bolo fecal (inicio, \nmeio e fim) e colocar em frasco fornecido pelo laboratório ou adquirido em farmácia, sem liquido conservante, de modo que complete pelo menos meio frasco. \n- Sempre que houver muco (catarro), pus ou sangue, colher esta porção \npara que seja analisada, informando a presença dessas substancias ao \nentregar o material. \n- Caso seja visualizado algum parasita, coletá-lo informando o achado ao atendente no momento da entrega do material para o adequado \nprocessamento da amostra. "
+   },
+   {
+    "id": 510,
+    "ProcedimentoId.Mnemonico": "EPF4KATO",
+    "nome": "EPF - KATO KATZ (4ª AMOSTRA)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 511,
+    "ProcedimentoId.Mnemonico": "EPF4KATO",
+    "nome": "EPF - KATO KATZ (4ª AMOSTRA)",
+    "orientacao": "Aproximadamente metade do frasco de fezes (frasco próprio)"
+   },
+   {
+    "id": 512,
+    "ProcedimentoId.Mnemonico": "EPF4KATO",
+    "nome": "EPF - KATO KATZ (4ª AMOSTRA)",
+    "orientacao": "Antes de coletar as fezes, se necessário, urinar no vaso sanitário para evitar a contaminação do material. Em casos de crianças utilizar coletor, se necessário. \n- Evitar o uso de antiácido, laxantes e de contraste oral (utilizado em exames radiológicos) no mínimo 3 dias antes da coleta das fezes ou conforme orientação médica. \n- Defecar em vasilhame limpo e seco. \n- Retirar frações de fezes em diferentes partes do bolo fecal (inicio, \nmeio e fim) e colocar em frasco fornecido pelo laboratório ou adquirido em farmácia, sem liquido conservante, de modo que complete pelo menos meio frasco. \n- Sempre que houver muco (catarro), pus ou sangue, colher esta porção \npara que seja analisada, informando a presença dessas substancias ao \nentregar o material. \n- Caso seja visualizado algum parasita, coletá-lo informando o achado ao atendente no momento da entrega do material para o adequado \nprocessamento da amostra. "
+   },
+   {
+    "id": 513,
+    "ProcedimentoId.Mnemonico": "EPF5KATO",
+    "nome": "EPF - KATO KATZ (5ª AMOSTRA)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 514,
+    "ProcedimentoId.Mnemonico": "EPF5KATO",
+    "nome": "EPF - KATO KATZ (5ª AMOSTRA)",
+    "orientacao": "Aproximadamente metade do frasco de fezes (frasco próprio)"
+   },
+   {
+    "id": 515,
+    "ProcedimentoId.Mnemonico": "EPF5KATO",
+    "nome": "EPF - KATO KATZ (5ª AMOSTRA)",
+    "orientacao": "Antes de coletar as fezes, se necessário, urinar no vaso sanitário para evitar a contaminação do material. Em casos de crianças utilizar coletor, se necessário. \n- Evitar o uso de antiácido, laxantes e de contraste oral (utilizado em exames radiológicos) no mínimo 3 dias antes da coleta das fezes ou conforme orientação médica. \n- Defecar em vasilhame limpo e seco. \n- Retirar frações de fezes em diferentes partes do bolo fecal (inicio, \nmeio e fim) e colocar em frasco fornecido pelo laboratório ou adquirido em farmácia, sem liquido conservante, de modo que complete pelo menos meio frasco. \n- Sempre que houver muco (catarro), pus ou sangue, colher esta porção \npara que seja analisada, informando a presença dessas substancias ao \nentregar o material. \n- Caso seja visualizado algum parasita, coletá-lo informando o achado ao atendente no momento da entrega do material para o adequado \nprocessamento da amostra. "
+   },
+   {
+    "id": 516,
+    "ProcedimentoId.Mnemonico": "HMU",
+    "nome": "HORMONIO ANTI MULERIANO",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 517,
+    "ProcedimentoId.Mnemonico": "SMA-AME",
+    "nome": "ATROFIA MUSCULAR E BULBAR (KENNEDY) POR PCR",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 518,
+    "ProcedimentoId.Mnemonico": "CGI-5TP",
+    "nome": "CURVA GLICEMICA APOS INSULINA - 5 TEMPOS",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 519,
+    "ProcedimentoId.Mnemonico": "CGI-3TP",
+    "nome": "CURVA GLICEMICA APOS INSULINA - 3 TEMPOS",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 520,
+    "ProcedimentoId.Mnemonico": "CD20",
+    "nome": "CD20",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 521,
+    "ProcedimentoId.Mnemonico": "GH5-CLO",
+    "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.45.60.90)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 522,
+    "ProcedimentoId.Mnemonico": "LH-RH",
+    "nome": "TESTE DO ESTIMULO LH-RH COM LEUPRORELINA - 2 DOSAGENS (J.120)",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 523,
+    "ProcedimentoId.Mnemonico": "C207",
+    "nome": "IGE ESPECIFICO - ACIDO ACETILSALICILICO (C207)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 524,
+    "ProcedimentoId.Mnemonico": "CCF",
+    "nome": "CAPACIDADE LIVRE DE COMBINACAO DO FERRO",
+    "orientacao": "Jejum obrigatório de 8 horas."
+   },
+   {
+    "id": 525,
+    "ProcedimentoId.Mnemonico": "ANTILDL",
+    "nome": "ANTI-LDL PEROXIDADA IGG",
+    "orientacao": "Jejum obrigatório de 12 horas ou conforme orientação médica."
+   },
+   {
+    "id": 526,
+    "ProcedimentoId.Mnemonico": "PS-ATT",
+    "nome": "PROTEINA S ANTIGENICA TOTAL",
+    "orientacao": "Enviar duas amostras para a realização deste exame."
+   },
+   {
+    "id": 527,
+    "ProcedimentoId.Mnemonico": "LH-LEU",
+    "nome": "TESTE DE ESTIMULO DE LH COM LEUPRORRELINA - 2 DOSAGENS (J.120)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 528,
+    "ProcedimentoId.Mnemonico": "FSH-LEU",
+    "nome": "TESTE DE ESTIMULO DE FSH COM LEUPRORRELINA - 2 DOSAGENS (J.120)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 529,
+    "ProcedimentoId.Mnemonico": "FSH1-LEU",
+    "nome": "TESTE DE ESTIMULO DE FSH COM LEUPRORRELINA - 4 DOSAGENS (J.15.30.60)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 530,
+    "ProcedimentoId.Mnemonico": "LH1-LEU",
+    "nome": "TESTE DE ESTIMULO DE LH COM LEUPRORRELINA - 4 DOSAGENS (J.15.30.60)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 531,
+    "ProcedimentoId.Mnemonico": "LH2-LEU",
+    "nome": "TESTE DE ESTIMULO DE LH COM LEUPRORRELINA - 4 DOSAGENS (J.30.60.120)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 532,
+    "ProcedimentoId.Mnemonico": "FSH2-LEU",
+    "nome": "TESTE DE ESTIMULO DE FSH COM LEUPRORRELINA - 4 DOSAGENS (J.30.60.120)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 533,
+    "ProcedimentoId.Mnemonico": "HEMSE",
+    "nome": "HEMOGRAMA COMPLETO (CITRATO)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 534,
+    "ProcedimentoId.Mnemonico": "PROINS",
+    "nome": "PRO-INSULINA",
+    "orientacao": "Jejum obrigatório de 12 horas ou conforme orientação médica."
+   },
+   {
+    "id": 535,
+    "ProcedimentoId.Mnemonico": "GH2-LEV",
+    "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 5 DOSAGENS (J.30.60.90.120)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 536,
+    "ProcedimentoId.Mnemonico": "GH6-INS",
+    "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.15.30.45.60)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 537,
+    "ProcedimentoId.Mnemonico": "CGD7",
+    "nome": "CURVA GLICEMICA - 7 DOSAGENS (J.60.120.180.240.300.360)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 538,
+    "ProcedimentoId.Mnemonico": "P-ANCA",
+    "nome": "ANTINEUTROFILOS ANCA P - PESQUISA E\/OU DOSAGEM",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 539,
+    "ProcedimentoId.Mnemonico": "EPFSM",
+    "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 540,
+    "ProcedimentoId.Mnemonico": "EPFSM",
+    "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI",
+    "orientacao": "Aproximadamente metade do frasco de fezes (frasco próprio)"
+   },
+   {
+    "id": 541,
+    "ProcedimentoId.Mnemonico": "EPFSM",
+    "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI",
+    "orientacao": "Antes de coletar as fezes, se necessário, urinar no vaso sanitário para evitar a contaminação do material. Em casos de crianças utilizar coletor, se necessário. \n- Evitar o uso de antiácido, laxantes e de contraste oral (utilizado em exames radiológicos) no mínimo 3 dias antes da coleta das fezes ou conforme orientação médica. \n- Defecar em vasilhame limpo e seco. \n- Retirar frações de fezes em diferentes partes do bolo fecal (inicio, \nmeio e fim) e colocar em frasco fornecido pelo laboratório ou adquirido em farmácia, sem liquido conservante, de modo que complete pelo menos meio frasco. \n- Sempre que houver muco (catarro), pus ou sangue, colher esta porção \npara que seja analisada, informando a presença dessas substancias ao \nentregar o material. \n- Caso seja visualizado algum parasita, coletá-lo informando o achado ao atendente no momento da entrega do material para o adequado \nprocessamento da amostra. "
+   },
+   {
+    "id": 542,
+    "ProcedimentoId.Mnemonico": "P24T",
+    "nome": "HIV - ANTIGENO P24",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 543,
+    "ProcedimentoId.Mnemonico": "PERHEP",
+    "nome": "PROVAS DE FUNCAO HEPATICA (BILIRRUBINAS, ELETROFORESE DE PROTEINAS, FA",
+    "orientacao": "Jejum obrigatório de 8 horas."
+   },
+   {
+    "id": 544,
+    "ProcedimentoId.Mnemonico": "GH3-GLU",
+    "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 5 DOSAGENS (J.30.60.90.120)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 545,
+    "ProcedimentoId.Mnemonico": "GH7-INS",
+    "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 6 DOSAGENS (J.15.30.45.60.90)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 546,
+    "ProcedimentoId.Mnemonico": "D3",
+    "nome": "IGE ESPECIFICO - DERMATOPHAGOIDES MICROCERAS (D3)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 547,
+    "ProcedimentoId.Mnemonico": "COR1-INS",
+    "nome": "TESTE DE ESTIMULO DE CORTISOL COM INSU - 6 DOSAGENS (J.15.30.45.60.90)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 548,
+    "ProcedimentoId.Mnemonico": "CLE",
+    "nome": "CELULAS LE ",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 549,
+    "ProcedimentoId.Mnemonico": "COR2-INS",
+    "nome": "TESTE DE ESTIMULO DE CORTISOL COM INSU - 5 DOSAGENS (J.30.60.90.120)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 550,
+    "ProcedimentoId.Mnemonico": "LH3-LEU",
+    "nome": "TESTE DE ESTIMULO DE LH COM LEUPRORRELINA - 3 DOSAGENS (J.30.60)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 551,
+    "ProcedimentoId.Mnemonico": "FSH3-LEU",
+    "nome": "TESTE DE ESTIMULO DE FSH COM LEUPRORRELINA - 3 DOSAGENS (J.30.60)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 552,
+    "ProcedimentoId.Mnemonico": "GH4-GLU",
+    "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 4 DOSAGENS (J.60.120.180)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 553,
+    "ProcedimentoId.Mnemonico": "GH8-INS",
+    "nome": "TESTE DE ESTIMULO DE GH COM INSU - 7 DOSAGENS (J.15.30.45.60.90.120)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 554,
+    "ProcedimentoId.Mnemonico": "GH5-GLU",
+    "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 4 DOSAGENS (J.30.60.90)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 555,
+    "ProcedimentoId.Mnemonico": "GH6-CLO",
+    "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.60.120.180)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 556,
+    "ProcedimentoId.Mnemonico": "GH9-INS",
+    "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.30.45.60.90)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 557,
+    "ProcedimentoId.Mnemonico": "TANDRO",
+    "nome": "TESTE DE ESTIMULO DE ANDROSTENEDIONA APOS CORTROSINA - 2 DOSAG. (J.60)",
+    "orientacao": "Preparo AND60: Jejum: Não é necessário jejum ou cuidados especiais. Exercícios: Evitar a realização de atividade física."
+   },
+   {
+    "id": 558,
+    "ProcedimentoId.Mnemonico": "TCORT",
+    "nome": "TESTE DE ESTIMULO DE CORTISOL APOS CORTROSINA - 2 DOSAGENS (J.60)",
+    "orientacao": "Outros: Anotar a hora em que foi realizado a coleta devido a variação diurna."
+   },
+   {
+    "id": 559,
+    "ProcedimentoId.Mnemonico": "GH6-GLU",
+    "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 4 DOSAGENS (J.60.90.120)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 560,
+    "ProcedimentoId.Mnemonico": "GH7-GLU",
+    "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 6 DOSAGENS (J.30.60.90.120.180)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 561,
+    "ProcedimentoId.Mnemonico": "CG4D",
+    "nome": "CURVA GLICEMICA - 4 DOSAGENS (J.15.30.60)",
+    "orientacao": "Jejum obrigatório de 8 horas."
+   },
+   {
+    "id": 562,
+    "ProcedimentoId.Mnemonico": "SIROLI",
+    "nome": "SIROLIMUS",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 563,
+    "ProcedimentoId.Mnemonico": "SIROLI",
+    "nome": "SIROLIMUS",
+    "orientacao": "Anotar medicamentos e dosagem em uso."
+   },
+   {
+    "id": 564,
+    "ProcedimentoId.Mnemonico": "SIROLI",
+    "nome": "SIROLIMUS",
+    "orientacao": "Anotar data e horário da coleta e da última dose."
+   },
+   {
+    "id": 565,
+    "ProcedimentoId.Mnemonico": "PCRMYCO2",
+    "nome": "PCR PARA TUBERCULOSE COM GENE DE RESISTENCIA",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 566,
+    "ProcedimentoId.Mnemonico": "GH8-GLU",
+    "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 7 DOS. (J.30.60.90.120.150.180)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 567,
+    "ProcedimentoId.Mnemonico": "GH10-INS",
+    "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 6 DOSAGENS (J.15.30.60.90.120)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 568,
+    "ProcedimentoId.Mnemonico": "GH10-INS",
+    "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 6 DOSAGENS (J.15.30.60.90.120)",
+    "orientacao": "Coletar Tubo (EDTA) - Tampa Roxa\/Lilás;5"
+   },
+   {
+    "id": 569,
+    "ProcedimentoId.Mnemonico": "GH11-INS",
+    "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.15.30.45.60)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 570,
+    "ProcedimentoId.Mnemonico": "GALPLA",
+    "nome": "GALACTOSE",
+    "orientacao": "Jejum não obrigatório."
+   },
+   {
+    "id": 571,
+    "ProcedimentoId.Mnemonico": "TRI-MT",
+    "nome": "TRIGLICERIDEOS - MATERIAIS DIVERSOS",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 572,
+    "ProcedimentoId.Mnemonico": "INFLUAB",
+    "nome": "INFLUENZA A \/ B \/ VIRUS SINCICIAL",
+    "orientacao": "Informar medicamentos em uso"
+   },
+   {
+    "id": 573,
+    "ProcedimentoId.Mnemonico": "FOLIHE",
+    "nome": "ACIDO FOLICO NAS HEMACIAS",
+    "orientacao": "Preparo FOERI: Dados: É obrigatório informar o valor do hematócrito. Outros: Devido à baixa estabilidade, as amostras devem chegar ao DB até quarta-feira. Este exame não é realizado em feriados, vésperas e pontes de feriados."
+   },
+   {
+    "id": 574,
+    "ProcedimentoId.Mnemonico": "AC-OXA",
+    "nome": "ACIDO OXALICO - URINA RECENTE",
+    "orientacao": "Dieta: Evitar limão, abacaxi, morango, gelatina, acerola, laranja, espinafre, tomate, leite e derivados. Jejum: Evitar qualquer alimento ou medicamento que contenha Vitamina C 48 horas antes e durante a coleta. Outros: Não realizar esforço físico durante a coleta. Não colher durante o período de cólica renal."
+   },
+   {
+    "id": 575,
+    "ProcedimentoId.Mnemonico": "EPF6KATO",
+    "nome": "EPF - KATO KATZ (6ª AMOSTRA)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 576,
+    "ProcedimentoId.Mnemonico": "EPF6KATO",
+    "nome": "EPF - KATO KATZ (6ª AMOSTRA)",
+    "orientacao": "Aproximadamente metade do frasco de fezes (frasco próprio)"
+   },
+   {
+    "id": 577,
+    "ProcedimentoId.Mnemonico": "EPF6KATO",
+    "nome": "EPF - KATO KATZ (6ª AMOSTRA)",
+    "orientacao": "Antes de coletar as fezes, se necessário, urinar no vaso sanitário para evitar a contaminação do material. Em casos de crianças utilizar coletor, se necessário. \n- Evitar o uso de antiácido, laxantes e de contraste oral (utilizado em exames radiológicos) no mínimo 3 dias antes da coleta das fezes ou conforme orientação médica. \n- Defecar em vasilhame limpo e seco. \n- Retirar frações de fezes em diferentes partes do bolo fecal (inicio, \nmeio e fim) e colocar em frasco fornecido pelo laboratório ou adquirido em farmácia, sem liquido conservante, de modo que complete pelo menos meio frasco. \n- Sempre que houver muco (catarro), pus ou sangue, colher esta porção \npara que seja analisada, informando a presença dessas substancias ao \nentregar o material. \n- Caso seja visualizado algum parasita, coletá-lo informando o achado ao atendente no momento da entrega do material para o adequado \nprocessamento da amostra. "
+   },
+   {
+    "id": 578,
+    "ProcedimentoId.Mnemonico": "HIVRG",
+    "nome": "HIV 1 E 2 (EM GESTANTES) - TESTE RAPIDO",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 579,
+    "ProcedimentoId.Mnemonico": "F20",
+    "nome": "IGE ESPECIFICO - AMENDOA (F20)",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 580,
+    "ProcedimentoId.Mnemonico": "GH7-CLO",
+    "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.30.60.90)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 581,
+    "ProcedimentoId.Mnemonico": "FR-DM",
+    "nome": "FATOR REUMATOIDE - DIVERSOS MATERIAIS",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 582,
+    "ProcedimentoId.Mnemonico": "TRIPT",
+    "nome": "TRIPTASE",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 583,
+    "ProcedimentoId.Mnemonico": "DNASS",
+    "nome": "ANTICORPOS ANTI DNA - CADEIA SIMPLES",
+    "orientacao": "Jejum não obrigatório."
+   },
+   {
+    "id": 584,
+    "ProcedimentoId.Mnemonico": "DENGNS1",
+    "nome": "DENGUE NS1 - TESTE RAPIDO",
+    "orientacao": "Jejum não obrigatório."
+   },
+   {
+    "id": 585,
+    "ProcedimentoId.Mnemonico": "CORT22",
+    "nome": "CORTISOL SALIVAR - 22:00 HORAS",
+    "orientacao": "Bebida alcoólica: A abstinência é desejável nas 72 horas que antecedem o teste.\n Exercícios: Evitar a realização de atividade física.\n Jejum: Aconselhável de 4 horas.\n\nOutros: A escovação é permitida até duas horas antes da realização da coleta, evitando que o sangramento gengival interfira na amostra de saliva.\n Medicação: As amostras não devem ser colhidas em pacientes em tratamento com doses elevadas de biotina (superior a 5mg\/dL) até no mínimo 8 horas após a administração da biotina."
+   },
+   {
+    "id": 586,
+    "ProcedimentoId.Mnemonico": "CGT9",
+    "nome": "CURVA GLICEMICA - 5 HORAS (J.20.40.60.90)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 587,
+    "ProcedimentoId.Mnemonico": "EPF7KATO",
+    "nome": "EPF - KATO KATZ (7ª AMOSTRA)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 588,
+    "ProcedimentoId.Mnemonico": "EPF7KATO",
+    "nome": "EPF - KATO KATZ (7ª AMOSTRA)",
+    "orientacao": "Aproximadamente metade do frasco de fezes (frasco próprio)"
+   },
+   {
+    "id": 589,
+    "ProcedimentoId.Mnemonico": "EPF7KATO",
+    "nome": "EPF - KATO KATZ (7ª AMOSTRA)",
+    "orientacao": "Antes de coletar as fezes, se necessário, urinar no vaso sanitário para evitar a contaminação do material. Em casos de crianças utilizar coletor, se necessário. \n- Evitar o uso de antiácido, laxantes e de contraste oral (utilizado em exames radiológicos) no mínimo 3 dias antes da coleta das fezes ou conforme orientação médica. \n- Defecar em vasilhame limpo e seco. \n- Retirar frações de fezes em diferentes partes do bolo fecal (inicio, \nmeio e fim) e colocar em frasco fornecido pelo laboratório ou adquirido em farmácia, sem liquido conservante, de modo que complete pelo menos meio frasco. \n- Sempre que houver muco (catarro), pus ou sangue, colher esta porção \npara que seja analisada, informando a presença dessas substancias ao \nentregar o material. \n- Caso seja visualizado algum parasita, coletá-lo informando o achado ao atendente no momento da entrega do material para o adequado \nprocessamento da amostra. "
+   },
+   {
+    "id": 590,
+    "ProcedimentoId.Mnemonico": "ALFTR-FE",
+    "nome": "ALFA-1-ANTITRIPSINA - FEZES",
+    "orientacao": "Medicação: Não utilizar medicamentos laxativos, antiácidos e contraste oral nas 72 horas que antecedem a coleta, a não ser por orientação médica."
+   },
+   {
+    "id": 591,
+    "ProcedimentoId.Mnemonico": "COV-AT",
+    "nome": "SARS COV-2 ANTICORPOS TOTAIS",
+    "orientacao": "Jejum não obrigatório."
+   },
+   {
+    "id": 592,
+    "ProcedimentoId.Mnemonico": "USABDTD",
+    "nome": "US - ABDOME TOTAL - COM DOPPLER",
+    "orientacao": "Jejum obrigatório de 6 horas ou conforme orientação médica."
+   },
+   {
+    "id": 593,
+    "ProcedimentoId.Mnemonico": "PCRCD",
+    "nome": "CLOSTRIDIUM DIFFICILE POR PCR - FEZES",
+    "orientacao": "Medicação: Substâncias potencialmente interferentes incluem: o creme Vagisil e a pasta de óxido de zinco."
+   },
+   {
+    "id": 594,
+    "ProcedimentoId.Mnemonico": "PCRCD",
+    "nome": "CLOSTRIDIUM DIFFICILE POR PCR - FEZES",
+    "orientacao": "procedimento que envolva o uso de contrastes radiológicos. Caso não seja possível, após o uso de contrastes radiológicos deve-se aguardar no mínimo duas evacuações para coleta da amostra."
+   },
+   {
+    "id": 595,
+    "ProcedimentoId.Mnemonico": "GH12-INS",
+    "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 6 DOSAGENS (J.20.40.60.90.120)",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 596,
+    "ProcedimentoId.Mnemonico": "GH12-INS",
+    "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 6 DOSAGENS (J.20.40.60.90.120)",
+    "orientacao": "Coletar Tubo (EDTA) - Tampa Roxa\/Lilás;5"
+   },
+   {
+    "id": 597,
+    "ProcedimentoId.Mnemonico": "COVIDING",
+    "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR - LAUDO INGLES",
+    "orientacao": "Para realização do exame TESTE DE COVID-19, é necessário realizar um pré-cadastro no endereço http:\/\/cremascomedicina.com.br\/covid19 , clicar no botão \"Para Pessoa Física\" e PREENCHER O FORMULÁRIO, assim que finalizado nossa Equipe de Agendamento entrará em contato disponibilizando o melhor horário e modalidade."
+   },
+   {
+    "id": 598,
+    "ProcedimentoId.Mnemonico": "CA-IGG",
+    "nome": "ANTICORPOS ANTI CANDIDA ALBICANS IGG",
+    "orientacao": "Jejum não obrigatório."
+   },
+   {
+    "id": 599,
+    "ProcedimentoId.Mnemonico": "CA-IGM",
+    "nome": "ANTICORPOS ANTI CANDIDA ALBICANS IGM",
+    "orientacao": "Jejum não obrigatório."
+   },
+   {
+    "id": 600,
+    "ProcedimentoId.Mnemonico": "COVIDESP",
+    "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR - LAUDO ESPANHOL",
+    "orientacao": "Para realização do exame TESTE DE COVID-19, é necessário realizar um pré-cadastro no endereço http:\/\/cremascomedicina.com.br\/covid19 , clicar no botão \"Para Pessoa Física\" e PREENCHER O FORMULÁRIO, assim que finalizado nossa Equipe de Agendamento entrará em contato disponibilizando o melhor horário e modalidade."
+   },
+   {
+    "id": 601,
+    "ProcedimentoId.Mnemonico": "CTSAL17H",
+    "nome": "CORTISOL SALIVAR - 17:00 HORAS",
+    "orientacao": "Bebida alcoólica: A abstinência é desejável nas 72 horas que antecedem o teste.\n Exercícios: Evitar a realização de atividade física.\n Jejum: Aconselhável de 4 horas.\n\nOutros: A escovação é permitida até duas horas antes da realização da coleta, evitando que o sangramento gengival interfira na amostra de saliva.\n Medicação: As amostras não devem ser colhidas em pacientes em tratamento com doses elevadas de biotina (superior a 5mg\/dL) até no mínimo 8 horas após a administração da biotina."
+   },
+   {
+    "id": 602,
+    "ProcedimentoId.Mnemonico": "GPDMADRE",
+    "nome": "GLICOSE - 2 HORAS POS DEXTROSOL (MADRE REGINA)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 603,
+    "ProcedimentoId.Mnemonico": "COVIDGQ",
+    "nome": "SARS-COV IGG (QUANTITATIVO) - PESSOAS VACINADAS",
+    "orientacao": "Recomenda-se coleta após 15 dias do início dos sintomas ou da confirmação da infecção por RT-PCR, ou 21 dias após vacinação."
+   },
+   {
+    "id": 604,
+    "ProcedimentoId.Mnemonico": "EPFSM6",
+    "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (6ª AMOSTRA)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 605,
+    "ProcedimentoId.Mnemonico": "EPFSM6",
+    "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (6ª AMOSTRA)",
+    "orientacao": "Aproximadamente metade do frasco de fezes (frasco próprio)"
+   },
+   {
+    "id": 606,
+    "ProcedimentoId.Mnemonico": "EPFSM6",
+    "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (6ª AMOSTRA)",
+    "orientacao": "Antes de coletar as fezes, se necessário, urinar no vaso sanitário para evitar a contaminação do material. Em casos de crianças utilizar coletor, se necessário. \n- Evitar o uso de antiácido, laxantes e de contraste oral (utilizado em exames radiológicos) no mínimo 3 dias antes da coleta das fezes ou conforme orientação médica. \n- Defecar em vasilhame limpo e seco. \n- Retirar frações de fezes em diferentes partes do bolo fecal (inicio, \nmeio e fim) e colocar em frasco fornecido pelo laboratório ou adquirido em farmácia, sem liquido conservante, de modo que complete pelo menos meio frasco. \n- Sempre que houver muco (catarro), pus ou sangue, colher esta porção \npara que seja analisada, informando a presença dessas substancias ao \nentregar o material. \n- Caso seja visualizado algum parasita, coletá-lo informando o achado ao atendente no momento da entrega do material para o adequado \nprocessamento da amostra. "
+   },
+   {
+    "id": 607,
+    "ProcedimentoId.Mnemonico": "GH13-INS",
+    "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.15.30.60)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 608,
+    "ProcedimentoId.Mnemonico": "GH13-INS",
+    "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.15.30.60)",
+    "orientacao": "Coletar Tubo (EDTA) - Tampa Roxa\/Lilás;5"
+   },
+   {
+    "id": 609,
+    "ProcedimentoId.Mnemonico": "LAC5",
+    "nome": "LACTOSE TESTE DE TOLERANCIA - 5 DOSAGENS (J.30.60.90.120)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 610,
+    "ProcedimentoId.Mnemonico": "PCRMYCO3",
+    "nome": "PCR PARA TUBERCULOSE COM GENE DE RESISTENCIA",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 611,
+    "ProcedimentoId.Mnemonico": "PBFERRO",
+    "nome": "PERFIL BIOQUIMICO DO FERRO",
+    "orientacao": "Jejum obrigatório de 8 horas."
+   },
+   {
+    "id": 612,
+    "ProcedimentoId.Mnemonico": "MICROSP",
+    "nome": "MICROSPORIDIA - FEZES",
+    "orientacao": "Medicação: Evitar o uso de antiácidos, laxantes, antidiarreicos e de contraste oral (utilizado em exames radiológicos) no mínimo 72 horas antes da coleta das fezes ou conforme orientação médica."
+   },
+   {
+    "id": 613,
+    "ProcedimentoId.Mnemonico": "EPF8KATO",
+    "nome": "EPF - KATO KATZ (8ª AMOSTRA)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 614,
+    "ProcedimentoId.Mnemonico": "EPF8KATO",
+    "nome": "EPF - KATO KATZ (8ª AMOSTRA)",
+    "orientacao": "Aproximadamente metade do frasco de fezes (frasco próprio)"
+   },
+   {
+    "id": 615,
+    "ProcedimentoId.Mnemonico": "EPF8KATO",
+    "nome": "EPF - KATO KATZ (8ª AMOSTRA)",
+    "orientacao": "Antes de coletar as fezes, se necessário, urinar no vaso sanitário para evitar a contaminação do material. Em casos de crianças utilizar coletor, se necessário. \n- Evitar o uso de antiácido, laxantes e de contraste oral (utilizado em exames radiológicos) no mínimo 3 dias antes da coleta das fezes ou conforme orientação médica. \n- Defecar em vasilhame limpo e seco. \n- Retirar frações de fezes em diferentes partes do bolo fecal (inicio, \nmeio e fim) e colocar em frasco fornecido pelo laboratório ou adquirido em farmácia, sem liquido conservante, de modo que complete pelo menos meio frasco. \n- Sempre que houver muco (catarro), pus ou sangue, colher esta porção \npara que seja analisada, informando a presença dessas substancias ao \nentregar o material. \n- Caso seja visualizado algum parasita, coletá-lo informando o achado ao atendente no momento da entrega do material para o adequado \nprocessamento da amostra. "
+   },
+   {
+    "id": 616,
+    "ProcedimentoId.Mnemonico": "EPF9KATO",
+    "nome": "EPF - KATO KATZ (9ª AMOSTRA)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 617,
+    "ProcedimentoId.Mnemonico": "EPF9KATO",
+    "nome": "EPF - KATO KATZ (9ª AMOSTRA)",
+    "orientacao": "Aproximadamente metade do frasco de fezes (frasco próprio)"
+   },
+   {
+    "id": 618,
+    "ProcedimentoId.Mnemonico": "EPF9KATO",
+    "nome": "EPF - KATO KATZ (9ª AMOSTRA)",
+    "orientacao": "Antes de coletar as fezes, se necessário, urinar no vaso sanitário para evitar a contaminação do material. Em casos de crianças utilizar coletor, se necessário. \n- Evitar o uso de antiácido, laxantes e de contraste oral (utilizado em exames radiológicos) no mínimo 3 dias antes da coleta das fezes ou conforme orientação médica. \n- Defecar em vasilhame limpo e seco. \n- Retirar frações de fezes em diferentes partes do bolo fecal (inicio, \nmeio e fim) e colocar em frasco fornecido pelo laboratório ou adquirido em farmácia, sem liquido conservante, de modo que complete pelo menos meio frasco. \n- Sempre que houver muco (catarro), pus ou sangue, colher esta porção \npara que seja analisada, informando a presença dessas substancias ao \nentregar o material. \n- Caso seja visualizado algum parasita, coletá-lo informando o achado ao atendente no momento da entrega do material para o adequado \nprocessamento da amostra. "
+   },
+   {
+    "id": 619,
+    "ProcedimentoId.Mnemonico": "OSMOL",
+    "nome": "OSMOLALIDADE - URINA RECENTE",
+    "orientacao": "Colher preferencialmente no laboratório a 1ª urina da manhã ou com intervalo de 4 horas entre as micções. Fazer higiene da genitália com água e sabão, secar, desprezar o 1º jato de urina e coletar o jato do meio."
+   },
+   {
+    "id": 620,
+    "ProcedimentoId.Mnemonico": "LH5-LEU",
+    "nome": "TESTE DE ESTIMULO DE LH COM LEUPRORRELINA - 5 DOSAGE. (J.30.60.90.120)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 621,
+    "ProcedimentoId.Mnemonico": "GH10-GLU",
+    "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 4 DOSAGENS (J.30.60.120)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 622,
+    "ProcedimentoId.Mnemonico": "GH10-GLU",
+    "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 4 DOSAGENS (J.30.60.120)",
+    "orientacao": "Coletar Tubo (EDTA) - Tampa Roxa\/Lilás;7"
+   },
+   {
+    "id": 623,
+    "ProcedimentoId.Mnemonico": "LH6-LEU",
+    "nome": "TESTE DE ESTIMULO DE LH COM LEUPRORRELINA - 2 DOSAGENS (J.60)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 624,
+    "ProcedimentoId.Mnemonico": "COR4-INS",
+    "nome": "TESTE DE ESTIMULO DE CORTISOL COM INSULINA - 4 DOSAGENS (J.30.60.90)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 625,
+    "ProcedimentoId.Mnemonico": "COR4-INS",
+    "nome": "TESTE DE ESTIMULO DE CORTISOL COM INSULINA - 4 DOSAGENS (J.30.60.90)",
+    "orientacao": "Jejum não obrigatório."
+   },
+   {
+    "id": 626,
+    "ProcedimentoId.Mnemonico": "EXOMA",
+    "nome": "EXOMA COMPLETO",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 627,
+    "ProcedimentoId.Mnemonico": "FSH6-LEU",
+    "nome": "TESTE DE ESTIMULO DE FSH COM LEUPRORRELINA - 3 DOSAGENS (J.60.120)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 628,
+    "ProcedimentoId.Mnemonico": "COMPOS60",
+    "nome": "TESTE DE ESTIMULO DE 11DESOXI-CORTISOL APOS CORTROSINA - 2 DOS. (J.60)",
+    "orientacao": "Outros: Enviar amostra única para a realização deste exame."
+   },
+   {
+    "id": 629,
+    "ProcedimentoId.Mnemonico": "GH15-INS",
+    "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.30.60.120)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 630,
+    "ProcedimentoId.Mnemonico": "GH15-INS",
+    "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.30.60.120)",
+    "orientacao": "Coletar Tubo (EDTA) - Tampa Roxa\/Lilás;5"
+   },
+   {
+    "id": 631,
+    "ProcedimentoId.Mnemonico": "PCRMYCO4",
+    "nome": "PCR PARA TUBERCULOSE COM GENE DE RESISTENCIA",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 632,
+    "ProcedimentoId.Mnemonico": "PCRMYCO5",
+    "nome": "PCR PARA TUBERCULOSE COM GENE DE RESISTENCIA",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 633,
+    "ProcedimentoId.Mnemonico": "PCRMYCO6",
+    "nome": "PCR PARA TUBERCULOSE COM GENE DE RESISTENCIA",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 634,
+    "ProcedimentoId.Mnemonico": "LAC2",
+    "nome": "LACTOSE, TESTE DE TOLERANCIA - 4 DOSAGENS (15.30.60.90)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 635,
+    "ProcedimentoId.Mnemonico": "GH17-INS",
+    "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.15.30.90.120)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 636,
+    "ProcedimentoId.Mnemonico": "GH17-INS",
+    "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.15.30.90.120)",
+    "orientacao": "Coletar Tubo (EDTA) - Tampa Roxa\/Lilás;5"
+   },
+   {
+    "id": 637,
+    "ProcedimentoId.Mnemonico": "ETFG",
+    "nome": "ESTIMATIVA TAXA DE FILTRACAO GLOMERULAR",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 638,
+    "ProcedimentoId.Mnemonico": "ETFG",
+    "nome": "ESTIMATIVA TAXA DE FILTRACAO GLOMERULAR",
+    "orientacao": "Dados: Para menores de 18 anos: Obrigatório informar a altura (Ex.: 1.50 ou 1.75)."
+   },
+   {
+    "id": 639,
+    "ProcedimentoId.Mnemonico": "LH7-LEU",
+    "nome": "TESTE DE ESTIMULO DE LH COM LEUPRORRELINA - 3 DOSAGENS (J.60.120)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 640,
+    "ProcedimentoId.Mnemonico": "IMS",
+    "nome": "INSTABILIDADE DE MICROSSATELITES",
+    "orientacao": "Jejum: Não é necessário jejum ou cuidados especiais. Dados: É obrigatório envio da cópia do pedido médico, formulário (disponível no site do DB) o e laudo anatomopatológico."
+   },
+   {
+    "id": 641,
+    "ProcedimentoId.Mnemonico": "CTSAL20H",
+    "nome": "CORTISOL SALIVAR - 20:00 HORAS",
+    "orientacao": "Bebida alcoólica: A abstinência é desejável nas 72 horas que antecedem o teste.\n Exercícios: Evitar a realização de atividade física.\n Jejum: Aconselhável de 4 horas.\n\nOutros: A escovação é permitida até duas horas antes da realização da coleta, evitando que o sangramento gengival interfira na amostra de saliva.\n Medicação: As amostras não devem ser colhidas em pacientes em tratamento com doses elevadas de biotina (superior a 5mg\/dL) até no mínimo 8 horas após a administração da biotina."
+   },
+   {
+    "id": 642,
+    "ProcedimentoId.Mnemonico": "METAD",
+    "nome": "METADONA - URINA",
+    "orientacao": "Amostra isolada: Coletar em frasco apropriado preferencialmente a primeira urina da manhã ou com intervalo mínimo de 4 horas após a última micção. Desprezar o primeiro jato de urina e sem interromper a miccção, coletar o jato médio."
+   },
+   {
+    "id": 643,
+    "ProcedimentoId.Mnemonico": "PTH2",
+    "nome": "PTH",
+    "orientacao": "4 Horas desejável;\nLactentes: Antes da Próxima Mamada;\nCrianças: Conforme orientação médica;"
+   },
+   {
+    "id": 644,
+    "ProcedimentoId.Mnemonico": "HG1AT",
+    "nome": "HEMOGLOBINA GLICADA (1A TOTAL) ",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 645,
+    "ProcedimentoId.Mnemonico": "HIV1OU2",
+    "nome": "HIV1 OU HIV2",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 646,
+    "ProcedimentoId.Mnemonico": "TOTG",
+    "nome": "TESTE ORAL DE TOLERANCIA A GLICOSE",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 647,
+    "ProcedimentoId.Mnemonico": "USABSPEL",
+    "nome": "US - ABDOME SUPERIOR COM ELASTROGRAFIA",
+    "orientacao": "Jejum obrigatório de 6 horas ou conforme orientação médica."
+   },
+   {
+    "id": 648,
+    "ProcedimentoId.Mnemonico": "HBSAG",
+    "nome": "ANTIGENO AUSTRALIA (HBSAG)",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 649,
+    "ProcedimentoId.Mnemonico": "CLF",
+    "nome": "CAPACIDADE LATENTE DE FIXACAO DO FERRO",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 650,
+    "ProcedimentoId.Mnemonico": "STREP",
+    "nome": "STREPTOCOCCUS, ANTICORPOS IGG 23 SOROTIPOS",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 651,
+    "ProcedimentoId.Mnemonico": "PREUM",
+    "nome": "PERFIL REUMATOLOGICO",
+    "orientacao": "Jejum obrigatório de 8 horas."
+   },
+   {
+    "id": 652,
+    "ProcedimentoId.Mnemonico": "GH9-CLO",
+    "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.30.90.120)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 653,
+    "ProcedimentoId.Mnemonico": "IODOP",
+    "nome": "IODO PROTEICO",
+    "orientacao": "Proceder a administração de iodo conforme orientação médica."
+   },
+   {
+    "id": 654,
+    "ProcedimentoId.Mnemonico": "CORT18H",
+    "nome": "CORTISOL - 18:00 HORAS",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 655,
+    "ProcedimentoId.Mnemonico": "GH10-CLO",
+    "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.30.60.120)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 656,
+    "ProcedimentoId.Mnemonico": "HCV",
+    "nome": "HEPATITE C - ANTI-HCV",
+    "orientacao": "Jejum obrigatório de 4 horas ou conforme orientação médica;"
+   },
+   {
+    "id": 657,
+    "ProcedimentoId.Mnemonico": "GH16-INS",
+    "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.15.45.90)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 658,
+    "ProcedimentoId.Mnemonico": "GH11-GLU",
+    "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 5 DOSAGENS (J.30.60.120.180)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 659,
+    "ProcedimentoId.Mnemonico": "GH11-GLU",
+    "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 5 DOSAGENS (J.30.60.120.180)",
+    "orientacao": "Coletar Tubo (EDTA) - Tampa Roxa\/Lilás;7"
+   },
+   {
+    "id": 660,
+    "ProcedimentoId.Mnemonico": "GH18-INS",
+    "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.15.30.90)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 661,
+    "ProcedimentoId.Mnemonico": "GH19-INS",
+    "nome": "TESTE DE ESTIMULO DE GH COM INSU - 7 DOSAGENS(J.20.30.40.60.90.120)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 662,
+    "ProcedimentoId.Mnemonico": "GH20-INS",
+    "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.30.90.120)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 663,
+    "ProcedimentoId.Mnemonico": "COTS5",
+    "nome": "CORTISOL SALIVAR - 05:00 HORAS",
+    "orientacao": "Bebida alcoólica: A abstinência é desejável nas 72 horas que antecedem o teste.\n Exercícios: Evitar a realização de atividade física.\n Jejum: Aconselhável de 4 horas.\n\nOutros: A escovação é permitida até duas horas antes da realização da coleta, evitando que o sangramento gengival interfira na amostra de saliva.\n Medicação: As amostras não devem ser colhidas em pacientes em tratamento com doses elevadas de biotina (superior a 5mg\/dL) até no mínimo 8 horas após a administração da biotina."
+   },
+   {
+    "id": 664,
+    "ProcedimentoId.Mnemonico": "CH12",
+    "nome": "CORTISOL - 12:00 HORAS",
+    "orientacao": "8 horas para a coleta da manha e de 3 horas para a coleta da tarde."
+   },
+   {
+    "id": 665,
+    "ProcedimentoId.Mnemonico": "CH12",
+    "nome": "CORTISOL - 12:00 HORAS",
+    "orientacao": "A coleta deverá ser realizada às 12 horas."
+   },
+   {
+    "id": 666,
+    "ProcedimentoId.Mnemonico": "CTSAL12H",
+    "nome": "CORTISOL SALIVAR - 12:00 HORAS ",
+    "orientacao": "Bebida alcoólica: A abstinência é desejável nas 72 horas que antecedem o teste.\n Exercícios: Evitar a realização de atividade física.\n Jejum: Aconselhável de 4 horas.\n\nOutros: A escovação é permitida até duas horas antes da realização da coleta, evitando que o sangramento gengival interfira na amostra de saliva.\n Medicação: As amostras não devem ser colhidas em pacientes em tratamento com doses elevadas de biotina (superior a 5mg\/dL) até no mínimo 8 horas após a administração da biotina."
+   },
+   {
+    "id": 667,
+    "ProcedimentoId.Mnemonico": "17BE2",
+    "nome": "17 BETA ESTRADIOL (E2) - PRIMEIRA AMOSTRA",
+    "orientacao": "Preparo 17BE2: Medicação: Suspender medicamentos de uso oral, transdérmico ou injetável a critério clínico. Outros: Realizar a coleta antes de escovar os dentes, comer ou beber. Enviar amostra única para a realização deste exame."
+   },
+   {
+    "id": 668,
+    "ProcedimentoId.Mnemonico": "CTSAL9H",
+    "nome": "CORTISOL SALIVAR - 09:00 HORAS ",
+    "orientacao": "Bebida alcoólica: A abstinência é desejável nas 72 horas que antecedem o teste.\n Exercícios: Evitar a realização de atividade física.\n Jejum: Aconselhável de 4 horas.\n\nOutros: A escovação é permitida até duas horas antes da realização da coleta, evitando que o sangramento gengival interfira na amostra de saliva.\n Medicação: As amostras não devem ser colhidas em pacientes em tratamento com doses elevadas de biotina (superior a 5mg\/dL) até no mínimo 8 horas após a administração da biotina."
+   },
+   {
+    "id": 669,
+    "ProcedimentoId.Mnemonico": "F105",
+    "nome": "IGE ESPECIFICO - CHOCOLATE (F105)",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 670,
+    "ProcedimentoId.Mnemonico": "CTSAL21H",
+    "nome": "CORTISOL SALIVAR - 21:00 HORAS",
+    "orientacao": "Bebida alcoólica: A abstinência é desejável nas 72 horas que antecedem o teste.\n Exercícios: Evitar a realização de atividade física.\n Jejum: Aconselhável de 4 horas.\n\nOutros: A escovação é permitida até duas horas antes da realização da coleta, evitando que o sangramento gengival interfira na amostra de saliva.\n Medicação: As amostras não devem ser colhidas em pacientes em tratamento com doses elevadas de biotina (superior a 5mg\/dL) até no mínimo 8 horas após a administração da biotina."
+   },
+   {
+    "id": 671,
+    "ProcedimentoId.Mnemonico": "CTSAL7H",
+    "nome": "CORTISOL SALIVAR - 07:00 HORAS ",
+    "orientacao": "Bebida alcoólica: A abstinência é desejável nas 72 horas que antecedem o teste.\n Exercícios: Evitar a realização de atividade física.\n Jejum: Aconselhável de 4 horas.\n\nOutros: A escovação é permitida até duas horas antes da realização da coleta, evitando que o sangramento gengival interfira na amostra de saliva.\n Medicação: As amostras não devem ser colhidas em pacientes em tratamento com doses elevadas de biotina (superior a 5mg\/dL) até no mínimo 8 horas após a administração da biotina."
+   },
+   {
+    "id": 672,
+    "ProcedimentoId.Mnemonico": "FATXA",
+    "nome": "FATOR ANTI-XA ATIVADO",
+    "orientacao": "Medicação: Extração no intervalo de 4 a 6 horas após administração de heparina\nOutros: Coletar o plasma citratado com 3,2% diluído 1\/9 ou 3,8% e diluído 1\/9.\nEnviar amostra única para a realização deste exame."
+   },
+   {
+    "id": 673,
+    "ProcedimentoId.Mnemonico": "BRCMLP",
+    "nome": "ANALISE DE DELECOES E DUPLICACOES PARA OS GENES  BRCA1 E BRCA2",
+    "orientacao": "A amostra é estável por até 48 horas a temperatura ambiente, por até 15 dias refrigerada de 2°C a 8°C ou por até 1 ano congelada."
+   },
+   {
+    "id": 674,
+    "ProcedimentoId.Mnemonico": "BRCMLP",
+    "nome": "ANALISE DE DELECOES E DUPLICACOES PARA OS GENES  BRCA1 E BRCA2",
+    "orientacao": "A amostra é estável por 72 horas refrigerada de 2°C a 8°C ou por até 15 dias congelada."
+   },
+   {
+    "id": 675,
+    "ProcedimentoId.Mnemonico": "CDAB2",
+    "nome": "CLOSTRIDIUM DIFFICILE TOXINA A E B - FEZES (2 AMOSTRA)",
+    "orientacao": "Medicação: Usar laxativos somente quando houver orientação médica."
+   },
+   {
+    "id": 676,
+    "ProcedimentoId.Mnemonico": "CDAB2",
+    "nome": "CLOSTRIDIUM DIFFICILE TOXINA A E B - FEZES (2 AMOSTRA)",
+    "orientacao": "Outros: Evitar o uso de antiácidos e de contraste oral (utilizado em exames radiológicos) no mínimo 72 horas antes da coleta das fezes ou conforme orientação médica."
+   },
+   {
+    "id": 677,
+    "ProcedimentoId.Mnemonico": "CRESU",
+    "nome": "ORTO-CRESOL EM URINA",
+    "orientacao": "Preparo CRESU:\nBebida alcoólica: Evitar o consumo de bebida alcoólica.\nDieta: Evitar a ingestão de Benzoato de Sódio (conservante alimentício).\nMedicação: Evitar o consumo de alguns medicamentos como Fenilsalicilatos, Barbitúricos e Fenolato de sódio."
+   },
+   {
+    "id": 678,
+    "ProcedimentoId.Mnemonico": "TCORT2",
+    "nome": "TESTE DE ESTIMULO DE CORTISOL APOS CORTROSINA - 3 DOSAGENS (J.30.60)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 679,
+    "ProcedimentoId.Mnemonico": "CTSAL15H",
+    "nome": "CORTISOL SALIVAR - 15:00 HORAS",
+    "orientacao": "Bebida alcoólica: A abstinência é desejável nas 72 horas que antecedem o teste.\n Exercícios: Evitar a realização de atividade física.\n Jejum: Aconselhável de 4 horas.\n\nOutros: A escovação é permitida até duas horas antes da realização da coleta, evitando que o sangramento gengival interfira na amostra de saliva.\n Medicação: As amostras não devem ser colhidas em pacientes em tratamento com doses elevadas de biotina (superior a 5mg\/dL) até no mínimo 8 horas após a administração da biotina."
+   },
+   {
+    "id": 680,
+    "ProcedimentoId.Mnemonico": "BRCSM",
+    "nome": "ANALISE DE SEQUENCIAMENTO E MLPA DOS GENES BRCA1 E BRCA2",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 681,
+    "ProcedimentoId.Mnemonico": "BRCSM",
+    "nome": "ANALISE DE SEQUENCIAMENTO E MLPA DOS GENES BRCA1 E BRCA2",
+    "orientacao": "É obrigatório o envio da cópia do pedido médico, questionário e termo de consentimento (disponíveis no site DB) devidamente preenchidos."
+   },
+   {
+    "id": 682,
+    "ProcedimentoId.Mnemonico": "ASLO2",
+    "nome": "ASLO",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 683,
+    "ProcedimentoId.Mnemonico": "ASLO2",
+    "nome": "ASLO",
+    "orientacao": "Medicação: Informar o uso de medicamentos ou a existência de patologia tireoidiana."
+   },
+   {
+    "id": 684,
+    "ProcedimentoId.Mnemonico": "CLARAOV2",
+    "nome": "IGE ESPECIFICO - CLARA DE OVO (F1)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 685,
+    "ProcedimentoId.Mnemonico": "AMENDOI2",
+    "nome": "IGE ESPECIFICO - AMENDOIM (F13)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 686,
+    "ProcedimentoId.Mnemonico": "TRIGO2",
+    "nome": "IGE ESPECIFICO - TRIGO (F4)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 687,
+    "ProcedimentoId.Mnemonico": "LEITE2",
+    "nome": "IGE ESPECIFICO - LEITE DE VACA (F2)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 688,
+    "ProcedimentoId.Mnemonico": "CAMARAO2",
+    "nome": "IGE ESPECIFICO - CAMARAO (F24)",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 689,
+    "ProcedimentoId.Mnemonico": "PTERO2",
+    "nome": "IGE ESPECIFICO - DERMATOPHAGOIDES PTERONYSSINUS (D1)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 690,
+    "ProcedimentoId.Mnemonico": "GEMA2",
+    "nome": "IGE ESPECIFICO - GEMA DE OVO (F75)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 691,
+    "ProcedimentoId.Mnemonico": "SOJA2",
+    "nome": "IGE ESPECIFICO - GRAO DE SOJA (F14)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 692,
+    "ProcedimentoId.Mnemonico": "FARINAE2",
+    "nome": "IGE ESPECIFICO - DERMATOPHAGOIDES FARINAE (D2)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 693,
+    "ProcedimentoId.Mnemonico": "PELOCAO2",
+    "nome": "IGE ESPECIFICO - CAO (PELO) (E5)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 694,
+    "ProcedimentoId.Mnemonico": "GATO2",
+    "nome": "IGE ESPECIFICO - GATO (PELO E CASPA) (E1)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 695,
+    "ProcedimentoId.Mnemonico": "BARATA2",
+    "nome": "IGE ESPECIFICO - BARATA DOMESTICA (I6)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 696,
+    "ProcedimentoId.Mnemonico": "ESPER",
+    "nome": "TESTE DE FRAGMENTACAO DO DNA ESPERMATICO",
+    "orientacao": "Outros: A abstinência sexual deve ser de  2 a 3 dias antes da coleta.\nÉ obrigatório o envio da cópia pedido médico carimbado e assinado e o  laudo do espermograma (se houver)."
+   },
+   {
+    "id": 697,
+    "ProcedimentoId.Mnemonico": "TN2",
+    "nome": "TRIAGEM NEONATAL PARA AMINOACIDOPATIAS",
+    "orientacao": "Este exame é indicado para bebês até 30 dias de vida, para maiores disto o exame correto é o EL1."
+   },
+   {
+    "id": 698,
+    "ProcedimentoId.Mnemonico": "TLA",
+    "nome": "ESTUDO MOLECULAR PARA INTOLERANCIA A LACTOSE",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 699,
+    "ProcedimentoId.Mnemonico": "EPITELI2",
+    "nome": "IGE MULTIPLO - EPITELIO DE ANIMAIS (EX1)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 700,
+    "ProcedimentoId.Mnemonico": "APMX12",
+    "nome": "IGE MULTIPLO - FUNGOS (MX1)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 701,
+    "ProcedimentoId.Mnemonico": "POEIRA2",
+    "nome": "IGE MULTIPLO - POEIRA (HX2)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 702,
+    "ProcedimentoId.Mnemonico": "CLOZA",
+    "nome": "CLOZAPINA",
+    "orientacao": "Não coletar em tubo com o gel separador, pois este pode interferir no resultado do analito."
+   },
+   {
+    "id": 703,
+    "ProcedimentoId.Mnemonico": "D73-2",
+    "nome": "IGE ESPECIFICO - GLYCYPHAGUS DOMESTICUS (D73)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 704,
+    "ProcedimentoId.Mnemonico": "FORMIGA2",
+    "nome": "IGE ESPECIFICO - FORMIGA DO FOGO (I70)",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 705,
+    "ProcedimentoId.Mnemonico": "PERNILO2",
+    "nome": "IGE ESPECIFICO - PERNILONGO AEDES COMMUNIS (I71)",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 706,
+    "ProcedimentoId.Mnemonico": "AMARELO2",
+    "nome": "IGE ESPECIFICO - CORANTE AMARELO (C279)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 707,
+    "ProcedimentoId.Mnemonico": "CACAU2",
+    "nome": "IGE ESPECIFICO - CACAU (F93)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 708,
+    "ProcedimentoId.Mnemonico": "GLUTEN2",
+    "nome": "IGE ESPECIFICO - GLUTEN (F79)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 709,
+    "ProcedimentoId.Mnemonico": "BANANA2",
+    "nome": "IGE ESPECIFICO - BANANA (F92)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 710,
+    "ProcedimentoId.Mnemonico": "LACTOAL2",
+    "nome": "IGE ESPECIFICO - ALFA LACTOALBUMINA (F76)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 711,
+    "ProcedimentoId.Mnemonico": "LACTOGL2",
+    "nome": "IGE ESPECIFICO - BETA-LACTOGLOBULINA (F77)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 712,
+    "ProcedimentoId.Mnemonico": "CASEINA2",
+    "nome": "IGE ESPECIFICO - CASEINA (F78)",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 713,
+    "ProcedimentoId.Mnemonico": "GH21-INS",
+    "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 7 DOSANG.(J.15.30.45,60.90.120)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 714,
+    "ProcedimentoId.Mnemonico": "GH21-INS",
+    "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 7 DOSANG.(J.15.30.45,60.90.120)",
+    "orientacao": "Coletar Tubo (EDTA) - Tampa Roxa\/Lilás;5"
+   },
+   {
+    "id": 715,
+    "ProcedimentoId.Mnemonico": "COR6-INS",
+    "nome": "TESTE DE ESTIMULO DE CORTISOL COM INSULINA - 5 DOSAGENS(J.15.30.60.90)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 716,
+    "ProcedimentoId.Mnemonico": "COR6-INS",
+    "nome": "TESTE DE ESTIMULO DE CORTISOL COM INSULINA - 5 DOSAGENS(J.15.30.60.90)",
+    "orientacao": "Jejum não obrigatório."
+   },
+   {
+    "id": 717,
+    "ProcedimentoId.Mnemonico": "CULUR",
+    "nome": "CULTURA E ANTIBIOGRAMA - UREAPLASMA SPP",
+    "orientacao": "Medicação: Em caso de uso de antimicrobianos, deve-se aguardar 7 dias após o término do medicamento para realização do exame ou de acordo com orientação médica.\nOutros: Não usar swab de algodão com haste de madeira devido ao efeito inibitório. Não usar lubrificante ou antisséptico vaginal antes da coleta. Não manter relações sexuais, com ou sem preservativos. Não usar creme e\/ou óvulo vaginal. Não utilizar ducha ou lavagem interna vaginal. Não realizar exame ginecológico com toque e\/ou ultrassonografia transvaginal. Evitar a coleta durante o período menstrual.\nIMPORTANTE: O material coletado deve sempre ser inoculado no reagente Mycoplasma R1 fornecido pelo próprio laboratório DB."
+   },
+   {
+    "id": 718,
+    "ProcedimentoId.Mnemonico": "GH22-INS",
+    "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.40.60.90)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 719,
+    "ProcedimentoId.Mnemonico": "IGE2",
+    "nome": "IMUNOGLOBULINA IGE",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 720,
+    "ProcedimentoId.Mnemonico": "TOX-CONC",
+    "nome": "EXAME TOXICOLOGICO - CABELO",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 721,
+    "ProcedimentoId.Mnemonico": "TOX-CONC",
+    "nome": "EXAME TOXICOLOGICO - CABELO",
+    "orientacao": "ATENÇÃO AOS VALORES E FORMA DE PAGAMENTO\n\n* Para Renovação de CNH (Detran), Admissional e Demissional – Valor do exame R$ 298,00  (R$ 258,00 podendo ser parcelado em 6x, R$ 40,00 no ato do atendimento) cadastrar pelo site Psychemedcis;  \n\n* Para concurso Público: Valor do exame R$ 324,00 à vista (R$ 294,00 o custo do exame e R$ 40,00 taxa de coleta), envio manual.  \n\n* Para uso Pessoal: Valor do exame R$ 390,00 à vista (R$350,00 o custo do exame e R$ 40,00 no ato do atendimento), envio manual.\n\nQualquer dúvida procure seu supervisor."
+   },
+   {
+    "id": 722,
+    "ProcedimentoId.Mnemonico": "ALUMINI2",
+    "nome": "ALUMINIO",
+    "orientacao": "Medicação: Medicamentos que apresentem alumínio em sua composição devem ser evitados."
+   },
+   {
+    "id": 723,
+    "ProcedimentoId.Mnemonico": "ALUMINI2",
+    "nome": "ALUMINIO",
+    "orientacao": "Enviar amostra única para a realização deste exame."
+   },
+   {
+    "id": 724,
+    "ProcedimentoId.Mnemonico": "COR7-INS",
+    "nome": "TESTE DE ESTIMULO DE CORTISOL COM INSULINA- 6 DOSAG(J.15.30.60.90.120)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 725,
+    "ProcedimentoId.Mnemonico": "COR7-INS",
+    "nome": "TESTE DE ESTIMULO DE CORTISOL COM INSULINA- 6 DOSAG(J.15.30.60.90.120)",
+    "orientacao": "Jejum não obrigatório."
+   },
+   {
+    "id": 726,
+    "ProcedimentoId.Mnemonico": "CORT18",
+    "nome": "CORTISOL SALIVAR - 18:00 HORAS",
+    "orientacao": "Bebida alcoólica: A abstinência é desejável nas 72 horas que antecedem o teste.\n Exercícios: Evitar a realização de atividade física.\n Jejum: Aconselhável de 4 horas.\n\nOutros: A escovação é permitida até duas horas antes da realização da coleta, evitando que o sangramento gengival interfira na amostra de saliva.\n Medicação: As amostras não devem ser colhidas em pacientes em tratamento com doses elevadas de biotina (superior a 5mg\/dL) até no mínimo 8 horas após a administração da biotina."
+   },
+   {
+    "id": 727,
+    "ProcedimentoId.Mnemonico": "LAGOSTAU",
+    "nome": "IGE ESPECIFICO - LAGOSTA (F80) - UNIMED",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 728,
+    "ProcedimentoId.Mnemonico": "CARANGU",
+    "nome": "IGE ESPECIFICO - CARANGUEJO (APF23) - UNIMED",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 729,
+    "ProcedimentoId.Mnemonico": "TOTG2",
+    "nome": "TESTE ORAL DE TOLERANCIA A GLICOSE (2 HORAS)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 730,
+    "ProcedimentoId.Mnemonico": "ASPERG-U",
+    "nome": "IGE ESPECIFICO - ASPERGILLUS FUMIGATUS (M3) - UNIMED",
+    "orientacao": "Não é necessário jejum ou preparo especiais."
+   },
+   {
+    "id": 731,
+    "ProcedimentoId.Mnemonico": "GB-PD",
+    "nome": "GLICOSE POS DIALISE",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 732,
+    "ProcedimentoId.Mnemonico": "EPS-IGGU",
+    "nome": "EPSTEIN BARR VIRUS IGG",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 733,
+    "ProcedimentoId.Mnemonico": "LH8-LEU",
+    "nome": "TESTE DE ESTIMULO DE LH COM LEUPRORRELINA - 4 DOSAGENS (J.30.60.90)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 734,
+    "ProcedimentoId.Mnemonico": "FSH8-LEU",
+    "nome": "TESTE DE ESTIMULO DE FSH COM LEUPRORRELINA - 4 DOSAGENS (J.30.60.90)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 735,
+    "ProcedimentoId.Mnemonico": "SIFT",
+    "nome": "SIFILIS - ANTICORPOS TOTAIS",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 736,
+    "ProcedimentoId.Mnemonico": "SIFT",
+    "nome": "SIFILIS - ANTICORPOS TOTAIS",
+    "orientacao": "Outros: Limitações técnicas\nCaso os resultados sejam inconsistentes com as evidências clínicas, recomendam-se testes complementares para confirmar o resultado do ensaio. Para fins diagnósticos, os resultados devem ser combinados com outros dados, tais como sintomas, resultados de outros testes, impressões clínicas, etc"
+   },
+   {
+    "id": 737,
+    "ProcedimentoId.Mnemonico": "TOXOG",
+    "nome": "TOXOCARA CANIS ANTICORPOS IGG",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 738,
+    "ProcedimentoId.Mnemonico": "GH12-GLU",
+    "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 6 DOSAGENS (J.30.60.90.120.150)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 739,
+    "ProcedimentoId.Mnemonico": "IMUN",
+    "nome": "IMUNOFENOTIPAGEM - NEOPLASIA HEMATOLOGICA",
+    "orientacao": "Dados: É obrigatório o envio de cópia do pedido médico, formulário (disponível no site DB) preenchido corretamente e laudo de hemograma recente."
+   },
+   {
+    "id": 740,
+    "ProcedimentoId.Mnemonico": "HEPD",
+    "nome": "HEPATITE DELTA VÍRUS ANTICORPOS (ANTI-HDV)",
+    "orientacao": " Outros IMUN:"
+   },
+   {
+    "id": 741,
+    "ProcedimentoId.Mnemonico": "COR8-INS",
+    "nome": "TESTE DE ESTIMULO DE CORTISOL COM INSULINA - 3 DOSAGENS(J.60.90)",
+    "orientacao": "Devido à baixa estabilidade, as amostras devem chegar ao DB até quinta-feira. Este exame não é realizado em feriados, vésperas e pontes de feriados."
+   },
+   {
+    "id": 742,
+    "ProcedimentoId.Mnemonico": "COR8-INS",
+    "nome": "TESTE DE ESTIMULO DE CORTISOL COM INSULINA - 3 DOSAGENS(J.60.90)",
+    "orientacao": "Em casos excepcionais, as amostras coletadas na sexta-feira e no sábado poderão ser enviadas sob restrição, mediante comunicação via e-mail ao representante e à assessoria científica. Entretanto, implica-se em possível degradação da amostra, de forma que a análise, bem como o resultado, poderão ser comprometidos. Em casos de degeneração celular as amostras serão rejeitadas."
+   },
+   {
+    "id": 743,
+    "ProcedimentoId.Mnemonico": "GSD2",
+    "nome": "DETERMINACAO DA ATIVIDADE DA ALFA-GLICOSIDASE",
+    "orientacao": "Devido à baixa estabilidade, a coleta deve ocorrer preferencialmente de segunda-feira, chegando no DB até quarta-feira e a amostra enviada ao DB no mesmo dia. Este exame não é realizado em feriados, vésperas e pontes de feriados."
+   },
+   {
+    "id": 744,
+    "ProcedimentoId.Mnemonico": "HLA1S",
+    "nome": "HLA CLASSE I ALTA RESOLUCAO",
+    "orientacao": "Outros: É obrigatório o envio das amostras de swab oral juntamente com a amostra de sangue total, para pacientes com doenças malignas e pacientes já transplantados que irão realizar novo transplante. Para os demais casos apenas a amostra de sangue é aceita."
+   },
+   {
+    "id": 745,
+    "ProcedimentoId.Mnemonico": "HLA12M",
+    "nome": "HLA CLASSE I E CLASSE II MEDIA RESOLUCAO",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 746,
+    "ProcedimentoId.Mnemonico": "GHDEX4D",
+    "nome": "GH COM SUPRESSAO DE DEXTROSOL - 4 DOSAGENS (J.30.60.90)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 747,
+    "ProcedimentoId.Mnemonico": "VDRL-URG",
+    "nome": "SIFILIS - VDRL",
+    "orientacao": "Indicado o jejum de 8 horas. Porém não é obrigatório."
+   },
+   {
+    "id": 748,
+    "ProcedimentoId.Mnemonico": "HEMSA",
+    "nome": "HEMOGRAMA COMPLETO (SEM ANTICOAGULANTE)",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 749,
+    "ProcedimentoId.Mnemonico": "RBP",
+    "nome": "PROTEINA TRANSPORTADORA DE RETINOL",
+    "orientacao": "Medicação: O uso de biotina e suplementos alimentares que contenham biotina devem ser suspensos 3 dias antes da coleta.\n O uso de biotina e suplementos alimentares que contenham biotina devem ser suspensos 3 dias antes da coleta."
+   },
+   {
+    "id": 750,
+    "ProcedimentoId.Mnemonico": "DOCA",
+    "nome": "11-DESOXICORTICOSTERONA",
+    "orientacao": "Enviar amostra única para a realização deste exame."
+   },
+   {
+    "id": 751,
+    "ProcedimentoId.Mnemonico": "DIGCO",
+    "nome": "DIGESTIBILIDADE -  COPROLOGICO FUNCIONAL COM DOSAGEM DE ACIDO ORGANICO",
+    "orientacao": "Devido à baixa estabilidade, a coleta deve ocorrer preferencialmente às segundas-feiras, chegando no DB Sorocaba até quarta-feira até às 9 horas e a amostra enviada ao DB no mesmo dia. Este exame não é realizado em feriados, vésperas e pontes de feriados.     \nMedicação: Recomendável suspender medicação laxante e\/ou supositórios nos 3 dias anteriores e durante a coleta ou conforme orientação médica.\nBebidas: Evitar o uso de bebidas gasosas (ex: refrigerantes,água gaseificada) e alcoólicas durante os 3 dias que antecedem a coleta.\nPara maiores de 12 anos, deve-se manter dieta habitual com as recomendações (descritas abaixo) ou conforme orientação medica;\n* Dieta:\nManter dieta habitual (dia a dia do paciente), sendo recomendável nas últimas 72 horas (3 dias) antes da coleta que o mesmo inclua nas refeições principais (almoço e\/ou jantar) quantidades usuais de carne, batata e feijão.\nNas outras refeições (café da manhã, lanche da tarde), manteiga e leite.\n- No caso de pacientes recém-nascidos e crianças, recomendamos enviar amostra fecal de mais de uma evacuação (mantidas refrigeradas), realizadas no mesmo dia e enviadas em um único frasco, totalizando um total de, no mínimo, 10 gramas, idealmente 15 gramas.\n\nATENÇÃO: A amotra deve ser entregue no laboratório no mesmo dia da coleta.\nEnviar amostra única para a realização deste exame."
+   },
+   {
+    "id": 752,
+    "ProcedimentoId.Mnemonico": "DAOP",
+    "nome": "TESTE DE ATIVIDADE DAO - DIAMINA OXIDASE",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   },
+   {
+    "id": 753,
+    "ProcedimentoId.Mnemonico": "DAOP",
+    "nome": "TESTE DE ATIVIDADE DAO - DIAMINA OXIDASE",
+    "orientacao": "Medicação: Suspender a medicação inibidor DAO (recomendado no mínimo uma semana) - (Relaxantes musculares, tiopental, morfina, AINEs, verapamil, alprenolol, dihidralazina, propafenona, metoclopramida, antibióticos [cefuroxima, cefotiam, isoniazida, cloroquina], acetilcisteína, ambroxol, cimetidina e ciclofosfamida)."
+   },
+   {
+    "id": 754,
+    "ProcedimentoId.Mnemonico": "DAOP",
+    "nome": "TESTE DE ATIVIDADE DAO - DIAMINA OXIDASE",
+    "orientacao": "Exame não realizado durante o período gestacional;"
+   },
+   {
+    "id": 755,
+    "ProcedimentoId.Mnemonico": "DAOP",
+    "nome": "TESTE DE ATIVIDADE DAO - DIAMINA OXIDASE",
+    "orientacao": "Exame não realizado em caso de choque anafilático."
+   },
+   {
+    "id": 756,
+    "ProcedimentoId.Mnemonico": "HLA2",
+    "nome": "GENOTIPAGEM DO HLA LOCCUS DR, DQ",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 757,
+    "ProcedimentoId.Mnemonico": "CADASIL",
+    "nome": "SEQUENCIAMENTO DO GENE NOTCH3",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 758,
+    "ProcedimentoId.Mnemonico": "CADASIL",
+    "nome": "SEQUENCIAMENTO DO GENE NOTCH3",
+    "orientacao": "Jejum não obrigatório."
+   },
+   {
+    "id": 759,
+    "ProcedimentoId.Mnemonico": "CADASIL",
+    "nome": "SEQUENCIAMENTO DO GENE NOTCH3",
+    "orientacao": "A amostra é estável por até 48 horas a temperatura ambiente, por até 15 dias refrigerada de 2°C a 8°C ou por até 1 ano congelada."
+   },
+   {
+    "id": 760,
+    "ProcedimentoId.Mnemonico": "CADAS3",
+    "nome": "CADASIL ESTUDO MOLECULAR GENE NOTCH3",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 761,
+    "ProcedimentoId.Mnemonico": "CADAS3",
+    "nome": "CADASIL ESTUDO MOLECULAR GENE NOTCH3",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 762,
+    "ProcedimentoId.Mnemonico": "CADAS3",
+    "nome": "CADASIL ESTUDO MOLECULAR GENE NOTCH3",
+    "orientacao": "A amostra é estável por 72 horas refrigerada de 2°C a 8°C ou por até 15 dias congelada."
+   },
+   {
+    "id": 763,
+    "ProcedimentoId.Mnemonico": "PEDS",
+    "nome": "PAINEL SINDROME EHLERS-DANLOS",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 764,
+    "ProcedimentoId.Mnemonico": "PEDS",
+    "nome": "PAINEL SINDROME EHLERS-DANLOS",
+    "orientacao": "É obrigatório o envio da cópia do pedido médico, histórico clínico,  questionário e termo de consentimento (disponíveis no site DB) devidamente preenchidos."
+   },
+   {
+    "id": 765,
+    "ProcedimentoId.Mnemonico": "GH14-GLU",
+    "nome": "TESTE DE ESTIMULO DE GH C\/ GLUCAGON - 6 DOSAGENS (J.60.90.120.150.180)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 766,
+    "ProcedimentoId.Mnemonico": "B2MIU",
+    "nome": "BETA 2 MICROGLOBULINA URINARIA",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 767,
+    "ProcedimentoId.Mnemonico": "B2MIU",
+    "nome": "BETA 2 MICROGLOBULINA URINARIA",
+    "orientacao": "Após a coleta, calibrar o pH de todas as amostras urinárias entre 6 e 8 com 1,0 M NaOH."
+   },
+   {
+    "id": 768,
+    "ProcedimentoId.Mnemonico": "IMUC",
+    "nome": "IMUNOFENOTIPAGEM PARA PESQUISA DE HPN",
+    "orientacao": "É obrigatório o envio de cópia do pedido médico, formulário (disponível no site DB) preenchido corretamente e laudo de hemograma recente."
+   },
+   {
+    "id": 769,
+    "ProcedimentoId.Mnemonico": "ESTEA",
+    "nome": "ESTEATORREIA",
+    "orientacao": " Outros IMUC:"
+   },
+   {
+    "id": 770,
+    "ProcedimentoId.Mnemonico": "ESTEA",
+    "nome": "ESTEATORREIA",
+    "orientacao": "Devido à baixa estabilidade, as amostras devem chegar ao DB até sexta-feira. Este exame não é realizado em feriados, vésperas e pontes de feriados."
+   },
+   {
+    "id": 771,
+    "ProcedimentoId.Mnemonico": "SCHIT",
+    "nome": "SCHISTOSSOMOSE - ANTICORPOS IGG",
+    "orientacao": "Em casos excepcionais, as amostras coletadas no sábado poderão ser enviadas sob restrição, mediante comunicação via e-mail ao representante e à assessoria científica. Entretanto, implica-se em possível degradação da amostra, de forma que a análise, bem como o resultado, poderão ser comprometidos. Em casos de degeneração celular as amostras serão rejeitadas."
+   },
+   {
+    "id": 772,
+    "ProcedimentoId.Mnemonico": "PF88",
+    "nome": "IGE ESP (F88) - ALIMENTOS - CARNE DE CARNEIRO",
+    "orientacao": "Não é necessário jejum ou cuidados especiais."
+   },
+   {
+    "id": 773,
+    "ProcedimentoId.Mnemonico": "LHFSH-LE",
+    "nome": "TESTE DE ESTIMULO DE LH  E FSH COM LEUPRORRELINA - 2 DOSAGENS (J.120)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 774,
+    "ProcedimentoId.Mnemonico": "NIQUE",
+    "nome": "NIQUEL URINARIO FINAL DE JORNADA DE TRABALHO",
+    "orientacao": "Pacientes em diálise podem apresentar níveis elevados."
+   },
+   {
+    "id": 775,
+    "ProcedimentoId.Mnemonico": "CADMI",
+    "nome": "CADMIO URINARIO FINAL DE JORNADA DE TRABALHO",
+    "orientacao": "Dieta: Evitar consumo de peixes, farinhas refinadas, chás e cafés. Outros: Evitar uso de cigarro no dia da coleta."
+   },
+   {
+    "id": 776,
+    "ProcedimentoId.Mnemonico": "F280",
+    "nome": "IGE ESP (F280) - ALIMENTOS - PIMENTA PRETA",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 777,
+    "ProcedimentoId.Mnemonico": "F263",
+    "nome": "IGE ESP (F263) - ALIMENTOS - PIMENTA VERDE",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 778,
+    "ProcedimentoId.Mnemonico": "FSHEST-L",
+    "nome": "TESTE DE ESTIMULO DE FSH\/ESTRADIOL COM LEUPRORRELINA - 2 DOSAG.(J.120)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 779,
+    "ProcedimentoId.Mnemonico": "LHEST-L",
+    "nome": "TESTE DE ESTIMULO DE LH\/ESTRADIOL COM LEUPRORRELINA - 2 DOSAG.(J.120)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 780,
+    "ProcedimentoId.Mnemonico": "APE5",
+    "nome": "IGE ESP (E5) - EPITELIOS - CASPA DE CACHORRO",
+    "orientacao": "Não é necessário jejum ou preparos especiais."
+   },
+   {
+    "id": 781,
+    "ProcedimentoId.Mnemonico": "CDAB3",
+    "nome": "CLOSTRIDIUM DIFFICILE TOXINA A E B - FEZES (3 AMOSTRA)",
+    "orientacao": "Medicação: Usar laxativos somente quando houver orientação médica."
+   },
+   {
+    "id": 782,
+    "ProcedimentoId.Mnemonico": "CDAB3",
+    "nome": "CLOSTRIDIUM DIFFICILE TOXINA A E B - FEZES (3 AMOSTRA)",
+    "orientacao": "Outros: Evitar o uso de antiácidos e de contraste oral (utilizado em exames radiológicos) no mínimo 72 horas antes da coleta das fezes ou conforme orientação médica."
+   },
+   {
+    "id": 783,
+    "ProcedimentoId.Mnemonico": "FLUOR",
+    "nome": "FLUOR - URINA FINAL DA JORNADA DE TRABALHO",
+    "orientacao": "Dieta: Concentrações elevadas de flúor na água potável, bem como o consumo de chá, frutos do mar e cremes dentais podem acarretar em valores elevados. Outros: Retirar a roupa ou uniforme contaminado antes da coleta."
+   },
+   {
+    "id": 784,
+    "ProcedimentoId.Mnemonico": "ALZH",
+    "nome": "PROTEINA BETA AMILOIDE\/TAU",
+    "orientacao": "Enviar duas amostras para realização deste exame."
+   },
+   {
+    "id": 785,
+    "ProcedimentoId.Mnemonico": "CHBI",
+    "nome": "CARBOXIHEMOGLOBINA - INICIO DE JORNADA DE TRABALHO",
+    "orientacao": "Tabagismo pode interferir no resultado do exame."
+   },
+   {
+    "id": 786,
+    "ProcedimentoId.Mnemonico": "FSH9-LEU",
+    "nome": "TESTE DE ESTIMULO DE FSH COM LEUPRORRELINA - 5 DOSAG. (J.30.60.90.120)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 787,
+    "ProcedimentoId.Mnemonico": "PF290",
+    "nome": "IGE ESP (F290) - ALIMENTOS - OSTRA EDULIS",
+    "orientacao": "Não é necessário jejum ou cuidados especiais."
+   },
+   {
+    "id": 788,
+    "ProcedimentoId.Mnemonico": "ESFER",
+    "nome": "PESQUISA DE ESFEROCITOS",
+    "orientacao": "Não há necessidade de Jejum;"
+   },
+   {
+    "id": 789,
+    "ProcedimentoId.Mnemonico": "CAXUI",
+    "nome": "CAXUMBA - ANTICORPOS IGG E IGM",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 790,
+    "ProcedimentoId.Mnemonico": "GH5-LEV",
+    "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 5 DOSAGENS (J.60.90.120.150)",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 791,
+    "ProcedimentoId.Mnemonico": "BARTPC",
+    "nome": "BARTONELLA (B. HENSELAE, B. QUINTANA) DNA",
+    "orientacao": "Dados: É obrigatório envio da cópia do pedido médico, cópia do laudo anatomopatológico e termo de consentimento (disponível no site do DB) corretamente preenchidos."
+   },
+   {
+    "id": 792,
+    "ProcedimentoId.Mnemonico": "AB2GL",
+    "nome": "ANTI - BETA2 GLICOPROTEÍNA IGG E IGM",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 793,
+    "ProcedimentoId.Mnemonico": "ESTRI",
+    "nome": "ESTRIOL LIVRE",
+    "orientacao": "Jejum aconselhável de 4 horas."
+   },
+   {
+    "id": 794,
+    "ProcedimentoId.Mnemonico": "CI3",
+    "nome": "CURVA INSULINICA - 3 DOSAGENS (J.30.60)",
+    "orientacao": "Jejum obrigatório de 8 horas ou conforme orientação médica."
+   }
+]
+  
