@@ -30,7 +30,17 @@ const Item = ({ exame, onAdd }) => {
   return (
     <ListItem divider>
       <ListItemText
-        primary={exame.nome}
+        primary={
+          <Box display="flex" alignItems="center">
+            <Typography variant="body1" sx={{ marginRight: 2, minWidth: '100px', textAlign: 'center' }}>
+              {exame.mnemônico}
+            </Typography>
+            <Box component="span" sx={{ borderLeft: '1px solid #000', height: '100%', marginRight: 2 }} />
+            <Typography variant="body1">
+              {exame.nome}
+            </Typography>
+          </Box>
+        }
       />
       <ListItemSecondaryAction>
         <Box display="flex" alignItems="center" justifyContent="space-between" width="200px">
