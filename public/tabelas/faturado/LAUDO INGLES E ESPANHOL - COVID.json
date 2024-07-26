@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1468,
+        "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR - LAUDO INGLES",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "COVIDING"
+    },
+    {
+        "id": 1486,
+        "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR - LAUDO ESPANHOL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "COVIDESP"
+    },
+    {
+        "id": 1710,
+        "nome": "COVID-19 - TESTE RAPIDO - LAUDO EM INGLES",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TRCOVING"
+    },
+    {
+        "id": 1732,
+        "nome": "COVID-19 - TESTE RAPIDO - LAUDO EM ESPANHOL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TRCOVESP"
+    }
+]

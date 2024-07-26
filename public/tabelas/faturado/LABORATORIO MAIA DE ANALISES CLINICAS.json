@@ -1,0 +1,415 @@
+[
+    {
+        "id": 23,
+        "nome": "BETA HCG - QUANTITATIVO",
+        "preço": 0,
+        "código": 403057670,
+        "mnemônico": "BETA"
+    },
+    {
+        "id": 31,
+        "nome": "HCG, PESQUISA DE",
+        "preço": 0,
+        "código": 403163270,
+        "mnemônico": "HCG"
+    },
+    {
+        "id": 87,
+        "nome": "DISMORFISMO ERITROCITARIO - URINA RECENTE",
+        "preço": 0,
+        "código": 403111040,
+        "mnemônico": "DISMO"
+    },
+    {
+        "id": 91,
+        "nome": "SODIO - URINA 24H",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "SODU24H"
+    },
+    {
+        "id": 117,
+        "nome": "PROTEINA C REATIVA, QUANTITATIVA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PCR"
+    },
+    {
+        "id": 146,
+        "nome": "ALBUMINA ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "ALB"
+    },
+    {
+        "id": 154,
+        "nome": "CURVA GLICEMICA - 5 DOSAGENS (J.60.120.180.240)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CGD5"
+    },
+    {
+        "id": 155,
+        "nome": "CURVA GLICEMICA - 4 DOSAGENS (J.60.120.180)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CGD4"
+    },
+    {
+        "id": 156,
+        "nome": "CURVA GLICEMICA - 3 DOSAGENS (J.60.120)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CGD3"
+    },
+    {
+        "id": 179,
+        "nome": "UREIA - POS HEMODIALISE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "UR"
+    },
+    {
+        "id": 182,
+        "nome": "GLICOSE - 2 HORAS POS PRANDIAL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "GP"
+    },
+    {
+        "id": 211,
+        "nome": "CURVA GLICEMICA - 2 DOSAGENS (J.60)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CGD2"
+    },
+    {
+        "id": 227,
+        "nome": "PROTEINAS TOTAIS ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PROT"
+    },
+    {
+        "id": 327,
+        "nome": "DISMORFISMO ERITROCITARIO - URINA RECENTE (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403111040,
+        "mnemônico": "DISMO2"
+    },
+    {
+        "id": 328,
+        "nome": "DISMORFISMO ERITROCITARIO - URINA RECENTE (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403111040,
+        "mnemônico": "DISMO3"
+    },
+    {
+        "id": 467,
+        "nome": "LACTOSE TESTE DE TOLERANCIA - 4 DOSAGENS (J.20.40.60)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "LAC4"
+    },
+    {
+        "id": 531,
+        "nome": "CREATINO FOSFAQUINASE - FRACAO MB - MASSA ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CKMM"
+    },
+    {
+        "id": 546,
+        "nome": "FIBRINOGENIO",
+        "preço": 0,
+        "código": 403042640,
+        "mnemônico": "FIBR-C"
+    },
+    {
+        "id": 558,
+        "nome": "COLESTEROL (VLDL)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "VLDL"
+    },
+    {
+        "id": 565,
+        "nome": "ASPARTATO AMINOTRANSFERASE (TGO, AST)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TGO"
+    },
+    {
+        "id": 566,
+        "nome": "ALANINA AMINOTRANSFERASE (TGP, ALT)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TGP"
+    },
+    {
+        "id": 567,
+        "nome": "TRIGLICERIDEOS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TRI"
+    },
+    {
+        "id": 568,
+        "nome": "UREIA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "URE"
+    },
+    {
+        "id": 573,
+        "nome": "MAGNESIO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "MAG"
+    },
+    {
+        "id": 575,
+        "nome": "COLESTEROL (LDL)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "LDL"
+    },
+    {
+        "id": 576,
+        "nome": "LIPASE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "LIPA"
+    },
+    {
+        "id": 577,
+        "nome": "GLICOSE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "GB"
+    },
+    {
+        "id": 579,
+        "nome": "COLESTEROL (HDL) ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HDL"
+    },
+    {
+        "id": 580,
+        "nome": "FOSFORO ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "FOS"
+    },
+    {
+        "id": 582,
+        "nome": "GAMA-GLUTAMIL TRANSFERASE ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "GT"
+    },
+    {
+        "id": 584,
+        "nome": "FOSFATASE ALCALINA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "FAL"
+    },
+    {
+        "id": 585,
+        "nome": "PROTEINAS TOTAIS E FRACOES",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PTF"
+    },
+    {
+        "id": 586,
+        "nome": "FERRO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "FER"
+    },
+    {
+        "id": 589,
+        "nome": "DESIDROGENASE LACTICA",
+        "preço": 0,
+        "código": 403017290,
+        "mnemônico": "DHL"
+    },
+    {
+        "id": 591,
+        "nome": "CREATININA ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CREA"
+    },
+    {
+        "id": 592,
+        "nome": "COLESTEROL TOTAL ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "COL"
+    },
+    {
+        "id": 593,
+        "nome": "CREATINO FOSFOQUINASE TOTAL (CK) ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CK"
+    },
+    {
+        "id": 594,
+        "nome": "CREATINO FOSFOQUINASE - FRACAO MB - ATIVIDADE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CKMB"
+    },
+    {
+        "id": 595,
+        "nome": "CALCIO ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CAL"
+    },
+    {
+        "id": 597,
+        "nome": "AMILASE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "AMI"
+    },
+    {
+        "id": 598,
+        "nome": "ACIDO URICO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "AUR"
+    },
+    {
+        "id": 599,
+        "nome": "BILIRRUBINAS (DIRETA, INDIRETA E TOTAL)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "BIL"
+    },
+    {
+        "id": 609,
+        "nome": "LACTOSE TESTE DE TOLERANCIA - 3 DOSAGENS (J.30.60)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "LAC3"
+    },
+    {
+        "id": 611,
+        "nome": "ACIDO LACTICO (LACTATO)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "LACTATO"
+    },
+    {
+        "id": 768,
+        "nome": "CURVA GLICEMICA - 3 HORAS (J.30.60.120.180)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CG3HORAS"
+    },
+    {
+        "id": 908,
+        "nome": "SODIO ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "SOD"
+    },
+    {
+        "id": 909,
+        "nome": "POTASSIO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "POT"
+    },
+    {
+        "id": 944,
+        "nome": "CURVA GLICEMICA - 6 DOSAGENS (J.60.120.180.240.300)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CGD6"
+    },
+    {
+        "id": 963,
+        "nome": "CLORO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CLORO"
+    },
+    {
+        "id": 1295,
+        "nome": "INFLUENZA A E B, VIRUS SINCICIAL A E B E SARS-COV-2 POR PCR",
+        "preço": 0,
+        "código": 403236840,
+        "mnemônico": "INFLUPCR"
+    },
+    {
+        "id": 1300,
+        "nome": "CURVA GLICEMICA - 7 DOSAGENS (J.60.120.180.240.300.360)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CGD7"
+    },
+    {
+        "id": 1403,
+        "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR",
+        "preço": 0,
+        "código": 403146180,
+        "mnemônico": "COVID-DT"
+    },
+    {
+        "id": 1616,
+        "nome": "LACTOSE TESTE DE TOLERANCIA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "LAC5"
+    },
+    {
+        "id": 1814,
+        "nome": "POLIMIXINA-B",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "POLIMI-B"
+    },
+    {
+        "id": 2011,
+        "nome": "POTASSIO POS DIALISE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "POT-PD"
+    },
+    {
+        "id": 2012,
+        "nome": "SODIO POS DIALISE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "SOD-PD"
+    },
+    {
+        "id": 2013,
+        "nome": "CREATININA POS DIALISE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CREA-PD"
+    },
+    {
+        "id": 2014,
+        "nome": "GLICOSE POS DIALISE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "GB-PD"
+    },
+    {
+        "id": 2173,
+        "nome": "BETA HCG - QUANTITATIVO",
+        "preço": 0,
+        "código": 403057670,
+        "mnemônico": "HCGQTE"
+    }
+]

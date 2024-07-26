@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1234,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "GH2-CLO"
+    },
+    {
+        "id": 1794,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.15.30.90.120)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "GH17-INS"
+    },
+    {
+        "id": 1867,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSU - 7 DOSAGENS(J.20.30.40.60.90.120)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "GH19-INS"
+    },
+    {
+        "id": 2245,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TEGH14"
+    },
+    {
+        "id": 2251,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.15.30.90.120)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TEGH43"
+    },
+    {
+        "id": 2263,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSU - 7 DOSAGENS(J.20.30.40.60.90.120)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TEGH31"
+    }
+]

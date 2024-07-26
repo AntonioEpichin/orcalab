@@ -1,0 +1,93 @@
+[
+    {
+        "id": 117,
+        "nome": "PROTEINA C REATIVA, QUANTITATIVA",
+        "preço": 0,
+        "código": 403083610,
+        "mnemônico": "PCR"
+    },
+    {
+        "id": 535,
+        "nome": "HEMOGRAMA COMPLETO",
+        "preço": 0,
+        "código": 403043610,
+        "mnemônico": "HEM"
+    },
+    {
+        "id": 568,
+        "nome": "UREIA",
+        "preço": 0,
+        "código": 403025800,
+        "mnemônico": "URE"
+    },
+    {
+        "id": 591,
+        "nome": "CREATININA ",
+        "preço": 0,
+        "código": 403016300,
+        "mnemônico": "CREA"
+    },
+    {
+        "id": 593,
+        "nome": "CREATINO FOSFOQUINASE TOTAL (CK) ",
+        "preço": 0,
+        "código": 403016480,
+        "mnemônico": "CK"
+    },
+    {
+        "id": 907,
+        "nome": "EAS - EXAME DE URINA",
+        "preço": 0,
+        "código": 403112100,
+        "mnemônico": "EAS"
+    },
+    {
+        "id": 1657,
+        "nome": "TROPONINA (QUANTITATIVO)",
+        "preço": 0,
+        "código": 403025710,
+        "mnemônico": "TROPOQUA"
+    },
+    {
+        "id": 1869,
+        "nome": "PACOTE EXAMES PA LIFE SENIOR",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PCTLS"
+    },
+    {
+        "id": 1870,
+        "nome": "PACOTE EXAMES PA LIFE SENIOR CARDIO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PCTLSC"
+    },
+    {
+        "id": 1896,
+        "nome": "TROPONINA (QUANTITATIVO) AMOSTRA 2",
+        "preço": 0,
+        "código": 403025710,
+        "mnemônico": "TROPOQN2"
+    },
+    {
+        "id": 1897,
+        "nome": "TROPONINA (QUANTITATIVO) AMOSTRA 3",
+        "preço": 0,
+        "código": 403025710,
+        "mnemônico": "TROPOQN3"
+    },
+    {
+        "id": 1898,
+        "nome": "TROPONINA (QUANTITATIVO) AMOSTRA 4",
+        "preço": 0,
+        "código": 403025710,
+        "mnemônico": "TROPOQN4"
+    },
+    {
+        "id": 2013,
+        "nome": "CREATININA POS DIALISE",
+        "preço": 0,
+        "código": 403016300,
+        "mnemônico": "CREA-PD"
+    }
+]

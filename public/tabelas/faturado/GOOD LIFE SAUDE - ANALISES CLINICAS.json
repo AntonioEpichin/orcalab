@@ -1,0 +1,5308 @@
+[
+    {
+        "id": 1,
+        "nome": "VITAMINA B12",
+        "preço": 0,
+        "código": 403165720,
+        "mnemônico": "B12"
+    },
+    {
+        "id": 2,
+        "nome": "ACIDO CITRICO - URINA 24H",
+        "preço": 0,
+        "código": 403110150,
+        "mnemônico": "ACCIT24H"
+    },
+    {
+        "id": 3,
+        "nome": "ELETROFORESE DE HEMOGLOBINA",
+        "preço": 0,
+        "código": 403043530,
+        "mnemônico": "EHB"
+    },
+    {
+        "id": 4,
+        "nome": "FERRITINA",
+        "preço": 0,
+        "código": 403162700,
+        "mnemônico": "FERRI"
+    },
+    {
+        "id": 5,
+        "nome": "TEMPO TROMBOPLASTINA PARCIAL ATIVADA",
+        "preço": 0,
+        "código": 403046390,
+        "mnemônico": "PTTK"
+    },
+    {
+        "id": 6,
+        "nome": "17 HIDROXI ESTEROIDES CETOGENICOS - URINA 24H",
+        "preço": 0,
+        "código": 403050400,
+        "mnemônico": "17CGS24H"
+    },
+    {
+        "id": 7,
+        "nome": "COOMBS DIRETO",
+        "preço": 0,
+        "código": 403041080,
+        "mnemônico": "COOD"
+    },
+    {
+        "id": 8,
+        "nome": "ZINCO",
+        "preço": 0,
+        "código": 403133280,
+        "mnemônico": "ZINCO"
+    },
+    {
+        "id": 9,
+        "nome": "ACIDO VANIL MANDELICO - URINA 24H",
+        "preço": 0,
+        "código": 403160330,
+        "mnemônico": "ACVMA24H"
+    },
+    {
+        "id": 11,
+        "nome": "ALDOSTERONA",
+        "preço": 0,
+        "código": 403160500,
+        "mnemônico": "ALDOST"
+    },
+    {
+        "id": 12,
+        "nome": "ALFA-1-ANTITRIPSINA ",
+        "preço": 0,
+        "código": 403012490,
+        "mnemônico": "ALFA1AT"
+    },
+    {
+        "id": 13,
+        "nome": "17-ALFA-HIDROXIPROGESTERONA",
+        "preço": 0,
+        "código": 403160170,
+        "mnemônico": "17AHPROG"
+    },
+    {
+        "id": 14,
+        "nome": "CORTISOL - 16:00 HORAS",
+        "preço": 0,
+        "código": 403161900,
+        "mnemônico": "C16H"
+    },
+    {
+        "id": 15,
+        "nome": "CORTISOL - 08:00 HORAS",
+        "preço": 0,
+        "código": 403161900,
+        "mnemônico": "C8H"
+    },
+    {
+        "id": 16,
+        "nome": "CURVA INSULINICA - 6 DOSAGENS (J.60.120.180.240.300)",
+        "preço": 0,
+        "código": 403052360,
+        "mnemônico": "CI6"
+    },
+    {
+        "id": 17,
+        "nome": "SULFATO DE DEHIDROEPIANDROSTERONA (S-DHEA)",
+        "preço": 0,
+        "código": 403164590,
+        "mnemônico": "SDHEA"
+    },
+    {
+        "id": 18,
+        "nome": "DIHIDROTESTOSTERONA (DHT) ",
+        "preço": 0,
+        "código": 403162200,
+        "mnemônico": "DHT"
+    },
+    {
+        "id": 19,
+        "nome": "ESTRADIOL",
+        "preço": 0,
+        "código": 403162460,
+        "mnemônico": "ESTR"
+    },
+    {
+        "id": 21,
+        "nome": "FOLICO ESTIMULANTE, HORMONIO (FSH) ",
+        "preço": 0,
+        "código": 403162890,
+        "mnemônico": "FSH"
+    },
+    {
+        "id": 22,
+        "nome": "GASTRINA ",
+        "preço": 0,
+        "código": 403162970,
+        "mnemônico": "GASTRI"
+    },
+    {
+        "id": 23,
+        "nome": "BETA HCG - QUANTITATIVO",
+        "preço": 0,
+        "código": 403163270,
+        "mnemônico": "BETA"
+    },
+    {
+        "id": 24,
+        "nome": "LH - HORMONIO LUTEINIZANTE",
+        "preço": 0,
+        "código": 403163350,
+        "mnemônico": "LH"
+    },
+    {
+        "id": 25,
+        "nome": "PROLACTINA (POOL)",
+        "preço": 0,
+        "código": 403164160,
+        "mnemônico": "POOL"
+    },
+    {
+        "id": 26,
+        "nome": "PROGESTERONA",
+        "preço": 0,
+        "código": 403164080,
+        "mnemônico": "PROG"
+    },
+    {
+        "id": 27,
+        "nome": "TRIIODOTIRONINA (T3) ",
+        "preço": 0,
+        "código": 403165560,
+        "mnemônico": "T3"
+    },
+    {
+        "id": 28,
+        "nome": "TIREOGLOBULINA ",
+        "preço": 0,
+        "código": 403165300,
+        "mnemônico": "TIRE"
+    },
+    {
+        "id": 29,
+        "nome": "TSH - HORMONIO TIREOESTIMULANTE ",
+        "preço": 0,
+        "código": 403165210,
+        "mnemônico": "TSH"
+    },
+    {
+        "id": 30,
+        "nome": "ANDROSTENEDIONA",
+        "preço": 0,
+        "código": 403160760,
+        "mnemônico": "ANDR"
+    },
+    {
+        "id": 31,
+        "nome": "HCG, PESQUISA DE",
+        "preço": 0,
+        "código": 403057670,
+        "mnemônico": "HCG"
+    },
+    {
+        "id": 32,
+        "nome": "DEHIDROEPIANDROSTERONA (DHEA)",
+        "preço": 0,
+        "código": 403162110,
+        "mnemônico": "DHEA"
+    },
+    {
+        "id": 33,
+        "nome": "ESTRIOL",
+        "preço": 0,
+        "código": 403162540,
+        "mnemônico": "ESTRIOL"
+    },
+    {
+        "id": 34,
+        "nome": "ESTRONA - E1",
+        "preço": 0,
+        "código": 403162620,
+        "mnemônico": "ESTRONA"
+    },
+    {
+        "id": 35,
+        "nome": "TBG - GLOBULINA LIGADORA DE TIROXINA",
+        "preço": 0,
+        "código": 403163190,
+        "mnemônico": "TBG"
+    },
+    {
+        "id": 37,
+        "nome": "CRESCIMENTO, HORMONIO DO (HGH) ",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH"
+    },
+    {
+        "id": 38,
+        "nome": "INSULINA",
+        "preço": 0,
+        "código": 403163600,
+        "mnemônico": "INSU"
+    },
+    {
+        "id": 39,
+        "nome": "PARATORMONIO - PTH OU FRACAO (CADA)",
+        "preço": 0,
+        "código": 403054650,
+        "mnemônico": "PTH"
+    },
+    {
+        "id": 40,
+        "nome": "PROLACTINA",
+        "preço": 0,
+        "código": 403164160,
+        "mnemônico": "PRL"
+    },
+    {
+        "id": 41,
+        "nome": "TIROXINA (T4)",
+        "preço": 0,
+        "código": 403165480,
+        "mnemônico": "T4"
+    },
+    {
+        "id": 42,
+        "nome": "TESTOSTERONA LIVRE",
+        "preço": 0,
+        "código": 403165050,
+        "mnemônico": "TSL"
+    },
+    {
+        "id": 43,
+        "nome": "TIROXINA T4 LIVRE",
+        "preço": 0,
+        "código": 403164910,
+        "mnemônico": "T4L"
+    },
+    {
+        "id": 44,
+        "nome": "ANTI - ESCLERODERMA (SCL 70)",
+        "preço": 0,
+        "código": 403062910,
+        "mnemônico": "ACSCL70"
+    },
+    {
+        "id": 45,
+        "nome": "ANTICORPO ANTI-TIREOGLOBULINA",
+        "preço": 0,
+        "código": 403161060,
+        "mnemônico": "AAT"
+    },
+    {
+        "id": 46,
+        "nome": "HEPATITE A IGG",
+        "preço": 0,
+        "código": 403069330,
+        "mnemônico": "HAVG"
+    },
+    {
+        "id": 47,
+        "nome": "HEPATITE A IGM",
+        "preço": 0,
+        "código": 403069410,
+        "mnemônico": "HAVM"
+    },
+    {
+        "id": 49,
+        "nome": "ANTICARDIOLIPINA IGG ",
+        "preço": 0,
+        "código": 403061430,
+        "mnemônico": "CARG"
+    },
+    {
+        "id": 50,
+        "nome": "ANTICENTROMERO",
+        "preço": 0,
+        "código": 403061600,
+        "mnemônico": "CENT"
+    },
+    {
+        "id": 51,
+        "nome": "RNP, AUTO ANTICORPOS ANTI",
+        "preço": 0,
+        "código": 403061000,
+        "mnemônico": "RNP"
+    },
+    {
+        "id": 52,
+        "nome": "ANTICORPO ANTI-SM",
+        "preço": 0,
+        "código": 403061270,
+        "mnemônico": "SM"
+    },
+    {
+        "id": 53,
+        "nome": "ANTI-LA/SSB ",
+        "preço": 0,
+        "código": 403060890,
+        "mnemônico": "SSB"
+    },
+    {
+        "id": 54,
+        "nome": "HEPATITE B - HBSAC - (ANTI ANTIGENO DE SUPERFICIE)",
+        "preço": 0,
+        "código": 403069920,
+        "mnemônico": "AHBS"
+    },
+    {
+        "id": 55,
+        "nome": "HEPATITE B - ANTI-HBE",
+        "preço": 0,
+        "código": 403069760,
+        "mnemônico": "AHBE"
+    },
+    {
+        "id": 56,
+        "nome": "ANTI-DNA ",
+        "preço": 0,
+        "código": 403060620,
+        "mnemônico": "DNA"
+    },
+    {
+        "id": 57,
+        "nome": "ANTI-RO/SSA",
+        "preço": 0,
+        "código": 403061190,
+        "mnemônico": "SSA"
+    },
+    {
+        "id": 58,
+        "nome": "ASLO",
+        "preço": 0,
+        "código": 403084050,
+        "mnemônico": "ASLO"
+    },
+    {
+        "id": 59,
+        "nome": "HEPATITE B - HBSAG - (AU, ANTIGENO AUSTRALIA) ",
+        "preço": 0,
+        "código": 403070180,
+        "mnemônico": "AU"
+    },
+    {
+        "id": 60,
+        "nome": "HEPATITE B - ANTI HBC TOTAL",
+        "preço": 0,
+        "código": 403069500,
+        "mnemônico": "HBCG"
+    },
+    {
+        "id": 61,
+        "nome": "CAXUMBA IGG",
+        "preço": 0,
+        "código": 403065930,
+        "mnemônico": "CAXUMBAG"
+    },
+    {
+        "id": 62,
+        "nome": "CD4 - SUB POPULACAO LINFOCITARIA",
+        "preço": 0,
+        "código": 403074330,
+        "mnemônico": "CD4"
+    },
+    {
+        "id": 63,
+        "nome": "CITOMEGALOVIRUS IGG ",
+        "preço": 0,
+        "código": 403066660,
+        "mnemônico": "CITG"
+    },
+    {
+        "id": 64,
+        "nome": "COMPLEMENTO C4 ",
+        "preço": 0,
+        "código": 403067120,
+        "mnemônico": "C4"
+    },
+    {
+        "id": 65,
+        "nome": "COMPLEMENTO C3 ",
+        "preço": 0,
+        "código": 403079990,
+        "mnemônico": "C3"
+    },
+    {
+        "id": 66,
+        "nome": "CRIOGLOBULINAS",
+        "preço": 0,
+        "código": 403080140,
+        "mnemônico": "CRIO"
+    },
+    {
+        "id": 67,
+        "nome": "FENITOINA ",
+        "preço": 0,
+        "código": 403018260,
+        "mnemônico": "FENITO"
+    },
+    {
+        "id": 68,
+        "nome": "IGE ESPECIFICO - CAO (PELO) (E5)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "PELOCAO"
+    },
+    {
+        "id": 69,
+        "nome": "IGE ESPECIFICO - CLARA DE OVO (F1)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "CLARAOVO"
+    },
+    {
+        "id": 70,
+        "nome": "IGE ESPECIFICO - CACAU (F93)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "CACAU"
+    },
+    {
+        "id": 71,
+        "nome": "IGE ESPECIFICO - AMENDOIM (F13)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "AMENDOIM"
+    },
+    {
+        "id": 72,
+        "nome": "IGE ESPECIFICO - GRAO DE SOJA (F14)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "SOJA"
+    },
+    {
+        "id": 73,
+        "nome": "IGE ESPECIFICO - FEIJAO BRANCO (F15)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "FEIJAOB"
+    },
+    {
+        "id": 74,
+        "nome": "IGE ESPECIFICO - TOMATE (F25)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "TOMATE"
+    },
+    {
+        "id": 75,
+        "nome": "IGE ESPECIFICO - CARNE DE PORCO (F26)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "PORCO"
+    },
+    {
+        "id": 76,
+        "nome": "IGE ESPECIFICO - CARNE DE VACA (F27)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "VACA"
+    },
+    {
+        "id": 77,
+        "nome": "ANTIGENO CA 125",
+        "preço": 0,
+        "código": 403163780,
+        "mnemônico": "CA125"
+    },
+    {
+        "id": 78,
+        "nome": "ANTIGENO CA 72-4",
+        "preço": 0,
+        "código": 403163780,
+        "mnemônico": "CA72-4"
+    },
+    {
+        "id": 79,
+        "nome": "ANTIGENO CARCINOEMBRIOGENICO (CEA)",
+        "preço": 0,
+        "código": 403161220,
+        "mnemônico": "CEA"
+    },
+    {
+        "id": 80,
+        "nome": "MICOLOGICO DIRETO (4ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "MICO4"
+    },
+    {
+        "id": 81,
+        "nome": "CLEARANCE DE CREATININA - UNIRA 24H",
+        "preço": 0,
+        "código": 403015080,
+        "mnemônico": "CC24H"
+    },
+    {
+        "id": 82,
+        "nome": "ACIDO URICO - URINA 24H",
+        "preço": 0,
+        "código": 403014940,
+        "mnemônico": "AUR24H"
+    },
+    {
+        "id": 83,
+        "nome": "CLEARANCE DE UREIA - URINA 24H",
+        "preço": 0,
+        "código": 403015240,
+        "mnemônico": "CU24H"
+    },
+    {
+        "id": 85,
+        "nome": "EOSINOFILOS - FEZES",
+        "preço": 0,
+        "código": 403030470,
+        "mnemônico": "EOSINF"
+    },
+    {
+        "id": 86,
+        "nome": "CREATININA - URINA RECENTE",
+        "preço": 0,
+        "código": 403016300,
+        "mnemônico": "CREAU"
+    },
+    {
+        "id": 87,
+        "nome": "DISMORFISMO ERITROCITARIO - URINA RECENTE",
+        "preço": 0,
+        "código": 403111040,
+        "mnemônico": "DISMO"
+    },
+    {
+        "id": 88,
+        "nome": "POTASSIO - URINA 24H",
+        "preço": 0,
+        "código": 403023180,
+        "mnemônico": "POTA24H"
+    },
+    {
+        "id": 89,
+        "nome": "FOSFORO - URINA 24H",
+        "preço": 0,
+        "código": 403019310,
+        "mnemônico": "FOSF24H"
+    },
+    {
+        "id": 90,
+        "nome": "MAGNESIO - URINA 24H",
+        "preço": 0,
+        "código": 403022370,
+        "mnemônico": "MAGU24H"
+    },
+    {
+        "id": 91,
+        "nome": "SODIO - URINA 24H",
+        "preço": 0,
+        "código": 403024230,
+        "mnemônico": "SODU24H"
+    },
+    {
+        "id": 92,
+        "nome": "BAAR (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100510,
+        "mnemônico": "BAAR"
+    },
+    {
+        "id": 93,
+        "nome": "BACTERIOSCOPIA - DIVERSOS MATERIAIS (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100600,
+        "mnemônico": "BAC"
+    },
+    {
+        "id": 96,
+        "nome": "EXAME DIRETO - DIVERSOS MATERIAIS",
+        "preço": 0,
+        "código": 403100190,
+        "mnemônico": "FRESCO"
+    },
+    {
+        "id": 97,
+        "nome": "PERFIL COPROLOGICO - FEZES",
+        "preço": 0,
+        "código": 403030390,
+        "mnemônico": "PC"
+    },
+    {
+        "id": 98,
+        "nome": "AMILASE - URINA 24H",
+        "preço": 0,
+        "código": 403012810,
+        "mnemônico": "AMILA24H"
+    },
+    {
+        "id": 99,
+        "nome": "CALCIO - URINA 24H",
+        "preço": 0,
+        "código": 403014000,
+        "mnemônico": "CALU24H"
+    },
+    {
+        "id": 100,
+        "nome": "IGE ESPECIFICO - BATATA (F35)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "BATATA"
+    },
+    {
+        "id": 101,
+        "nome": "IGE ESPECIFICO - COCO (F36)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "COCO"
+    },
+    {
+        "id": 102,
+        "nome": "IGE ESPECIFICO - GALINHA (CARNE) (F83)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "GALINHA"
+    },
+    {
+        "id": 103,
+        "nome": "IGE ESPECIFICO - TRIGO (F4)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "TRIGO"
+    },
+    {
+        "id": 104,
+        "nome": "FAN - FATOR ANTINUCLEAR",
+        "preço": 0,
+        "código": 403068520,
+        "mnemônico": "FAN"
+    },
+    {
+        "id": 106,
+        "nome": "IGE MULTIPLO - MARISCOS (BACALHAU, CAMARAO E MEXILHAO) (FX2)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "FX2"
+    },
+    {
+        "id": 107,
+        "nome": "IGE MULTIPLO - SEMENTES (FX3)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "CEREAIS"
+    },
+    {
+        "id": 108,
+        "nome": "IGE MULTIPLO - EPITELIO DE ANIMAIS (EX1)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "EPITELIO"
+    },
+    {
+        "id": 109,
+        "nome": "HIV1+ HIV2",
+        "preço": 0,
+        "código": 403071820,
+        "mnemônico": "HIV"
+    },
+    {
+        "id": 110,
+        "nome": "IGE MULTIPLO - POEIRA (HX2)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "POEIRA"
+    },
+    {
+        "id": 111,
+        "nome": "IMUNOGLOBULINA IGA",
+        "preço": 0,
+        "código": 403072200,
+        "mnemônico": "IGA"
+    },
+    {
+        "id": 112,
+        "nome": "IMUNOGLOBULINA IGE",
+        "preço": 0,
+        "código": 403072710,
+        "mnemônico": "IGE"
+    },
+    {
+        "id": 113,
+        "nome": "IMUNOGLOBULINA IGG",
+        "preço": 0,
+        "código": 403072800,
+        "mnemônico": "IGG"
+    },
+    {
+        "id": 114,
+        "nome": "IMUNOGLOBULINA IGM",
+        "preço": 0,
+        "código": 403073010,
+        "mnemônico": "IGM"
+    },
+    {
+        "id": 115,
+        "nome": "LISTERIOSE, REACAO SOROLOGICA",
+        "preço": 0,
+        "código": 403074500,
+        "mnemônico": "LISTE"
+    },
+    {
+        "id": 116,
+        "nome": "IGE MULTIPLO - FUNGOS (MX2)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "FUNGOS"
+    },
+    {
+        "id": 117,
+        "nome": "PROTEINA C REATIVA, QUANTITATIVA",
+        "preço": 0,
+        "código": 403083910,
+        "mnemônico": "PCR"
+    },
+    {
+        "id": 118,
+        "nome": "FRAGMENTOS DE VERME (HELMINTOS)",
+        "preço": 0,
+        "código": 403030710,
+        "mnemônico": "VERME"
+    },
+    {
+        "id": 119,
+        "nome": "SUB CLASSES DE IGG - 1",
+        "preço": 0,
+        "código": 403072980,
+        "mnemônico": "IGG1"
+    },
+    {
+        "id": 120,
+        "nome": "SUB CLASSES DE IGG - 2",
+        "preço": 0,
+        "código": 403072980,
+        "mnemônico": "IGG2"
+    },
+    {
+        "id": 121,
+        "nome": "SUB CLASSES DE IGG - 3",
+        "preço": 0,
+        "código": 403072980,
+        "mnemônico": "IGG3"
+    },
+    {
+        "id": 122,
+        "nome": "PROTEINA - URINA 24H",
+        "preço": 0,
+        "código": 403023850,
+        "mnemônico": "PU24H"
+    },
+    {
+        "id": 123,
+        "nome": "SUB CLASSES DE IGG - 4",
+        "preço": 0,
+        "código": 403072980,
+        "mnemônico": "IGG4"
+    },
+    {
+        "id": 124,
+        "nome": "HOMOCISTEINA",
+        "preço": 0,
+        "código": 403021130,
+        "mnemônico": "HOMOCIST"
+    },
+    {
+        "id": 125,
+        "nome": "IGE MULTIPLO - POLENS DE GRAMINEAS (GX2)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "GRAMINEA"
+    },
+    {
+        "id": 126,
+        "nome": "SIFILIS - VDRL",
+        "preço": 0,
+        "código": 403077600,
+        "mnemônico": "VDRL"
+    },
+    {
+        "id": 127,
+        "nome": "OXALATO - URINA 24H",
+        "preço": 0,
+        "código": 403011250,
+        "mnemônico": "OXAL24H"
+    },
+    {
+        "id": 128,
+        "nome": "SIFILIS - FTA-ABS-IGG ",
+        "preço": 0,
+        "código": 403077350,
+        "mnemônico": "FTAIGG"
+    },
+    {
+        "id": 129,
+        "nome": "HCV (ANTICORPOS CONTRA O VIRUS DA HEPATITE C)",
+        "preço": 0,
+        "código": 403070260,
+        "mnemônico": "HVC"
+    },
+    {
+        "id": 130,
+        "nome": "ANTIGENO HLA B27",
+        "preço": 0,
+        "código": 403144300,
+        "mnemônico": "B27"
+    },
+    {
+        "id": 131,
+        "nome": "FATOR REUMATOIDE (QUANTITATIVO)",
+        "preço": 0,
+        "código": 403080300,
+        "mnemônico": "FR"
+    },
+    {
+        "id": 132,
+        "nome": "PAUL BUNNEL (MONONUCLEOSE)",
+        "preço": 0,
+        "código": 403075570,
+        "mnemônico": "PAULB"
+    },
+    {
+        "id": 133,
+        "nome": "BETA 2 MICROGLOBULINA - URINA RECENTE",
+        "preço": 0,
+        "código": 403064700,
+        "mnemônico": "BETA2-U"
+    },
+    {
+        "id": 134,
+        "nome": "WAALER - ROSE",
+        "preço": 0,
+        "código": 403078670,
+        "mnemônico": "WAALER"
+    },
+    {
+        "id": 136,
+        "nome": "LITIO BASAL",
+        "preço": 0,
+        "código": 403022290,
+        "mnemônico": "LITIO"
+    },
+    {
+        "id": 138,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPF2"
+    },
+    {
+        "id": 139,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPF3"
+    },
+    {
+        "id": 140,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100350,
+        "mnemônico": "TSG1"
+    },
+    {
+        "id": 143,
+        "nome": "ANTIBIOGRAMA - FEZES",
+        "preço": 0,
+        "código": 403100350,
+        "mnemônico": "TSF"
+    },
+    {
+        "id": 144,
+        "nome": "ANTIBIOGRAMA - URINA",
+        "preço": 0,
+        "código": 403104260,
+        "mnemônico": "TSU"
+    },
+    {
+        "id": 145,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100350,
+        "mnemônico": "TSG2"
+    },
+    {
+        "id": 146,
+        "nome": "ALBUMINA ",
+        "preço": 0,
+        "código": 403012220,
+        "mnemônico": "ALB"
+    },
+    {
+        "id": 148,
+        "nome": "FATOR RH",
+        "preço": 0,
+        "código": 403042990,
+        "mnemônico": "RH"
+    },
+    {
+        "id": 149,
+        "nome": "RUBEOLA IGM",
+        "preço": 0,
+        "código": 403077000,
+        "mnemônico": "RUBM"
+    },
+    {
+        "id": 150,
+        "nome": "RUBEOLA IGG",
+        "preço": 0,
+        "código": 403076970,
+        "mnemônico": "RUBG"
+    },
+    {
+        "id": 151,
+        "nome": "PSA TOTAL - ANTIGENO PROSTATICO ESPECIFICO",
+        "preço": 0,
+        "código": 403161490,
+        "mnemônico": "PSA"
+    },
+    {
+        "id": 152,
+        "nome": "ANTIBIOGRAMA - HEMOCULTURA",
+        "preço": 0,
+        "código": 403104180,
+        "mnemônico": "ATHE"
+    },
+    {
+        "id": 153,
+        "nome": "BRUCELOSE",
+        "preço": 0,
+        "código": 403065260,
+        "mnemônico": "BRU"
+    },
+    {
+        "id": 154,
+        "nome": "CURVA GLICEMICA - 5 DOSAGENS (J.60.120.180.240)",
+        "preço": 0,
+        "código": 403052280,
+        "mnemônico": "CGD5"
+    },
+    {
+        "id": 155,
+        "nome": "CURVA GLICEMICA - 4 DOSAGENS (J.60.120.180)",
+        "preço": 0,
+        "código": 403016800,
+        "mnemônico": "CGD4"
+    },
+    {
+        "id": 157,
+        "nome": "ANTIGENO CA 15-3",
+        "preço": 0,
+        "código": 403163780,
+        "mnemônico": "CA15-3"
+    },
+    {
+        "id": 158,
+        "nome": "BAAR (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100510,
+        "mnemônico": "BAAR2"
+    },
+    {
+        "id": 159,
+        "nome": "BAAR (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100510,
+        "mnemônico": "BAAR3"
+    },
+    {
+        "id": 160,
+        "nome": "IGE ESPECIFICO - LEITE DE VACA (F2)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "LEITE"
+    },
+    {
+        "id": 161,
+        "nome": "CURVA INSULINICA - 4 DOSAGENS (J.60.120.180)",
+        "preço": 0,
+        "código": 403163600,
+        "mnemônico": "CI4"
+    },
+    {
+        "id": 162,
+        "nome": "BAAR (4ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100510,
+        "mnemônico": "BAAR4"
+    },
+    {
+        "id": 163,
+        "nome": "BAAR (5ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100510,
+        "mnemônico": "BAAR5"
+    },
+    {
+        "id": 164,
+        "nome": "EPSTEIN BARR VIRUS IGG",
+        "preço": 0,
+        "código": 403075650,
+        "mnemônico": "EPS-IGG"
+    },
+    {
+        "id": 165,
+        "nome": "HEPATITE B - ANTI HBC IGM",
+        "preço": 0,
+        "código": 403069680,
+        "mnemônico": "HBCM"
+    },
+    {
+        "id": 166,
+        "nome": "HEPATITE B - HBEAG - (ANTIGENO \"E\")",
+        "preço": 0,
+        "código": 403069840,
+        "mnemônico": "HBEAG"
+    },
+    {
+        "id": 169,
+        "nome": "BLASTOMICOSE - DIVERSOS MATERIAIS",
+        "preço": 0,
+        "código": 403064960,
+        "mnemônico": "BLAS"
+    },
+    {
+        "id": 170,
+        "nome": "PEPTIDEO C",
+        "preço": 0,
+        "código": 403163940,
+        "mnemônico": "PEPTC"
+    },
+    {
+        "id": 172,
+        "nome": "CORTISOL BASAL",
+        "preço": 0,
+        "código": 403161900,
+        "mnemônico": "CB"
+    },
+    {
+        "id": 173,
+        "nome": "ANTIBIOGRAMA - HEMOCULTURA (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104180,
+        "mnemônico": "ATHE2"
+    },
+    {
+        "id": 174,
+        "nome": "ANTIBIOGRAMA - HEMOCULTURA (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104180,
+        "mnemônico": "ATHE3"
+    },
+    {
+        "id": 176,
+        "nome": "LIPIDIOS TOTAIS",
+        "preço": 0,
+        "código": 403026360,
+        "mnemônico": "LIPTOTAL"
+    },
+    {
+        "id": 177,
+        "nome": "ACIDO URICO - DIVERSOS MATERIAIS",
+        "preço": 0,
+        "código": 403011500,
+        "mnemônico": "AURDVM"
+    },
+    {
+        "id": 179,
+        "nome": "UREIA - POS HEMODIALISE",
+        "preço": 0,
+        "código": 403025800,
+        "mnemônico": "UR"
+    },
+    {
+        "id": 180,
+        "nome": "EXAME DIRETO (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100190,
+        "mnemônico": "ED1"
+    },
+    {
+        "id": 181,
+        "nome": "MICOLOGICO DIRETO (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "MICO"
+    },
+    {
+        "id": 182,
+        "nome": "GLICOSE - 2 HORAS POS PRANDIAL",
+        "preço": 0,
+        "código": 403020400,
+        "mnemônico": "GP"
+    },
+    {
+        "id": 183,
+        "nome": "ANTIBIOGRAMA - URINA (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104260,
+        "mnemônico": "TSU2"
+    },
+    {
+        "id": 184,
+        "nome": "CULTURA - FUNGOS (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101400,
+        "mnemônico": "CFU"
+    },
+    {
+        "id": 185,
+        "nome": "PSA TOTAL/LIVRE - FRACOES TOTAL E LIVRE",
+        "preço": 0,
+        "código": 403161300,
+        "mnemônico": "PSAL"
+    },
+    {
+        "id": 186,
+        "nome": "FENILALANINA",
+        "preço": 0,
+        "código": 403018180,
+        "mnemônico": "PKU"
+    },
+    {
+        "id": 187,
+        "nome": "T4 - TESTE DO PEZINHO",
+        "preço": 0,
+        "código": 403165480,
+        "mnemônico": "T4P"
+    },
+    {
+        "id": 190,
+        "nome": "BAAR (6ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100510,
+        "mnemônico": "BAAR6"
+    },
+    {
+        "id": 191,
+        "nome": "BAAR (7ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100510,
+        "mnemônico": "BAAR7"
+    },
+    {
+        "id": 192,
+        "nome": "BAAR (8ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100510,
+        "mnemônico": "BAAR8"
+    },
+    {
+        "id": 193,
+        "nome": "BAAR (9ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100510,
+        "mnemônico": "BAAR9"
+    },
+    {
+        "id": 194,
+        "nome": "BAAR (10ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100510,
+        "mnemônico": "BAAR10"
+    },
+    {
+        "id": 195,
+        "nome": "GLICOSE - DIVERSOS MATERIAIS",
+        "preço": 0,
+        "código": 403020400,
+        "mnemônico": "GBDVM"
+    },
+    {
+        "id": 196,
+        "nome": "HTLV 1 E 2 ",
+        "preço": 0,
+        "código": 403072120,
+        "mnemônico": "HTLV1E2"
+    },
+    {
+        "id": 198,
+        "nome": "META-HEMOGLOBINA",
+        "preço": 0,
+        "código": 403044340,
+        "mnemônico": "METAHB"
+    },
+    {
+        "id": 199,
+        "nome": "ANTIGENO CA 19.9",
+        "preço": 0,
+        "código": 403163780,
+        "mnemônico": "CA19/9"
+    },
+    {
+        "id": 200,
+        "nome": "HERPES SIMPLES IGG",
+        "preço": 0,
+        "código": 403070850,
+        "mnemônico": "HERG"
+    },
+    {
+        "id": 201,
+        "nome": "HERPES SIMPLES IGM",
+        "preço": 0,
+        "código": 403070930,
+        "mnemônico": "HERM"
+    },
+    {
+        "id": 204,
+        "nome": "PESQUISA SANGUE OCULTO NAS FEZES (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031360,
+        "mnemônico": "PSO2"
+    },
+    {
+        "id": 205,
+        "nome": "PESQUISA SANGUE OCULTO NAS FEZES (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031360,
+        "mnemônico": "PSO3"
+    },
+    {
+        "id": 206,
+        "nome": "PESQUISA SANGUE OCULTO NAS FEZES (4ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031360,
+        "mnemônico": "PSO4"
+    },
+    {
+        "id": 207,
+        "nome": "PESQUISA SANGUE OCULTO NAS FEZES (5ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031360,
+        "mnemônico": "PSO5"
+    },
+    {
+        "id": 208,
+        "nome": "ROTINA DE LIQUIDO PLEURAL",
+        "preço": 0,
+        "código": 403095250,
+        "mnemônico": "PLEURAL"
+    },
+    {
+        "id": 209,
+        "nome": "LEVEDURAS - FEZES (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031010,
+        "mnemônico": "LEVEDUR2"
+    },
+    {
+        "id": 212,
+        "nome": "APOLIPOPROTEINA A",
+        "preço": 0,
+        "código": 403013540,
+        "mnemônico": "APOA"
+    },
+    {
+        "id": 213,
+        "nome": "APOLIPOPROTEINA B",
+        "preço": 0,
+        "código": 403013620,
+        "mnemônico": "APOB"
+    },
+    {
+        "id": 217,
+        "nome": "COMPLEMENTO CH-100",
+        "preço": 0,
+        "código": 403067470,
+        "mnemônico": "CH100"
+    },
+    {
+        "id": 218,
+        "nome": "PH - DIVERSOS MATERIAIS",
+        "preço": 0,
+        "código": 403121350,
+        "mnemônico": "PH"
+    },
+    {
+        "id": 219,
+        "nome": "IMUNOELETROFORESE DE PROTEINAS",
+        "preço": 0,
+        "código": 403073360,
+        "mnemônico": "ELE"
+    },
+    {
+        "id": 220,
+        "nome": "CALCITONINA",
+        "preço": 0,
+        "código": 403161650,
+        "mnemônico": "CALCITON"
+    },
+    {
+        "id": 222,
+        "nome": "ERITROPOETINA",
+        "preço": 0,
+        "código": 403052950,
+        "mnemônico": "ERITROP"
+    },
+    {
+        "id": 224,
+        "nome": "ANTICARDIOLIPINA IGM ",
+        "preço": 0,
+        "código": 403061510,
+        "mnemônico": "CARM"
+    },
+    {
+        "id": 225,
+        "nome": "CITOMEGALOVIRUS IGM ",
+        "preço": 0,
+        "código": 403066740,
+        "mnemônico": "CITM"
+    },
+    {
+        "id": 226,
+        "nome": "INSULINA - 2 HORAS POS PRANDIAL",
+        "preço": 0,
+        "código": 403163600,
+        "mnemônico": "INSUP2"
+    },
+    {
+        "id": 227,
+        "nome": "PROTEINAS TOTAIS ",
+        "preço": 0,
+        "código": 403023770,
+        "mnemônico": "PROT"
+    },
+    {
+        "id": 229,
+        "nome": "SIFILIS - FTA-ABS-IGM",
+        "preço": 0,
+        "código": 403077430,
+        "mnemônico": "FTAIGM"
+    },
+    {
+        "id": 230,
+        "nome": "CITOLOGIA DE MUCO NASAL",
+        "preço": 0,
+        "código": 403120540,
+        "mnemônico": "EOSINO"
+    },
+    {
+        "id": 231,
+        "nome": "ANTINEUTROFILOS (ANCA) P E C",
+        "preço": 0,
+        "código": 403064020,
+        "mnemônico": "ANCAGEM"
+    },
+    {
+        "id": 232,
+        "nome": "MICOLOGICO DIRETO (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "MICO3"
+    },
+    {
+        "id": 233,
+        "nome": "17-ALFA-HIDROXIPROGESTERONA - TESTE DO PEZINHO",
+        "preço": 0,
+        "código": 403160170,
+        "mnemônico": "17OH.PEZ"
+    },
+    {
+        "id": 234,
+        "nome": "IRT-TRIPSINA - TESTE DO PEZINHO",
+        "preço": 0,
+        "código": 403025630,
+        "mnemônico": "IRT"
+    },
+    {
+        "id": 235,
+        "nome": "VITAMINA A",
+        "preço": 0,
+        "código": 403026010,
+        "mnemônico": "VITA"
+    },
+    {
+        "id": 236,
+        "nome": "GALACTOSE - TESTE DO PEZINHO",
+        "preço": 0,
+        "código": 403019740,
+        "mnemônico": "GALA"
+    },
+    {
+        "id": 237,
+        "nome": "BIOTINIDASE - TESTE DO PEZINHO",
+        "preço": 0,
+        "código": 403064880,
+        "mnemônico": "BIO"
+    },
+    {
+        "id": 238,
+        "nome": "CHLAMYDIA TRACHOMATIS IGG",
+        "preço": 0,
+        "código": 403066310,
+        "mnemônico": "CLAG"
+    },
+    {
+        "id": 239,
+        "nome": "CHLAMYDIA TRACHOMATIS IGM",
+        "preço": 0,
+        "código": 403066400,
+        "mnemônico": "CLAM"
+    },
+    {
+        "id": 240,
+        "nome": "COMPOSTO S (11 DESOXI-CORTISOL)",
+        "preço": 0,
+        "código": 403161810,
+        "mnemônico": "COMPOS"
+    },
+    {
+        "id": 241,
+        "nome": "ANTIGLIADINA (GLUTEN) IGA ",
+        "preço": 0,
+        "código": 403063050,
+        "mnemônico": "GLIAA"
+    },
+    {
+        "id": 242,
+        "nome": "GLICOSE - 3 HORAS POS PRANDIAL",
+        "preço": 0,
+        "código": 403020400,
+        "mnemônico": "GBPP3H"
+    },
+    {
+        "id": 243,
+        "nome": "ANTIBIOGRAMA - URINA (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104260,
+        "mnemônico": "TSU3"
+    },
+    {
+        "id": 244,
+        "nome": "DENGUE IGG",
+        "preço": 0,
+        "código": 403067980,
+        "mnemônico": "DENGUEG"
+    },
+    {
+        "id": 245,
+        "nome": "GASOMETRIA VENOSA",
+        "preço": 0,
+        "código": 403020160,
+        "mnemônico": "GASVENO"
+    },
+    {
+        "id": 246,
+        "nome": "ENZIMA CONVERSORA DE ANGIOTENSINA",
+        "preço": 0,
+        "código": 403052870,
+        "mnemônico": "ENZIMA"
+    },
+    {
+        "id": 247,
+        "nome": "CALCULO URINARIO (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 403110400,
+        "mnemônico": "CALCULO"
+    },
+    {
+        "id": 248,
+        "nome": "ROTINA LIQUIDO ASCITICO - DIVERSOS MATERIAIS",
+        "preço": 0,
+        "código": 403095250,
+        "mnemônico": "LIQASCI"
+    },
+    {
+        "id": 249,
+        "nome": "ESQUISTOSSOMOSE - LIQUOR",
+        "preço": 0,
+        "código": 403077190,
+        "mnemônico": "SCHISTO"
+    },
+    {
+        "id": 251,
+        "nome": "ACIDO DELTA AMINO LEVULINICO - URINA",
+        "preço": 0,
+        "código": 403130180,
+        "mnemônico": "ACDELTAA"
+    },
+    {
+        "id": 252,
+        "nome": "BACTERIOSCOPIA - DIVERSOS MATERIAIS (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100600,
+        "mnemônico": "BAC2"
+    },
+    {
+        "id": 254,
+        "nome": "SOMATOMEDINA C (IGF1)",
+        "preço": 0,
+        "código": 403164400,
+        "mnemônico": "SOMATOME"
+    },
+    {
+        "id": 255,
+        "nome": "ACIDO METIL MALONICO",
+        "preço": 0,
+        "código": 403131310,
+        "mnemônico": "MALONICO"
+    },
+    {
+        "id": 256,
+        "nome": "HIV 1 E 2 - WESTERN BLOT",
+        "preço": 0,
+        "código": 403078750,
+        "mnemônico": "WBHIV"
+    },
+    {
+        "id": 257,
+        "nome": "INSULINA - 1 HORA POS DEXTROSOL ",
+        "preço": 0,
+        "código": 403163600,
+        "mnemônico": "INSUDX1"
+    },
+    {
+        "id": 258,
+        "nome": "FRUTOSAMINAS (PROTEINAS GLICOSILADAS)",
+        "preço": 0,
+        "código": 403019580,
+        "mnemônico": "FRUTOSA"
+    },
+    {
+        "id": 265,
+        "nome": "LEVEDURAS - FEZES (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031010,
+        "mnemônico": "LEVEDUR3"
+    },
+    {
+        "id": 266,
+        "nome": "IGE ESPECIFICO - BARATA DOMESTICA (I6)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "BARATA"
+    },
+    {
+        "id": 267,
+        "nome": "IGE ESPECIFICO - FORMIGA DO FOGO (I70)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "FORMIGA"
+    },
+    {
+        "id": 268,
+        "nome": "IGE ESPECIFICO - VENENO DE MARIMBONDO (I4)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "MARIMBON"
+    },
+    {
+        "id": 269,
+        "nome": "HEMOGLOBINOPATIA - TESTE DO PEZINHO",
+        "preço": 0,
+        "código": 403048500,
+        "mnemônico": "HBPATIA"
+    },
+    {
+        "id": 270,
+        "nome": "IGE ESPECIFICO - PERNILONGO AEDES COMMUNIS (I71)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "PERNILON"
+    },
+    {
+        "id": 271,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104180,
+        "mnemônico": "TSG3"
+    },
+    {
+        "id": 272,
+        "nome": "CARBOXIHEMOGLOBINA",
+        "preço": 0,
+        "código": 403130930,
+        "mnemônico": "CARBOXHB"
+    },
+    {
+        "id": 273,
+        "nome": "IGE ESPECIFICO - VENENO DE ABELHA (I1)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "ABELHA"
+    },
+    {
+        "id": 275,
+        "nome": "IGE ESPECIFICO - MILHO (F8)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "MILHO"
+    },
+    {
+        "id": 276,
+        "nome": "IGF BP3 - PROTEINA LIGADORA-3 DO IGF",
+        "preço": 0,
+        "código": 403054060,
+        "mnemônico": "IGFBP3"
+    },
+    {
+        "id": 277,
+        "nome": "IGE ESPECIFICO - CAMARAO (F24)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "CAMARAO"
+    },
+    {
+        "id": 278,
+        "nome": "IGE ESPECIFICO - VESPA COMUM (I3)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "VESPA"
+    },
+    {
+        "id": 280,
+        "nome": "PROTEINAS DE BENCE JONES - URINA 24H",
+        "preço": 0,
+        "código": 403112010,
+        "mnemônico": "BENCE24H"
+    },
+    {
+        "id": 281,
+        "nome": "ANTI-TPO",
+        "preço": 0,
+        "código": 403161570,
+        "mnemônico": "TPO"
+    },
+    {
+        "id": 282,
+        "nome": "INSULINA - 2 HORAS POS DEXTROSOL",
+        "preço": 0,
+        "código": 403163600,
+        "mnemônico": "INSUDX2"
+    },
+    {
+        "id": 283,
+        "nome": "IGE ESPECIFICO - GATO (PELO E CASPA) (E1)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "GATO"
+    },
+    {
+        "id": 284,
+        "nome": "IGE ESPECIFICO - CAVALO (EPITELIO E CASPA)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "CAVALO"
+    },
+    {
+        "id": 285,
+        "nome": "TRAB - ANTI-RECEPTOR DE TSH",
+        "preço": 0,
+        "código": 403160840,
+        "mnemônico": "TRAB"
+    },
+    {
+        "id": 286,
+        "nome": "IGE ESPECIFICO - DERMATOPHAGOIDES FARINAE (D2)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "FARINAE"
+    },
+    {
+        "id": 287,
+        "nome": "IGE ESPECIFICO - DERMATOPHAGOIDES PTERONYSSINUS (D1)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "PTERO"
+    },
+    {
+        "id": 288,
+        "nome": "IGE ESPECIFICO - GEMA DE OVO (F75)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "GEMA"
+    },
+    {
+        "id": 290,
+        "nome": "INIBIDOR DE C1 ESTERASE (QUANTITATIVO)",
+        "preço": 0,
+        "código": 403073440,
+        "mnemônico": "C1E-C"
+    },
+    {
+        "id": 291,
+        "nome": "GLICOSE - 1 HORA POS DEXTROSOL",
+        "preço": 0,
+        "código": 403020320,
+        "mnemônico": "GPD1"
+    },
+    {
+        "id": 293,
+        "nome": "ACIDO METIL HIPURICO - URINA",
+        "preço": 0,
+        "código": 403130690,
+        "mnemônico": "AMH"
+    },
+    {
+        "id": 295,
+        "nome": "ANTIENDOMISIO IGG",
+        "preço": 0,
+        "código": 403062590,
+        "mnemônico": "ENDOIGG"
+    },
+    {
+        "id": 296,
+        "nome": "ANTIMUSCULO LISO",
+        "preço": 0,
+        "código": 403063990,
+        "mnemônico": "MUSCULO"
+    },
+    {
+        "id": 297,
+        "nome": "CORTISOL LIVRE - URINA 24H",
+        "preço": 0,
+        "código": 403052100,
+        "mnemônico": "CL"
+    },
+    {
+        "id": 298,
+        "nome": "DENGUE IGM",
+        "preço": 0,
+        "código": 403067980,
+        "mnemônico": "DENGUEM"
+    },
+    {
+        "id": 301,
+        "nome": "LIPOPROTEINA (A)",
+        "preço": 0,
+        "código": 403022100,
+        "mnemônico": "LPA"
+    },
+    {
+        "id": 302,
+        "nome": "ACIDO FOLICO",
+        "preço": 0,
+        "código": 403010870,
+        "mnemônico": "FOLICO"
+    },
+    {
+        "id": 303,
+        "nome": "MICOLOGICO DIRETO (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "MICO2"
+    },
+    {
+        "id": 304,
+        "nome": "GLICOSE - 30 MINUTOS POS DEXTROSOL",
+        "preço": 0,
+        "código": 403020320,
+        "mnemônico": "GBDX30M"
+    },
+    {
+        "id": 305,
+        "nome": "CERULOPLASMINA ",
+        "preço": 0,
+        "código": 403014780,
+        "mnemônico": "CERULO"
+    },
+    {
+        "id": 306,
+        "nome": "CULTURA - FUNGOS (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101400,
+        "mnemônico": "CFU3"
+    },
+    {
+        "id": 307,
+        "nome": "ACIDO 5 HIDROXI INDOL ACETICO - URINA 24H",
+        "preço": 0,
+        "código": 403051120,
+        "mnemônico": "AC5HX24H"
+    },
+    {
+        "id": 308,
+        "nome": "GLICOSE - URINA 24H",
+        "preço": 0,
+        "código": 403020400,
+        "mnemônico": "GLICO24H"
+    },
+    {
+        "id": 309,
+        "nome": "EPSTEIN BARR VIRUS IGM",
+        "preço": 0,
+        "código": 403075810,
+        "mnemônico": "EPS-IGM"
+    },
+    {
+        "id": 310,
+        "nome": "HGH - 2 HORAS POS DEXTROSOL",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "HGH2DEX"
+    },
+    {
+        "id": 313,
+        "nome": "GAD, AUTO ANTICORPOS ANTI",
+        "preço": 0,
+        "código": 403053410,
+        "mnemônico": "GAD"
+    },
+    {
+        "id": 316,
+        "nome": "3 ALFA ANDROSTANEDIOL GLUCORONIDEO (3ALFDADIOL) ",
+        "preço": 0,
+        "código": 403160250,
+        "mnemônico": "3ANDROST"
+    },
+    {
+        "id": 318,
+        "nome": "IGE ESPECIFICO - PEIXE BACALHAU (F3)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "PEIXE"
+    },
+    {
+        "id": 319,
+        "nome": "IGE ESPECIFICO - LAGOSTA (F80)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "LAGOSTA"
+    },
+    {
+        "id": 320,
+        "nome": "CORPUSCULO DE HEINZ",
+        "preço": 0,
+        "código": 403043100,
+        "mnemônico": "HEINZ"
+    },
+    {
+        "id": 321,
+        "nome": "ACIDO CITRICO (CITRATO)",
+        "preço": 0,
+        "código": 403110150,
+        "mnemônico": "CITRATO"
+    },
+    {
+        "id": 322,
+        "nome": "IGE MULTIPLO - ALIMENTOS (FX5)",
+        "preço": 0,
+        "código": 403072550,
+        "mnemônico": "ALIMENTO"
+    },
+    {
+        "id": 324,
+        "nome": "ALUMINIO ",
+        "preço": 0,
+        "código": 403012730,
+        "mnemônico": "ALUMINIO"
+    },
+    {
+        "id": 325,
+        "nome": "CALCIO IONICO ",
+        "preço": 0,
+        "código": 403014190,
+        "mnemônico": "IONICO"
+    },
+    {
+        "id": 326,
+        "nome": "SHBG (GLOBULINA LIGADORA DOS HORMONIOS SEXUAIS)",
+        "preço": 0,
+        "código": 403163000,
+        "mnemônico": "SHBG"
+    },
+    {
+        "id": 327,
+        "nome": "DISMORFISMO ERITROCITARIO - URINA RECENTE (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403111040,
+        "mnemônico": "DISMO2"
+    },
+    {
+        "id": 328,
+        "nome": "DISMORFISMO ERITROCITARIO - URINA RECENTE (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403111040,
+        "mnemônico": "DISMO3"
+    },
+    {
+        "id": 329,
+        "nome": "ANTITROMBINA III",
+        "preço": 0,
+        "código": 403040600,
+        "mnemônico": "ANTITR-C"
+    },
+    {
+        "id": 330,
+        "nome": "PROTEINA C FUNCIONAL",
+        "preço": 0,
+        "código": 403045070,
+        "mnemônico": "PROTC-C"
+    },
+    {
+        "id": 332,
+        "nome": "ACTH HORMONIO ADRENOCORTICOTROFICO",
+        "preço": 0,
+        "código": 403160410,
+        "mnemônico": "ACTH-C"
+    },
+    {
+        "id": 333,
+        "nome": "CROMATOGRAFIA DE AMINOACIDIDOS - TESTE PEZINHO",
+        "preço": 0,
+        "código": 403016720,
+        "mnemônico": "CROMA.PE"
+    },
+    {
+        "id": 336,
+        "nome": "CLORO - URINA 24H",
+        "preço": 0,
+        "código": 403015590,
+        "mnemônico": "CLORU24H"
+    },
+    {
+        "id": 337,
+        "nome": "HEPATITE C (QUANTITATIVO) POR PCR",
+        "preço": 0,
+        "código": 403141030,
+        "mnemônico": "HCVPCR"
+    },
+    {
+        "id": 338,
+        "nome": "GLICOSE APOS INSULINA",
+        "preço": 0,
+        "código": 403020400,
+        "mnemônico": "GBINSU"
+    },
+    {
+        "id": 339,
+        "nome": "TSH - HORMONIO TIREOESTIMULANTE - TESTE DO PEZINHO",
+        "preço": 0,
+        "código": 403165210,
+        "mnemônico": "TSHPEZ"
+    },
+    {
+        "id": 340,
+        "nome": "TOXOPLASMOSE IGM - TESTE DO PEZINHO",
+        "preço": 0,
+        "código": 403078240,
+        "mnemônico": "TOXPEZ"
+    },
+    {
+        "id": 341,
+        "nome": "GLICOSE-6-FOSFATO DEIDROGENASE (G6FD) - TESTE DO PEZINHO",
+        "preço": 0,
+        "código": 403020590,
+        "mnemônico": "G6FDPEZ"
+    },
+    {
+        "id": 342,
+        "nome": "HEPATITE C - GENOTIPAGEM",
+        "preço": 0,
+        "código": 403141110,
+        "mnemônico": "HCVGENOT"
+    },
+    {
+        "id": 343,
+        "nome": "CORTISOL - 17:00 HORAS",
+        "preço": 0,
+        "código": 403161900,
+        "mnemônico": "C17H"
+    },
+    {
+        "id": 344,
+        "nome": "DHL - DEHIDROGENASE LACTICA - LIQUIDO PLEURAL",
+        "preço": 0,
+        "código": 403017290,
+        "mnemônico": "DHLLPLEU"
+    },
+    {
+        "id": 345,
+        "nome": "AMILASE - LIQUIDO PLEURAL",
+        "preço": 0,
+        "código": 403012810,
+        "mnemônico": "AMILPLEU"
+    },
+    {
+        "id": 346,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (4ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100350,
+        "mnemônico": "TSG4"
+    },
+    {
+        "id": 348,
+        "nome": "LARVAS - FEZES",
+        "preço": 0,
+        "código": 403074090,
+        "mnemônico": "LARVAS"
+    },
+    {
+        "id": 349,
+        "nome": "OXCARBAZEPINA",
+        "preço": 0,
+        "código": 403022880,
+        "mnemônico": "OXICARB"
+    },
+    {
+        "id": 350,
+        "nome": "PCR ULTRA-SENSIVEL (PROTEINA C REATIVA)",
+        "preço": 0,
+        "código": 403083910,
+        "mnemônico": "PCRU"
+    },
+    {
+        "id": 353,
+        "nome": "GLICOSE - 16:00H",
+        "preço": 0,
+        "código": 403020400,
+        "mnemônico": "GB16H"
+    },
+    {
+        "id": 355,
+        "nome": "ANTIGLIADINA (GLUTEN) IGG",
+        "preço": 0,
+        "código": 403063130,
+        "mnemônico": "GLIAG"
+    },
+    {
+        "id": 356,
+        "nome": "PSA LIVRE (NAO INCLUI PSA TOTAL)",
+        "preço": 0,
+        "código": 403161300,
+        "mnemônico": "PSALIVRE"
+    },
+    {
+        "id": 357,
+        "nome": "CAXUMBA IGM ",
+        "preço": 0,
+        "código": 403066070,
+        "mnemônico": "CAXM-C"
+    },
+    {
+        "id": 358,
+        "nome": "IGE ESPECIFICO - CASEINA (F78)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "CASEINA"
+    },
+    {
+        "id": 359,
+        "nome": "TOXOPLASMOSE IGG",
+        "preço": 0,
+        "código": 403078320,
+        "mnemônico": "TOXIGG"
+    },
+    {
+        "id": 361,
+        "nome": "IGE ESPECIFICO - BANANA (F92)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "BANANA"
+    },
+    {
+        "id": 364,
+        "nome": "VARICELLA ZOSTER IGM ",
+        "preço": 0,
+        "código": 403081700,
+        "mnemônico": "ZOSTERM"
+    },
+    {
+        "id": 365,
+        "nome": "HEPATITE B (QUANTITATIVO) POR PCR",
+        "preço": 0,
+        "código": 403140810,
+        "mnemônico": "HBPCR"
+    },
+    {
+        "id": 368,
+        "nome": "IGE ESPECIFICO - ASPERGILLUS FUMIGATUS (M3)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "ASPERGI"
+    },
+    {
+        "id": 370,
+        "nome": "CAPACIDADE TOTAL DE COMBINACAO DO FERRO",
+        "preço": 0,
+        "código": 403014270,
+        "mnemônico": "CTCF"
+    },
+    {
+        "id": 371,
+        "nome": "C-TELOPEPTIDEO",
+        "preço": 0,
+        "código": 403054490,
+        "mnemônico": "CTELOPEP"
+    },
+    {
+        "id": 372,
+        "nome": "1,25-DIHIDROXI VITAMINA D",
+        "preço": 0,
+        "código": 403050150,
+        "mnemônico": "VIT1,25"
+    },
+    {
+        "id": 373,
+        "nome": "VITAMINA \"D\" 25 HIDROXI",
+        "preço": 0,
+        "código": 403028300,
+        "mnemônico": "VI25"
+    },
+    {
+        "id": 378,
+        "nome": "TOXOPLASMOSE IGM",
+        "preço": 0,
+        "código": 403078240,
+        "mnemônico": "TOXIGM"
+    },
+    {
+        "id": 380,
+        "nome": "VITAMINA B6",
+        "preço": 0,
+        "código": 403028140,
+        "mnemônico": "VT6-C"
+    },
+    {
+        "id": 381,
+        "nome": "CULTURA - FUNGOS (4ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101400,
+        "mnemônico": "CFU4"
+    },
+    {
+        "id": 382,
+        "nome": "ANTI TRANSGLUTAMINASE TECIDUAL IGA",
+        "preço": 0,
+        "código": 403085530,
+        "mnemônico": "TRANSGLU"
+    },
+    {
+        "id": 385,
+        "nome": "GLICOSE-6-FOSFATO DEIDROGENASE (G6FD) ",
+        "preço": 0,
+        "código": 403020590,
+        "mnemônico": "G6FD"
+    },
+    {
+        "id": 386,
+        "nome": "VARICELLA ZOSTER IGG",
+        "preço": 0,
+        "código": 403081620,
+        "mnemônico": "ZOSTERG"
+    },
+    {
+        "id": 387,
+        "nome": "IGE ESPECIFICO - GLUTEN (F79)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "GLUTEN"
+    },
+    {
+        "id": 388,
+        "nome": "ANTI-CCP (ANTI PEPTIDIO CITRULINADO CICLICO)",
+        "preço": 0,
+        "código": 403088040,
+        "mnemônico": "CCP"
+    },
+    {
+        "id": 391,
+        "nome": "MANGANES",
+        "preço": 0,
+        "código": 403131900,
+        "mnemônico": "MN"
+    },
+    {
+        "id": 394,
+        "nome": "SUBPOPULACAO LINFOCITARIA CD3-CD4-CD8",
+        "preço": 0,
+        "código": 403074410,
+        "mnemônico": "CD8+4+3"
+    },
+    {
+        "id": 395,
+        "nome": "COMPLEMENTO CH-50",
+        "preço": 0,
+        "código": 403067470,
+        "mnemônico": "CH50"
+    },
+    {
+        "id": 405,
+        "nome": "HAPTOGLOBINA",
+        "preço": 0,
+        "código": 403020670,
+        "mnemônico": "HAPTOG"
+    },
+    {
+        "id": 407,
+        "nome": "IGE ESPECIFICO - BLOMIA TROPICALIS (D201)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "BLOMIA"
+    },
+    {
+        "id": 408,
+        "nome": "VITAMINA E ",
+        "preço": 0,
+        "código": 403026100,
+        "mnemônico": "VITE"
+    },
+    {
+        "id": 409,
+        "nome": "METANEFRINAS FRACOES - URINA 24H",
+        "preço": 0,
+        "código": 403111630,
+        "mnemônico": "METAN24H"
+    },
+    {
+        "id": 413,
+        "nome": "INSULINA - 3 HORAS POS PRANDIAL",
+        "preço": 0,
+        "código": 403163600,
+        "mnemônico": "INSUP3"
+    },
+    {
+        "id": 414,
+        "nome": "ANTI-LKM-1",
+        "preço": 0,
+        "código": 403060970,
+        "mnemônico": "LKM"
+    },
+    {
+        "id": 416,
+        "nome": "ALBUMINURIA - URINA RECENTE",
+        "preço": 0,
+        "código": 403111710,
+        "mnemônico": "ALBU"
+    },
+    {
+        "id": 417,
+        "nome": "VITAMINA C - ACIDO ASCORBICO",
+        "preço": 0,
+        "código": 403010600,
+        "mnemônico": "VITC-C"
+    },
+    {
+        "id": 420,
+        "nome": "ENDOMISIO IGM",
+        "preço": 0,
+        "código": 403062590,
+        "mnemônico": "ENDOIGM"
+    },
+    {
+        "id": 421,
+        "nome": "ENDOMISIO IGA",
+        "preço": 0,
+        "código": 403062590,
+        "mnemônico": "ENDOIGA"
+    },
+    {
+        "id": 436,
+        "nome": "INDICE DE TIROXINA LIVRE (ITL) ",
+        "preço": 0,
+        "código": 403163510,
+        "mnemônico": "TIROXLIV"
+    },
+    {
+        "id": 454,
+        "nome": "CALCIO - URINA RECENTE",
+        "preço": 0,
+        "código": 403014000,
+        "mnemônico": "CALURINA"
+    },
+    {
+        "id": 456,
+        "nome": "CITRATO - URINA RECENTE",
+        "preço": 0,
+        "código": 403110150,
+        "mnemônico": "CITRICO"
+    },
+    {
+        "id": 461,
+        "nome": "GLICOSE - 1 HORA POS DEXTROSOL (J.60)",
+        "preço": 0,
+        "código": 403027090,
+        "mnemônico": "GBDX1H"
+    },
+    {
+        "id": 497,
+        "nome": "CROMO",
+        "preço": 0,
+        "código": 403133100,
+        "mnemônico": "CROMO-S"
+    },
+    {
+        "id": 508,
+        "nome": "ANTICORPOS ANTI CECULA PARIETAL",
+        "preço": 0,
+        "código": 403064290,
+        "mnemônico": "PARIETAL"
+    },
+    {
+        "id": 516,
+        "nome": "IGE ESPECIFICO - CORANTE AMARELO (C279)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "AMARELO"
+    },
+    {
+        "id": 521,
+        "nome": "IGE ESPECIFICO - CARANGUEJO (APF23)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "CARANGUE"
+    },
+    {
+        "id": 525,
+        "nome": "INSULINA - 1 HORA POS PRANDIAL",
+        "preço": 0,
+        "código": 403163600,
+        "mnemônico": "INSUP1"
+    },
+    {
+        "id": 529,
+        "nome": "IGE ESPECIFICO - ALFA LACTOALBUMINA (F76)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "LACTOALB"
+    },
+    {
+        "id": 530,
+        "nome": "IGE ESPECIFICO - BETA-LACTOGLOBULINA (F77)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "LACTOGLO"
+    },
+    {
+        "id": 531,
+        "nome": "CREATINO FOSFAQUINASE - FRACAO MB - MASSA ",
+        "preço": 0,
+        "código": 403016560,
+        "mnemônico": "CKMM"
+    },
+    {
+        "id": 532,
+        "nome": "IGE ESPECIFICO - ABACAXI (F210)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "ABACAXI"
+    },
+    {
+        "id": 535,
+        "nome": "HEMOGRAMA COMPLETO",
+        "preço": 0,
+        "código": 403043610,
+        "mnemônico": "HEM"
+    },
+    {
+        "id": 537,
+        "nome": "ESPERMOGRAMA",
+        "preço": 0,
+        "código": 403093120,
+        "mnemônico": "ESP"
+    },
+    {
+        "id": 539,
+        "nome": "LEUCOGRAMA",
+        "preço": 0,
+        "código": 403044180,
+        "mnemônico": "LEU"
+    },
+    {
+        "id": 540,
+        "nome": "RETICULOCITOS CONTAGEM",
+        "preço": 0,
+        "código": 403045580,
+        "mnemônico": "RET"
+    },
+    {
+        "id": 541,
+        "nome": "ERITROGRAMA",
+        "preço": 0,
+        "código": 403041240,
+        "mnemônico": "ERI"
+    },
+    {
+        "id": 542,
+        "nome": "CLASSIFICACAO SANGUINEA - GRUPO ABO E FATOR RH",
+        "preço": 0,
+        "código": 403042990,
+        "mnemônico": "GSA"
+    },
+    {
+        "id": 543,
+        "nome": "COAGULOGRAMA (TAP, PTTK, CONTAGEM DE PLAQUETAS)",
+        "preço": 0,
+        "código": 403049220,
+        "mnemônico": "COA"
+    },
+    {
+        "id": 544,
+        "nome": "VHS - VELOCIDADE DE HEMOSSEDIMENTACAO",
+        "preço": 0,
+        "código": 403043700,
+        "mnemônico": "VHS"
+    },
+    {
+        "id": 545,
+        "nome": "HEMOGLOBINA S - TESTE DE SOLUBILIDADE",
+        "preço": 0,
+        "código": 403041320,
+        "mnemônico": "FALCIZA"
+    },
+    {
+        "id": 546,
+        "nome": "FIBRINOGENIO",
+        "preço": 0,
+        "código": 403042640,
+        "mnemônico": "FIBR-C"
+    },
+    {
+        "id": 547,
+        "nome": "HEMACIAS, CONTAGEM",
+        "preço": 0,
+        "código": 403041240,
+        "mnemônico": "HEMACIAS"
+    },
+    {
+        "id": 548,
+        "nome": "HEMATOCRITO, DETERMINACAO DO",
+        "preço": 0,
+        "código": 403043370,
+        "mnemônico": "HCTO"
+    },
+    {
+        "id": 549,
+        "nome": "HEMOGLOBINA, DOSAGEM DE",
+        "preço": 0,
+        "código": 403043450,
+        "mnemônico": "HB"
+    },
+    {
+        "id": 550,
+        "nome": "CONTAGEM DE PLAQUETAS",
+        "preço": 0,
+        "código": 403044420,
+        "mnemônico": "PLA"
+    },
+    {
+        "id": 551,
+        "nome": "PLASMODIUM, PESQUISA EM GOTA ESPESSA MALARIA",
+        "preço": 0,
+        "código": 403044770,
+        "mnemônico": "PLAS"
+    },
+    {
+        "id": 552,
+        "nome": "PROVA DO LACO",
+        "preço": 0,
+        "código": 403045310,
+        "mnemônico": "PL"
+    },
+    {
+        "id": 553,
+        "nome": "RETRACAO DO COAGULO",
+        "preço": 0,
+        "código": 403045660,
+        "mnemônico": "RC"
+    },
+    {
+        "id": 554,
+        "nome": "TEMPO DE COAGULACAO",
+        "preço": 0,
+        "código": 403045820,
+        "mnemônico": "TC"
+    },
+    {
+        "id": 555,
+        "nome": "TEMPO DE SANGRAMENTO",
+        "preço": 0,
+        "código": 403046120,
+        "mnemônico": "TS"
+    },
+    {
+        "id": 556,
+        "nome": "MIF - PARASITOLOGICO COM CONSERVANTE",
+        "preço": 0,
+        "código": 403031280,
+        "mnemônico": "MIF"
+    },
+    {
+        "id": 557,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPF"
+    },
+    {
+        "id": 558,
+        "nome": "COLESTEROL (VLDL)",
+        "preço": 0,
+        "código": 403026950,
+        "mnemônico": "VLDL"
+    },
+    {
+        "id": 559,
+        "nome": "GORDURA FECAL",
+        "preço": 0,
+        "código": 403030550,
+        "mnemônico": "GF"
+    },
+    {
+        "id": 560,
+        "nome": "LEUCOCITOS E HEMACIAS - FEZES ",
+        "preço": 0,
+        "código": 403030980,
+        "mnemônico": "PLF"
+    },
+    {
+        "id": 561,
+        "nome": "LEVEDURAS - FEZES ",
+        "preço": 0,
+        "código": 403031010,
+        "mnemônico": "LEVEDURA"
+    },
+    {
+        "id": 562,
+        "nome": "PESQUISA SANGUE OCULTO NAS FEZES",
+        "preço": 0,
+        "código": 403031360,
+        "mnemônico": "PSO"
+    },
+    {
+        "id": 563,
+        "nome": "SUBSTANCIAS REDUTORAS - FEZES ",
+        "preço": 0,
+        "código": 403031520,
+        "mnemônico": "PSR"
+    },
+    {
+        "id": 564,
+        "nome": "SWAB ANAL - PESQUISA DE OXIURUS - FEZES",
+        "preço": 0,
+        "código": 403030200,
+        "mnemônico": "FITA"
+    },
+    {
+        "id": 565,
+        "nome": "ASPARTATO AMINOTRANSFERASE (TGO, AST)",
+        "preço": 0,
+        "código": 403025040,
+        "mnemônico": "TGO"
+    },
+    {
+        "id": 566,
+        "nome": "ALANINA AMINOTRANSFERASE (TGP, ALT)",
+        "preço": 0,
+        "código": 403025120,
+        "mnemônico": "TGP"
+    },
+    {
+        "id": 567,
+        "nome": "TRIGLICERIDEOS",
+        "preço": 0,
+        "código": 403025470,
+        "mnemônico": "TRI"
+    },
+    {
+        "id": 568,
+        "nome": "UREIA",
+        "preço": 0,
+        "código": 403025800,
+        "mnemônico": "URE"
+    },
+    {
+        "id": 569,
+        "nome": "TRANSFERRINA",
+        "preço": 0,
+        "código": 403025200,
+        "mnemônico": "TRANS"
+    },
+    {
+        "id": 570,
+        "nome": "CRISTAIS COM LUZ POLARIZADA - URINA RECENTE",
+        "preço": 0,
+        "código": 403095090,
+        "mnemônico": "CRIS"
+    },
+    {
+        "id": 571,
+        "nome": "ALBUMINA - DIVERSOS MATERIAIS",
+        "preço": 0,
+        "código": 403023770,
+        "mnemônico": "ALB-DM"
+    },
+    {
+        "id": 572,
+        "nome": "T3 LIVRE ",
+        "preço": 0,
+        "código": 403164670,
+        "mnemônico": "T3L"
+    },
+    {
+        "id": 573,
+        "nome": "MAGNESIO",
+        "preço": 0,
+        "código": 403022370,
+        "mnemônico": "MAG"
+    },
+    {
+        "id": 574,
+        "nome": "HEMOGLOBINA GLICADA (FRACAO A1C) ",
+        "preço": 0,
+        "código": 403020750,
+        "mnemônico": "HG"
+    },
+    {
+        "id": 575,
+        "nome": "COLESTEROL (LDL)",
+        "preço": 0,
+        "código": 403015910,
+        "mnemônico": "LDL"
+    },
+    {
+        "id": 576,
+        "nome": "LIPASE",
+        "preço": 0,
+        "código": 403021990,
+        "mnemônico": "LIPA"
+    },
+    {
+        "id": 577,
+        "nome": "GLICOSE",
+        "preço": 0,
+        "código": 403020400,
+        "mnemônico": "GB"
+    },
+    {
+        "id": 578,
+        "nome": "GLICOSE - 2 HORAS POS DEXTROSOL",
+        "preço": 0,
+        "código": 403020320,
+        "mnemônico": "GPD"
+    },
+    {
+        "id": 579,
+        "nome": "COLESTEROL (HDL) ",
+        "preço": 0,
+        "código": 403015830,
+        "mnemônico": "HDL"
+    },
+    {
+        "id": 580,
+        "nome": "FOSFORO ",
+        "preço": 0,
+        "código": 403019310,
+        "mnemônico": "FOS"
+    },
+    {
+        "id": 581,
+        "nome": "FRUTOSE",
+        "preço": 0,
+        "código": 403019660,
+        "mnemônico": "FRUTOSE"
+    },
+    {
+        "id": 582,
+        "nome": "GAMA-GLUTAMIL TRANSFERASE ",
+        "preço": 0,
+        "código": 403019900,
+        "mnemônico": "GT"
+    },
+    {
+        "id": 583,
+        "nome": "FOSFATASE ACIDA TOTAL",
+        "preço": 0,
+        "código": 403018770,
+        "mnemônico": "FAT"
+    },
+    {
+        "id": 584,
+        "nome": "FOSFATASE ALCALINA",
+        "preço": 0,
+        "código": 403018850,
+        "mnemônico": "FAL"
+    },
+    {
+        "id": 585,
+        "nome": "PROTEINAS TOTAIS E FRACOES",
+        "preço": 0,
+        "código": 403023850,
+        "mnemônico": "PTF"
+    },
+    {
+        "id": 586,
+        "nome": "FERRO",
+        "preço": 0,
+        "código": 403018420,
+        "mnemônico": "FER"
+    },
+    {
+        "id": 587,
+        "nome": "FOSFATASE ACIDA PROSTATICA",
+        "preço": 0,
+        "código": 403018690,
+        "mnemônico": "FAP"
+    },
+    {
+        "id": 588,
+        "nome": "FENOBARBITAL",
+        "preço": 0,
+        "código": 403018340,
+        "mnemônico": "FENO"
+    },
+    {
+        "id": 589,
+        "nome": "DESIDROGENASE LACTICA",
+        "preço": 0,
+        "código": 403017290,
+        "mnemônico": "DHL"
+    },
+    {
+        "id": 590,
+        "nome": "DIGITOXINA OU DIGOXINA ",
+        "preço": 0,
+        "código": 403017530,
+        "mnemônico": "DIGO"
+    },
+    {
+        "id": 591,
+        "nome": "CREATININA ",
+        "preço": 0,
+        "código": 403016300,
+        "mnemônico": "CREA"
+    },
+    {
+        "id": 592,
+        "nome": "COLESTEROL TOTAL ",
+        "preço": 0,
+        "código": 403016050,
+        "mnemônico": "COL"
+    },
+    {
+        "id": 593,
+        "nome": "CREATINO FOSFOQUINASE TOTAL (CK) ",
+        "preço": 0,
+        "código": 403016480,
+        "mnemônico": "CK"
+    },
+    {
+        "id": 594,
+        "nome": "CREATINO FOSFOQUINASE - FRACAO MB - ATIVIDADE",
+        "preço": 0,
+        "código": 403016640,
+        "mnemônico": "CKMB"
+    },
+    {
+        "id": 595,
+        "nome": "CALCIO ",
+        "preço": 0,
+        "código": 403014000,
+        "mnemônico": "CAL"
+    },
+    {
+        "id": 596,
+        "nome": "CARBAMAZEPINA ",
+        "preço": 0,
+        "código": 403014350,
+        "mnemônico": "CARBAMA"
+    },
+    {
+        "id": 597,
+        "nome": "AMILASE",
+        "preço": 0,
+        "código": 403012810,
+        "mnemônico": "AMI"
+    },
+    {
+        "id": 598,
+        "nome": "ACIDO URICO",
+        "preço": 0,
+        "código": 403011500,
+        "mnemônico": "AUR"
+    },
+    {
+        "id": 599,
+        "nome": "BILIRRUBINAS (DIRETA, INDIRETA E TOTAL)",
+        "preço": 0,
+        "código": 403013970,
+        "mnemônico": "BIL"
+    },
+    {
+        "id": 600,
+        "nome": "ACIDO VALPROICO",
+        "preço": 0,
+        "código": 403011680,
+        "mnemônico": "VAL"
+    },
+    {
+        "id": 601,
+        "nome": "ALDOLASE",
+        "preço": 0,
+        "código": 403012300,
+        "mnemônico": "ALD"
+    },
+    {
+        "id": 602,
+        "nome": "ALFA-FETOPROTEINA",
+        "preço": 0,
+        "código": 403160680,
+        "mnemônico": "FETO"
+    },
+    {
+        "id": 603,
+        "nome": "ELETROFORESE DE LIPOPROTEINAS",
+        "preço": 0,
+        "código": 403017880,
+        "mnemônico": "ELELIPO"
+    },
+    {
+        "id": 604,
+        "nome": "ELETROFORESE DE PROTEINAS",
+        "preço": 0,
+        "código": 403017610,
+        "mnemônico": "ELP"
+    },
+    {
+        "id": 605,
+        "nome": "ALFA-1-GLICOPROTEINA ACIDA ",
+        "preço": 0,
+        "código": 403012570,
+        "mnemônico": "ALFA1"
+    },
+    {
+        "id": 606,
+        "nome": "COLINESTERASE PLASMATICA",
+        "preço": 0,
+        "código": 403131150,
+        "mnemônico": "COLI"
+    },
+    {
+        "id": 607,
+        "nome": "GASOMETRIA ARTERIAL",
+        "preço": 0,
+        "código": 403020160,
+        "mnemônico": "GASARTE"
+    },
+    {
+        "id": 608,
+        "nome": "GLICOSE - 2 HORAS BASAL E POS PRANDIAL",
+        "preço": 0,
+        "código": 403020400,
+        "mnemônico": "GBPP2H"
+    },
+    {
+        "id": 609,
+        "nome": "LACTOSE TESTE DE TOLERANCIA - 3 DOSAGENS (J.30.60)",
+        "preço": 0,
+        "código": 403021640,
+        "mnemônico": "LAC3"
+    },
+    {
+        "id": 610,
+        "nome": "MALTOSE TESTE DE TOLERANCIA - 3 DOSAGENS (J.30.60)",
+        "preço": 0,
+        "código": 403026440,
+        "mnemônico": "MALT"
+    },
+    {
+        "id": 611,
+        "nome": "ACIDO LACTICO (LACTATO)",
+        "preço": 0,
+        "código": 403011090,
+        "mnemônico": "LACTATO"
+    },
+    {
+        "id": 612,
+        "nome": "MERCURIO",
+        "preço": 0,
+        "código": 403131900,
+        "mnemônico": "MERCURIO"
+    },
+    {
+        "id": 613,
+        "nome": "RESERVA ALCALINA (BICARBONATO)",
+        "preço": 0,
+        "código": 403024070,
+        "mnemônico": "RA"
+    },
+    {
+        "id": 614,
+        "nome": "SACAROSE TESTE DE TOLERANCIA - 3 DOSAGENS (J.30.60)",
+        "preço": 0,
+        "código": 403024150,
+        "mnemônico": "SAC"
+    },
+    {
+        "id": 616,
+        "nome": "LIQUIDO SINOVIAL - DIVERSOS MATERIAIS ",
+        "preço": 0,
+        "código": 403095250,
+        "mnemônico": "LSI"
+    },
+    {
+        "id": 617,
+        "nome": "ROTINA DE LIQUOR",
+        "preço": 0,
+        "código": 403091260,
+        "mnemônico": "LCR"
+    },
+    {
+        "id": 627,
+        "nome": "CREATINA",
+        "preço": 0,
+        "código": 403016210,
+        "mnemônico": "CINA-S"
+    },
+    {
+        "id": 628,
+        "nome": "HIV 1 E 2 - WESTERN BLOT - RECOLETA",
+        "preço": 0,
+        "código": 403078750,
+        "mnemônico": "HIVWBREC"
+    },
+    {
+        "id": 639,
+        "nome": "MICOLOGICO DIRETO (5ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "MICO5"
+    },
+    {
+        "id": 640,
+        "nome": "CULTURA - FUNGOS (5ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101400,
+        "mnemônico": "CFU5"
+    },
+    {
+        "id": 641,
+        "nome": "IGE ESPECIFICO - LATEX (K82)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "IGELATEX"
+    },
+    {
+        "id": 642,
+        "nome": "IGE MULTIPLO - FX16  MORANGO (F44), PERA (F94), LIMAO (F208)",
+        "preço": 0,
+        "código": 403072550,
+        "mnemônico": "FX16"
+    },
+    {
+        "id": 644,
+        "nome": "BACTERIOSCOPIA - DIVERSOS MATERIAIS (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100600,
+        "mnemônico": "BAC3"
+    },
+    {
+        "id": 646,
+        "nome": "IGE ESPECIFICO - CORANTE VERMELHO CARMIM (F340)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "F340"
+    },
+    {
+        "id": 648,
+        "nome": "ALDOSTERONA - URINA 24H",
+        "preço": 0,
+        "código": 403160500,
+        "mnemônico": "ALDUR24H"
+    },
+    {
+        "id": 654,
+        "nome": "LAMOTRIGINA ",
+        "preço": 0,
+        "código": 403027410,
+        "mnemônico": "LAMOTRI"
+    },
+    {
+        "id": 658,
+        "nome": "CALCULO BILIAR, ANALISE FISICO E QUIMICA",
+        "preço": 0,
+        "código": 403110400,
+        "mnemônico": "BILIAR"
+    },
+    {
+        "id": 661,
+        "nome": "TROPONINA - TESTE RAPIDO",
+        "preço": 0,
+        "código": 403025710,
+        "mnemônico": "TROPOSUS"
+    },
+    {
+        "id": 662,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (4ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPF4"
+    },
+    {
+        "id": 663,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (5ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPF5"
+    },
+    {
+        "id": 665,
+        "nome": "IGE ESPECIFICO - MAMAO (F293)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "MAMAO"
+    },
+    {
+        "id": 666,
+        "nome": "IGE ESPECIFICO - ABOBORA (F225)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "ABOBORA"
+    },
+    {
+        "id": 669,
+        "nome": "COBRE - URINA 24H",
+        "preço": 0,
+        "código": 403131900,
+        "mnemônico": "COBRE24H"
+    },
+    {
+        "id": 673,
+        "nome": "MICOLOGICO DIRETO (6ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "MICO6"
+    },
+    {
+        "id": 674,
+        "nome": "MICOLOGICO DIRETO (7ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "MICO7"
+    },
+    {
+        "id": 676,
+        "nome": "AMILASE - DIVERSOS MATERIAIS",
+        "preço": 0,
+        "código": 403012810,
+        "mnemônico": "AMILALD"
+    },
+    {
+        "id": 677,
+        "nome": "IGE ESPECIFICO - CENTEIO (F5)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "CENTEIO"
+    },
+    {
+        "id": 678,
+        "nome": "IGE ESPECIFICO - CEVADA (F6)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "CEVADA"
+    },
+    {
+        "id": 700,
+        "nome": "CURVA GLICEMICA - 1 HORA (J.30.60)",
+        "preço": 0,
+        "código": 403016800,
+        "mnemônico": "CGT1"
+    },
+    {
+        "id": 768,
+        "nome": "CURVA GLICEMICA - 3 HORAS (J.30.60.120.180)",
+        "preço": 0,
+        "código": 403016800,
+        "mnemônico": "CG3HORAS"
+    },
+    {
+        "id": 777,
+        "nome": "GLICOSE - 1 HORA POS CAFE",
+        "preço": 0,
+        "código": 403020320,
+        "mnemônico": "GB1HCAFE"
+    },
+    {
+        "id": 778,
+        "nome": "GLICOSE",
+        "preço": 0,
+        "código": 403020400,
+        "mnemônico": "GBM"
+    },
+    {
+        "id": 780,
+        "nome": "IGE MULTIPLO - POLEN (GX1)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "POLEN1"
+    },
+    {
+        "id": 781,
+        "nome": "IGE MULTIPLO - POLEN (GX2)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "POLEN2"
+    },
+    {
+        "id": 799,
+        "nome": "IGE ESPECIFICO - BETERRABA (F319)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "BETERRA"
+    },
+    {
+        "id": 800,
+        "nome": "IGE ESPECIFICO - CEBOLA (F48)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "CEBOLA"
+    },
+    {
+        "id": 801,
+        "nome": "IGE ESPECIFICO - ACIDO BENZOICO/CONSERVANTES (C703)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "CONSERVA"
+    },
+    {
+        "id": 802,
+        "nome": "IGE ESPECIFICO - MANGA (F91)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "MANGA"
+    },
+    {
+        "id": 803,
+        "nome": "TAP - TEMPO DE ATIVIDADE DA PROTOMBINA",
+        "preço": 0,
+        "código": 403045900,
+        "mnemônico": "TAP"
+    },
+    {
+        "id": 806,
+        "nome": "LIQUIDO SINOVIAL (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403095250,
+        "mnemônico": "LSI2"
+    },
+    {
+        "id": 809,
+        "nome": "COLESTEROL NAO-HDL",
+        "preço": 0,
+        "código": 403026950,
+        "mnemônico": "N-HDL"
+    },
+    {
+        "id": 881,
+        "nome": "PESQUISA DE FUNGOS (TINTA DA CHINA) - LIQUOR",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "PFU-LIQ"
+    },
+    {
+        "id": 884,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (6ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100350,
+        "mnemônico": "TSG6"
+    },
+    {
+        "id": 885,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (7ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100350,
+        "mnemônico": "TSG7"
+    },
+    {
+        "id": 886,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (8ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100350,
+        "mnemônico": "TSG8"
+    },
+    {
+        "id": 887,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (9ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100350,
+        "mnemônico": "TSG9"
+    },
+    {
+        "id": 888,
+        "nome": "ANTIBIOGRAMA - FEZES (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100350,
+        "mnemônico": "TSF2"
+    },
+    {
+        "id": 889,
+        "nome": "ANTIBIOGRAMA - VIGILANCIA (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100350,
+        "mnemônico": "TSGVG2"
+    },
+    {
+        "id": 890,
+        "nome": "ANTIBIOGRAMA - VIGILANCIA (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100350,
+        "mnemônico": "TSGVG3"
+    },
+    {
+        "id": 891,
+        "nome": "ANTIBIOGRAMA - VIGILANCIA (4ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100350,
+        "mnemônico": "TSGVG4"
+    },
+    {
+        "id": 892,
+        "nome": "ANTIBIOGRAMA - VIGILANCIA (5ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100350,
+        "mnemônico": "TSGVG5"
+    },
+    {
+        "id": 893,
+        "nome": "ANTIBIOGRAMA - VIGILANCIA ",
+        "preço": 0,
+        "código": 403100350,
+        "mnemônico": "TSGVG1"
+    },
+    {
+        "id": 907,
+        "nome": "EAS - EXAME DE URINA",
+        "preço": 0,
+        "código": 403112100,
+        "mnemônico": "EAS"
+    },
+    {
+        "id": 908,
+        "nome": "SODIO ",
+        "preço": 0,
+        "código": 403024230,
+        "mnemônico": "SOD"
+    },
+    {
+        "id": 909,
+        "nome": "POTASSIO",
+        "preço": 0,
+        "código": 403023180,
+        "mnemônico": "POT"
+    },
+    {
+        "id": 910,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUL1"
+    },
+    {
+        "id": 911,
+        "nome": "CULTURA - FEZES",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUF"
+    },
+    {
+        "id": 912,
+        "nome": "CULTURA - FUNGOS (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101400,
+        "mnemônico": "CFU2"
+    },
+    {
+        "id": 913,
+        "nome": "CULTURA - AUTOMATIZADA ",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "URO"
+    },
+    {
+        "id": 914,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUL2"
+    },
+    {
+        "id": 915,
+        "nome": "HEMOCULTURA (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102480,
+        "mnemônico": "HEMOC"
+    },
+    {
+        "id": 916,
+        "nome": "HEMOCULTURA (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102640,
+        "mnemônico": "HEMOC2"
+    },
+    {
+        "id": 917,
+        "nome": "HEMOCULTURA (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102640,
+        "mnemônico": "HEMOC3"
+    },
+    {
+        "id": 918,
+        "nome": "CULTURA - BK",
+        "preço": 0,
+        "código": 403101590,
+        "mnemônico": "CBK"
+    },
+    {
+        "id": 919,
+        "nome": "CULTURA - BK (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101590,
+        "mnemônico": "CBK2"
+    },
+    {
+        "id": 920,
+        "nome": "CULTURA - BK (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101590,
+        "mnemônico": "CBK3"
+    },
+    {
+        "id": 921,
+        "nome": "CULTURA - BK (4ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101590,
+        "mnemônico": "CBK4"
+    },
+    {
+        "id": 922,
+        "nome": "CULTURA - BK (5ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101590,
+        "mnemônico": "CBK5"
+    },
+    {
+        "id": 923,
+        "nome": "CULTURA - AUTOMATIZADA",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "URO2"
+    },
+    {
+        "id": 924,
+        "nome": "CULTURA - BK (6ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101590,
+        "mnemônico": "CBK6"
+    },
+    {
+        "id": 925,
+        "nome": "CULTURA - BK (7ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101590,
+        "mnemônico": "CBK7"
+    },
+    {
+        "id": 926,
+        "nome": "CULTURA - BK (8ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101590,
+        "mnemônico": "CBK8"
+    },
+    {
+        "id": 927,
+        "nome": "CULTURA - BK (9ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101590,
+        "mnemônico": "CBK9"
+    },
+    {
+        "id": 928,
+        "nome": "CULTURA - BK (10ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101590,
+        "mnemônico": "CBK10"
+    },
+    {
+        "id": 929,
+        "nome": "CULTURA - FEZES (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUF2"
+    },
+    {
+        "id": 930,
+        "nome": "CULTURA AUTOMATIZADA - MICROBIOLOGIA",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "URO3"
+    },
+    {
+        "id": 932,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUL3"
+    },
+    {
+        "id": 938,
+        "nome": "PESQUISA DE SANGUE HUMANO - FEZES",
+        "preço": 0,
+        "código": 403031360,
+        "mnemônico": "PSHF"
+    },
+    {
+        "id": 944,
+        "nome": "CURVA GLICEMICA - 6 DOSAGENS (J.60.120.180.240.300)",
+        "preço": 0,
+        "código": 403052280,
+        "mnemônico": "CGD6"
+    },
+    {
+        "id": 952,
+        "nome": "EXAME DIRETO (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100190,
+        "mnemônico": "ED2"
+    },
+    {
+        "id": 953,
+        "nome": "EXAME DIRETO (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100190,
+        "mnemônico": "ED3"
+    },
+    {
+        "id": 955,
+        "nome": "CULTURA - ANAEROBICO",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CULANA"
+    },
+    {
+        "id": 956,
+        "nome": "ANTIBIOGRAMA - ANAEROBICO",
+        "preço": 0,
+        "código": 403100350,
+        "mnemônico": "TSANA"
+    },
+    {
+        "id": 961,
+        "nome": "GLICOSE - 13:00H",
+        "preço": 0,
+        "código": 403020400,
+        "mnemônico": "GB13H"
+    },
+    {
+        "id": 962,
+        "nome": "CORTISOL SALIVAR - 00:00 HORAS",
+        "preço": 0,
+        "código": 403161900,
+        "mnemônico": "CS24"
+    },
+    {
+        "id": 963,
+        "nome": "CLORO",
+        "preço": 0,
+        "código": 403024230,
+        "mnemônico": "CLORO"
+    },
+    {
+        "id": 964,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (5ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100350,
+        "mnemônico": "TSG5"
+    },
+    {
+        "id": 965,
+        "nome": "MICOLOGICO DIRETO (8ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "MICO8"
+    },
+    {
+        "id": 966,
+        "nome": "MICOLOGICO DIRETO (9ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "MICO9"
+    },
+    {
+        "id": 967,
+        "nome": "MICOLOGICO DIRETO (10ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "MICO10"
+    },
+    {
+        "id": 974,
+        "nome": "TIREOGLOBULINA - PUNCAO (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403165300,
+        "mnemônico": "TIRECER2"
+    },
+    {
+        "id": 975,
+        "nome": "TIREOGLOBULINA - PUNCAO (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403165300,
+        "mnemônico": "TIRECER3"
+    },
+    {
+        "id": 983,
+        "nome": "STREPTOCOCCUS AGALACTIAE (BETA HEMOLITICO DO GRUPO B)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "STB"
+    },
+    {
+        "id": 984,
+        "nome": "PESQUISA DE MUCO - FEZES",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "MUCO"
+    },
+    {
+        "id": 1041,
+        "nome": "IGE ESPECIFICO - CENOURA (F31)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "CENOURA"
+    },
+    {
+        "id": 1048,
+        "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPFSM1"
+    },
+    {
+        "id": 1049,
+        "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (2ª AMOSTRA) ",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPFSM2"
+    },
+    {
+        "id": 1050,
+        "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPFSM3"
+    },
+    {
+        "id": 1051,
+        "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (4ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPFSM4"
+    },
+    {
+        "id": 1052,
+        "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (5ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPFSM5"
+    },
+    {
+        "id": 1056,
+        "nome": "MICOLOGICO DIRETO (11ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "MICO11"
+    },
+    {
+        "id": 1057,
+        "nome": "MICOLOGICO DIRETO (12ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "MICO12"
+    },
+    {
+        "id": 1058,
+        "nome": "MICOLOGICO DIRETO (13ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "MICO13"
+    },
+    {
+        "id": 1059,
+        "nome": "MICOLOGICO DIRETO (14ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "MICO14"
+    },
+    {
+        "id": 1060,
+        "nome": "MICOLOGICO DIRETO (15ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "MICO15"
+    },
+    {
+        "id": 1061,
+        "nome": "MICOLOGICO DIRETO (16ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "MICO16"
+    },
+    {
+        "id": 1062,
+        "nome": "MICOLOGICO DIRETO (17ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "MICO17"
+    },
+    {
+        "id": 1063,
+        "nome": "MICOLOGICO DIRETO (18ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "MICO18"
+    },
+    {
+        "id": 1064,
+        "nome": "MICOLOGICO DIRETO (19ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "MICO19"
+    },
+    {
+        "id": 1065,
+        "nome": "MICOLOGICO DIRETO (20ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "MICO20"
+    },
+    {
+        "id": 1067,
+        "nome": "CULTURA - FUNGOS (20ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101400,
+        "mnemônico": "CFU20"
+    },
+    {
+        "id": 1068,
+        "nome": "CULTURA - FUNGOS (19ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101400,
+        "mnemônico": "CFU19"
+    },
+    {
+        "id": 1069,
+        "nome": "CULTURA - FUNGOS (6ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101400,
+        "mnemônico": "CFU6"
+    },
+    {
+        "id": 1070,
+        "nome": "CULTURA - FUNGOS (18ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101400,
+        "mnemônico": "CFU18"
+    },
+    {
+        "id": 1071,
+        "nome": "CULTURA - FUNGOS (17ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101400,
+        "mnemônico": "CFU17"
+    },
+    {
+        "id": 1072,
+        "nome": "CULTURA - FUNGOS (7ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101400,
+        "mnemônico": "CFU7"
+    },
+    {
+        "id": 1073,
+        "nome": "CULTURA - FUNGOS (16ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101400,
+        "mnemônico": "CFU16"
+    },
+    {
+        "id": 1074,
+        "nome": "CULTURA - FUNGOS (8ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101400,
+        "mnemônico": "CFU8"
+    },
+    {
+        "id": 1075,
+        "nome": "CULTURA - FUNGOS (15ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101400,
+        "mnemônico": "CFU15"
+    },
+    {
+        "id": 1076,
+        "nome": "CULTURA - FUNGOS (14ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101400,
+        "mnemônico": "CFU14"
+    },
+    {
+        "id": 1077,
+        "nome": "CULTURA - FUNGOS (9ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101400,
+        "mnemônico": "CFU9"
+    },
+    {
+        "id": 1078,
+        "nome": "CULTURA - FUNGOS (13ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101400,
+        "mnemônico": "CFU13"
+    },
+    {
+        "id": 1079,
+        "nome": "CULTURA - FUNGOS (10ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101400,
+        "mnemônico": "CFU10"
+    },
+    {
+        "id": 1080,
+        "nome": "CULTURA - FUNGOS (12ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101400,
+        "mnemônico": "CFU12"
+    },
+    {
+        "id": 1081,
+        "nome": "CULTURA - FUNGOS (11ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101400,
+        "mnemônico": "CFU11"
+    },
+    {
+        "id": 1086,
+        "nome": "COOMBS INDIRETO",
+        "preço": 0,
+        "código": 403048840,
+        "mnemônico": "COOICSV"
+    },
+    {
+        "id": 1089,
+        "nome": "INDICE DE SATURACAO DE TRANSFERRINA",
+        "preço": 0,
+        "código": 403025200,
+        "mnemônico": "IST"
+    },
+    {
+        "id": 1090,
+        "nome": "ANTICOAGULANTE LUPICO",
+        "preço": 0,
+        "código": 403040190,
+        "mnemônico": "LUPICO"
+    },
+    {
+        "id": 1091,
+        "nome": "IGE ESPECIFICO - SALMAO (F41)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "SALMAO"
+    },
+    {
+        "id": 1092,
+        "nome": "MICOPLASMA PNEUMONIAE IGG ",
+        "preço": 0,
+        "código": 403075220,
+        "mnemônico": "MICOIGG"
+    },
+    {
+        "id": 1093,
+        "nome": "MICOPLASMA PNEUMONIAE IGM",
+        "preço": 0,
+        "código": 403075300,
+        "mnemônico": "MICOIGM"
+    },
+    {
+        "id": 1094,
+        "nome": "PESQUISA DE FUNGOS (TINTA DA CHINA) (2ª AMOSTRA) - LIQUOR",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "PFU2-LIQ"
+    },
+    {
+        "id": 1095,
+        "nome": "PESQUISA DE FUNGOS (TINTA DA CHINA) (3ª AMOSTRA) - LIQUOR",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "PFU3-LIQ"
+    },
+    {
+        "id": 1096,
+        "nome": "ESPERMOGRAMA (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403093120,
+        "mnemônico": "ESP2"
+    },
+    {
+        "id": 1102,
+        "nome": "IGE MULTIPLO - FUNGOS (MX1)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "APMX1"
+    },
+    {
+        "id": 1105,
+        "nome": "TESTOSTERONA TOTAL",
+        "preço": 0,
+        "código": 403165130,
+        "mnemônico": "TST"
+    },
+    {
+        "id": 1106,
+        "nome": "HIV 1 E 2 - CARGA VIRAL (QUANTITATIVO) POR PCR",
+        "preço": 0,
+        "código": 403141200,
+        "mnemônico": "HIVPCR"
+    },
+    {
+        "id": 1107,
+        "nome": "CHAGAS IGG ",
+        "preço": 0,
+        "código": 403066150,
+        "mnemônico": "CHAGIGG"
+    },
+    {
+        "id": 1108,
+        "nome": "CHAGAS IGM",
+        "preço": 0,
+        "código": 403066230,
+        "mnemônico": "CHAGIGM"
+    },
+    {
+        "id": 1118,
+        "nome": "GASOMETRIA ARTERIAL COMPLETA",
+        "preço": 0,
+        "código": 403020160,
+        "mnemônico": "GASOCA"
+    },
+    {
+        "id": 1123,
+        "nome": "GASOMETRIA VENOSA COMPLETA",
+        "preço": 0,
+        "código": 403020160,
+        "mnemônico": "GASOCV"
+    },
+    {
+        "id": 1125,
+        "nome": "GASOMETRIA VENOSA CENTRAL",
+        "preço": 0,
+        "código": 403020160,
+        "mnemônico": "GAVCENTR"
+    },
+    {
+        "id": 1126,
+        "nome": "GASOMETRIA ARTERIAL - JAYME",
+        "preço": 0,
+        "código": 403020160,
+        "mnemônico": "GASS"
+    },
+    {
+        "id": 1128,
+        "nome": "BETA HCG (QUALITATIVO) - TESTE RAPIDO",
+        "preço": 0,
+        "código": 403057670,
+        "mnemônico": "HCG-J"
+    },
+    {
+        "id": 1130,
+        "nome": "ROTINA DE LIQUIDO ASCITICO",
+        "preço": 0,
+        "código": 403095250,
+        "mnemônico": "ASCL"
+    },
+    {
+        "id": 1132,
+        "nome": "GLICOSE - LIQUIDO BIOLOGICO",
+        "preço": 0,
+        "código": 403020400,
+        "mnemônico": "GBLIQ"
+    },
+    {
+        "id": 1135,
+        "nome": "ROTINA LIQUIDO SINOVIAL ",
+        "preço": 0,
+        "código": 403095250,
+        "mnemônico": "LIQ.SINO"
+    },
+    {
+        "id": 1136,
+        "nome": "LIQUIDO PLEURAL QUIMIOCITOLOGICO",
+        "preço": 0,
+        "código": 403095250,
+        "mnemônico": "LIQ.PLEU"
+    },
+    {
+        "id": 1137,
+        "nome": "ROTINA LCR QUIMIOCITOLOGICO ",
+        "preço": 0,
+        "código": 403091260,
+        "mnemônico": "LCR-R"
+    },
+    {
+        "id": 1138,
+        "nome": "MICROALBUMINURIA - URINA 24H",
+        "preço": 0,
+        "código": 403111710,
+        "mnemônico": "MAM24H"
+    },
+    {
+        "id": 1139,
+        "nome": "PARVOVIRUS IGG",
+        "preço": 0,
+        "código": 403076110,
+        "mnemônico": "PARVIGG"
+    },
+    {
+        "id": 1140,
+        "nome": "PARVOVIRUS IGM ",
+        "preço": 0,
+        "código": 403076110,
+        "mnemônico": "PARVIGM"
+    },
+    {
+        "id": 1142,
+        "nome": "RENINA - ATIVIDADE PLASMATICA ",
+        "preço": 0,
+        "código": 403164320,
+        "mnemônico": "RENINAT"
+    },
+    {
+        "id": 1145,
+        "nome": "IMUNOFIXACAO - URINA 24H",
+        "preço": 0,
+        "código": 403073360,
+        "mnemônico": "IMU24H"
+    },
+    {
+        "id": 1146,
+        "nome": "IMUNOFIXACAO DE PROTEINAS SERICAS (QUALITATIVO)",
+        "preço": 0,
+        "código": 403073360,
+        "mnemônico": "IME"
+    },
+    {
+        "id": 1148,
+        "nome": "PESQUISA DE SANGUE HUMANO NAS FEZES (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031360,
+        "mnemônico": "PSHF2"
+    },
+    {
+        "id": 1149,
+        "nome": "PESQUISA DE SANGUE HUMANO NAS FEZES (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031360,
+        "mnemônico": "PSHF3"
+    },
+    {
+        "id": 1151,
+        "nome": "GLICOSE - 1 HORA POS PRANDIAL ",
+        "preço": 0,
+        "código": 403020400,
+        "mnemônico": "GBPP1H"
+    },
+    {
+        "id": 1167,
+        "nome": "STREPTOCOCCUS AGALACTIAE (BETA HEMOLITICO DO GRUPO B) (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "STB2"
+    },
+    {
+        "id": 1169,
+        "nome": "FATOR REUMATOIDE, TESTE DO LATEX (QUALITATIVO)",
+        "preço": 0,
+        "código": 403080300,
+        "mnemônico": "FRQ"
+    },
+    {
+        "id": 1190,
+        "nome": "COLESTEROL TOTAL (SUSPEITA DE MORTE ENCEFALICA)",
+        "preço": 0,
+        "código": 403016050,
+        "mnemônico": "COL-ME"
+    },
+    {
+        "id": 1191,
+        "nome": "TRIGLICERIDEOS (SUSPEITA DE MORTE ENCEFALICA)",
+        "preço": 0,
+        "código": 403025470,
+        "mnemônico": "TRI-ME"
+    },
+    {
+        "id": 1193,
+        "nome": "GLICOSE - CAPILAR",
+        "preço": 0,
+        "código": 403020400,
+        "mnemônico": "GB-C"
+    },
+    {
+        "id": 1208,
+        "nome": "CURVA GLICEMICA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403016800,
+        "mnemônico": "CGD5-1"
+    },
+    {
+        "id": 1213,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (6ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPF6"
+    },
+    {
+        "id": 1214,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (7ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPF7"
+    },
+    {
+        "id": 1215,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (8ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPF8"
+    },
+    {
+        "id": 1216,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (9ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPF9"
+    },
+    {
+        "id": 1217,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (10ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPF10"
+    },
+    {
+        "id": 1229,
+        "nome": "CONTAGEM DE PLAQUETAS",
+        "preço": 0,
+        "código": 403044420,
+        "mnemônico": "PLA-C"
+    },
+    {
+        "id": 1230,
+        "nome": "CONTAGEM DE PLAQUETAS (SEM EDTA)",
+        "preço": 0,
+        "código": 403044420,
+        "mnemônico": "PLA-SE"
+    },
+    {
+        "id": 1239,
+        "nome": "PH FECAL",
+        "preço": 0,
+        "código": 403121350,
+        "mnemônico": "PHFECAL"
+    },
+    {
+        "id": 1241,
+        "nome": "COBRE ",
+        "preço": 0,
+        "código": 403015670,
+        "mnemônico": "CUB"
+    },
+    {
+        "id": 1242,
+        "nome": "IGE ESPECIFICO - GLYCYPHAGUS DOMESTICUS (D73)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "D73"
+    },
+    {
+        "id": 1243,
+        "nome": "PESQUISA DE FUNGOS (A FRESCO)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "PFU-AF"
+    },
+    {
+        "id": 1251,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.30.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH4-CLO"
+    },
+    {
+        "id": 1252,
+        "nome": "TIREOGLOBULINA - PUNCAO (4ª AMOSTRA)",
+        "preço": 0,
+        "código": 403165300,
+        "mnemônico": "TIRECER4"
+    },
+    {
+        "id": 1256,
+        "nome": "CULTURA - FEZES (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUF3"
+    },
+    {
+        "id": 1257,
+        "nome": "ANTIBIOGRAMA - FEZES (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100270,
+        "mnemônico": "TSF3"
+    },
+    {
+        "id": 1261,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.30.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH5-INS"
+    },
+    {
+        "id": 1262,
+        "nome": "EPF - KATO KATZ (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPF1KATO"
+    },
+    {
+        "id": 1263,
+        "nome": "EPF - KATO KATZ (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPF2KATO"
+    },
+    {
+        "id": 1264,
+        "nome": "EPF - KATO KATZ (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPF3KATO"
+    },
+    {
+        "id": 1265,
+        "nome": "EPF - KATO KATZ (4ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPF4KATO"
+    },
+    {
+        "id": 1266,
+        "nome": "EPF - KATO KATZ (5ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPF5KATO"
+    },
+    {
+        "id": 1289,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (10ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100270,
+        "mnemônico": "TSG10"
+    },
+    {
+        "id": 1291,
+        "nome": "HEMOGRAMA COMPLETO (CITRATO)",
+        "preço": 0,
+        "código": 403043610,
+        "mnemônico": "HEMSE"
+    },
+    {
+        "id": 1300,
+        "nome": "CURVA GLICEMICA - 7 DOSAGENS (J.60.120.180.240.300.360)",
+        "preço": 0,
+        "código": 403052280,
+        "mnemônico": "CGD7"
+    },
+    {
+        "id": 1303,
+        "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPFSM"
+    },
+    {
+        "id": 1305,
+        "nome": "PROVAS DE FUNCAO HEPATICA (BILIRRUBINAS, ELETROFORESE DE PROTEINAS, FA",
+        "preço": 0,
+        "código": 403121510,
+        "mnemônico": "PERHEP"
+    },
+    {
+        "id": 1315,
+        "nome": "CELULAS LE ",
+        "preço": 0,
+        "código": 403047950,
+        "mnemônico": "CLE"
+    },
+    {
+        "id": 1339,
+        "nome": "PROTEINA C REATIVA (QUALITATIVA)",
+        "preço": 0,
+        "código": 403083830,
+        "mnemônico": "PCR-QUAL"
+    },
+    {
+        "id": 1403,
+        "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR",
+        "preço": 0,
+        "código": 403146180,
+        "mnemônico": "COVID-DT"
+    },
+    {
+        "id": 1422,
+        "nome": "EPF - KATO KATZ (6ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPF6KATO"
+    },
+    {
+        "id": 1451,
+        "nome": "EPF - KATO KATZ (7ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPF7KATO"
+    },
+    {
+        "id": 1452,
+        "nome": "ANTIBIOGRAMA - URINA (4ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104260,
+        "mnemônico": "TSU4"
+    },
+    {
+        "id": 1455,
+        "nome": "SARS COV-2 ANTICORPOS TOTAIS",
+        "preço": 0,
+        "código": 403247960,
+        "mnemônico": "COV-AT"
+    },
+    {
+        "id": 1491,
+        "nome": "ROTINA DE LIQUIDO PERICARDIO",
+        "preço": 0,
+        "código": 403095250,
+        "mnemônico": "L-PERICA"
+    },
+    {
+        "id": 1492,
+        "nome": "TRIGLICERIDEOS - LIQUIDO PERICARDIO",
+        "preço": 0,
+        "código": 403025470,
+        "mnemônico": "TRIPERIC"
+    },
+    {
+        "id": 1496,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (11ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100270,
+        "mnemônico": "TSG11"
+    },
+    {
+        "id": 1498,
+        "nome": "GLICOSE - 2 HORAS POS DEXTROSOL (MADRE REGINA)",
+        "preço": 0,
+        "código": 403020320,
+        "mnemônico": "GPDMADRE"
+    },
+    {
+        "id": 1506,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (12ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100270,
+        "mnemônico": "TSG12"
+    },
+    {
+        "id": 1507,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (13ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100270,
+        "mnemônico": "TSG13"
+    },
+    {
+        "id": 1508,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (14ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100270,
+        "mnemônico": "TSG14"
+    },
+    {
+        "id": 1509,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (15ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100270,
+        "mnemônico": "TSG15"
+    },
+    {
+        "id": 1510,
+        "nome": "BILIRRUBINAS (AVALIACAO DE EXASANGUINEOTRANSFUSAO)",
+        "preço": 0,
+        "código": 403013970,
+        "mnemônico": "BILTRANS"
+    },
+    {
+        "id": 1512,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (16ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100270,
+        "mnemônico": "TSG16"
+    },
+    {
+        "id": 1525,
+        "nome": "PESQUISA DE FUNGOS (A FRESCO) (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "PFU-AF2"
+    },
+    {
+        "id": 1526,
+        "nome": "PESQUISA DE FUNGOS (A FRESCO) (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "PFU-AF3"
+    },
+    {
+        "id": 1527,
+        "nome": "PESQUISA DE FUNGOS (A FRESCO) (4ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "PFU-AF4"
+    },
+    {
+        "id": 1562,
+        "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (6ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPFSM6"
+    },
+    {
+        "id": 1581,
+        "nome": "ACERTO EXAMES",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "ACERTO"
+    },
+    {
+        "id": 1582,
+        "nome": "ANTIBIOGRAMA - HEMOCULTURA (4ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100270,
+        "mnemônico": "ATHE4"
+    },
+    {
+        "id": 1583,
+        "nome": "ANTIBIOGRAMA - HEMOCULTURA (5ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100270,
+        "mnemônico": "ATHE5"
+    },
+    {
+        "id": 1585,
+        "nome": "HEMOCULTURA (5ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102640,
+        "mnemônico": "HEMOC5"
+    },
+    {
+        "id": 1611,
+        "nome": "PESQUISA SANGUE OCULTO NAS FEZES (6ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031360,
+        "mnemônico": "PSO6"
+    },
+    {
+        "id": 1653,
+        "nome": "EPF - KATO KATZ (8ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPF8KATO"
+    },
+    {
+        "id": 1654,
+        "nome": "EPF - KATO KATZ (9ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPF9KATO"
+    },
+    {
+        "id": 1657,
+        "nome": "TROPONINA (QUANTITATIVO)",
+        "preço": 0,
+        "código": 403025710,
+        "mnemônico": "TROPOQUA"
+    },
+    {
+        "id": 1703,
+        "nome": "COVID-19 - TESTE RAPIDO",
+        "preço": 0,
+        "código": 403250240,
+        "mnemônico": "TRCOVID"
+    },
+    {
+        "id": 1776,
+        "nome": "TESTE DE ESTIMULO DE 11DESOXI-CORTISOL APOS CORTROSINA - 2 DOS. (J.60)",
+        "preço": 0,
+        "código": 403161810,
+        "mnemônico": "COMPOS60"
+    },
+    {
+        "id": 1781,
+        "nome": "LEUCOCITOS E HEMACIAS - FEZES (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403030980,
+        "mnemônico": "PLF2"
+    },
+    {
+        "id": 1782,
+        "nome": "LEUCOCITOS E HEMACIAS - FEZES (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403030980,
+        "mnemônico": "PLF3"
+    },
+    {
+        "id": 1818,
+        "nome": "HIV 1 E 2 (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403071820,
+        "mnemônico": "HIV2A"
+    },
+    {
+        "id": 1823,
+        "nome": "TESTE DE ESTIMULO DE 11DESOXI-CORTISOL APOS CORTROSINA - 3 D (J.30.60)",
+        "preço": 0,
+        "código": 403161810,
+        "mnemônico": "COMPOS-2"
+    },
+    {
+        "id": 1835,
+        "nome": "PTH",
+        "preço": 0,
+        "código": 403054650,
+        "mnemônico": "PTH2"
+    },
+    {
+        "id": 1836,
+        "nome": "HEMOGLOBINA GLICADA (1A TOTAL) ",
+        "preço": 0,
+        "código": 403020750,
+        "mnemônico": "HG1AT"
+    },
+    {
+        "id": 1837,
+        "nome": "HIV1 OU HIV2",
+        "preço": 0,
+        "código": 403071820,
+        "mnemônico": "HIV1OU2"
+    },
+    {
+        "id": 1838,
+        "nome": "ANTIBIOGRAMA - NAO AUTOMATIZADO",
+        "preço": 0,
+        "código": 403104260,
+        "mnemônico": "ANTIB"
+    },
+    {
+        "id": 1839,
+        "nome": "TESTE ORAL DE TOLERANCIA A GLICOSE",
+        "preço": 0,
+        "código": 403020320,
+        "mnemônico": "TOTG"
+    },
+    {
+        "id": 1842,
+        "nome": "ANTIGENO AUSTRALIA (HBSAG)",
+        "preço": 0,
+        "código": 403070180,
+        "mnemônico": "HBSAG"
+    },
+    {
+        "id": 1859,
+        "nome": "CORTISOL - 18:00 HORAS",
+        "preço": 0,
+        "código": 403161900,
+        "mnemônico": "CORT18H"
+    },
+    {
+        "id": 1861,
+        "nome": "HEPATITE C - ANTI-HCV",
+        "preço": 0,
+        "código": 403070260,
+        "mnemônico": "HCV"
+    },
+    {
+        "id": 1876,
+        "nome": "CORTISOL - 12:00 HORAS",
+        "preço": 0,
+        "código": 403161900,
+        "mnemônico": "CH12"
+    },
+    {
+        "id": 1879,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (17ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100270,
+        "mnemônico": "TSG17"
+    },
+    {
+        "id": 1880,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (18ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100270,
+        "mnemônico": "TSG18"
+    },
+    {
+        "id": 1881,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (19ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100270,
+        "mnemônico": "TSG19"
+    },
+    {
+        "id": 1882,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (20ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100270,
+        "mnemônico": "TSG20"
+    },
+    {
+        "id": 1891,
+        "nome": "BNP - PEPTIDEO NATRIURETICO",
+        "preço": 0,
+        "código": 403027760,
+        "mnemônico": "BNP"
+    },
+    {
+        "id": 1892,
+        "nome": "PBNP - PRO BNP - N - TERMINAL",
+        "preço": 0,
+        "código": 403027760,
+        "mnemônico": "PBNP"
+    },
+    {
+        "id": 1896,
+        "nome": "TROPONINA (QUANTITATIVO) AMOSTRA 2",
+        "preço": 0,
+        "código": 403025710,
+        "mnemônico": "TROPOQN2"
+    },
+    {
+        "id": 1897,
+        "nome": "TROPONINA (QUANTITATIVO) AMOSTRA 3",
+        "preço": 0,
+        "código": 403025710,
+        "mnemônico": "TROPOQN3"
+    },
+    {
+        "id": 1898,
+        "nome": "TROPONINA (QUANTITATIVO) AMOSTRA 4",
+        "preço": 0,
+        "código": 403025710,
+        "mnemônico": "TROPOQN4"
+    },
+    {
+        "id": 1941,
+        "nome": "ASLO",
+        "preço": 0,
+        "código": 403084050,
+        "mnemônico": "ASLO2"
+    },
+    {
+        "id": 1942,
+        "nome": "IGE ESPECIFICO - CLARA DE OVO (F1)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "CLARAOV2"
+    },
+    {
+        "id": 1943,
+        "nome": "IGE ESPECIFICO - AMENDOIM (F13)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "AMENDOI2"
+    },
+    {
+        "id": 1944,
+        "nome": "IGE ESPECIFICO - TRIGO (F4)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "TRIGO2"
+    },
+    {
+        "id": 1945,
+        "nome": "IGE ESPECIFICO - LEITE DE VACA (F2)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "LEITE2"
+    },
+    {
+        "id": 1946,
+        "nome": "IGE ESPECIFICO - CAMARAO (F24)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "CAMARAO2"
+    },
+    {
+        "id": 1947,
+        "nome": "IGE ESPECIFICO - DERMATOPHAGOIDES PTERONYSSINUS (D1)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "PTERO2"
+    },
+    {
+        "id": 1948,
+        "nome": "IGE ESPECIFICO - GEMA DE OVO (F75)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "GEMA2"
+    },
+    {
+        "id": 1949,
+        "nome": "IGE ESPECIFICO - BLOMIA TROPICALIS (D201)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "BLOMIA2"
+    },
+    {
+        "id": 1955,
+        "nome": "IGE ESPECIFICO - DERMATOPHAGOIDES FARINAE (D2)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "FARINAE2"
+    },
+    {
+        "id": 1956,
+        "nome": "IGE MULTIPLO - POLENS DE GRAMINEAS (GX2)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "GRAMINE2"
+    },
+    {
+        "id": 1957,
+        "nome": "IGE ESPECIFICO - CAO (PELO) (E5)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "PELOCAO2"
+    },
+    {
+        "id": 1958,
+        "nome": "IGE ESPECIFICO - GATO (PELO E CASPA) (E1)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "GATO2"
+    },
+    {
+        "id": 1959,
+        "nome": "IGE ESPECIFICO - BARATA DOMESTICA (I6)",
+        "preço": 0,
+        "código": 403072630,
+        "mnemônico": "BARATA2"
+    },
+    {
+        "id": 1962,
+        "nome": "ANTI-TPO",
+        "preço": 0,
+        "código": 403161570,
+        "mnemônico": "TPO2"
+    },
+    {
+        "id": 2006,
+        "nome": "TESTE ORAL DE TOLERANCIA A GLICOSE (2 HORAS)",
+        "preço": 0,
+        "código": 403020320,
+        "mnemônico": "TOTG2"
+    },
+    {
+        "id": 2011,
+        "nome": "POTASSIO POS DIALISE",
+        "preço": 0,
+        "código": 403023180,
+        "mnemônico": "POT-PD"
+    },
+    {
+        "id": 2012,
+        "nome": "SODIO POS DIALISE",
+        "preço": 0,
+        "código": 403024230,
+        "mnemônico": "SOD-PD"
+    },
+    {
+        "id": 2013,
+        "nome": "CREATININA POS DIALISE",
+        "preço": 0,
+        "código": 403016300,
+        "mnemônico": "CREA-PD"
+    },
+    {
+        "id": 2014,
+        "nome": "GLICOSE POS DIALISE",
+        "preço": 0,
+        "código": 403020400,
+        "mnemônico": "GB-PD"
+    },
+    {
+        "id": 2028,
+        "nome": "GASOMETRIA VENOSA PERIFERICA",
+        "preço": 0,
+        "código": 403020160,
+        "mnemônico": "GAVPERI"
+    },
+    {
+        "id": 2052,
+        "nome": "SIFILIS - VDRL",
+        "preço": 0,
+        "código": 403077600,
+        "mnemônico": "VDRL-URG"
+    },
+    {
+        "id": 2057,
+        "nome": "HEMOGRAMA COMPLETO (SEM ANTICOAGULANTE)",
+        "preço": 0,
+        "código": 403043610,
+        "mnemônico": "HEMSA"
+    },
+    {
+        "id": 2063,
+        "nome": "PESQUISA DE FUNGOS (KOH)",
+        "preço": 0,
+        "código": 403102300,
+        "mnemônico": "PFU-K"
+    },
+    {
+        "id": 2069,
+        "nome": "ANTIBIOGRAMA - HEMOCULTURA (6ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100270,
+        "mnemônico": "ATHE6"
+    },
+    {
+        "id": 2070,
+        "nome": "ANTIBIOGRAMA - HEMOCULTURA (7ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100270,
+        "mnemônico": "ATHE7"
+    },
+    {
+        "id": 2071,
+        "nome": "ANTIBIOGRAMA - HEMOCULTURA (8ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100270,
+        "mnemônico": "ATHE8"
+    },
+    {
+        "id": 2072,
+        "nome": "ANTIBIOGRAMA - HEMOCULTURA (9ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100270,
+        "mnemônico": "ATHE9"
+    },
+    {
+        "id": 2073,
+        "nome": "ANTIBIOGRAMA - HEMOCULTURA (10ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100270,
+        "mnemônico": "ATHE10"
+    },
+    {
+        "id": 2074,
+        "nome": "HEMOCULTURA (6ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102640,
+        "mnemônico": "HEMOC6"
+    },
+    {
+        "id": 2075,
+        "nome": "HEMOCULTURA (7ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102640,
+        "mnemônico": "HEMOC7"
+    },
+    {
+        "id": 2076,
+        "nome": "HEMOCULTURA (8ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102640,
+        "mnemônico": "HEMOC8"
+    },
+    {
+        "id": 2077,
+        "nome": "HEMOCULTURA (9ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102640,
+        "mnemônico": "HEMOC9"
+    },
+    {
+        "id": 2078,
+        "nome": "HEMOCULTURA (10ª AMOSTRA)",
+        "preço": 0,
+        "código": 403102640,
+        "mnemônico": "HEMOC10"
+    },
+    {
+        "id": 2121,
+        "nome": "ELETROFORESE DE PROTEINAS",
+        "preço": 0,
+        "código": 403017610,
+        "mnemônico": "ELP-J"
+    },
+    {
+        "id": 2139,
+        "nome": "CURVA INSULINICA - 3 DOSAGENS (J.30.60)",
+        "preço": 0,
+        "código": 403163600,
+        "mnemônico": "CI3"
+    },
+    {
+        "id": 2144,
+        "nome": "HEPATITE B - HBSAG - (AU, ANTIGENO AUSTRALIA) ",
+        "preço": 0,
+        "código": 403070180,
+        "mnemônico": "AAUE"
+    },
+    {
+        "id": 2145,
+        "nome": "ACIDO FOLICO",
+        "preço": 0,
+        "código": 403010870,
+        "mnemônico": "AFOLIE"
+    },
+    {
+        "id": 2146,
+        "nome": "HEPATITE B - ANTI-HBE",
+        "preço": 0,
+        "código": 403069760,
+        "mnemônico": "AHBEE"
+    },
+    {
+        "id": 2147,
+        "nome": "TIROXINA T4 LIVRE",
+        "preço": 0,
+        "código": 403164910,
+        "mnemônico": "T4LE"
+    },
+    {
+        "id": 2148,
+        "nome": "HEPATITE C - ANTI-HCV",
+        "preço": 0,
+        "código": 403070260,
+        "mnemônico": "AHCVE"
+    },
+    {
+        "id": 2149,
+        "nome": "TIROXINA (T4)",
+        "preço": 0,
+        "código": 403165480,
+        "mnemônico": "T4E"
+    },
+    {
+        "id": 2150,
+        "nome": "T3 LIVRE ",
+        "preço": 0,
+        "código": 403164670,
+        "mnemônico": "T3LE"
+    },
+    {
+        "id": 2151,
+        "nome": "ALFA-FETOPROTEINA",
+        "preço": 0,
+        "código": 403160680,
+        "mnemônico": "ALFAFE"
+    },
+    {
+        "id": 2152,
+        "nome": "TRIIODOTIRONINA (T3) ",
+        "preço": 0,
+        "código": 403165560,
+        "mnemônico": "T3E"
+    },
+    {
+        "id": 2153,
+        "nome": "ANTICORPO ANTI-TIREOGLOBULINA",
+        "preço": 0,
+        "código": 403161060,
+        "mnemônico": "ATIROE"
+    },
+    {
+        "id": 2155,
+        "nome": "ANTI-TPO",
+        "preço": 0,
+        "código": 403161570,
+        "mnemônico": "ATPOE"
+    },
+    {
+        "id": 2156,
+        "nome": "CHAGAS IGG ",
+        "preço": 0,
+        "código": 403066150,
+        "mnemônico": "CHAIFE"
+    },
+    {
+        "id": 2157,
+        "nome": "CITOMEGALOVIRUS IGG ",
+        "preço": 0,
+        "código": 403066660,
+        "mnemônico": "CMVGE"
+    },
+    {
+        "id": 2158,
+        "nome": "CITOMEGALOVIRUS IGM ",
+        "preço": 0,
+        "código": 403066740,
+        "mnemônico": "CMVME"
+    },
+    {
+        "id": 2159,
+        "nome": "CORTISOL BASAL",
+        "preço": 0,
+        "código": 403161900,
+        "mnemônico": "CORTE"
+    },
+    {
+        "id": 2160,
+        "nome": "CORTISOL - 16:00 HORAS",
+        "preço": 0,
+        "código": 403161900,
+        "mnemônico": "CORTAE"
+    },
+    {
+        "id": 2162,
+        "nome": "CORTISOL - 12:00 HORAS",
+        "preço": 0,
+        "código": 403161900,
+        "mnemônico": "CORTME"
+    },
+    {
+        "id": 2163,
+        "nome": "SULFATO DE DEHIDROEPIANDROSTERONA (S-DHEA)",
+        "preço": 0,
+        "código": 403164590,
+        "mnemônico": "DHEASE"
+    },
+    {
+        "id": 2164,
+        "nome": "EPSTEIN BARR VIRUS IGM",
+        "preço": 0,
+        "código": 403075810,
+        "mnemônico": "EBARME"
+    },
+    {
+        "id": 2165,
+        "nome": "ESTRADIOL",
+        "preço": 0,
+        "código": 403162460,
+        "mnemônico": "ESTRE"
+    },
+    {
+        "id": 2166,
+        "nome": "FERRITINA",
+        "preço": 0,
+        "código": 403162700,
+        "mnemônico": "FERRIE"
+    },
+    {
+        "id": 2167,
+        "nome": "FOLICO ESTIMULANTE, HORMONIO (FSH) ",
+        "preço": 0,
+        "código": 403162890,
+        "mnemônico": "FSHE"
+    },
+    {
+        "id": 2168,
+        "nome": "SIFILIS - FTA-ABS-IGG ",
+        "preço": 0,
+        "código": 403077350,
+        "mnemônico": "FTAGE"
+    },
+    {
+        "id": 2169,
+        "nome": "SIFILIS - FTA-ABS-IGM",
+        "preço": 0,
+        "código": 403077430,
+        "mnemônico": "FTAME"
+    },
+    {
+        "id": 2170,
+        "nome": "HEPATITE B - ANTI HBC IGM",
+        "preço": 0,
+        "código": 403069680,
+        "mnemônico": "HBCME"
+    },
+    {
+        "id": 2171,
+        "nome": "HEPATITE B - HBEAG - (ANTIGENO \"E\")",
+        "preço": 0,
+        "código": 403069840,
+        "mnemônico": "HBEAGE"
+    },
+    {
+        "id": 2172,
+        "nome": "HEPATITE B - HBSAC - (ANTI ANTIGENO DE SUPERFICIE)",
+        "preço": 0,
+        "código": 403069920,
+        "mnemônico": "HBQLE"
+    },
+    {
+        "id": 2173,
+        "nome": "BETA HCG - QUANTITATIVO",
+        "preço": 0,
+        "código": 403163270,
+        "mnemônico": "HCGQTE"
+    },
+    {
+        "id": 2174,
+        "nome": "HIV1+ HIV2",
+        "preço": 0,
+        "código": 403071820,
+        "mnemônico": "HIV1E"
+    },
+    {
+        "id": 2175,
+        "nome": "HIV 1 E 2 (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403071820,
+        "mnemônico": "HIV2AE"
+    },
+    {
+        "id": 2176,
+        "nome": "HTLV 1 E 2 ",
+        "preço": 0,
+        "código": 403072120,
+        "mnemônico": "HTLVE"
+    },
+    {
+        "id": 2177,
+        "nome": "HEPATITE A IGG",
+        "preço": 0,
+        "código": 403069330,
+        "mnemônico": "HVAGE"
+    },
+    {
+        "id": 2178,
+        "nome": "HEPATITE A IGM",
+        "preço": 0,
+        "código": 403069410,
+        "mnemônico": "HVAME"
+    },
+    {
+        "id": 2179,
+        "nome": "SOMATOMEDINA C (IGF1)",
+        "preço": 0,
+        "código": 403164400,
+        "mnemônico": "IGF1E"
+    },
+    {
+        "id": 2182,
+        "nome": "INSULINA",
+        "preço": 0,
+        "código": 403163600,
+        "mnemônico": "INSE"
+    },
+    {
+        "id": 2183,
+        "nome": "HEPATITE B - ANTI HBC TOTAL",
+        "preço": 0,
+        "código": 403069500,
+        "mnemônico": "HBCGE"
+    },
+    {
+        "id": 2184,
+        "nome": "SHBG (GLOBULINA LIGADORA DOS HORMONIOS SEXUAIS)",
+        "preço": 0,
+        "código": 403163000,
+        "mnemônico": "SHBGE"
+    },
+    {
+        "id": 2185,
+        "nome": "RUBEOLA IGM",
+        "preço": 0,
+        "código": 403077000,
+        "mnemônico": "RUBEME"
+    },
+    {
+        "id": 2186,
+        "nome": "RUBEOLA IGG",
+        "preço": 0,
+        "código": 403076970,
+        "mnemônico": "RUBEGE"
+    },
+    {
+        "id": 2187,
+        "nome": "PTH",
+        "preço": 0,
+        "código": 403054650,
+        "mnemônico": "PTHE"
+    },
+    {
+        "id": 2188,
+        "nome": "PSA TOTAL/LIVRE - FRACOES TOTAL E LIVRE",
+        "preço": 0,
+        "código": 403161300,
+        "mnemônico": "PSATLE"
+    },
+    {
+        "id": 2189,
+        "nome": "PSA TOTAL - ANTIGENO PROSTATICO ESPECIFICO",
+        "preço": 0,
+        "código": 403161490,
+        "mnemônico": "PSATE"
+    },
+    {
+        "id": 2190,
+        "nome": "PSA LIVRE (NAO INCLUI PSA TOTAL)",
+        "preço": 0,
+        "código": 403161300,
+        "mnemônico": "PSALE"
+    },
+    {
+        "id": 2191,
+        "nome": "PROLACTINA (POOL)",
+        "preço": 0,
+        "código": 403164160,
+        "mnemônico": "PROLPE"
+    },
+    {
+        "id": 2193,
+        "nome": "PROLACTINA",
+        "preço": 0,
+        "código": 403164160,
+        "mnemônico": "PROLE"
+    },
+    {
+        "id": 2194,
+        "nome": "PROGESTERONA",
+        "preço": 0,
+        "código": 403164080,
+        "mnemônico": "PROGEE"
+    },
+    {
+        "id": 2196,
+        "nome": "LH - HORMONIO LUTEINIZANTE",
+        "preço": 0,
+        "código": 403163350,
+        "mnemônico": "LHE"
+    },
+    {
+        "id": 2197,
+        "nome": "INSULINA - 1 HORA POS PRANDIAL",
+        "preço": 0,
+        "código": 403163600,
+        "mnemônico": "INSPPE1"
+    },
+    {
+        "id": 2198,
+        "nome": "INSULINA - 2 HORAS POS PRANDIAL",
+        "preço": 0,
+        "código": 403163600,
+        "mnemônico": "INSPPE2"
+    },
+    {
+        "id": 2199,
+        "nome": "INSULINA - 3 HORAS POS PRANDIAL",
+        "preço": 0,
+        "código": 403163600,
+        "mnemônico": "INSPPE3"
+    },
+    {
+        "id": 2200,
+        "nome": "TESTE DE ESTIMULO DE 11DESOXI-CORTISOL APOS CORTROSINA - 2 DOS. (J.60)",
+        "preço": 0,
+        "código": 403161810,
+        "mnemônico": "TEDESO1"
+    },
+    {
+        "id": 2201,
+        "nome": "TESTE DE ESTIMULO DE 11DESOXI-CORTISOL APOS CORTROSINA - 3 D (J.30.60)",
+        "preço": 0,
+        "código": 403161810,
+        "mnemônico": "TEDESO2"
+    },
+    {
+        "id": 2235,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.30.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH6"
+    },
+    {
+        "id": 2257,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.30.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH36"
+    },
+    {
+        "id": 2272,
+        "nome": "EPSTEIN BARR VIRUS IGG",
+        "preço": 0,
+        "código": 403075650,
+        "mnemônico": "EBARGE"
+    },
+    {
+        "id": 2273,
+        "nome": "INSULINA - 1 HORA POS DEXTROSOL ",
+        "preço": 0,
+        "código": 403163600,
+        "mnemônico": "INSDE1"
+    },
+    {
+        "id": 2274,
+        "nome": "INSULINA - 2 HORAS POS DEXTROSOL",
+        "preço": 0,
+        "código": 403163600,
+        "mnemônico": "INSDE2"
+    },
+    {
+        "id": 2275,
+        "nome": "TESTOSTERONA LIVRE",
+        "preço": 0,
+        "código": 403165050,
+        "mnemônico": "TESTLE"
+    },
+    {
+        "id": 2276,
+        "nome": "TESTOSTERONA TOTAL",
+        "preço": 0,
+        "código": 403165130,
+        "mnemônico": "TESTTE"
+    },
+    {
+        "id": 2277,
+        "nome": "TRAB - ANTI-RECEPTOR DE TSH",
+        "preço": 0,
+        "código": 403160840,
+        "mnemônico": "TRABE"
+    },
+    {
+        "id": 2278,
+        "nome": "TSH - HORMONIO TIREOESTIMULANTE ",
+        "preço": 0,
+        "código": 403165210,
+        "mnemônico": "TSHE"
+    },
+    {
+        "id": 2279,
+        "nome": "VITAMINA B12",
+        "preço": 0,
+        "código": 403165720,
+        "mnemônico": "VB12E"
+    },
+    {
+        "id": 2280,
+        "nome": "SIFILIS - VDRL",
+        "preço": 0,
+        "código": 403077600,
+        "mnemônico": "VDRLE"
+    },
+    {
+        "id": 2281,
+        "nome": "VITAMINA \"D\" 25 HIDROXI",
+        "preço": 0,
+        "código": 403028300,
+        "mnemônico": "VIT25E"
+    }
+]

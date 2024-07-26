@@ -1,0 +1,310 @@
+[
+    {
+        "id": 19,
+        "nome": "ESTRADIOL",
+        "preço": 0,
+        "código": 403162460,
+        "mnemônico": "ESTR"
+    },
+    {
+        "id": 29,
+        "nome": "TSH - HORMONIO TIREOESTIMULANTE ",
+        "preço": 0,
+        "código": 403165210,
+        "mnemônico": "TSH"
+    },
+    {
+        "id": 33,
+        "nome": "ESTRIOL",
+        "preço": 0,
+        "código": 403162540,
+        "mnemônico": "ESTRIOL"
+    },
+    {
+        "id": 34,
+        "nome": "ESTRONA - E1",
+        "preço": 0,
+        "código": 403162620,
+        "mnemônico": "ESTRONA"
+    },
+    {
+        "id": 37,
+        "nome": "CRESCIMENTO, HORMONIO DO (HGH) ",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH"
+    },
+    {
+        "id": 43,
+        "nome": "TIROXINA T4 LIVRE",
+        "preço": 0,
+        "código": 403164910,
+        "mnemônico": "T4L"
+    },
+    {
+        "id": 86,
+        "nome": "CREATININA - URINA RECENTE",
+        "preço": 0,
+        "código": 403016300,
+        "mnemônico": "CREAU"
+    },
+    {
+        "id": 93,
+        "nome": "BACTERIOSCOPIA - DIVERSOS MATERIAIS (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100600,
+        "mnemônico": "BAC"
+    },
+    {
+        "id": 117,
+        "nome": "PROTEINA C REATIVA, QUANTITATIVA",
+        "preço": 0,
+        "código": 403083910,
+        "mnemônico": "PCR"
+    },
+    {
+        "id": 140,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104260,
+        "mnemônico": "TSG1"
+    },
+    {
+        "id": 144,
+        "nome": "ANTIBIOGRAMA - URINA",
+        "preço": 0,
+        "código": 403104260,
+        "mnemônico": "TSU"
+    },
+    {
+        "id": 247,
+        "nome": "CALCULO URINARIO (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 403110400,
+        "mnemônico": "CALCULO"
+    },
+    {
+        "id": 494,
+        "nome": "DIMERO D",
+        "preço": 0,
+        "código": 403049060,
+        "mnemônico": "DIMERO"
+    },
+    {
+        "id": 535,
+        "nome": "HEMOGRAMA COMPLETO",
+        "preço": 0,
+        "código": 403043610,
+        "mnemônico": "HEM"
+    },
+    {
+        "id": 546,
+        "nome": "FIBRINOGENIO",
+        "preço": 0,
+        "código": 403042640,
+        "mnemônico": "FIBR-C"
+    },
+    {
+        "id": 565,
+        "nome": "ASPARTATO AMINOTRANSFERASE (TGO, AST)",
+        "preço": 0,
+        "código": 403025120,
+        "mnemônico": "TGO"
+    },
+    {
+        "id": 566,
+        "nome": "ALANINA AMINOTRANSFERASE (TGP, ALT)",
+        "preço": 0,
+        "código": 403025040,
+        "mnemônico": "TGP"
+    },
+    {
+        "id": 568,
+        "nome": "UREIA",
+        "preço": 0,
+        "código": 403025800,
+        "mnemônico": "URE"
+    },
+    {
+        "id": 589,
+        "nome": "DESIDROGENASE LACTICA",
+        "preço": 0,
+        "código": 403017290,
+        "mnemônico": "DHL"
+    },
+    {
+        "id": 591,
+        "nome": "CREATININA ",
+        "preço": 0,
+        "código": 403016300,
+        "mnemônico": "CREA"
+    },
+    {
+        "id": 599,
+        "nome": "BILIRRUBINAS (DIRETA, INDIRETA E TOTAL)",
+        "preço": 0,
+        "código": 403013970,
+        "mnemônico": "BIL"
+    },
+    {
+        "id": 649,
+        "nome": "DETECCAO E GENOTIPAGEM HPV DE ALTO RISCO",
+        "preço": 0,
+        "código": 403141540,
+        "mnemônico": "HPV-GENO"
+    },
+    {
+        "id": 658,
+        "nome": "CALCULO BILIAR, ANALISE FISICO E QUIMICA",
+        "preço": 0,
+        "código": 403110400,
+        "mnemônico": "BILIAR"
+    },
+    {
+        "id": 907,
+        "nome": "EAS - EXAME DE URINA",
+        "preço": 0,
+        "código": 403112100,
+        "mnemônico": "EAS"
+    },
+    {
+        "id": 910,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUL1"
+    },
+    {
+        "id": 913,
+        "nome": "CULTURA - AUTOMATIZADA ",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "URO"
+    },
+    {
+        "id": 983,
+        "nome": "STREPTOCOCCUS AGALACTIAE (BETA HEMOLITICO DO GRUPO B)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "STB"
+    },
+    {
+        "id": 1167,
+        "nome": "STREPTOCOCCUS AGALACTIAE (BETA HEMOLITICO DO GRUPO B) (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "STB2"
+    },
+    {
+        "id": 1234,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH2-CLO"
+    },
+    {
+        "id": 1249,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH3-CLO"
+    },
+    {
+        "id": 1399,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 6 DOSAGENS (J.15.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH10-INS"
+    },
+    {
+        "id": 1403,
+        "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR",
+        "preço": 0,
+        "código": 403146180,
+        "mnemônico": "COVID-DT"
+    },
+    {
+        "id": 1423,
+        "nome": "PROCALCITONINA",
+        "preço": 0,
+        "código": 403026870,
+        "mnemônico": "PROCAL"
+    },
+    {
+        "id": 1445,
+        "nome": "UREIA - URINA RECENTE",
+        "preço": 0,
+        "código": 403025800,
+        "mnemônico": "UREIA-UR"
+    },
+    {
+        "id": 1468,
+        "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR - LAUDO INGLES",
+        "preço": 0,
+        "código": 403146180,
+        "mnemônico": "COVIDING"
+    },
+    {
+        "id": 1822,
+        "nome": "DETECCAO DO HPV DE ALTO RISCO POR PCR",
+        "preço": 0,
+        "código": 403141540,
+        "mnemônico": "HPV-PCR"
+    },
+    {
+        "id": 1838,
+        "nome": "ANTIBIOGRAMA - NAO AUTOMATIZADO",
+        "preço": 0,
+        "código": 403104260,
+        "mnemônico": "ANTIB"
+    },
+    {
+        "id": 2013,
+        "nome": "CREATININA POS DIALISE",
+        "preço": 0,
+        "código": 403016300,
+        "mnemônico": "CREA-PD"
+    },
+    {
+        "id": 2147,
+        "nome": "TIROXINA T4 LIVRE",
+        "preço": 0,
+        "código": 403164910,
+        "mnemônico": "T4LE"
+    },
+    {
+        "id": 2165,
+        "nome": "ESTRADIOL",
+        "preço": 0,
+        "código": 403162460,
+        "mnemônico": "ESTRE"
+    },
+    {
+        "id": 2241,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH11"
+    },
+    {
+        "id": 2245,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH14"
+    },
+    {
+        "id": 2246,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 6 DOSAGENS (J.15.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH48"
+    },
+    {
+        "id": 2278,
+        "nome": "TSH - HORMONIO TIREOESTIMULANTE ",
+        "preço": 0,
+        "código": 403165210,
+        "mnemônico": "TSHE"
+    }
+]

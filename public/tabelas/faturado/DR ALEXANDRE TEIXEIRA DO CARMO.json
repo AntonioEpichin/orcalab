@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1477,
+        "nome": "DENSITOMETRIA OSSEA (1 SEGMENTO)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "D-OSSE1S"
+    },
+    {
+        "id": 1523,
+        "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR (OU DOIS SEGMENTOS)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "D-COLFEM"
+    },
+    {
+        "id": 1715,
+        "nome": "DENSITOMETRIA OSSEA - CORPO INTEIRO ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "D-COMPC"
+    }
+]

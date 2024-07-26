@@ -1,0 +1,156 @@
+[
+    {
+        "id": 29,
+        "nome": "TSH - HORMONIO TIREOESTIMULANTE ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TSH"
+    },
+    {
+        "id": 179,
+        "nome": "UREIA - POS HEMODIALISE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "UR"
+    },
+    {
+        "id": 182,
+        "nome": "GLICOSE - 2 HORAS POS PRANDIAL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "GP"
+    },
+    {
+        "id": 535,
+        "nome": "HEMOGRAMA COMPLETO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HEM"
+    },
+    {
+        "id": 538,
+        "nome": "COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "COLP"
+    },
+    {
+        "id": 558,
+        "nome": "COLESTEROL (VLDL)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "VLDL"
+    },
+    {
+        "id": 567,
+        "nome": "TRIGLICERIDEOS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TRI"
+    },
+    {
+        "id": 575,
+        "nome": "COLESTEROL (LDL)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "LDL"
+    },
+    {
+        "id": 577,
+        "nome": "GLICOSE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "GB"
+    },
+    {
+        "id": 579,
+        "nome": "COLESTEROL (HDL) ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HDL"
+    },
+    {
+        "id": 591,
+        "nome": "CREATININA ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CREA"
+    },
+    {
+        "id": 592,
+        "nome": "COLESTEROL TOTAL ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "COL"
+    },
+    {
+        "id": 875,
+        "nome": "1 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "CITOLIQ1"
+    },
+    {
+        "id": 1796,
+        "nome": "ROTINA ANUAL DA MULHER",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "ROTAM"
+    },
+    {
+        "id": 1797,
+        "nome": "ROTINA ANUAL DO HOMEM",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "ROTAH"
+    },
+    {
+        "id": 1798,
+        "nome": "ROTINA ANUAL DA CRIANCA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "ROTAC"
+    },
+    {
+        "id": 1799,
+        "nome": "ROTINA ANUAL ADICIONAL PARA O CASO DE DIABETES",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "ROTAD"
+    },
+    {
+        "id": 1800,
+        "nome": "ROTINA GESTANTE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "ROTG"
+    },
+    {
+        "id": 1801,
+        "nome": "ROTINA ANUAL IDOSO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "ROTAI"
+    },
+    {
+        "id": 2013,
+        "nome": "CREATININA POS DIALISE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CREA-PD"
+    },
+    {
+        "id": 2014,
+        "nome": "GLICOSE POS DIALISE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "GB-PD"
+    },
+    {
+        "id": 2278,
+        "nome": "TSH - HORMONIO TIREOESTIMULANTE ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TSHE"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "id": 999,
+        "nome": "ECODOPPLERCARDIOGRAMA TRANSTORACICO",
+        "preço": 0,
+        "código": 409011060,
+        "mnemônico": "ECOTRAN"
+    },
+    {
+        "id": 1479,
+        "nome": "TESTE ERGOMETRICO CONVENCIONAL - 3 OU MAIS DERIVACOES SIMULTANEAS",
+        "preço": 0,
+        "código": 401010450,
+        "mnemônico": "C-TERGOC"
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "id": 1342,
+        "nome": "RX - ABDOME SIMPLES",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-ABDAP"
+    },
+    {
+        "id": 1343,
+        "nome": "RX - ADENOIDES OU CAVUM",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-ADELAT"
+    },
+    {
+        "id": 1355,
+        "nome": "RX - CALCANEO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-CALCA"
+    },
+    {
+        "id": 1359,
+        "nome": "RX - COLUNA DORSAL - 4 INCIDENCIAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-COLDPO"
+    },
+    {
+        "id": 1360,
+        "nome": "RX - COLUNA DORSAL - 2 INCIDENCIAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-COLDAP"
+    },
+    {
+        "id": 1374,
+        "nome": "RX - JOELHO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-JAPLAT"
+    },
+    {
+        "id": 1386,
+        "nome": "RX - PE OU PODODACTILOS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-PEPOD"
+    },
+    {
+        "id": 1387,
+        "nome": "RX - PERNA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-PERTIB"
+    },
+    {
+        "id": 1391,
+        "nome": "RX - TORAX - 1 INCIDENCIA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-TXPA"
+    },
+    {
+        "id": 1487,
+        "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "M-COVBIL"
+    },
+    {
+        "id": 1523,
+        "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR (OU DOIS SEGMENTOS)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "D-COLFEM"
+    },
+    {
+        "id": 1552,
+        "nome": "TC - MANDIBULA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCMAND"
+    },
+    {
+        "id": 1553,
+        "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCCOL2"
+    },
+    {
+        "id": 1554,
+        "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCCRANIO"
+    },
+    {
+        "id": 1558,
+        "nome": "TC - ABDOME SUPERIOR",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCABDOMS"
+    },
+    {
+        "id": 1560,
+        "nome": "TC - TORAX",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCTORAX"
+    },
+    {
+        "id": 1561,
+        "nome": "TC - ABDOME TOTAL (ABDOME SUPERIOR, PELVE E RETROPERITONIO)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCABDOMT"
+    },
+    {
+        "id": 1567,
+        "nome": "RM - BASE DO CRANIO",
+        "preço": 0,
+        "código": 411010300,
+        "mnemônico": "RMBASEC"
+    },
+    {
+        "id": 1580,
+        "nome": "RX - CALCANEO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-CALCA2"
+    },
+    {
+        "id": 1658,
+        "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "RMCOLCE2"
+    },
+    {
+        "id": 1659,
+        "nome": "RX - PE OU PODODACTILOS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-PEPOD2"
+    },
+    {
+        "id": 1661,
+        "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "RMCOLCE3"
+    },
+    {
+        "id": 1673,
+        "nome": "RX - PERNA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-PERTI2"
+    },
+    {
+        "id": 1687,
+        "nome": "TC - TORAX",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCTORAX2"
+    },
+    {
+        "id": 1724,
+        "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCCRANI2"
+    }
+]

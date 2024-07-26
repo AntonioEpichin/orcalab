@@ -1,0 +1,996 @@
+[
+    {
+        "id": 93,
+        "nome": "BACTERIOSCOPIA - DIVERSOS MATERIAIS (1ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "BAC"
+    },
+    {
+        "id": 140,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (1ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TSG1"
+    },
+    {
+        "id": 184,
+        "nome": "CULTURA - FUNGOS (1ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CFU"
+    },
+    {
+        "id": 252,
+        "nome": "BACTERIOSCOPIA - DIVERSOS MATERIAIS (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "BAC2"
+    },
+    {
+        "id": 306,
+        "nome": "CULTURA - FUNGOS (3ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CFU3"
+    },
+    {
+        "id": 381,
+        "nome": "CULTURA - FUNGOS (4ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CFU4"
+    },
+    {
+        "id": 469,
+        "nome": "1 HISTOPATOLOGICO ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOG1"
+    },
+    {
+        "id": 471,
+        "nome": "1 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOS1"
+    },
+    {
+        "id": 472,
+        "nome": "1 PD EM PECA CIRURGICA OU ANATOMICA COMPLEXA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOC1"
+    },
+    {
+        "id": 473,
+        "nome": "1 PD CITOPATOLOGICO ONCOT. LIQ. E RASP. CUTANEOS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CITOL1"
+    },
+    {
+        "id": 475,
+        "nome": "1 PD EM REV. LAMINAS OU CORTES HISTOLOGICOS SERIADOS",
+        "preço": 0,
+        "código": 406011530,
+        "mnemônico": "HISTOR1"
+    },
+    {
+        "id": 476,
+        "nome": "1 COLORACAO ESPECIAL POR COLORACAO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "COLOR1"
+    },
+    {
+        "id": 477,
+        "nome": "1 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOV1"
+    },
+    {
+        "id": 478,
+        "nome": "2 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOV2"
+    },
+    {
+        "id": 479,
+        "nome": "3 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOV3"
+    },
+    {
+        "id": 480,
+        "nome": "4 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOV4"
+    },
+    {
+        "id": 510,
+        "nome": "ANTIBIOGRAMA - FUNGOS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TSFUNGOS"
+    },
+    {
+        "id": 538,
+        "nome": "COLPOCITOLOGICO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "COLP"
+    },
+    {
+        "id": 619,
+        "nome": "5 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOV5"
+    },
+    {
+        "id": 620,
+        "nome": "6 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOV6"
+    },
+    {
+        "id": 621,
+        "nome": "7 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOV7"
+    },
+    {
+        "id": 622,
+        "nome": "8 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOV8"
+    },
+    {
+        "id": 623,
+        "nome": "9 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOV9"
+    },
+    {
+        "id": 625,
+        "nome": "CATECOLAMINAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CATECO"
+    },
+    {
+        "id": 640,
+        "nome": "CULTURA - FUNGOS (5ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CFU5"
+    },
+    {
+        "id": 649,
+        "nome": "DETECCAO E GENOTIPAGEM HPV DE ALTO RISCO",
+        "preço": 0,
+        "código": 0,
+        "mnemônico": "HPV-GENO"
+    },
+    {
+        "id": 682,
+        "nome": "1 FAT PD PRE OPERAT. SEM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010130,
+        "mnemônico": "C01"
+    },
+    {
+        "id": 684,
+        "nome": "1 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C05"
+    },
+    {
+        "id": 685,
+        "nome": "2 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C06"
+    },
+    {
+        "id": 686,
+        "nome": "3 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C07"
+    },
+    {
+        "id": 687,
+        "nome": "4 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C08"
+    },
+    {
+        "id": 719,
+        "nome": "5 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOI5"
+    },
+    {
+        "id": 735,
+        "nome": "1 FAT PD EM LAMINAS DE PAAF ATE 5",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "C69"
+    },
+    {
+        "id": 753,
+        "nome": "1 FAT PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "C95"
+    },
+    {
+        "id": 754,
+        "nome": "1 FAT PD EM PECA CIRURGICA OU ANATOMICA COMPLEXA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "C99"
+    },
+    {
+        "id": 766,
+        "nome": "REVISAO DE COLPOCITOLOGICO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "COLPREV"
+    },
+    {
+        "id": 770,
+        "nome": "1 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "D09"
+    },
+    {
+        "id": 771,
+        "nome": "3 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "D11"
+    },
+    {
+        "id": 772,
+        "nome": "FAT COLPOCITOLOGICO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "COLPFAT"
+    },
+    {
+        "id": 784,
+        "nome": "1 PD EM REV. LAMINAS OU CORTES HISTOLOGICOS SERIADOS",
+        "preço": 0,
+        "código": 406011530,
+        "mnemônico": "HR2"
+    },
+    {
+        "id": 790,
+        "nome": "HISTOPATOLOGICO VETERINARIO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTVET1"
+    },
+    {
+        "id": 791,
+        "nome": "HISTOPATOLOGICO VETERINARIO 2",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTVET2"
+    },
+    {
+        "id": 792,
+        "nome": "HISTOPATOLOGICO VETERINARIO 3",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTVET3"
+    },
+    {
+        "id": 808,
+        "nome": "PESQUISA DO REARRANJO C-MYC, T(8Q24.1), LINFOMA DE BURKITT, POR  FISH",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "MYC"
+    },
+    {
+        "id": 810,
+        "nome": "1 PD PRE OPERAT. SEM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010130,
+        "mnemônico": "CONGSD1"
+    },
+    {
+        "id": 813,
+        "nome": "1 PD PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "CONGPA1"
+    },
+    {
+        "id": 814,
+        "nome": "1 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CONGCD1"
+    },
+    {
+        "id": 815,
+        "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "P10"
+    },
+    {
+        "id": 816,
+        "nome": "1 NECROPSIA DE FETO COM MAIS DE 500 GRAMAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "NEC1"
+    },
+    {
+        "id": 818,
+        "nome": "3 NECROPSIA DE EMBRIAO/FETO ATE 500 GRAMAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "NECFETO3"
+    },
+    {
+        "id": 820,
+        "nome": "1 MICROSCOPIA ELETRONICA",
+        "preço": 0,
+        "código": 406010640,
+        "mnemônico": "MICROELE"
+    },
+    {
+        "id": 821,
+        "nome": "PUNCAO ASPIRATIVA POR AGULHA FINA GUIADA POR ULTRASSOM",
+        "preço": 0,
+        "código": 406010720,
+        "mnemônico": "PAAFSS1"
+    },
+    {
+        "id": 822,
+        "nome": "PUNCAO ASPIRATIVA POR AGULHA FINA GUIADA POR ULTRASSOM (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PAAFSS2"
+    },
+    {
+        "id": 823,
+        "nome": "PUNCAO ASPIRATIVA POR AGULHA FINA GUIADA POR ULTRASSOM (3ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PAAFSS3"
+    },
+    {
+        "id": 824,
+        "nome": "PUNCAO ASPIRATIVA POR AGULHA FINA GUIADA POR ULTRASSOM (4ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PAAFSS4"
+    },
+    {
+        "id": 841,
+        "nome": "1 PD EM CITOLOGIA HORMONAL ISOLADA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CITOHI1"
+    },
+    {
+        "id": 845,
+        "nome": "1 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOI1"
+    },
+    {
+        "id": 846,
+        "nome": "2 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOI2"
+    },
+    {
+        "id": 847,
+        "nome": "3 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOI3"
+    },
+    {
+        "id": 848,
+        "nome": "4 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOI4"
+    },
+    {
+        "id": 853,
+        "nome": "1 PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 406012340,
+        "mnemônico": "AMP1"
+    },
+    {
+        "id": 854,
+        "nome": "2 PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 406012340,
+        "mnemônico": "AMP2"
+    },
+    {
+        "id": 855,
+        "nome": "3 PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 406012340,
+        "mnemônico": "AMP3"
+    },
+    {
+        "id": 856,
+        "nome": "4 PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 406012340,
+        "mnemônico": "AMP4"
+    },
+    {
+        "id": 857,
+        "nome": "1 PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 406012420,
+        "mnemônico": "AMPONCO1"
+    },
+    {
+        "id": 858,
+        "nome": "2 PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 406012420,
+        "mnemônico": "AMPONCO2"
+    },
+    {
+        "id": 859,
+        "nome": "3 PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 406012420,
+        "mnemônico": "AMPONCO3"
+    },
+    {
+        "id": 860,
+        "nome": "4 PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 406012420,
+        "mnemônico": "AMPONCO4"
+    },
+    {
+        "id": 861,
+        "nome": "1 PD EM LAMINAS DE PAAF ATE 5",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CITOP1"
+    },
+    {
+        "id": 863,
+        "nome": "1 PD EM IMUNOFLUORESCENCIA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOF1"
+    },
+    {
+        "id": 864,
+        "nome": "2 PD EM IMUNOFLUORESCENCIA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOF2"
+    },
+    {
+        "id": 865,
+        "nome": "3 PD EM IMUNOFLUORESCENCIA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOF3"
+    },
+    {
+        "id": 866,
+        "nome": "4 PD EM IMUNOFLUORESCENCIA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOF4"
+    },
+    {
+        "id": 871,
+        "nome": "1 PD POR CAPTURA HIBRIDA",
+        "preço": 0,
+        "código": 406012930,
+        "mnemônico": "CAPTURA1"
+    },
+    {
+        "id": 872,
+        "nome": "2 PD POR CAPTURA HIBRIDA",
+        "preço": 0,
+        "código": 406012930,
+        "mnemônico": "CAPTURA2"
+    },
+    {
+        "id": 873,
+        "nome": "3 PD POR CAPTURA HIBRIDA",
+        "preço": 0,
+        "código": 406012930,
+        "mnemônico": "CAPTURA3"
+    },
+    {
+        "id": 874,
+        "nome": "4 PD POR CAPTURA HIBRIDA",
+        "preço": 0,
+        "código": 406012930,
+        "mnemônico": "CAPTURA4"
+    },
+    {
+        "id": 875,
+        "nome": "1 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CITOLIQ1"
+    },
+    {
+        "id": 876,
+        "nome": "2 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CITOLIQ2"
+    },
+    {
+        "id": 877,
+        "nome": "3 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CITOLIQ3"
+    },
+    {
+        "id": 878,
+        "nome": "4 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CITOLIQ4"
+    },
+    {
+        "id": 879,
+        "nome": "1 PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOM1"
+    },
+    {
+        "id": 880,
+        "nome": "RETIRADA DE LAMINA OU BLOCO DO CREMASCO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "RETIRADA"
+    },
+    {
+        "id": 910,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CUL1"
+    },
+    {
+        "id": 912,
+        "nome": "CULTURA - FUNGOS (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CFU2"
+    },
+    {
+        "id": 938,
+        "nome": "PESQUISA DE SANGUE HUMANO - FEZES",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PSHF"
+    },
+    {
+        "id": 942,
+        "nome": "_EXAME TESTE PATOLOGIA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TESTEPA"
+    },
+    {
+        "id": 968,
+        "nome": "_HER2 FISH PARA AMPLIFICACAO GENETICA EM TUMOR DE MAMA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "FISHHER"
+    },
+    {
+        "id": 970,
+        "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C02"
+    },
+    {
+        "id": 971,
+        "nome": "6 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C03"
+    },
+    {
+        "id": 972,
+        "nome": "7 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C10"
+    },
+    {
+        "id": 973,
+        "nome": "8 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C11"
+    },
+    {
+        "id": 976,
+        "nome": "3 FAT PD PRE OPERAT. SEM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010130,
+        "mnemônico": "C19"
+    },
+    {
+        "id": 977,
+        "nome": "2 FAT PD PRE OPERAT. SEM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010130,
+        "mnemônico": "C12"
+    },
+    {
+        "id": 983,
+        "nome": "STREPTOCOCCUS AGALACTIAE (BETA HEMOLITICO DO GRUPO B)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "STB"
+    },
+    {
+        "id": 985,
+        "nome": "DEVOLUCAO - 1 FAT EM PD DE DEVOLUCAO DE BLOCO/LAMINA RETIRADAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "DEV"
+    },
+    {
+        "id": 989,
+        "nome": "PESQUISA DA AMPLIFICACAO DO GENE N-MYC, (2P24), NEUROBLASTOMA, FISH",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "N-MYC"
+    },
+    {
+        "id": 1038,
+        "nome": "HISTOPATOLOGICO VETERINARIO 4",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTVET4"
+    },
+    {
+        "id": 1047,
+        "nome": "1 PD EM LAMINAS DE PAAF ATE 5 - REVISAO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CITOREV1"
+    },
+    {
+        "id": 1148,
+        "nome": "PESQUISA DE SANGUE HUMANO NAS FEZES (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PSHF2"
+    },
+    {
+        "id": 1149,
+        "nome": "PESQUISA DE SANGUE HUMANO NAS FEZES (3ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PSHF3"
+    },
+    {
+        "id": 1167,
+        "nome": "STREPTOCOCCUS AGALACTIAE (BETA HEMOLITICO DO GRUPO B) (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "STB2"
+    },
+    {
+        "id": 1168,
+        "nome": "HISTOPATOLOGICO VETERINARIO 8",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTVET8"
+    },
+    {
+        "id": 1173,
+        "nome": "2 COLPOCITOLOGICO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "COLP2"
+    },
+    {
+        "id": 1195,
+        "nome": "REVISAO EXTERNA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "REV-EX"
+    },
+    {
+        "id": 1289,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (10ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TSG10"
+    },
+    {
+        "id": 1290,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (10ª AMOSTRA) ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CUL10"
+    },
+    {
+        "id": 1294,
+        "nome": "PAINEL INFECCOES SEXUALMENTE TRANSMISSIVEIS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "SEXT-PCR"
+    },
+    {
+        "id": 1309,
+        "nome": "PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES) - REVISAO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "REV-IMUN"
+    },
+    {
+        "id": 1331,
+        "nome": "6 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOI6"
+    },
+    {
+        "id": 1332,
+        "nome": "7 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOI7"
+    },
+    {
+        "id": 1333,
+        "nome": "8 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOI8"
+    },
+    {
+        "id": 1334,
+        "nome": "9 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOI9"
+    },
+    {
+        "id": 1437,
+        "nome": "1 HISTOPATOLOGICO - RETIFICACAO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "RETIFH1"
+    },
+    {
+        "id": 1438,
+        "nome": "2 HISTOPATOLOGICO - RETIFICACAO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "RETIFH2"
+    },
+    {
+        "id": 1439,
+        "nome": "1 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES) - RETIFICACA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "RETIFI1"
+    },
+    {
+        "id": 1440,
+        "nome": "2 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES) - RETIFICACA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "RETIFI2"
+    },
+    {
+        "id": 1457,
+        "nome": "3 NECROPSIA DE FETO COM MAIS DE 500 GRAMAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "NEC3"
+    },
+    {
+        "id": 1458,
+        "nome": "1 NECROPSIA DE EMBRIAO/FETO ATE 500 GRAMAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "NECFETO1"
+    },
+    {
+        "id": 1489,
+        "nome": "9 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C24"
+    },
+    {
+        "id": 1495,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (11ª AMOSTRA)\t",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CUL11"
+    },
+    {
+        "id": 1496,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (11ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TSG11"
+    },
+    {
+        "id": 1502,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (12ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CUL12"
+    },
+    {
+        "id": 1537,
+        "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "P11"
+    },
+    {
+        "id": 1538,
+        "nome": "6 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "P12"
+    },
+    {
+        "id": 1539,
+        "nome": "8 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "P13"
+    },
+    {
+        "id": 1540,
+        "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "P14"
+    },
+    {
+        "id": 1541,
+        "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "P15"
+    },
+    {
+        "id": 1627,
+        "nome": "HISTOPATOLOGICO VETERINARIO 10",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTVE10"
+    },
+    {
+        "id": 1692,
+        "nome": "22 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "D30"
+    },
+    {
+        "id": 1693,
+        "nome": "23 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "D31"
+    },
+    {
+        "id": 1694,
+        "nome": "24 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "D32"
+    },
+    {
+        "id": 1695,
+        "nome": "25 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "D33"
+    },
+    {
+        "id": 1696,
+        "nome": "26 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "D34"
+    },
+    {
+        "id": 1697,
+        "nome": "27 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "D35"
+    },
+    {
+        "id": 1698,
+        "nome": "28 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "D36"
+    },
+    {
+        "id": 1723,
+        "nome": "PUNCAO BIOPSIA/ASPIRATIVA DE ORGAO OU ESTRUTURA SUPERFICIAL ORIENTADA ",
+        "preço": 0,
+        "código": 406010720,
+        "mnemônico": "PAAFSSU"
+    },
+    {
+        "id": 1726,
+        "nome": "PUNCAO BIOPSIA/ASPIRATIVA DE ORGAO OU ESTRUTURA SUPERFICIAL ORIENTADA ",
+        "preço": 0,
+        "código": 406010720,
+        "mnemônico": "PAAFSSU2"
+    },
+    {
+        "id": 1822,
+        "nome": "DETECCAO DO HPV DE ALTO RISCO POR PCR",
+        "preço": 0,
+        "código": 0,
+        "mnemônico": "HPV-PCR"
+    },
+    {
+        "id": 1824,
+        "nome": "1 FAT PAINEL INFECCOES SEXUALMENTE TRANSMISSIVEIS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "SEXTFAT"
+    },
+    {
+        "id": 2054,
+        "nome": "29 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "D37"
+    },
+    {
+        "id": 2055,
+        "nome": "30 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "D38"
+    }
+]

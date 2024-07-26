@@ -1,0 +1,2354 @@
+[
+    {
+        "id": 1,
+        "nome": "VITAMINA B12",
+        "preço": 0,
+        "código": 403165720,
+        "mnemônico": "B12"
+    },
+    {
+        "id": 4,
+        "nome": "FERRITINA",
+        "preço": 0,
+        "código": 403162700,
+        "mnemônico": "FERRI"
+    },
+    {
+        "id": 8,
+        "nome": "ZINCO",
+        "preço": 0,
+        "código": 403133280,
+        "mnemônico": "ZINCO"
+    },
+    {
+        "id": 17,
+        "nome": "SULFATO DE DEHIDROEPIANDROSTERONA (S-DHEA)",
+        "preço": 0,
+        "código": 403164590,
+        "mnemônico": "SDHEA"
+    },
+    {
+        "id": 19,
+        "nome": "ESTRADIOL",
+        "preço": 0,
+        "código": 403162460,
+        "mnemônico": "ESTR"
+    },
+    {
+        "id": 21,
+        "nome": "FOLICO ESTIMULANTE, HORMONIO (FSH) ",
+        "preço": 0,
+        "código": 403162890,
+        "mnemônico": "FSH"
+    },
+    {
+        "id": 29,
+        "nome": "TSH - HORMONIO TIREOESTIMULANTE ",
+        "preço": 0,
+        "código": 403165210,
+        "mnemônico": "TSH"
+    },
+    {
+        "id": 30,
+        "nome": "ANDROSTENEDIONA",
+        "preço": 0,
+        "código": 403160760,
+        "mnemônico": "ANDR"
+    },
+    {
+        "id": 33,
+        "nome": "ESTRIOL",
+        "preço": 0,
+        "código": 403162540,
+        "mnemônico": "ESTRIOL"
+    },
+    {
+        "id": 34,
+        "nome": "ESTRONA - E1",
+        "preço": 0,
+        "código": 403162620,
+        "mnemônico": "ESTRONA"
+    },
+    {
+        "id": 37,
+        "nome": "CRESCIMENTO, HORMONIO DO (HGH) ",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH"
+    },
+    {
+        "id": 38,
+        "nome": "INSULINA",
+        "preço": 0,
+        "código": 403163600,
+        "mnemônico": "INSU"
+    },
+    {
+        "id": 40,
+        "nome": "PROLACTINA",
+        "preço": 0,
+        "código": 403164160,
+        "mnemônico": "PRL"
+    },
+    {
+        "id": 43,
+        "nome": "TIROXINA T4 LIVRE",
+        "preço": 0,
+        "código": 403164910,
+        "mnemônico": "T4L"
+    },
+    {
+        "id": 86,
+        "nome": "CREATININA - URINA RECENTE",
+        "preço": 0,
+        "código": 403016300,
+        "mnemônico": "CREAU"
+    },
+    {
+        "id": 87,
+        "nome": "DISMORFISMO ERITROCITARIO - URINA RECENTE",
+        "preço": 0,
+        "código": 403111040,
+        "mnemônico": "DISMO"
+    },
+    {
+        "id": 92,
+        "nome": "BAAR (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100510,
+        "mnemônico": "BAAR"
+    },
+    {
+        "id": 93,
+        "nome": "BACTERIOSCOPIA - DIVERSOS MATERIAIS (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100600,
+        "mnemônico": "BAC"
+    },
+    {
+        "id": 111,
+        "nome": "IMUNOGLOBULINA IGA",
+        "preço": 0,
+        "código": 403072200,
+        "mnemônico": "IGA"
+    },
+    {
+        "id": 117,
+        "nome": "PROTEINA C REATIVA, QUANTITATIVA",
+        "preço": 0,
+        "código": 403083910,
+        "mnemônico": "PCR"
+    },
+    {
+        "id": 131,
+        "nome": "FATOR REUMATOIDE (QUANTITATIVO)",
+        "preço": 0,
+        "código": 403068600,
+        "mnemônico": "FR"
+    },
+    {
+        "id": 134,
+        "nome": "WAALER - ROSE",
+        "preço": 0,
+        "código": 403078670,
+        "mnemônico": "WAALER"
+    },
+    {
+        "id": 140,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104260,
+        "mnemônico": "TSG1"
+    },
+    {
+        "id": 144,
+        "nome": "ANTIBIOGRAMA - URINA",
+        "preço": 0,
+        "código": 403104260,
+        "mnemônico": "TSU"
+    },
+    {
+        "id": 145,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104260,
+        "mnemônico": "TSG2"
+    },
+    {
+        "id": 150,
+        "nome": "RUBEOLA IGG",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "RUBG"
+    },
+    {
+        "id": 158,
+        "nome": "BAAR (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100510,
+        "mnemônico": "BAAR2"
+    },
+    {
+        "id": 159,
+        "nome": "BAAR (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100510,
+        "mnemônico": "BAAR3"
+    },
+    {
+        "id": 162,
+        "nome": "BAAR (4ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100510,
+        "mnemônico": "BAAR4"
+    },
+    {
+        "id": 163,
+        "nome": "BAAR (5ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100510,
+        "mnemônico": "BAAR5"
+    },
+    {
+        "id": 184,
+        "nome": "CULTURA - FUNGOS (1ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CFU"
+    },
+    {
+        "id": 190,
+        "nome": "BAAR (6ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100510,
+        "mnemônico": "BAAR6"
+    },
+    {
+        "id": 191,
+        "nome": "BAAR (7ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100510,
+        "mnemônico": "BAAR7"
+    },
+    {
+        "id": 192,
+        "nome": "BAAR (8ª AMOSTRA)",
+        "preço": 0,
+        "código": 403100510,
+        "mnemônico": "BAAR8"
+    },
+    {
+        "id": 195,
+        "nome": "GLICOSE - DIVERSOS MATERIAIS",
+        "preço": 0,
+        "código": 403020400,
+        "mnemônico": "GBDVM"
+    },
+    {
+        "id": 202,
+        "nome": "ANTICORPOS ANTI HISTOPLASMA CAPSULATUM",
+        "preço": 0,
+        "código": 403071580,
+        "mnemônico": "HISTOPLA"
+    },
+    {
+        "id": 247,
+        "nome": "CALCULO URINARIO (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 403110400,
+        "mnemônico": "CALCULO"
+    },
+    {
+        "id": 250,
+        "nome": "_HISTOPATOLOGICO",
+        "preço": 0,
+        "código": 406011100,
+        "mnemônico": "_HISTOPA"
+    },
+    {
+        "id": 254,
+        "nome": "SOMATOMEDINA C (IGF1)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "SOMATOME"
+    },
+    {
+        "id": 276,
+        "nome": "IGF BP3 - PROTEINA LIGADORA-3 DO IGF",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "IGFBP3"
+    },
+    {
+        "id": 302,
+        "nome": "ACIDO FOLICO",
+        "preço": 0,
+        "código": 403010870,
+        "mnemônico": "FOLICO"
+    },
+    {
+        "id": 317,
+        "nome": "CAPTURA HIBRIDA PARA HPV",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "HIBRHPV"
+    },
+    {
+        "id": 352,
+        "nome": "ADENOSINA DEAMINASE - LIQUOR",
+        "preço": 0,
+        "código": 403090100,
+        "mnemônico": "ADA"
+    },
+    {
+        "id": 373,
+        "nome": "VITAMINA \"D\" 25 HIDROXI",
+        "preço": 0,
+        "código": 403028300,
+        "mnemônico": "VI25"
+    },
+    {
+        "id": 382,
+        "nome": "ANTI TRANSGLUTAMINASE TECIDUAL IGA",
+        "preço": 0,
+        "código": 403085530,
+        "mnemônico": "TRANSGLU"
+    },
+    {
+        "id": 416,
+        "nome": "ALBUMINURIA - URINA RECENTE",
+        "preço": 0,
+        "código": 403111710,
+        "mnemônico": "ALBU"
+    },
+    {
+        "id": 430,
+        "nome": "MUCOPOLISSACARIDEOS - URINA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "MUCOP"
+    },
+    {
+        "id": 469,
+        "nome": "1 HISTOPATOLOGICO ",
+        "preço": 0,
+        "código": 406011100,
+        "mnemônico": "HISTOG1"
+    },
+    {
+        "id": 471,
+        "nome": "1 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 406012000,
+        "mnemônico": "HISTOS1"
+    },
+    {
+        "id": 472,
+        "nome": "1 PD EM PECA CIRURGICA OU ANATOMICA COMPLEXA",
+        "preço": 0,
+        "código": 406012180,
+        "mnemônico": "HISTOC1"
+    },
+    {
+        "id": 473,
+        "nome": "1 PD CITOPATOLOGICO ONCOT. LIQ. E RASP. CUTANEOS",
+        "preço": 0,
+        "código": 406011290,
+        "mnemônico": "CITOL1"
+    },
+    {
+        "id": 475,
+        "nome": "1 PD EM REV. LAMINAS OU CORTES HISTOLOGICOS SERIADOS",
+        "preço": 0,
+        "código": 406011530,
+        "mnemônico": "HISTOR1"
+    },
+    {
+        "id": 476,
+        "nome": "1 COLORACAO ESPECIAL POR COLORACAO",
+        "preço": 0,
+        "código": 406012690,
+        "mnemônico": "COLOR1"
+    },
+    {
+        "id": 477,
+        "nome": "1 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "HISTOV1"
+    },
+    {
+        "id": 478,
+        "nome": "2 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "HISTOV2"
+    },
+    {
+        "id": 479,
+        "nome": "3 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "HISTOV3"
+    },
+    {
+        "id": 480,
+        "nome": "4 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "HISTOV4"
+    },
+    {
+        "id": 494,
+        "nome": "DIMERO D",
+        "preço": 0,
+        "código": 403049060,
+        "mnemônico": "DIMERO"
+    },
+    {
+        "id": 535,
+        "nome": "HEMOGRAMA COMPLETO",
+        "preço": 0,
+        "código": 403043610,
+        "mnemônico": "HEM"
+    },
+    {
+        "id": 536,
+        "nome": "PERFIL LIPIDICO/LIPIDOGRAMA - CT, HDL, LDL, VLDL e TRI",
+        "preço": 0,
+        "código": 403027500,
+        "mnemônico": "LIP"
+    },
+    {
+        "id": 537,
+        "nome": "ESPERMOGRAMA",
+        "preço": 0,
+        "código": 403093120,
+        "mnemônico": "ESP"
+    },
+    {
+        "id": 538,
+        "nome": "COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 406011370,
+        "mnemônico": "COLP"
+    },
+    {
+        "id": 544,
+        "nome": "VHS - VELOCIDADE DE HEMOSSEDIMENTACAO",
+        "preço": 0,
+        "código": 403043700,
+        "mnemônico": "VHS"
+    },
+    {
+        "id": 546,
+        "nome": "FIBRINOGENIO",
+        "preço": 0,
+        "código": 403042640,
+        "mnemônico": "FIBR-C"
+    },
+    {
+        "id": 557,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 403031100,
+        "mnemônico": "EPF"
+    },
+    {
+        "id": 558,
+        "nome": "COLESTEROL (VLDL)",
+        "preço": 0,
+        "código": 403026950,
+        "mnemônico": "VLDL"
+    },
+    {
+        "id": 565,
+        "nome": "ASPARTATO AMINOTRANSFERASE (TGO, AST)",
+        "preço": 0,
+        "código": 403025120,
+        "mnemônico": "TGO"
+    },
+    {
+        "id": 566,
+        "nome": "ALANINA AMINOTRANSFERASE (TGP, ALT)",
+        "preço": 0,
+        "código": 403025040,
+        "mnemônico": "TGP"
+    },
+    {
+        "id": 567,
+        "nome": "TRIGLICERIDEOS",
+        "preço": 0,
+        "código": 403025470,
+        "mnemônico": "TRI"
+    },
+    {
+        "id": 568,
+        "nome": "UREIA",
+        "preço": 0,
+        "código": 403025800,
+        "mnemônico": "URE"
+    },
+    {
+        "id": 573,
+        "nome": "MAGNESIO",
+        "preço": 0,
+        "código": 403022370,
+        "mnemônico": "MAG"
+    },
+    {
+        "id": 574,
+        "nome": "HEMOGLOBINA GLICADA (FRACAO A1C) ",
+        "preço": 0,
+        "código": 403020750,
+        "mnemônico": "HG"
+    },
+    {
+        "id": 575,
+        "nome": "COLESTEROL (LDL)",
+        "preço": 0,
+        "código": 403015910,
+        "mnemônico": "LDL"
+    },
+    {
+        "id": 577,
+        "nome": "GLICOSE",
+        "preço": 0,
+        "código": 403020400,
+        "mnemônico": "GB"
+    },
+    {
+        "id": 579,
+        "nome": "COLESTEROL (HDL) ",
+        "preço": 0,
+        "código": 403015830,
+        "mnemônico": "HDL"
+    },
+    {
+        "id": 580,
+        "nome": "FOSFORO ",
+        "preço": 0,
+        "código": 403019310,
+        "mnemônico": "FOS"
+    },
+    {
+        "id": 582,
+        "nome": "GAMA-GLUTAMIL TRANSFERASE ",
+        "preço": 0,
+        "código": 403019900,
+        "mnemônico": "GT"
+    },
+    {
+        "id": 584,
+        "nome": "FOSFATASE ALCALINA",
+        "preço": 0,
+        "código": 403018850,
+        "mnemônico": "FAL"
+    },
+    {
+        "id": 586,
+        "nome": "FERRO",
+        "preço": 0,
+        "código": 403018420,
+        "mnemônico": "FER"
+    },
+    {
+        "id": 589,
+        "nome": "DESIDROGENASE LACTICA",
+        "preço": 0,
+        "código": 403017290,
+        "mnemônico": "DHL"
+    },
+    {
+        "id": 591,
+        "nome": "CREATININA ",
+        "preço": 0,
+        "código": 403016300,
+        "mnemônico": "CREA"
+    },
+    {
+        "id": 592,
+        "nome": "COLESTEROL TOTAL ",
+        "preço": 0,
+        "código": 403016050,
+        "mnemônico": "COL"
+    },
+    {
+        "id": 593,
+        "nome": "CREATINO FOSFOQUINASE TOTAL (CK) ",
+        "preço": 0,
+        "código": 403016480,
+        "mnemônico": "CK"
+    },
+    {
+        "id": 595,
+        "nome": "CALCIO ",
+        "preço": 0,
+        "código": 403014000,
+        "mnemônico": "CAL"
+    },
+    {
+        "id": 598,
+        "nome": "ACIDO URICO",
+        "preço": 0,
+        "código": 403011500,
+        "mnemônico": "AUR"
+    },
+    {
+        "id": 617,
+        "nome": "ROTINA DE LIQUOR",
+        "preço": 0,
+        "código": 403091000,
+        "mnemônico": "LCR"
+    },
+    {
+        "id": 618,
+        "nome": "CITOMETRIA - DIVERSOS MATERIAIS",
+        "preço": 0,
+        "código": 406013070,
+        "mnemônico": "CITO"
+    },
+    {
+        "id": 619,
+        "nome": "5 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "HISTOV5"
+    },
+    {
+        "id": 620,
+        "nome": "6 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "HISTOV6"
+    },
+    {
+        "id": 621,
+        "nome": "7 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "HISTOV7"
+    },
+    {
+        "id": 622,
+        "nome": "8 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "HISTOV8"
+    },
+    {
+        "id": 623,
+        "nome": "9 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "HISTOV9"
+    },
+    {
+        "id": 649,
+        "nome": "DETECCAO E GENOTIPAGEM HPV DE ALTO RISCO",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "HPV-GENO"
+    },
+    {
+        "id": 658,
+        "nome": "CALCULO BILIAR, ANALISE FISICO E QUIMICA",
+        "preço": 0,
+        "código": 403110400,
+        "mnemônico": "BILIAR"
+    },
+    {
+        "id": 676,
+        "nome": "AMILASE - DIVERSOS MATERIAIS",
+        "preço": 0,
+        "código": 403012810,
+        "mnemônico": "AMILALD"
+    },
+    {
+        "id": 682,
+        "nome": "1 FAT PD PRE OPERAT. SEM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010130,
+        "mnemônico": "C01"
+    },
+    {
+        "id": 683,
+        "nome": "4 FAT PD PRE OPERAT. SEM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010130,
+        "mnemônico": "C04"
+    },
+    {
+        "id": 684,
+        "nome": "1 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C05"
+    },
+    {
+        "id": 685,
+        "nome": "2 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C06"
+    },
+    {
+        "id": 686,
+        "nome": "3 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C07"
+    },
+    {
+        "id": 687,
+        "nome": "4 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C08"
+    },
+    {
+        "id": 688,
+        "nome": "1 FAT PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "C09"
+    },
+    {
+        "id": 695,
+        "nome": "1 FAT COL. PAAF ORG. ESTR. SUPERF. SEM DESL. PATOLOGISTA",
+        "preço": 0,
+        "código": 406010130,
+        "mnemônico": "C25"
+    },
+    {
+        "id": 696,
+        "nome": "2 FAT COL. PAAF ORG. ESTR. SUPERF. SEM DESL. PATOLOGISTA",
+        "preço": 0,
+        "código": 406010130,
+        "mnemônico": "C26"
+    },
+    {
+        "id": 715,
+        "nome": "1 FAT PD EM CITOLOGIA HORMONAL ISOLADA",
+        "preço": 0,
+        "código": 406011610,
+        "mnemônico": "C49"
+    },
+    {
+        "id": 716,
+        "nome": "2 FAT PD EM CITOLOGIA HORMONAL ISOLADA",
+        "preço": 0,
+        "código": 406011610,
+        "mnemônico": "C50"
+    },
+    {
+        "id": 717,
+        "nome": "3 FAT PD EM CITOLOGIA HORMONAL ISOLADA",
+        "preço": 0,
+        "código": 406011610,
+        "mnemônico": "C51"
+    },
+    {
+        "id": 718,
+        "nome": "4 FAT PD EM CITOLOGIA HORMONAL ISOLADA",
+        "preço": 0,
+        "código": 406011610,
+        "mnemônico": "C52"
+    },
+    {
+        "id": 720,
+        "nome": "2 FAT PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "C54"
+    },
+    {
+        "id": 721,
+        "nome": "3 FAT PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "C55"
+    },
+    {
+        "id": 722,
+        "nome": "4 FAT PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "C56"
+    },
+    {
+        "id": 723,
+        "nome": "1 FAT PD EM REACAO IMUNOISTOQUIMICA ISOLADA",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "C57"
+    },
+    {
+        "id": 735,
+        "nome": "1 FAT PD EM LAMINAS DE PAAF ATE 5",
+        "preço": 0,
+        "código": 406012500,
+        "mnemônico": "C69"
+    },
+    {
+        "id": 736,
+        "nome": "1 FAT PD EM IMUNOFLUORESCENCIA",
+        "preço": 0,
+        "código": 406012770,
+        "mnemônico": "C73"
+    },
+    {
+        "id": 737,
+        "nome": "2 FAT PD EM IMUNOFLUORESCENCIA",
+        "preço": 0,
+        "código": 406012770,
+        "mnemônico": "C74"
+    },
+    {
+        "id": 738,
+        "nome": "3 FAT PD EM IMUNOFLUORESCENCIA",
+        "preço": 0,
+        "código": 406012770,
+        "mnemônico": "C75"
+    },
+    {
+        "id": 739,
+        "nome": "4 FAT PD EM IMUNOFLUORESCENCIA",
+        "preço": 0,
+        "código": 406012770,
+        "mnemônico": "C76"
+    },
+    {
+        "id": 740,
+        "nome": "1 FAT PD EM PAINEL DE HIBRIDIZACAO IN SITU",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "C77"
+    },
+    {
+        "id": 741,
+        "nome": "2 FAT PD EM PAINEL DE HIBRIDIZACAO IN SITU",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "C78"
+    },
+    {
+        "id": 742,
+        "nome": "3 FAT PD EM PAINEL DE HIBRIDIZACAO IN SITU",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "C79"
+    },
+    {
+        "id": 747,
+        "nome": "1 FAT PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "C85"
+    },
+    {
+        "id": 748,
+        "nome": "2 FAT PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "C86"
+    },
+    {
+        "id": 749,
+        "nome": "3 FAT PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "C87"
+    },
+    {
+        "id": 750,
+        "nome": "4 FAT PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "C88"
+    },
+    {
+        "id": 751,
+        "nome": "1 FAT PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
+        "preço": 0,
+        "código": 406011960,
+        "mnemônico": "C89"
+    },
+    {
+        "id": 752,
+        "nome": "4 FAT PD CITOPATOLOGICO ONCOT. LIQ. E RASP. CUTANEOS",
+        "preço": 0,
+        "código": 406011290,
+        "mnemônico": "C92"
+    },
+    {
+        "id": 753,
+        "nome": "1 FAT PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 406012000,
+        "mnemônico": "C95"
+    },
+    {
+        "id": 754,
+        "nome": "1 FAT PD EM PECA CIRURGICA OU ANATOMICA COMPLEXA",
+        "preço": 0,
+        "código": 406012180,
+        "mnemônico": "C99"
+    },
+    {
+        "id": 756,
+        "nome": "4 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CONCIAS4"
+    },
+    {
+        "id": 757,
+        "nome": "6 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CONCIAS6"
+    },
+    {
+        "id": 758,
+        "nome": "7 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CONCIAS7"
+    },
+    {
+        "id": 760,
+        "nome": "1 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CONCIAS1"
+    },
+    {
+        "id": 761,
+        "nome": "2 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CONCIAS2"
+    },
+    {
+        "id": 762,
+        "nome": "3 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CONCIAS3"
+    },
+    {
+        "id": 763,
+        "nome": "5 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CONCIAS5"
+    },
+    {
+        "id": 764,
+        "nome": "8 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CONCIAS8"
+    },
+    {
+        "id": 765,
+        "nome": "9 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CONCIAS9"
+    },
+    {
+        "id": 766,
+        "nome": "REVISAO DE COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 406011370,
+        "mnemônico": "COLPREV"
+    },
+    {
+        "id": 769,
+        "nome": "1 FAT PD CITOPATOLOGICO ONCOT. LIQ. E RASP. CUTANEOS",
+        "preço": 0,
+        "código": 406011290,
+        "mnemônico": "D01"
+    },
+    {
+        "id": 770,
+        "nome": "1 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "D09"
+    },
+    {
+        "id": 771,
+        "nome": "3 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "D11"
+    },
+    {
+        "id": 772,
+        "nome": "FAT COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 406011370,
+        "mnemônico": "COLPFAT"
+    },
+    {
+        "id": 775,
+        "nome": "1 FAT PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CONG1FAT"
+    },
+    {
+        "id": 776,
+        "nome": "10 FAT PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CON10FAT"
+    },
+    {
+        "id": 778,
+        "nome": "GLICOSE",
+        "preço": 0,
+        "código": 403020400,
+        "mnemônico": "GBM"
+    },
+    {
+        "id": 782,
+        "nome": "1 FAT HISTOPATOLOGICO",
+        "preço": 0,
+        "código": 406011100,
+        "mnemônico": "H01"
+    },
+    {
+        "id": 784,
+        "nome": "1 PD EM REV. LAMINAS OU CORTES HISTOLOGICOS SERIADOS",
+        "preço": 0,
+        "código": 406011530,
+        "mnemônico": "HR2"
+    },
+    {
+        "id": 785,
+        "nome": "5 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 406012000,
+        "mnemônico": "HS5"
+    },
+    {
+        "id": 786,
+        "nome": "6 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 406012000,
+        "mnemônico": "HS6"
+    },
+    {
+        "id": 787,
+        "nome": "7 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 406012000,
+        "mnemônico": "HS7"
+    },
+    {
+        "id": 788,
+        "nome": "8 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 406012000,
+        "mnemônico": "HS8"
+    },
+    {
+        "id": 789,
+        "nome": "9 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 406012000,
+        "mnemônico": "HS9"
+    },
+    {
+        "id": 810,
+        "nome": "1 PD PRE OPERAT. SEM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010130,
+        "mnemônico": "CONGSD1"
+    },
+    {
+        "id": 813,
+        "nome": "1 PD PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "CONGPA1"
+    },
+    {
+        "id": 814,
+        "nome": "1 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CONGCD1"
+    },
+    {
+        "id": 815,
+        "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "P10"
+    },
+    {
+        "id": 821,
+        "nome": "PUNCAO ASPIRATIVA POR AGULHA FINA GUIADA POR ULTRASSOM",
+        "preço": 0,
+        "código": 406010130,
+        "mnemônico": "PAAFSS1"
+    },
+    {
+        "id": 841,
+        "nome": "1 PD EM CITOLOGIA HORMONAL ISOLADA",
+        "preço": 0,
+        "código": 406011610,
+        "mnemônico": "CITOHI1"
+    },
+    {
+        "id": 842,
+        "nome": "2 PD EM CITOLOGIA HORMONAL ISOLADA",
+        "preço": 0,
+        "código": 406011610,
+        "mnemônico": "CITOHI2"
+    },
+    {
+        "id": 843,
+        "nome": "3 PD EM CITOLOGIA HORMONAL ISOLADA",
+        "preço": 0,
+        "código": 406011610,
+        "mnemônico": "CITOHI3"
+    },
+    {
+        "id": 844,
+        "nome": "4 PD EM CITOLOGIA HORMONAL ISOLADA",
+        "preço": 0,
+        "código": 406011610,
+        "mnemônico": "CITOHI4"
+    },
+    {
+        "id": 845,
+        "nome": "1 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "HISTOI1"
+    },
+    {
+        "id": 846,
+        "nome": "2 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "HISTOI2"
+    },
+    {
+        "id": 847,
+        "nome": "3 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "HISTOI3"
+    },
+    {
+        "id": 848,
+        "nome": "4 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "HISTOI4"
+    },
+    {
+        "id": 861,
+        "nome": "1 PD EM LAMINAS DE PAAF ATE 5",
+        "preço": 0,
+        "código": 406012500,
+        "mnemônico": "CITOP1"
+    },
+    {
+        "id": 862,
+        "nome": "4 PD EM LAMINAS DE PAAF ATE 5",
+        "preço": 0,
+        "código": 406012500,
+        "mnemônico": "CITOP4"
+    },
+    {
+        "id": 863,
+        "nome": "1 PD EM IMUNOFLUORESCENCIA",
+        "preço": 0,
+        "código": 406012770,
+        "mnemônico": "HISTOF1"
+    },
+    {
+        "id": 864,
+        "nome": "2 PD EM IMUNOFLUORESCENCIA",
+        "preço": 0,
+        "código": 406012770,
+        "mnemônico": "HISTOF2"
+    },
+    {
+        "id": 865,
+        "nome": "3 PD EM IMUNOFLUORESCENCIA",
+        "preço": 0,
+        "código": 406012770,
+        "mnemônico": "HISTOF3"
+    },
+    {
+        "id": 866,
+        "nome": "4 PD EM IMUNOFLUORESCENCIA",
+        "preço": 0,
+        "código": 406012770,
+        "mnemônico": "HISTOF4"
+    },
+    {
+        "id": 867,
+        "nome": "1 PD EM PAINEL DE HIBRIDIZACAO IN SITU",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "HIBRIDI1"
+    },
+    {
+        "id": 868,
+        "nome": "2 PD EM PAINEL DE HIBRIDIZACAO IN SITU",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "HIBRIDI2"
+    },
+    {
+        "id": 869,
+        "nome": "3 PD EM PAINEL DE HIBRIDIZACAO IN SITU",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "HIBRIDI3"
+    },
+    {
+        "id": 870,
+        "nome": "4 PD EM PAINEL DE HIBRIDIZACAO IN SITU",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "HIBRIDI4"
+    },
+    {
+        "id": 875,
+        "nome": "1 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "CITOLIQ1"
+    },
+    {
+        "id": 876,
+        "nome": "2 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "CITOLIQ2"
+    },
+    {
+        "id": 877,
+        "nome": "3 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "CITOLIQ3"
+    },
+    {
+        "id": 878,
+        "nome": "4 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "CITOLIQ4"
+    },
+    {
+        "id": 879,
+        "nome": "1 PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
+        "preço": 0,
+        "código": 406011960,
+        "mnemônico": "HISTOM1"
+    },
+    {
+        "id": 881,
+        "nome": "PESQUISA DE FUNGOS (TINTA DA CHINA) - LIQUOR",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PFU-LIQ"
+    },
+    {
+        "id": 907,
+        "nome": "EAS - EXAME DE URINA",
+        "preço": 0,
+        "código": 403112100,
+        "mnemônico": "EAS"
+    },
+    {
+        "id": 908,
+        "nome": "SODIO ",
+        "preço": 0,
+        "código": 403024230,
+        "mnemônico": "SOD"
+    },
+    {
+        "id": 909,
+        "nome": "POTASSIO",
+        "preço": 0,
+        "código": 403023180,
+        "mnemônico": "POT"
+    },
+    {
+        "id": 910,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS",
+        "preço": 0,
+        "código": 403101240,
+        "mnemônico": "CUL1"
+    },
+    {
+        "id": 913,
+        "nome": "CULTURA - AUTOMATIZADA ",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "URO"
+    },
+    {
+        "id": 914,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101240,
+        "mnemônico": "CUL2"
+    },
+    {
+        "id": 918,
+        "nome": "CULTURA - BK",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CBK"
+    },
+    {
+        "id": 970,
+        "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C02"
+    },
+    {
+        "id": 971,
+        "nome": "6 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C03"
+    },
+    {
+        "id": 972,
+        "nome": "7 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C10"
+    },
+    {
+        "id": 973,
+        "nome": "8 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C11"
+    },
+    {
+        "id": 976,
+        "nome": "3 FAT PD PRE OPERAT. SEM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010130,
+        "mnemônico": "C19"
+    },
+    {
+        "id": 977,
+        "nome": "2 FAT PD PRE OPERAT. SEM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010130,
+        "mnemônico": "C12"
+    },
+    {
+        "id": 980,
+        "nome": "POTASSIO - LIQUIDO ASCISTICO",
+        "preço": 0,
+        "código": 403023180,
+        "mnemônico": "POTASCI"
+    },
+    {
+        "id": 983,
+        "nome": "STREPTOCOCCUS AGALACTIAE (BETA HEMOLITICO DO GRUPO B)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "STB"
+    },
+    {
+        "id": 1047,
+        "nome": "1 PD EM LAMINAS DE PAAF ATE 5 - REVISAO",
+        "preço": 0,
+        "código": 406011530,
+        "mnemônico": "CITOREV1"
+    },
+    {
+        "id": 1105,
+        "nome": "TESTOSTERONA TOTAL",
+        "preço": 0,
+        "código": 403165130,
+        "mnemônico": "TST"
+    },
+    {
+        "id": 1130,
+        "nome": "ROTINA DE LIQUIDO ASCITICO",
+        "preço": 0,
+        "código": 403095250,
+        "mnemônico": "ASCL"
+    },
+    {
+        "id": 1132,
+        "nome": "GLICOSE - LIQUIDO BIOLOGICO",
+        "preço": 0,
+        "código": 403020400,
+        "mnemônico": "GBLIQ"
+    },
+    {
+        "id": 1167,
+        "nome": "STREPTOCOCCUS AGALACTIAE (BETA HEMOLITICO DO GRUPO B) (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "STB2"
+    },
+    {
+        "id": 1192,
+        "nome": "CEA - LIQUIDOS BIOLOGICOS",
+        "preço": 0,
+        "código": 403161220,
+        "mnemônico": "CEA-L"
+    },
+    {
+        "id": 1195,
+        "nome": "REVISAO EXTERNA",
+        "preço": 0,
+        "código": 406011530,
+        "mnemônico": "REV-EX"
+    },
+    {
+        "id": 1196,
+        "nome": "PCR PARA TUBERCULOSE COM GENE DE RESISTENCIA",
+        "preço": 0,
+        "código": 403145450,
+        "mnemônico": "PCRMYCO"
+    },
+    {
+        "id": 1225,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH2-INS"
+    },
+    {
+        "id": 1233,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.20.40.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH3-INS"
+    },
+    {
+        "id": 1234,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH2-CLO"
+    },
+    {
+        "id": 1235,
+        "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 5 DOSAGENS (J.60.90.120.150)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH2-GLU"
+    },
+    {
+        "id": 1236,
+        "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 4 DOSAGENS (J.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH1-LEV"
+    },
+    {
+        "id": 1243,
+        "nome": "PESQUISA DE FUNGOS (A FRESCO)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PFU-AF"
+    },
+    {
+        "id": 1249,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH3-CLO"
+    },
+    {
+        "id": 1250,
+        "nome": "8 FAT PD EM FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
+        "preço": 0,
+        "código": 406011960,
+        "mnemônico": "F08"
+    },
+    {
+        "id": 1251,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.30.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH4-CLO"
+    },
+    {
+        "id": 1260,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH4-INS"
+    },
+    {
+        "id": 1261,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.30.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH5-INS"
+    },
+    {
+        "id": 1272,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.45.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH5-CLO"
+    },
+    {
+        "id": 1279,
+        "nome": "TESTE DE ESTIMULO DE LH COM LEUPRORRELINA - 2 DOSAGENS (J.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "LH-LEU"
+    },
+    {
+        "id": 1280,
+        "nome": "TESTE DE ESTIMULO DE FSH COM LEUPRORRELINA - 2 DOSAGENS (J.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "FSH-LEU"
+    },
+    {
+        "id": 1293,
+        "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH2-LEV"
+    },
+    {
+        "id": 1294,
+        "nome": "PAINEL INFECCOES SEXUALMENTE TRANSMISSIVEIS",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "SEXT-PCR"
+    },
+    {
+        "id": 1309,
+        "nome": "PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES) - REVISAO",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "REV-IMUN"
+    },
+    {
+        "id": 1312,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 6 DOSAGENS (J.15.30.45.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH7-INS"
+    },
+    {
+        "id": 1322,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSU - 7 DOSAGENS (J.15.30.45.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH8-INS"
+    },
+    {
+        "id": 1331,
+        "nome": "6 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "HISTOI6"
+    },
+    {
+        "id": 1332,
+        "nome": "7 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "HISTOI7"
+    },
+    {
+        "id": 1333,
+        "nome": "8 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "HISTOI8"
+    },
+    {
+        "id": 1334,
+        "nome": "9 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "HISTOI9"
+    },
+    {
+        "id": 1335,
+        "nome": "CONSULTA EM CONSULTORIO (NO HORARIO NORMAL OU PREESTABELECIDO)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "ACMED"
+    },
+    {
+        "id": 1396,
+        "nome": "1 FAT HPV DETECCAO E GENOTIPAGEM DE ALTO RISCO E BAIXO RISCO",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "HPVFAT"
+    },
+    {
+        "id": 1398,
+        "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 7 DOS. (J.30.60.90.120.150.180)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH8-GLU"
+    },
+    {
+        "id": 1399,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 6 DOSAGENS (J.15.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH10-INS"
+    },
+    {
+        "id": 1403,
+        "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR",
+        "preço": 0,
+        "código": 403146180,
+        "mnemônico": "COVID-DT"
+    },
+    {
+        "id": 1423,
+        "nome": "PROCALCITONINA",
+        "preço": 0,
+        "código": 403026870,
+        "mnemônico": "PROCAL"
+    },
+    {
+        "id": 1431,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.30.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH7-CLO"
+    },
+    {
+        "id": 1437,
+        "nome": "1 HISTOPATOLOGICO - RETIFICACAO",
+        "preço": 0,
+        "código": 406011100,
+        "mnemônico": "RETIFH1"
+    },
+    {
+        "id": 1438,
+        "nome": "2 HISTOPATOLOGICO - RETIFICACAO",
+        "preço": 0,
+        "código": 406011100,
+        "mnemônico": "RETIFH2"
+    },
+    {
+        "id": 1439,
+        "nome": "1 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES) - RETIFICACA",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "RETIFI1"
+    },
+    {
+        "id": 1440,
+        "nome": "2 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES) - RETIFICACA",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "RETIFI2"
+    },
+    {
+        "id": 1445,
+        "nome": "UREIA - URINA RECENTE",
+        "preço": 0,
+        "código": 403025800,
+        "mnemônico": "UREIA-UR"
+    },
+    {
+        "id": 1454,
+        "nome": "3 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES) - RETIFICACA",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "RETIFI3"
+    },
+    {
+        "id": 1460,
+        "nome": "2 PD EM LAMINAS DE PAAF ATE 5 - REVISAO",
+        "preço": 0,
+        "código": 406011530,
+        "mnemônico": "CITOREV2"
+    },
+    {
+        "id": 1466,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 6 DOSAGENS (J.20.40.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH12-INS"
+    },
+    {
+        "id": 1468,
+        "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR - LAUDO INGLES",
+        "preço": 0,
+        "código": 403146180,
+        "mnemônico": "COVIDING"
+    },
+    {
+        "id": 1480,
+        "nome": "3 HISTOPATOLOGICO - RETIFICACAO",
+        "preço": 0,
+        "código": 406011100,
+        "mnemônico": "RETIFH3"
+    },
+    {
+        "id": 1481,
+        "nome": "4 HISTOPATOLOGICO - RETIFICACAO",
+        "preço": 0,
+        "código": 406011100,
+        "mnemônico": "RETIFH4"
+    },
+    {
+        "id": 1482,
+        "nome": "5 HISTOPATOLOGICO - RETIFICACAO",
+        "preço": 0,
+        "código": 406011100,
+        "mnemônico": "RETIFH5"
+    },
+    {
+        "id": 1489,
+        "nome": "9 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C24"
+    },
+    {
+        "id": 1513,
+        "nome": "01 FAT PUNCAO ASPIRATIVA POR AGULHA FINA GUIADA POR ULTRASSOM",
+        "preço": 0,
+        "código": 406010130,
+        "mnemônico": "FPAAFSS1"
+    },
+    {
+        "id": 1514,
+        "nome": "02 FAT PUNCAO ASPIRATIVA POR AGULHA FINA GUIADA POR ULTRASSOM",
+        "preço": 0,
+        "código": 406010130,
+        "mnemônico": "FPAAFSS2"
+    },
+    {
+        "id": 1525,
+        "nome": "PESQUISA DE FUNGOS (A FRESCO) (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PFU-AF2"
+    },
+    {
+        "id": 1526,
+        "nome": "PESQUISA DE FUNGOS (A FRESCO) (3ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PFU-AF3"
+    },
+    {
+        "id": 1527,
+        "nome": "PESQUISA DE FUNGOS (A FRESCO) (4ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PFU-AF4"
+    },
+    {
+        "id": 1537,
+        "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "P11"
+    },
+    {
+        "id": 1538,
+        "nome": "6 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "P12"
+    },
+    {
+        "id": 1539,
+        "nome": "8 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "P13"
+    },
+    {
+        "id": 1540,
+        "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "P14"
+    },
+    {
+        "id": 1541,
+        "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "P15"
+    },
+    {
+        "id": 1581,
+        "nome": "ACERTO EXAMES",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "ACERTO"
+    },
+    {
+        "id": 1662,
+        "nome": "6 FAT PD EM LAMINAS DE PAAF ATE 5",
+        "preço": 0,
+        "código": 406012500,
+        "mnemônico": "CF6"
+    },
+    {
+        "id": 1663,
+        "nome": "7 FAT PD EM LAMINAS DE PAAF ATE 5",
+        "preço": 0,
+        "código": 406012500,
+        "mnemônico": "CF7"
+    },
+    {
+        "id": 1664,
+        "nome": "8 FAT PD EM LAMINAS DE PAAF ATE 5",
+        "preço": 0,
+        "código": 406012500,
+        "mnemônico": "CF8"
+    },
+    {
+        "id": 1686,
+        "nome": "BIOPSIA PULMONAR GUIADA POR TOMOGRAFIA OU US",
+        "preço": 0,
+        "código": 999999990,
+        "mnemônico": "BIOPUL"
+    },
+    {
+        "id": 1688,
+        "nome": "BIOPSIA DE PROSTATA GUIADA POR US OU TC",
+        "preço": 0,
+        "código": 999999990,
+        "mnemônico": "BIOPROS"
+    },
+    {
+        "id": 1692,
+        "nome": "22 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "D30"
+    },
+    {
+        "id": 1693,
+        "nome": "23 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "D31"
+    },
+    {
+        "id": 1694,
+        "nome": "24 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "D32"
+    },
+    {
+        "id": 1695,
+        "nome": "25 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "D33"
+    },
+    {
+        "id": 1696,
+        "nome": "26 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "D34"
+    },
+    {
+        "id": 1697,
+        "nome": "27 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "D35"
+    },
+    {
+        "id": 1698,
+        "nome": "28 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "D36"
+    },
+    {
+        "id": 1772,
+        "nome": "9 FAT PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
+        "preço": 0,
+        "código": 406011960,
+        "mnemônico": "F09"
+    },
+    {
+        "id": 1773,
+        "nome": "10 FAT PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
+        "preço": 0,
+        "código": 406011960,
+        "mnemônico": "F10"
+    },
+    {
+        "id": 1786,
+        "nome": "19 FAT PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 406012000,
+        "mnemônico": "C103"
+    },
+    {
+        "id": 1815,
+        "nome": "ANTIGENO CRYPTOCOCCUS NEOFORMANS - SANGUE",
+        "preço": 0,
+        "código": 403090530,
+        "mnemônico": "PCRYS"
+    },
+    {
+        "id": 1822,
+        "nome": "DETECCAO DO HPV DE ALTO RISCO POR PCR",
+        "preço": 0,
+        "código": 403141540,
+        "mnemônico": "HPV-PCR"
+    },
+    {
+        "id": 1824,
+        "nome": "1 FAT PAINEL INFECCOES SEXUALMENTE TRANSMISSIVEIS",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "SEXTFAT"
+    },
+    {
+        "id": 1831,
+        "nome": "GENE HER2 (QUANTITATIVO) POR PCR",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "HER2PCR"
+    },
+    {
+        "id": 1838,
+        "nome": "ANTIBIOGRAMA - NAO AUTOMATIZADO",
+        "preço": 0,
+        "código": 403104260,
+        "mnemônico": "ANTIB"
+    },
+    {
+        "id": 1850,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.30.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH9-CLO"
+    },
+    {
+        "id": 1860,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.30.60.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH10-CLO"
+    },
+    {
+        "id": 1867,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSU - 7 DOSAGENS(J.20.30.40.60.90.120)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "GH19-INS"
+    },
+    {
+        "id": 1888,
+        "nome": "ANTIGENO CRYPTOCOCCUS NEOFORMANS - LIQUOR",
+        "preço": 0,
+        "código": 403090530,
+        "mnemônico": "PCRYP"
+    },
+    {
+        "id": 1987,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 7 DOSANG.(J.15.30.45,60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH21-INS"
+    },
+    {
+        "id": 1990,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.40.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH22-INS"
+    },
+    {
+        "id": 2011,
+        "nome": "POTASSIO POS DIALISE",
+        "preço": 0,
+        "código": 403023180,
+        "mnemônico": "POT-PD"
+    },
+    {
+        "id": 2012,
+        "nome": "SODIO POS DIALISE",
+        "preço": 0,
+        "código": 403024230,
+        "mnemônico": "SOD-PD"
+    },
+    {
+        "id": 2013,
+        "nome": "CREATININA POS DIALISE",
+        "preço": 0,
+        "código": 403016300,
+        "mnemônico": "CREA-PD"
+    },
+    {
+        "id": 2014,
+        "nome": "GLICOSE POS DIALISE",
+        "preço": 0,
+        "código": 403020400,
+        "mnemônico": "GB-PD"
+    },
+    {
+        "id": 2032,
+        "nome": "PAINEL MOLECULAR DE ULCERA GENITAL",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "PAMOULG"
+    },
+    {
+        "id": 2033,
+        "nome": "PAINEL MOLECULAR DE CANDIDIASE",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "PAMECAN"
+    },
+    {
+        "id": 2035,
+        "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 6 DOSAGENS (J.30.60.90.120.150)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH12-GLU"
+    },
+    {
+        "id": 2054,
+        "nome": "29 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "D37"
+    },
+    {
+        "id": 2055,
+        "nome": "30 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "D38"
+    },
+    {
+        "id": 2063,
+        "nome": "PESQUISA DE FUNGOS (KOH)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PFU-K"
+    },
+    {
+        "id": 2096,
+        "nome": "TESTE DE ESTIMULO DE LH  E FSH COM LEUPRORRELINA - 2 DOSAGENS (J.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "LHFSH-LE"
+    },
+    {
+        "id": 2104,
+        "nome": "TESTE DE ESTIMULO DE FSH/ESTRADIOL COM LEUPRORRELINA - 2 DOSAG.(J.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "FSHEST-L"
+    },
+    {
+        "id": 2105,
+        "nome": "TESTE DE ESTIMULO DE LH/ESTRADIOL COM LEUPRORRELINA - 2 DOSAG.(J.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "LHEST-L"
+    },
+    {
+        "id": 2131,
+        "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 5 DOSAGENS (J.60.90.120.150)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH5-LEV"
+    },
+    {
+        "id": 2145,
+        "nome": "ACIDO FOLICO",
+        "preço": 0,
+        "código": 403010870,
+        "mnemônico": "AFOLIE"
+    },
+    {
+        "id": 2147,
+        "nome": "TIROXINA T4 LIVRE",
+        "preço": 0,
+        "código": 403164910,
+        "mnemônico": "T4LE"
+    },
+    {
+        "id": 2163,
+        "nome": "SULFATO DE DEHIDROEPIANDROSTERONA (S-DHEA)",
+        "preço": 0,
+        "código": 403164590,
+        "mnemônico": "DHEASE"
+    },
+    {
+        "id": 2165,
+        "nome": "ESTRADIOL",
+        "preço": 0,
+        "código": 403162460,
+        "mnemônico": "ESTRE"
+    },
+    {
+        "id": 2166,
+        "nome": "FERRITINA",
+        "preço": 0,
+        "código": 403162700,
+        "mnemônico": "FERRIE"
+    },
+    {
+        "id": 2167,
+        "nome": "FOLICO ESTIMULANTE, HORMONIO (FSH) ",
+        "preço": 0,
+        "código": 403162890,
+        "mnemônico": "FSHE"
+    },
+    {
+        "id": 2179,
+        "nome": "SOMATOMEDINA C (IGF1)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "IGF1E"
+    },
+    {
+        "id": 2182,
+        "nome": "INSULINA",
+        "preço": 0,
+        "código": 403163600,
+        "mnemônico": "INSE"
+    },
+    {
+        "id": 2186,
+        "nome": "RUBEOLA IGG",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "RUBEGE"
+    },
+    {
+        "id": 2193,
+        "nome": "PROLACTINA",
+        "preço": 0,
+        "código": 403164160,
+        "mnemônico": "PROLE"
+    },
+    {
+        "id": 2216,
+        "nome": "TESTE DE ESTIMULO DE FSH COM LEUPRORRELINA - 2 DOSAGENS (J.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEFSH1"
+    },
+    {
+        "id": 2217,
+        "nome": "TESTE DE ESTIMULO DE LH/ESTRADIOL COM LEUPRORRELINA - 2 DOSAG.(J.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TELH10"
+    },
+    {
+        "id": 2226,
+        "nome": "TESTE DE ESTIMULO DE FSH/ESTRADIOL COM LEUPRORRELINA - 2 DOSAG.(J.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEFSH8"
+    },
+    {
+        "id": 2232,
+        "nome": "TESTE DE ESTIMULO DE LH COM LEUPRORRELINA - 2 DOSAGENS (J.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TELH2"
+    },
+    {
+        "id": 2234,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.30.60.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH5V"
+    },
+    {
+        "id": 2235,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.30.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH6"
+    },
+    {
+        "id": 2236,
+        "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 5 DOSAGENS (J.60.90.120.150)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH54"
+    },
+    {
+        "id": 2237,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.45.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH9"
+    },
+    {
+        "id": 2238,
+        "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 4 DOSAGENS (J.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH52"
+    },
+    {
+        "id": 2241,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH11"
+    },
+    {
+        "id": 2243,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 7 DOSANG.(J.15.30.45,60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH50"
+    },
+    {
+        "id": 2244,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 6 DOSAGENS (J.20.40.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH49"
+    },
+    {
+        "id": 2245,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH14"
+    },
+    {
+        "id": 2246,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 6 DOSAGENS (J.15.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH48"
+    },
+    {
+        "id": 2247,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 6 DOSAGENS (J.15.30.45.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH47"
+    },
+    {
+        "id": 2248,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH46"
+    },
+    {
+        "id": 2250,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.20.40.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH44"
+    },
+    {
+        "id": 2254,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH39"
+    },
+    {
+        "id": 2255,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.40.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH38"
+    },
+    {
+        "id": 2257,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.30.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH36"
+    },
+    {
+        "id": 2263,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSU - 7 DOSAGENS(J.20.30.40.60.90.120)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TEGH31"
+    },
+    {
+        "id": 2267,
+        "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 5 DOSAGENS (J.60.90.120.150)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH25"
+    },
+    {
+        "id": 2269,
+        "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 6 DOSAGENS (J.30.60.90.120.150)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH27"
+    },
+    {
+        "id": 2270,
+        "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 7 DOS. (J.30.60.90.120.150.180)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH29"
+    },
+    {
+        "id": 2276,
+        "nome": "TESTOSTERONA TOTAL",
+        "preço": 0,
+        "código": 403165130,
+        "mnemônico": "TESTTE"
+    },
+    {
+        "id": 2278,
+        "nome": "TSH - HORMONIO TIREOESTIMULANTE ",
+        "preço": 0,
+        "código": 403165210,
+        "mnemônico": "TSHE"
+    },
+    {
+        "id": 2279,
+        "nome": "VITAMINA B12",
+        "preço": 0,
+        "código": 403165720,
+        "mnemônico": "VB12E"
+    },
+    {
+        "id": 2281,
+        "nome": "VITAMINA \"D\" 25 HIDROXI",
+        "preço": 0,
+        "código": 403028300,
+        "mnemônico": "VIT25E"
+    }
+]

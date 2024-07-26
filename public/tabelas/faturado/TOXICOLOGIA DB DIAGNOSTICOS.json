@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1827,
+        "nome": "TOXICOLOGICO DB - CLIENTE BALCAO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TOXDBB"
+    },
+    {
+        "id": 1828,
+        "nome": "TOXICOLOGICO DB - CLIENTE VOUCHER",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TOXDBV"
+    }
+]

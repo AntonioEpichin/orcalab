@@ -1,0 +1,44 @@
+[
+    {
+        "id": 735,
+        "nome": "1 FAT PD EM LAMINAS DE PAAF ATE 5",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "C69"
+    },
+    {
+        "id": 861,
+        "nome": "1 PD EM LAMINAS DE PAAF ATE 5",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CITOP1"
+    },
+    {
+        "id": 862,
+        "nome": "4 PD EM LAMINAS DE PAAF ATE 5",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CITOP4"
+    },
+    {
+        "id": 1662,
+        "nome": "6 FAT PD EM LAMINAS DE PAAF ATE 5",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CF6"
+    },
+    {
+        "id": 1663,
+        "nome": "7 FAT PD EM LAMINAS DE PAAF ATE 5",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CF7"
+    },
+    {
+        "id": 1664,
+        "nome": "8 FAT PD EM LAMINAS DE PAAF ATE 5",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CF8"
+    }
+]

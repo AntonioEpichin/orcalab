@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1001,
+        "nome": "US - ABDOME TOTAL (ABDOME SUPERIOR, RINS, BEXIGA, AORTA, VEIA CAVA INF",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "USABDOME"
+    },
+    {
+        "id": 1358,
+        "nome": "RX - COLUNA CERVICAL - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-COLCAP"
+    },
+    {
+        "id": 1360,
+        "nome": "RX - COLUNA DORSAL - 2 INCIDENCIAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-COLDAP"
+    },
+    {
+        "id": 1361,
+        "nome": "RX - COLUNA LOMBO-SACRA - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": 408020510,
+        "mnemônico": "R-COLLSA"
+    },
+    {
+        "id": 1368,
+        "nome": "RX - CRANIO - 2 INCIDENCIAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-CRALAT"
+    },
+    {
+        "id": 1388,
+        "nome": "RX - PUNHO",
+        "preço": 0,
+        "código": 408031120,
+        "mnemônico": "R-PUNOB"
+    },
+    {
+        "id": 1391,
+        "nome": "RX - TORAX - 1 INCIDENCIA",
+        "preço": 0,
+        "código": 408050180,
+        "mnemônico": "R-TXPA"
+    },
+    {
+        "id": 1392,
+        "nome": "RX - TORAX - 2 INCIDENCIAS ",
+        "preço": 0,
+        "código": 408050180,
+        "mnemônico": "R-TXPALA"
+    },
+    {
+        "id": 1412,
+        "nome": "RX - PUNHO",
+        "preço": 0,
+        "código": 408031120,
+        "mnemônico": "R-PUNOB2"
+    },
+    {
+        "id": 1421,
+        "nome": "TORAX OIT - MEDICINA DO TRABALHO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-TXOIT"
+    },
+    {
+        "id": 1554,
+        "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCCRANIO"
+    },
+    {
+        "id": 1561,
+        "nome": "TC - ABDOME TOTAL (ABDOME SUPERIOR, PELVE E RETROPERITONIO)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCABDOMT"
+    },
+    {
+        "id": 1916,
+        "nome": "TORAX PA E PERFIL OIT - 2 INCIDENCIAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-PAPOIT"
+    }
+]

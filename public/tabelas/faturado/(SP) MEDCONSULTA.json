@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1000,
+        "nome": "US - MAMAS FEMININA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "USMAMASF"
+    },
+    {
+        "id": 1020,
+        "nome": "US - TRANSVAGINAL (UTERO, OVARIO, ANEXOS E VAGINA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "USTRANSV"
+    },
+    {
+        "id": 1342,
+        "nome": "RX - ABDOME SIMPLES",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-ABDAP"
+    },
+    {
+        "id": 1343,
+        "nome": "RX - ADENOIDES OU CAVUM",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-ADELAT"
+    },
+    {
+        "id": 1348,
+        "nome": "RX - ARTICULACAO COXOFEMORAL (QUADRIL)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-ARTCXF"
+    },
+    {
+        "id": 1350,
+        "nome": "RX - ARTICULACAO ESTERNOCLAVICULAR",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-ARTCLA"
+    },
+    {
+        "id": 1352,
+        "nome": "RX - ARTICULACAO TIBIOTARSICA (TORNOZELO)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-ARTTIB"
+    },
+    {
+        "id": 1353,
+        "nome": "RX - BACIA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-BAAP"
+    },
+    {
+        "id": 1354,
+        "nome": "RX - BRACO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-BRACO"
+    },
+    {
+        "id": 1358,
+        "nome": "RX - COLUNA CERVICAL - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-COLCAP"
+    },
+    {
+        "id": 1361,
+        "nome": "RX - COLUNA LOMBO-SACRA - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-COLLSA"
+    },
+    {
+        "id": 1368,
+        "nome": "RX - CRANIO - 2 INCIDENCIAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-CRALAT"
+    },
+    {
+        "id": 1369,
+        "nome": "RX - CRANIO - 4 INCIDENCIAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-CRAHIR"
+    },
+    {
+        "id": 1370,
+        "nome": "RX - CRANIO - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-CRABRE"
+    },
+    {
+        "id": 1389,
+        "nome": "RX - SEIOS DA FACE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-SEFMN"
+    },
+    {
+        "id": 1391,
+        "nome": "RX - TORAX - 1 INCIDENCIA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-TXPA"
+    },
+    {
+        "id": 1392,
+        "nome": "RX - TORAX - 2 INCIDENCIAS ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-TXPALA"
+    },
+    {
+        "id": 1406,
+        "nome": "RX - ABDOME AGUDO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-ABAGUD"
+    },
+    {
+        "id": 1427,
+        "nome": "US - MAMAS MASCULINA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "USMAMASC"
+    },
+    {
+        "id": 1487,
+        "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "M-COVBIL"
+    },
+    {
+        "id": 1523,
+        "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR (OU DOIS SEGMENTOS)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "D-COLFEM"
+    },
+    {
+        "id": 1642,
+        "nome": "RX - ARTICULACAO TIBIOTARSICA (TORNOZELO)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-ARTTI2"
+    },
+    {
+        "id": 1677,
+        "nome": "RX - ARTICULACAO COXOFEMORAL (QUADRIL)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-ARTCX2"
+    },
+    {
+        "id": 1747,
+        "nome": "US - MAMAS FEMININA - UNIMED",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "USMAMAFU"
+    }
+]

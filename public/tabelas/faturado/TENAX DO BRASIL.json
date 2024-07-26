@@ -1,0 +1,44 @@
+[
+    {
+        "id": 4,
+        "nome": "FERRITINA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "FERRI"
+    },
+    {
+        "id": 117,
+        "nome": "PROTEINA C REATIVA, QUANTITATIVA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PCR"
+    },
+    {
+        "id": 494,
+        "nome": "DIMERO D",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "DIMERO"
+    },
+    {
+        "id": 535,
+        "nome": "HEMOGRAMA COMPLETO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HEM"
+    },
+    {
+        "id": 1403,
+        "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "COVID-DT"
+    },
+    {
+        "id": 2166,
+        "nome": "FERRITINA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "FERRIE"
+    }
+]

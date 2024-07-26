@@ -1,0 +1,114 @@
+[
+    {
+        "id": 77,
+        "nome": "ANTIGENO CA 125",
+        "preço": 0,
+        "código": 403163780,
+        "mnemônico": "CA125"
+    },
+    {
+        "id": 79,
+        "nome": "ANTIGENO CARCINOEMBRIOGENICO (CEA)",
+        "preço": 0,
+        "código": 403161220,
+        "mnemônico": "CEA"
+    },
+    {
+        "id": 157,
+        "nome": "ANTIGENO CA 15-3",
+        "preço": 0,
+        "código": 403163780,
+        "mnemônico": "CA15-3"
+    },
+    {
+        "id": 199,
+        "nome": "ANTIGENO CA 19.9",
+        "preço": 0,
+        "código": 403163780,
+        "mnemônico": "CA19/9"
+    },
+    {
+        "id": 538,
+        "nome": "COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 406011370,
+        "mnemônico": "COLP"
+    },
+    {
+        "id": 875,
+        "nome": "1 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "CITOLIQ1"
+    },
+    {
+        "id": 1000,
+        "nome": "US - MAMAS FEMININA",
+        "preço": 0,
+        "código": 409011140,
+        "mnemônico": "USMAMASF"
+    },
+    {
+        "id": 1020,
+        "nome": "US - TRANSVAGINAL (UTERO, OVARIO, ANEXOS E VAGINA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "USTRANSV"
+    },
+    {
+        "id": 1375,
+        "nome": "MAMOGRAFIA DIGITAL BILATERAL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "M-DIGBIL"
+    },
+    {
+        "id": 1487,
+        "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL",
+        "preço": 0,
+        "código": 408080330,
+        "mnemônico": "M-COVBIL"
+    },
+    {
+        "id": 1523,
+        "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR (OU DOIS SEGMENTOS)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "D-COLFEM"
+    },
+    {
+        "id": 1564,
+        "nome": "BIOPSIA PERCUTANEA DE FRAGMENTO MAMARIO POR AGULHA GROSSA (CORE BIOPSY",
+        "preço": 0,
+        "código": 408080920,
+        "mnemônico": "COREBIOP"
+    },
+    {
+        "id": 1643,
+        "nome": "OUTUBRO ROSA - PACOTE 1",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "OR-PCT1"
+    },
+    {
+        "id": 1644,
+        "nome": "OUTUBRO ROSA - PACOTE 2",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "OR-PCT2"
+    },
+    {
+        "id": 1645,
+        "nome": "OUTUBRO ROSA - PACOTE 3",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "OR-PCT3"
+    },
+    {
+        "id": 1648,
+        "nome": "OUTUBRO ROSA - PACOTE 4",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "OR-PCT4"
+    }
+]

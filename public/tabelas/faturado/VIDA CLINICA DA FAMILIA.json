@@ -1,0 +1,16 @@
+[
+    {
+        "id": 538,
+        "nome": "COLPOCITOLOGICO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "COLP"
+    },
+    {
+        "id": 772,
+        "nome": "FAT COLPOCITOLOGICO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "COLPFAT"
+    }
+]

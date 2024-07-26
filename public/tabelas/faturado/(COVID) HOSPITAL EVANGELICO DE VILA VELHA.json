@@ -1,0 +1,93 @@
+[
+    {
+        "id": 138,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "EPF2"
+    },
+    {
+        "id": 139,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (3ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "EPF3"
+    },
+    {
+        "id": 140,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 40310426,
+        "mnemônico": "TSG1"
+    },
+    {
+        "id": 494,
+        "nome": "DIMERO D",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "DIMERO"
+    },
+    {
+        "id": 557,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (1ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "EPF"
+    },
+    {
+        "id": 662,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (4ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "EPF4"
+    },
+    {
+        "id": 663,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (5ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "EPF5"
+    },
+    {
+        "id": 910,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS",
+        "preço": 0,
+        "código": 40310400,
+        "mnemônico": "CUL1"
+    },
+    {
+        "id": 1117,
+        "nome": "CITOMEGALOVIRUS (QUANTITATIVO) POR PCR",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CMVQUAN"
+    },
+    {
+        "id": 1275,
+        "nome": "CITOMEGALOVIRUS (QUANTITATIVO) POR PCR - URINA RECENTE",
+        "preço": 0,
+        "código": 40314030,
+        "mnemônico": "CITO-URI"
+    },
+    {
+        "id": 1295,
+        "nome": "INFLUENZA A E B, VIRUS SINCICIAL A E B E SARS-COV-2 POR PCR",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "INFLUPCR"
+    },
+    {
+        "id": 1403,
+        "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "COVID-DT"
+    },
+    {
+        "id": 1468,
+        "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR - LAUDO INGLES",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "COVIDING"
+    }
+]

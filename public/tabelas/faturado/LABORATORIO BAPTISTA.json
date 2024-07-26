@@ -1,0 +1,23 @@
+[
+    {
+        "id": 537,
+        "nome": "ESPERMOGRAMA",
+        "preço": 0,
+        "código": 403093120,
+        "mnemônico": "ESP"
+    },
+    {
+        "id": 538,
+        "nome": "COLPOCITOLOGICO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "COLP"
+    },
+    {
+        "id": 1403,
+        "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "COVID-DT"
+    }
+]

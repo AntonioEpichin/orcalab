@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1225,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH2-INS"
+    },
+    {
+        "id": 1234,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH2-CLO"
+    },
+    {
+        "id": 1293,
+        "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH2-LEV"
+    },
+    {
+        "id": 1335,
+        "nome": "CONSULTA EM CONSULTORIO (NO HORARIO NORMAL OU PREESTABELECIDO)",
+        "preço": 0,
+        "código": 101010120,
+        "mnemônico": "ACMED"
+    },
+    {
+        "id": 2131,
+        "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 5 DOSAGENS (J.60.90.120.150)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH5-LEV"
+    },
+    {
+        "id": 2236,
+        "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 5 DOSAGENS (J.60.90.120.150)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH54"
+    },
+    {
+        "id": 2245,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH14"
+    },
+    {
+        "id": 2248,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH46"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1225,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH2-INS"
+    },
+    {
+        "id": 2248,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH46"
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1487,
+        "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "M-COVBIL"
+    },
+    {
+        "id": 1523,
+        "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR (OU DOIS SEGMENTOS)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "D-COLFEM"
+    },
+    {
+        "id": 1552,
+        "nome": "TC - MANDIBULA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCMAND"
+    },
+    {
+        "id": 1553,
+        "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCCOL2"
+    },
+    {
+        "id": 1554,
+        "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCCRANIO"
+    },
+    {
+        "id": 1555,
+        "nome": "TC - MASTOIDES OU ORELHAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCMASOUV"
+    },
+    {
+        "id": 1557,
+        "nome": "TC - PELVE OU BACIA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCPELBA"
+    },
+    {
+        "id": 1558,
+        "nome": "TC - ABDOME SUPERIOR",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCABDOMS"
+    },
+    {
+        "id": 1559,
+        "nome": "TC - PESCOCO (PARTES MOLES, LARINGE, TIREOIDE, FARINGE E GLADULAS SALI",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCPESC"
+    },
+    {
+        "id": 1560,
+        "nome": "TC - TORAX",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCTORAX"
+    },
+    {
+        "id": 1561,
+        "nome": "TC - ABDOME TOTAL (ABDOME SUPERIOR, PELVE E RETROPERITONIO)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCABDOMT"
+    },
+    {
+        "id": 1565,
+        "nome": "RM - ARTICULAR (POR ATICULACAO)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "RMARTIR3"
+    },
+    {
+        "id": 1568,
+        "nome": "RM - MEMBRO SUPERIOR UNILATERAL (NAO INCLUI MAO E ARTICULACOES)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "RMMEBSUP"
+    },
+    {
+        "id": 1569,
+        "nome": "RM - FETAL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "RMFETAL"
+    },
+    {
+        "id": 1658,
+        "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "RMCOLCE2"
+    },
+    {
+        "id": 1661,
+        "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "RMCOLCE3"
+    },
+    {
+        "id": 1687,
+        "nome": "TC - TORAX",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCTORAX2"
+    },
+    {
+        "id": 1702,
+        "nome": "RM - ARTICULAR (POR ATICULACAO)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "RMARTIR4"
+    },
+    {
+        "id": 1724,
+        "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCCRANI2"
+    }
+]

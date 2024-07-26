@@ -1,0 +1,37 @@
+[
+    {
+        "id": 19,
+        "nome": "ESTRADIOL",
+        "preço": 0,
+        "código": 403162460,
+        "mnemônico": "ESTR"
+    },
+    {
+        "id": 548,
+        "nome": "HEMATOCRITO, DETERMINACAO DO",
+        "preço": 0,
+        "código": 403043370,
+        "mnemônico": "HCTO"
+    },
+    {
+        "id": 1105,
+        "nome": "TESTOSTERONA TOTAL",
+        "preço": 0,
+        "código": 403165130,
+        "mnemônico": "TST"
+    },
+    {
+        "id": 2165,
+        "nome": "ESTRADIOL",
+        "preço": 0,
+        "código": 403162460,
+        "mnemônico": "ESTRE"
+    },
+    {
+        "id": 2276,
+        "nome": "TESTOSTERONA TOTAL",
+        "preço": 0,
+        "código": 403165130,
+        "mnemônico": "TESTTE"
+    }
+]

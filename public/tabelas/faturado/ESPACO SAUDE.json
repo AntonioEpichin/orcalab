@@ -1,0 +1,23 @@
+[
+    {
+        "id": 538,
+        "nome": "COLPOCITOLOGICO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "COLP"
+    },
+    {
+        "id": 649,
+        "nome": "DETECCAO E GENOTIPAGEM HPV DE ALTO RISCO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HPV-GENO"
+    },
+    {
+        "id": 1294,
+        "nome": "PAINEL INFECCOES SEXUALMENTE TRANSMISSIVEIS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "SEXT-PCR"
+    }
+]

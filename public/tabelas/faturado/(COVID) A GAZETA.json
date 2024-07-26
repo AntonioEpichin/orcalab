@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1295,
+        "nome": "INFLUENZA A E B, VIRUS SINCICIAL A E B E SARS-COV-2 POR PCR",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "INFLUPCR"
+    },
+    {
+        "id": 1403,
+        "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "COVID-DT"
+    },
+    {
+        "id": 1468,
+        "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR - LAUDO INGLES",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "COVIDING"
+    },
+    {
+        "id": 1703,
+        "nome": "COVID-19 - TESTE RAPIDO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TRCOVID"
+    }
+]

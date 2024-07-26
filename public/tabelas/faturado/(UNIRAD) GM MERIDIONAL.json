@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1001,
+        "nome": "US - ABDOME TOTAL (ABDOME SUPERIOR, RINS, BEXIGA, AORTA, VEIA CAVA INF",
+        "preço": 0,
+        "código": 409011220,
+        "mnemônico": "USABDOME"
+    },
+    {
+        "id": 1033,
+        "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO INFERIOR - UNILATERAL",
+        "preço": 0,
+        "código": 409014750,
+        "mnemônico": "MARTI"
+    },
+    {
+        "id": 1034,
+        "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO INFERIOR - UNILATERAL",
+        "preço": 0,
+        "código": 409014830,
+        "mnemônico": "MVENI"
+    },
+    {
+        "id": 1324,
+        "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO INFERIOR - UNILATERAL",
+        "preço": 0,
+        "código": 409014830,
+        "mnemônico": "MVENI2"
+    },
+    {
+        "id": 1354,
+        "nome": "RX - BRACO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-BRACO"
+    },
+    {
+        "id": 1523,
+        "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR (OU DOIS SEGMENTOS)",
+        "preço": 0,
+        "código": 408081300,
+        "mnemônico": "D-COLFEM"
+    },
+    {
+        "id": 1578,
+        "nome": "RX - BRACO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-BRACO2"
+    },
+    {
+        "id": 1831,
+        "nome": "GENE HER2 (QUANTITATIVO) POR PCR",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "HER2PCR"
+    }
+]

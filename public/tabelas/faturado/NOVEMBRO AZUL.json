@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1022,
+        "nome": "US - PROSTATA (VIA ABDOMINAL)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "USPROST"
+    },
+    {
+        "id": 2056,
+        "nome": "NOVEMBRO AZUL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "NOV-AZUL"
+    }
+]

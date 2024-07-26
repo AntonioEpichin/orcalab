@@ -1,0 +1,163 @@
+[
+    {
+        "id": 535,
+        "nome": "HEMOGRAMA COMPLETO",
+        "preço": 0,
+        "código": 403043610,
+        "mnemônico": "HEM"
+    },
+    {
+        "id": 567,
+        "nome": "TRIGLICERIDEOS",
+        "preço": 0,
+        "código": 403025470,
+        "mnemônico": "TRI"
+    },
+    {
+        "id": 568,
+        "nome": "UREIA",
+        "preço": 0,
+        "código": 403025800,
+        "mnemônico": "URE"
+    },
+    {
+        "id": 574,
+        "nome": "HEMOGLOBINA GLICADA (FRACAO A1C) ",
+        "preço": 0,
+        "código": 403020750,
+        "mnemônico": "HG"
+    },
+    {
+        "id": 577,
+        "nome": "GLICOSE",
+        "preço": 0,
+        "código": 403020400,
+        "mnemônico": "GB"
+    },
+    {
+        "id": 579,
+        "nome": "COLESTEROL (HDL) ",
+        "preço": 0,
+        "código": 403015830,
+        "mnemônico": "HDL"
+    },
+    {
+        "id": 591,
+        "nome": "CREATININA ",
+        "preço": 0,
+        "código": 403016300,
+        "mnemônico": "CREA"
+    },
+    {
+        "id": 592,
+        "nome": "COLESTEROL TOTAL ",
+        "preço": 0,
+        "código": 403016050,
+        "mnemônico": "COL"
+    },
+    {
+        "id": 1352,
+        "nome": "RX - ARTICULACAO TIBIOTARSICA (TORNOZELO)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-ARTTIB"
+    },
+    {
+        "id": 1353,
+        "nome": "RX - BACIA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-BAAP"
+    },
+    {
+        "id": 1367,
+        "nome": "RX - COXA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-CXFMU"
+    },
+    {
+        "id": 1371,
+        "nome": "RX - ESCANOMETRIA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-ESCANO"
+    },
+    {
+        "id": 1374,
+        "nome": "RX - JOELHO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-JAPLAT"
+    },
+    {
+        "id": 1387,
+        "nome": "RX - PERNA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-PERTIB"
+    },
+    {
+        "id": 1391,
+        "nome": "RX - TORAX - 1 INCIDENCIA",
+        "preço": 0,
+        "código": 408050180,
+        "mnemônico": "R-TXPA"
+    },
+    {
+        "id": 1392,
+        "nome": "RX - TORAX - 2 INCIDENCIAS ",
+        "preço": 0,
+        "código": 408050260,
+        "mnemônico": "R-TXPALA"
+    },
+    {
+        "id": 1394,
+        "nome": "RX - TORAX - 4 INCIDENCIAS",
+        "preço": 0,
+        "código": 408050340,
+        "mnemônico": "R-TXOBL"
+    },
+    {
+        "id": 1416,
+        "nome": "RX - JOELHO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-JAPLA2"
+    },
+    {
+        "id": 1642,
+        "nome": "RX - ARTICULACAO TIBIOTARSICA (TORNOZELO)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-ARTTI2"
+    },
+    {
+        "id": 1673,
+        "nome": "RX - PERNA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-PERTI2"
+    },
+    {
+        "id": 1684,
+        "nome": "RX - COXA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-CXFMU2"
+    },
+    {
+        "id": 2013,
+        "nome": "CREATININA POS DIALISE",
+        "preço": 0,
+        "código": 403016300,
+        "mnemônico": "CREA-PD"
+    },
+    {
+        "id": 2014,
+        "nome": "GLICOSE POS DIALISE",
+        "preço": 0,
+        "código": 403020400,
+        "mnemônico": "GB-PD"
+    }
+]

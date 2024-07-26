@@ -1,0 +1,128 @@
+[
+    {
+        "id": 538,
+        "nome": "COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 406011370,
+        "mnemônico": "COLP"
+    },
+    {
+        "id": 747,
+        "nome": "1 FAT PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "C85"
+    },
+    {
+        "id": 748,
+        "nome": "2 FAT PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "C86"
+    },
+    {
+        "id": 749,
+        "nome": "3 FAT PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "C87"
+    },
+    {
+        "id": 750,
+        "nome": "4 FAT PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "C88"
+    },
+    {
+        "id": 766,
+        "nome": "REVISAO DE COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 406011370,
+        "mnemônico": "COLPREV"
+    },
+    {
+        "id": 772,
+        "nome": "FAT COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 406011370,
+        "mnemônico": "COLPFAT"
+    },
+    {
+        "id": 875,
+        "nome": "1 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "CITOLIQ1"
+    },
+    {
+        "id": 876,
+        "nome": "2 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "CITOLIQ2"
+    },
+    {
+        "id": 877,
+        "nome": "3 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "CITOLIQ3"
+    },
+    {
+        "id": 878,
+        "nome": "4 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "CITOLIQ4"
+    },
+    {
+        "id": 1173,
+        "nome": "2 COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 406011370,
+        "mnemônico": "COLP2"
+    },
+    {
+        "id": 1294,
+        "nome": "PAINEL INFECCOES SEXUALMENTE TRANSMISSIVEIS",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "SEXT-PCR"
+    },
+    {
+        "id": 1728,
+        "nome": "PAINEL INFECCOES SEXUALMENTE TRANSMISSIVEIS",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "SEXPCRF"
+    },
+    {
+        "id": 1769,
+        "nome": "PAINEL INFECCOES SEXUALMENTE TRANSMISSIVEIS",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "SEXTPCR2"
+    },
+    {
+        "id": 1770,
+        "nome": "PAINEL INFECCOES SEXUALMENTE TRANSMISSIVEIS",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "SEXTPCR3"
+    },
+    {
+        "id": 1822,
+        "nome": "DETECCAO DO HPV DE ALTO RISCO POR PCR",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "HPV-PCR"
+    },
+    {
+        "id": 1824,
+        "nome": "1 FAT PAINEL INFECCOES SEXUALMENTE TRANSMISSIVEIS",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "SEXTFAT"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "id": 537,
+        "nome": "ESPERMOGRAMA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "ESP"
+    },
+    {
+        "id": 1096,
+        "nome": "ESPERMOGRAMA (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "ESP2"
+    }
+]

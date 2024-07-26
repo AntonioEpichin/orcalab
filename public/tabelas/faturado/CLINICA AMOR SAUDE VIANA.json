@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1358,
+        "nome": "RX - COLUNA CERVICAL - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": 40802019,
+        "mnemônico": "R-COLCAP"
+    },
+    {
+        "id": 1361,
+        "nome": "RX - COLUNA LOMBO-SACRA - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": 40802051,
+        "mnemônico": "R-COLLSA"
+    },
+    {
+        "id": 1374,
+        "nome": "RX - JOELHO",
+        "preço": 0,
+        "código": 40804054,
+        "mnemônico": "R-JAPLAT"
+    },
+    {
+        "id": 1416,
+        "nome": "RX - JOELHO",
+        "preço": 0,
+        "código": 40804054,
+        "mnemônico": "R-JAPLA2"
+    },
+    {
+        "id": 1685,
+        "nome": "TC - SEGMENTO APENDICULAR (BRACO OU ANTEBRACO OU MAO OU PERNA OU PE) ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCSEGAP2"
+    }
+]

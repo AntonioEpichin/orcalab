@@ -1,0 +1,415 @@
+[
+    {
+        "id": 1,
+        "nome": "VITAMINA B12",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "B12"
+    },
+    {
+        "id": 4,
+        "nome": "FERRITINA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "FERRI"
+    },
+    {
+        "id": 15,
+        "nome": "CORTISOL - 08:00 HORAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "C8H"
+    },
+    {
+        "id": 21,
+        "nome": "FOLICO ESTIMULANTE, HORMONIO (FSH) ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "FSH"
+    },
+    {
+        "id": 24,
+        "nome": "LH - HORMONIO LUTEINIZANTE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "LH"
+    },
+    {
+        "id": 31,
+        "nome": "HCG, PESQUISA DE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HCG"
+    },
+    {
+        "id": 38,
+        "nome": "INSULINA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "INSU"
+    },
+    {
+        "id": 40,
+        "nome": "PROLACTINA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PRL"
+    },
+    {
+        "id": 42,
+        "nome": "TESTOSTERONA LIVRE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TSL"
+    },
+    {
+        "id": 43,
+        "nome": "TIROXINA T4 LIVRE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "T4L"
+    },
+    {
+        "id": 117,
+        "nome": "PROTEINA C REATIVA, QUANTITATIVA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PCR"
+    },
+    {
+        "id": 126,
+        "nome": "SIFILIS - VDRL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "VDRL"
+    },
+    {
+        "id": 146,
+        "nome": "ALBUMINA ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "ALB"
+    },
+    {
+        "id": 148,
+        "nome": "FATOR RH",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "RH"
+    },
+    {
+        "id": 151,
+        "nome": "PSA TOTAL - ANTIGENO PROSTATICO ESPECIFICO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PSA"
+    },
+    {
+        "id": 325,
+        "nome": "CALCIO IONICO ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "IONICO"
+    },
+    {
+        "id": 356,
+        "nome": "PSA LIVRE (NAO INCLUI PSA TOTAL)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PSALIVRE"
+    },
+    {
+        "id": 535,
+        "nome": "HEMOGRAMA COMPLETO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HEM"
+    },
+    {
+        "id": 538,
+        "nome": "COLPOCITOLOGICO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "COLP"
+    },
+    {
+        "id": 542,
+        "nome": "CLASSIFICACAO SANGUINEA - GRUPO ABO E FATOR RH",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "GSA"
+    },
+    {
+        "id": 543,
+        "nome": "COAGULOGRAMA (TAP, PTTK, CONTAGEM DE PLAQUETAS)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "COA"
+    },
+    {
+        "id": 544,
+        "nome": "VHS - VELOCIDADE DE HEMOSSEDIMENTACAO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "VHS"
+    },
+    {
+        "id": 551,
+        "nome": "PLASMODIUM, PESQUISA EM GOTA ESPESSA MALARIA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PLAS"
+    },
+    {
+        "id": 562,
+        "nome": "PESQUISA SANGUE OCULTO NAS FEZES",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PSO"
+    },
+    {
+        "id": 565,
+        "nome": "ASPARTATO AMINOTRANSFERASE (TGO, AST)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TGO"
+    },
+    {
+        "id": 566,
+        "nome": "ALANINA AMINOTRANSFERASE (TGP, ALT)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TGP"
+    },
+    {
+        "id": 572,
+        "nome": "T3 LIVRE ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "T3L"
+    },
+    {
+        "id": 573,
+        "nome": "MAGNESIO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "MAG"
+    },
+    {
+        "id": 574,
+        "nome": "HEMOGLOBINA GLICADA (FRACAO A1C) ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HG"
+    },
+    {
+        "id": 576,
+        "nome": "LIPASE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "LIPA"
+    },
+    {
+        "id": 577,
+        "nome": "GLICOSE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "GB"
+    },
+    {
+        "id": 582,
+        "nome": "GAMA-GLUTAMIL TRANSFERASE ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "GT"
+    },
+    {
+        "id": 591,
+        "nome": "CREATININA ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CREA"
+    },
+    {
+        "id": 595,
+        "nome": "CALCIO ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CAL"
+    },
+    {
+        "id": 597,
+        "nome": "AMILASE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "AMI"
+    },
+    {
+        "id": 598,
+        "nome": "ACIDO URICO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "AUR"
+    },
+    {
+        "id": 599,
+        "nome": "BILIRRUBINAS (DIRETA, INDIRETA E TOTAL)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "BIL"
+    },
+    {
+        "id": 908,
+        "nome": "SODIO ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "SOD"
+    },
+    {
+        "id": 909,
+        "nome": "POTASSIO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "POT"
+    },
+    {
+        "id": 913,
+        "nome": "CULTURA - AUTOMATIZADA ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "URO"
+    },
+    {
+        "id": 1001,
+        "nome": "US - ABDOME TOTAL (ABDOME SUPERIOR, RINS, BEXIGA, AORTA, VEIA CAVA INF",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "USABDOME"
+    },
+    {
+        "id": 1391,
+        "nome": "RX - TORAX - 1 INCIDENCIA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-TXPA"
+    },
+    {
+        "id": 1442,
+        "nome": "DENGUE NS1 - TESTE RAPIDO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "DENGNS1"
+    },
+    {
+        "id": 1478,
+        "nome": "ELETROCARDIOGRAMA (ECG)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "C-ECG"
+    },
+    {
+        "id": 1861,
+        "nome": "HEPATITE C - ANTI-HCV",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HCV"
+    },
+    {
+        "id": 1878,
+        "nome": "17 BETA ESTRADIOL (E2) - PRIMEIRA AMOSTRA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "17BE2"
+    },
+    {
+        "id": 2147,
+        "nome": "TIROXINA T4 LIVRE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "T4LE"
+    },
+    {
+        "id": 2148,
+        "nome": "HEPATITE C - ANTI-HCV",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "AHCVE"
+    },
+    {
+        "id": 2150,
+        "nome": "T3 LIVRE ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "T3LE"
+    },
+    {
+        "id": 2166,
+        "nome": "FERRITINA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "FERRIE"
+    },
+    {
+        "id": 2167,
+        "nome": "FOLICO ESTIMULANTE, HORMONIO (FSH) ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "FSHE"
+    },
+    {
+        "id": 2182,
+        "nome": "INSULINA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "INSE"
+    },
+    {
+        "id": 2189,
+        "nome": "PSA TOTAL - ANTIGENO PROSTATICO ESPECIFICO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PSATE"
+    },
+    {
+        "id": 2190,
+        "nome": "PSA LIVRE (NAO INCLUI PSA TOTAL)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PSALE"
+    },
+    {
+        "id": 2193,
+        "nome": "PROLACTINA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PROLE"
+    },
+    {
+        "id": 2196,
+        "nome": "LH - HORMONIO LUTEINIZANTE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "LHE"
+    },
+    {
+        "id": 2275,
+        "nome": "TESTOSTERONA LIVRE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TESTLE"
+    },
+    {
+        "id": 2279,
+        "nome": "VITAMINA B12",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "VB12E"
+    },
+    {
+        "id": 2280,
+        "nome": "SIFILIS - VDRL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "VDRLE"
+    }
+]

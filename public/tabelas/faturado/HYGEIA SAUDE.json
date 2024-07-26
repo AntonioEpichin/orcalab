@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1357,
+        "nome": "RX - COLUNA CERVICAL - 5 INCIDENCIAS",
+        "preço": 0,
+        "código": 408020270,
+        "mnemônico": "R-COLCFU"
+    },
+    {
+        "id": 1358,
+        "nome": "RX - COLUNA CERVICAL - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": 408020190,
+        "mnemônico": "R-COLCAP"
+    },
+    {
+        "id": 1361,
+        "nome": "RX - COLUNA LOMBO-SACRA - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": 408020510,
+        "mnemônico": "R-COLLSA"
+    },
+    {
+        "id": 1362,
+        "nome": "RX - COLUNA LOMBO-SACRA - 5 INCIDENCIAS",
+        "preço": 0,
+        "código": 408020600,
+        "mnemônico": "R-COLLFU"
+    },
+    {
+        "id": 1391,
+        "nome": "RX - TORAX - 1 INCIDENCIA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-TXPA"
+    },
+    {
+        "id": 1392,
+        "nome": "RX - TORAX - 2 INCIDENCIAS ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-TXPALA"
+    },
+    {
+        "id": 1393,
+        "nome": "RX - TORAX - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-TXINEX"
+    },
+    {
+        "id": 1394,
+        "nome": "RX - TORAX - 4 INCIDENCIAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-TXOBL"
+    },
+    {
+        "id": 1421,
+        "nome": "TORAX OIT - MEDICINA DO TRABALHO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-TXOIT"
+    },
+    {
+        "id": 1474,
+        "nome": "RX - COLUNA TOTAL PARA ESCOLIOSE (TELESPONDILOGRAFIA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-CTESCO"
+    },
+    {
+        "id": 1916,
+        "nome": "TORAX PA E PERFIL OIT - 2 INCIDENCIAS",
+        "preço": 0,
+        "código": 408050260,
+        "mnemônico": "R-PAPOIT"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1001,
+        "nome": "US - ABDOME TOTAL (ABDOME SUPERIOR, RINS, BEXIGA, AORTA, VEIA CAVA INF",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "USABDOME"
+    },
+    {
+        "id": 1002,
+        "nome": "US - ABDOME SUPERIOR (FIGADO, VIAS BILIARES, VESICULA, PANCREAS E BACO",
+        "preço": 0,
+        "código": 409011300,
+        "mnemônico": "USABDSUP"
+    },
+    {
+        "id": 1006,
+        "nome": "US - ABDOME INFERIOR FEMININO (BEXIGA, UTERO, OVARIO E ANEXOS)",
+        "preço": 0,
+        "código": 409011810,
+        "mnemônico": "USABDFEM"
+    },
+    {
+        "id": 1020,
+        "nome": "US - TRANSVAGINAL (UTERO, OVARIO, ANEXOS E VAGINA)",
+        "preço": 0,
+        "código": 409013000,
+        "mnemônico": "USTRANSV"
+    },
+    {
+        "id": 1033,
+        "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO INFERIOR - UNILATERAL",
+        "preço": 0,
+        "código": 409014750,
+        "mnemônico": "MARTI"
+    },
+    {
+        "id": 1034,
+        "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO INFERIOR - UNILATERAL",
+        "preço": 0,
+        "código": 409014830,
+        "mnemônico": "MVENI"
+    },
+    {
+        "id": 1259,
+        "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO INFERIOR - UNILATERAL",
+        "preço": 0,
+        "código": 409014750,
+        "mnemônico": "MARTI2"
+    },
+    {
+        "id": 1324,
+        "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO INFERIOR - UNILATERAL",
+        "preço": 0,
+        "código": 409014830,
+        "mnemônico": "MVENI2"
+    },
+    {
+        "id": 1384,
+        "nome": "RX - PANORAMICA DE MANDIBULA (ORTOPANTOMOGRAFIA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-PANMAN"
+    },
+    {
+        "id": 1596,
+        "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO INFERIOR - UNILATERAL - UNIMED",
+        "preço": 0,
+        "código": 409014750,
+        "mnemônico": "MARTIU"
+    },
+    {
+        "id": 1689,
+        "nome": "ARCO CIRURGICO - INTENSIFICADOR DE IMAGEM",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "ARCOC"
+    },
+    {
+        "id": 1739,
+        "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO INFERIOR - UNILATERAL - UNIMED",
+        "preço": 0,
+        "código": 409014750,
+        "mnemônico": "MARTIU2"
+    }
+]

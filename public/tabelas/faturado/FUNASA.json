@@ -1,0 +1,23 @@
+[
+    {
+        "id": 130,
+        "nome": "ANTIGENO HLA B27",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "B27"
+    },
+    {
+        "id": 170,
+        "nome": "PEPTIDEO C",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PEPTC"
+    },
+    {
+        "id": 388,
+        "nome": "ANTI-CCP (ANTI PEPTIDIO CITRULINADO CICLICO)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CCP"
+    }
+]

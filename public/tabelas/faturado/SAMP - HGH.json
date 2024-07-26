@@ -1,0 +1,947 @@
+[
+    {
+        "id": 36,
+        "nome": "TESTE DE ESTIMULO DE GH - 3 DOSAGENS POS EXERCICIO (J.20.60)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GHE3D"
+    },
+    {
+        "id": 412,
+        "nome": "TESTE DE ESTIMULO DE GH - 30 MINUTOS POS EXERCICIO",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GHEX30M"
+    },
+    {
+        "id": 493,
+        "nome": "TESTE DE ESTIMULO DE GH - 20 MINUTOS POS EXERCICIO",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GHEX20M"
+    },
+    {
+        "id": 577,
+        "nome": "GLICOSE",
+        "preço": 0,
+        "código": 403020400,
+        "mnemônico": "GB"
+    },
+    {
+        "id": 1218,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.15.30.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH1-INS"
+    },
+    {
+        "id": 1219,
+        "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 5 DOSAGENS (J.15.30.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH1-GLU"
+    },
+    {
+        "id": 1220,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 5 DOSAGENS (J.15.30.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH1-CLO"
+    },
+    {
+        "id": 1225,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH2-INS"
+    },
+    {
+        "id": 1233,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.20.40.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH3-INS"
+    },
+    {
+        "id": 1234,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH2-CLO"
+    },
+    {
+        "id": 1235,
+        "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 5 DOSAGENS (J.60.90.120.150)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH2-GLU"
+    },
+    {
+        "id": 1236,
+        "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 4 DOSAGENS (J.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH1-LEV"
+    },
+    {
+        "id": 1249,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH3-CLO"
+    },
+    {
+        "id": 1251,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.30.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH4-CLO"
+    },
+    {
+        "id": 1260,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH4-INS"
+    },
+    {
+        "id": 1261,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.30.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH5-INS"
+    },
+    {
+        "id": 1272,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.45.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH5-CLO"
+    },
+    {
+        "id": 1273,
+        "nome": "TESTE DO ESTIMULO LH-RH COM LEUPRORELINA - 2 DOSAGENS (J.120)",
+        "preço": 0,
+        "código": 403055540,
+        "mnemônico": "LH-RH"
+    },
+    {
+        "id": 1279,
+        "nome": "TESTE DE ESTIMULO DE LH COM LEUPRORRELINA - 2 DOSAGENS (J.120)",
+        "preço": 0,
+        "código": 403055540,
+        "mnemônico": "LH-LEU"
+    },
+    {
+        "id": 1280,
+        "nome": "TESTE DE ESTIMULO DE FSH COM LEUPRORRELINA - 2 DOSAGENS (J.120)",
+        "preço": 0,
+        "código": 403055460,
+        "mnemônico": "FSH-LEU"
+    },
+    {
+        "id": 1281,
+        "nome": "TESTE DE ESTIMULO DE FSH COM LEUPRORRELINA - 4 DOSAGENS (J.15.30.60)",
+        "preço": 0,
+        "código": 403055460,
+        "mnemônico": "FSH1-LEU"
+    },
+    {
+        "id": 1282,
+        "nome": "TESTE DE ESTIMULO DE LH COM LEUPRORRELINA - 4 DOSAGENS (J.15.30.60)",
+        "preço": 0,
+        "código": 403055540,
+        "mnemônico": "LH1-LEU"
+    },
+    {
+        "id": 1283,
+        "nome": "TESTE DE ESTIMULO DE LH COM LEUPRORRELINA - 4 DOSAGENS (J.30.60.120)",
+        "preço": 0,
+        "código": 403055540,
+        "mnemônico": "LH2-LEU"
+    },
+    {
+        "id": 1284,
+        "nome": "TESTE DE ESTIMULO DE FSH COM LEUPRORRELINA - 4 DOSAGENS (J.30.60.120)",
+        "preço": 0,
+        "código": 403055460,
+        "mnemônico": "FSH2-LEU"
+    },
+    {
+        "id": 1293,
+        "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH2-LEV"
+    },
+    {
+        "id": 1299,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.15.30.45.60)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH6-INS"
+    },
+    {
+        "id": 1311,
+        "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH3-GLU"
+    },
+    {
+        "id": 1312,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 6 DOSAGENS (J.15.30.45.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH7-INS"
+    },
+    {
+        "id": 1314,
+        "nome": "TESTE DE ESTIMULO DE CORTISOL COM INSU - 6 DOSAGENS (J.15.30.45.60.90)",
+        "preço": 0,
+        "código": 403161900,
+        "mnemônico": "COR1-INS"
+    },
+    {
+        "id": 1316,
+        "nome": "TESTE DE ESTIMULO DE CORTISOL COM INSU - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403161900,
+        "mnemônico": "COR2-INS"
+    },
+    {
+        "id": 1317,
+        "nome": "TESTE DE ESTIMULO DE LH COM LEUPRORRELINA - 3 DOSAGENS (J.30.60)",
+        "preço": 0,
+        "código": 403055540,
+        "mnemônico": "LH3-LEU"
+    },
+    {
+        "id": 1318,
+        "nome": "TESTE DE ESTIMULO DE FSH COM LEUPRORRELINA - 3 DOSAGENS (J.30.60)",
+        "preço": 0,
+        "código": 403055460,
+        "mnemônico": "FSH3-LEU"
+    },
+    {
+        "id": 1319,
+        "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 4 DOSAGENS (J.60.120.180)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH4-GLU"
+    },
+    {
+        "id": 1322,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSU - 7 DOSAGENS (J.15.30.45.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH8-INS"
+    },
+    {
+        "id": 1323,
+        "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 4 DOSAGENS (J.30.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH5-GLU"
+    },
+    {
+        "id": 1326,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.60.120.180)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH6-CLO"
+    },
+    {
+        "id": 1327,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.30.45.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH9-INS"
+    },
+    {
+        "id": 1329,
+        "nome": "TESTE DE ESTIMULO DE CORTISOL APOS CORTROSINA - 2 DOSAGENS (J.60)",
+        "preço": 0,
+        "código": 403161900,
+        "mnemônico": "TCORT"
+    },
+    {
+        "id": 1330,
+        "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 4 DOSAGENS (J.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH6-GLU"
+    },
+    {
+        "id": 1335,
+        "nome": "CONSULTA EM CONSULTORIO (NO HORARIO NORMAL OU PREESTABELECIDO)",
+        "preço": 0,
+        "código": 101010120,
+        "mnemônico": "ACMED"
+    },
+    {
+        "id": 1336,
+        "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 6 DOSAGENS (J.30.60.90.120.180)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH7-GLU"
+    },
+    {
+        "id": 1398,
+        "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 7 DOS. (J.30.60.90.120.150.180)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH8-GLU"
+    },
+    {
+        "id": 1399,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 6 DOSAGENS (J.15.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH10-INS"
+    },
+    {
+        "id": 1400,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.15.30.45.60)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH11-INS"
+    },
+    {
+        "id": 1431,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.30.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH7-CLO"
+    },
+    {
+        "id": 1466,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 6 DOSAGENS (J.20.40.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH12-INS"
+    },
+    {
+        "id": 1581,
+        "nome": "ACERTO EXAMES",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "ACERTO"
+    },
+    {
+        "id": 1586,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.15.30.60)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH13-INS"
+    },
+    {
+        "id": 1651,
+        "nome": "TESTE DE ESTIMULO DE GH COM DEHIDROEPIANDROSTERONA - 2 DOSAGENS (J.60)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH1-DHEA"
+    },
+    {
+        "id": 1666,
+        "nome": "TESTE DE ESTIMULO DE LH COM LEUPRORRELINA - 5 DOSAGE. (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403055540,
+        "mnemônico": "LH5-LEU"
+    },
+    {
+        "id": 1690,
+        "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 4 DOSAGENS (J.30.60.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH10-GLU"
+    },
+    {
+        "id": 1691,
+        "nome": "TESTE DE ESTIMULO DE LH COM LEUPRORRELINA - 2 DOSAGENS (J.60)",
+        "preço": 0,
+        "código": 403055540,
+        "mnemônico": "LH6-LEU"
+    },
+    {
+        "id": 1707,
+        "nome": "TESTE DE ESTIMULO DE CORTISOL COM INSULINA - 4 DOSAGENS (J.30.60.90)",
+        "preço": 0,
+        "código": 403161900,
+        "mnemônico": "COR4-INS"
+    },
+    {
+        "id": 1771,
+        "nome": "TESTE DE ESTIMULO DE FSH COM LEUPRORRELINA - 3 DOSAGENS (J.60.120)",
+        "preço": 0,
+        "código": 403055460,
+        "mnemônico": "FSH6-LEU"
+    },
+    {
+        "id": 1784,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.30.60.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH15-INS"
+    },
+    {
+        "id": 1794,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.15.30.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH17-INS"
+    },
+    {
+        "id": 1802,
+        "nome": "TESTE DE ESTIMULO DE LH COM LEUPRORRELINA - 3 DOSAGENS (J.60.120)",
+        "preço": 0,
+        "código": 403055540,
+        "mnemônico": "LH7-LEU"
+    },
+    {
+        "id": 1850,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.30.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH9-CLO"
+    },
+    {
+        "id": 1860,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.30.60.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH10-CLO"
+    },
+    {
+        "id": 1862,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.15.45.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH16-INS"
+    },
+    {
+        "id": 1863,
+        "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 5 DOSAGENS (J.30.60.120.180)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH11-GLU"
+    },
+    {
+        "id": 1864,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.15.30.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH18-INS"
+    },
+    {
+        "id": 1867,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSU - 7 DOSAGENS(J.20.30.40.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH19-INS"
+    },
+    {
+        "id": 1868,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.30.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH20-INS"
+    },
+    {
+        "id": 1987,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 7 DOSANG.(J.15.30.45,60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH21-INS"
+    },
+    {
+        "id": 1988,
+        "nome": "TESTE DE ESTIMULO DE CORTISOL COM INSULINA - 5 DOSAGENS(J.15.30.60.90)",
+        "preço": 0,
+        "código": 403161900,
+        "mnemônico": "COR6-INS"
+    },
+    {
+        "id": 1990,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.40.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH22-INS"
+    },
+    {
+        "id": 1998,
+        "nome": "TESTE DE ESTIMULO DE CORTISOL COM INSULINA- 6 DOSAG(J.15.30.60.90.120)",
+        "preço": 0,
+        "código": 403161900,
+        "mnemônico": "COR7-INS"
+    },
+    {
+        "id": 2001,
+        "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 4 DOSAGENS (J.30.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH4-LEV"
+    },
+    {
+        "id": 2035,
+        "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 6 DOSAGENS (J.30.60.90.120.150)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH12-GLU"
+    },
+    {
+        "id": 2044,
+        "nome": "TESTE DE ESTIMULO DE CORTISOL COM INSULINA - 3 DOSAGENS(J.60.90)",
+        "preço": 0,
+        "código": 403161900,
+        "mnemônico": "COR8-INS"
+    },
+    {
+        "id": 2085,
+        "nome": "TESTE DE ESTIMULO DE GH C/ GLUCAGON - 6 DOSAGENS (J.60.90.120.150.180)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH14-GLU"
+    },
+    {
+        "id": 2096,
+        "nome": "TESTE DE ESTIMULO DE LH  E FSH COM LEUPRORRELINA - 2 DOSAGENS (J.120)",
+        "preço": 0,
+        "código": 403055540,
+        "mnemônico": "LHFSH-LE"
+    },
+    {
+        "id": 2104,
+        "nome": "TESTE DE ESTIMULO DE FSH/ESTRADIOL COM LEUPRORRELINA - 2 DOSAG.(J.120)",
+        "preço": 0,
+        "código": 403055460,
+        "mnemônico": "FSHEST-L"
+    },
+    {
+        "id": 2105,
+        "nome": "TESTE DE ESTIMULO DE LH/ESTRADIOL COM LEUPRORRELINA - 2 DOSAG.(J.120)",
+        "preço": 0,
+        "código": 403055540,
+        "mnemônico": "LHEST-L"
+    },
+    {
+        "id": 2115,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 6 DOSAGENS (J.15.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH12-CLO"
+    },
+    {
+        "id": 2131,
+        "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 5 DOSAGENS (J.60.90.120.150)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "GH5-LEV"
+    },
+    {
+        "id": 2207,
+        "nome": "TESTE DE ESTIMULO DE CORTISOL APOS CORTROSINA - 2 DOSAGENS (J.60)",
+        "preço": 0,
+        "código": 403161900,
+        "mnemônico": "TECORT4"
+    },
+    {
+        "id": 2209,
+        "nome": "TESTE DE ESTIMULO DE CORTISOL COM INSU - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403161900,
+        "mnemônico": "TECORT6"
+    },
+    {
+        "id": 2210,
+        "nome": "TESTE DO ESTIMULO LH-RH COM LEUPRORELINA - 2 DOSAGENS (J.120)",
+        "preço": 0,
+        "código": 403055540,
+        "mnemônico": "TELH11"
+    },
+    {
+        "id": 2211,
+        "nome": "TESTE DE ESTIMULO DE CORTISOL COM INSU - 6 DOSAGENS (J.15.30.45.60.90)",
+        "preço": 0,
+        "código": 403161900,
+        "mnemônico": "TECORT7"
+    },
+    {
+        "id": 2212,
+        "nome": "TESTE DE ESTIMULO DE CORTISOL COM INSULINA - 3 DOSAGENS(J.60.90)",
+        "preço": 0,
+        "código": 403161900,
+        "mnemônico": "TECORT8"
+    },
+    {
+        "id": 2213,
+        "nome": "TESTE DE ESTIMULO DE CORTISOL COM INSULINA - 4 DOSAGENS (J.30.60.90)",
+        "preço": 0,
+        "código": 403161900,
+        "mnemônico": "TECORT9"
+    },
+    {
+        "id": 2214,
+        "nome": "TESTE DE ESTIMULO DE CORTISOL COM INSULINA - 5 DOSAGENS(J.15.30.60.90)",
+        "preço": 0,
+        "código": 403161900,
+        "mnemônico": "TECORT10"
+    },
+    {
+        "id": 2215,
+        "nome": "TESTE DE ESTIMULO DE CORTISOL COM INSULINA- 6 DOSAG(J.15.30.60.90.120)",
+        "preço": 0,
+        "código": 403161900,
+        "mnemônico": "TECORT11"
+    },
+    {
+        "id": 2216,
+        "nome": "TESTE DE ESTIMULO DE FSH COM LEUPRORRELINA - 2 DOSAGENS (J.120)",
+        "preço": 0,
+        "código": 403055460,
+        "mnemônico": "TEFSH1"
+    },
+    {
+        "id": 2217,
+        "nome": "TESTE DE ESTIMULO DE LH/ESTRADIOL COM LEUPRORRELINA - 2 DOSAG.(J.120)",
+        "preço": 0,
+        "código": 403055540,
+        "mnemônico": "TELH10"
+    },
+    {
+        "id": 2218,
+        "nome": "TESTE DE ESTIMULO DE FSH COM LEUPRORRELINA - 3 DOSAGENS (J.30.60)",
+        "preço": 0,
+        "código": 403055460,
+        "mnemônico": "TEFSH2"
+    },
+    {
+        "id": 2219,
+        "nome": "TESTE DE ESTIMULO DE LH COM LEUPRORRELINA - 5 DOSAGE. (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403055540,
+        "mnemônico": "TELH9"
+    },
+    {
+        "id": 2220,
+        "nome": "TESTE DE ESTIMULO DE FSH COM LEUPRORRELINA - 3 DOSAGENS (J.60.120)",
+        "preço": 0,
+        "código": 403055460,
+        "mnemônico": "TEFSH3"
+    },
+    {
+        "id": 2222,
+        "nome": "TESTE DE ESTIMULO DE LH COM LEUPRORRELINA - 4 DOSAGENS (J.30.60.120)",
+        "preço": 0,
+        "código": 403055540,
+        "mnemônico": "TELH7"
+    },
+    {
+        "id": 2224,
+        "nome": "TESTE DE ESTIMULO DE LH COM LEUPRORRELINA - 4 DOSAGENS (J.15.30.60)",
+        "preço": 0,
+        "código": 403055540,
+        "mnemônico": "TELH6"
+    },
+    {
+        "id": 2226,
+        "nome": "TESTE DE ESTIMULO DE FSH/ESTRADIOL COM LEUPRORRELINA - 2 DOSAG.(J.120)",
+        "preço": 0,
+        "código": 403055460,
+        "mnemônico": "TEFSH8"
+    },
+    {
+        "id": 2227,
+        "nome": "TESTE DE ESTIMULO DE LH COM LEUPRORRELINA - 3 DOSAGENS (J.60.120)",
+        "preço": 0,
+        "código": 403055540,
+        "mnemônico": "TELH5"
+    },
+    {
+        "id": 2228,
+        "nome": "TESTE DE ESTIMULO DE LH COM LEUPRORRELINA - 3 DOSAGENS (J.30.60)",
+        "preço": 0,
+        "código": 403055540,
+        "mnemônico": "TELH4"
+    },
+    {
+        "id": 2229,
+        "nome": "TESTE DE ESTIMULO DE GH - 3 DOSAGENS POS EXERCICIO (J.20.60)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH2"
+    },
+    {
+        "id": 2230,
+        "nome": "TESTE DE ESTIMULO DE LH COM LEUPRORRELINA - 2 DOSAGENS (J.60)",
+        "preço": 0,
+        "código": 403055540,
+        "mnemônico": "TELH3"
+    },
+    {
+        "id": 2231,
+        "nome": "TESTE DE ESTIMULO DE GH - 30 MINUTOS POS EXERCICIO",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH3"
+    },
+    {
+        "id": 2232,
+        "nome": "TESTE DE ESTIMULO DE LH COM LEUPRORRELINA - 2 DOSAGENS (J.120)",
+        "preço": 0,
+        "código": 403055540,
+        "mnemônico": "TELH2"
+    },
+    {
+        "id": 2233,
+        "nome": "TESTE DE ESTIMULO DE GH C/ GLUCAGON - 6 DOSAGENS (J.60.90.120.150.180)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH4"
+    },
+    {
+        "id": 2234,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.30.60.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH5V"
+    },
+    {
+        "id": 2235,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.30.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH6"
+    },
+    {
+        "id": 2236,
+        "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 5 DOSAGENS (J.60.90.120.150)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH54"
+    },
+    {
+        "id": 2237,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.45.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH9"
+    },
+    {
+        "id": 2238,
+        "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 4 DOSAGENS (J.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH52"
+    },
+    {
+        "id": 2239,
+        "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 4 DOSAGENS (J.30.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH51"
+    },
+    {
+        "id": 2240,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.60.120.180)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH10"
+    },
+    {
+        "id": 2241,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH11"
+    },
+    {
+        "id": 2243,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 7 DOSANG.(J.15.30.45,60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH50"
+    },
+    {
+        "id": 2244,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 6 DOSAGENS (J.20.40.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH49"
+    },
+    {
+        "id": 2245,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH14"
+    },
+    {
+        "id": 2246,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 6 DOSAGENS (J.15.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH48"
+    },
+    {
+        "id": 2247,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 6 DOSAGENS (J.15.30.45.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH47"
+    },
+    {
+        "id": 2248,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH46"
+    },
+    {
+        "id": 2249,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.30.45.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH45"
+    },
+    {
+        "id": 2250,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.20.40.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH44"
+    },
+    {
+        "id": 2251,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.15.30.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH43"
+    },
+    {
+        "id": 2252,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.15.30.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH42"
+    },
+    {
+        "id": 2253,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.15.30.45.60)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH40"
+    },
+    {
+        "id": 2254,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH39"
+    },
+    {
+        "id": 2255,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.40.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH38"
+    },
+    {
+        "id": 2256,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.30.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH37"
+    },
+    {
+        "id": 2257,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.30.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH36"
+    },
+    {
+        "id": 2258,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.30.60.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH35"
+    },
+    {
+        "id": 2259,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.15.45.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH34"
+    },
+    {
+        "id": 2260,
+        "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 6 DOSAGENS (J.15.30.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH15"
+    },
+    {
+        "id": 2261,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.15.30.60)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH32"
+    },
+    {
+        "id": 2262,
+        "nome": "TESTE DE ESTIMULO DE GH COM DEHIDROEPIANDROSTERONA - 2 DOSAGENS (J.60)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH16"
+    },
+    {
+        "id": 2263,
+        "nome": "TESTE DE ESTIMULO DE GH COM INSU - 7 DOSAGENS(J.20.30.40.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH31"
+    },
+    {
+        "id": 2264,
+        "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 4 DOSAGENS (J.30.60.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH17"
+    },
+    {
+        "id": 2265,
+        "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 4 DOSAGENS (J.60.90.120)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH21"
+    },
+    {
+        "id": 2266,
+        "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 5 DOSAGENS (J.15.30.60.90)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH22"
+    },
+    {
+        "id": 2267,
+        "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 5 DOSAGENS (J.60.90.120.150)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH25"
+    },
+    {
+        "id": 2269,
+        "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 6 DOSAGENS (J.30.60.90.120.150)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH27"
+    },
+    {
+        "id": 2270,
+        "nome": "TESTE DE ESTIMULO DE GH COM GLUCAGON - 7 DOS. (J.30.60.90.120.150.180)",
+        "preço": 0,
+        "código": 403162030,
+        "mnemônico": "TEGH29"
+    }
+]

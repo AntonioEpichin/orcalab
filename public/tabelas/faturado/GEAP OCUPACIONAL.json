@@ -1,0 +1,233 @@
+[
+    {
+        "id": 86,
+        "nome": "CREATININA - URINA RECENTE",
+        "preço": 0,
+        "código": 40301630,
+        "mnemônico": "CREAU"
+    },
+    {
+        "id": 151,
+        "nome": "PSA TOTAL - ANTIGENO PROSTATICO ESPECIFICO",
+        "preço": 0,
+        "código": 40316149,
+        "mnemônico": "PSA"
+    },
+    {
+        "id": 182,
+        "nome": "GLICOSE - 2 HORAS POS PRANDIAL",
+        "preço": 0,
+        "código": 40302040,
+        "mnemônico": "GP"
+    },
+    {
+        "id": 242,
+        "nome": "GLICOSE - 3 HORAS POS PRANDIAL",
+        "preço": 0,
+        "código": 40302040,
+        "mnemônico": "GBPP3H"
+    },
+    {
+        "id": 535,
+        "nome": "HEMOGRAMA COMPLETO",
+        "preço": 0,
+        "código": 40304361,
+        "mnemônico": "HEM"
+    },
+    {
+        "id": 538,
+        "nome": "COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 40601137,
+        "mnemônico": "COLP"
+    },
+    {
+        "id": 562,
+        "nome": "PESQUISA SANGUE OCULTO NAS FEZES",
+        "preço": 0,
+        "código": 40303136,
+        "mnemônico": "PSO"
+    },
+    {
+        "id": 565,
+        "nome": "ASPARTATO AMINOTRANSFERASE (TGO, AST)",
+        "preço": 0,
+        "código": 40302504,
+        "mnemônico": "TGO"
+    },
+    {
+        "id": 566,
+        "nome": "ALANINA AMINOTRANSFERASE (TGP, ALT)",
+        "preço": 0,
+        "código": 40302512,
+        "mnemônico": "TGP"
+    },
+    {
+        "id": 567,
+        "nome": "TRIGLICERIDEOS",
+        "preço": 0,
+        "código": 40302547,
+        "mnemônico": "TRI"
+    },
+    {
+        "id": 577,
+        "nome": "GLICOSE",
+        "preço": 0,
+        "código": 40302040,
+        "mnemônico": "GB"
+    },
+    {
+        "id": 591,
+        "nome": "CREATININA ",
+        "preço": 0,
+        "código": 40301630,
+        "mnemônico": "CREA"
+    },
+    {
+        "id": 592,
+        "nome": "COLESTEROL TOTAL ",
+        "preço": 0,
+        "código": 40301605,
+        "mnemônico": "COL"
+    },
+    {
+        "id": 766,
+        "nome": "REVISAO DE COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 40601137,
+        "mnemônico": "COLPREV"
+    },
+    {
+        "id": 772,
+        "nome": "FAT COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 40601137,
+        "mnemônico": "COLPFAT"
+    },
+    {
+        "id": 778,
+        "nome": "GLICOSE",
+        "preço": 0,
+        "código": 40302040,
+        "mnemônico": "GBM"
+    },
+    {
+        "id": 841,
+        "nome": "1 PD EM CITOLOGIA HORMONAL ISOLADA",
+        "preço": 0,
+        "código": 40601137,
+        "mnemônico": "CITOHI1"
+    },
+    {
+        "id": 875,
+        "nome": "1 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 40601323,
+        "mnemônico": "CITOLIQ1"
+    },
+    {
+        "id": 907,
+        "nome": "EAS - EXAME DE URINA",
+        "preço": 0,
+        "código": 40311210,
+        "mnemônico": "EAS"
+    },
+    {
+        "id": 938,
+        "nome": "PESQUISA DE SANGUE HUMANO - FEZES",
+        "preço": 0,
+        "código": 40303136,
+        "mnemônico": "PSHF"
+    },
+    {
+        "id": 1148,
+        "nome": "PESQUISA DE SANGUE HUMANO NAS FEZES (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 40303136,
+        "mnemônico": "PSHF2"
+    },
+    {
+        "id": 1149,
+        "nome": "PESQUISA DE SANGUE HUMANO NAS FEZES (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 40303136,
+        "mnemônico": "PSHF3"
+    },
+    {
+        "id": 1151,
+        "nome": "GLICOSE - 1 HORA POS PRANDIAL ",
+        "preço": 0,
+        "código": 40302040,
+        "mnemônico": "GBPP1H"
+    },
+    {
+        "id": 1173,
+        "nome": "2 COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 40601137,
+        "mnemônico": "COLP2"
+    },
+    {
+        "id": 1190,
+        "nome": "COLESTEROL TOTAL (SUSPEITA DE MORTE ENCEFALICA)",
+        "preço": 0,
+        "código": 40301605,
+        "mnemônico": "COL-ME"
+    },
+    {
+        "id": 1191,
+        "nome": "TRIGLICERIDEOS (SUSPEITA DE MORTE ENCEFALICA)",
+        "preço": 0,
+        "código": 40302547,
+        "mnemônico": "TRI-ME"
+    },
+    {
+        "id": 1193,
+        "nome": "GLICOSE - CAPILAR",
+        "preço": 0,
+        "código": 40302040,
+        "mnemônico": "GB-C"
+    },
+    {
+        "id": 1291,
+        "nome": "HEMOGRAMA COMPLETO (CITRATO)",
+        "preço": 0,
+        "código": 40304361,
+        "mnemônico": "HEMSE"
+    },
+    {
+        "id": 1492,
+        "nome": "TRIGLICERIDEOS - LIQUIDO PERICARDIO",
+        "preço": 0,
+        "código": 40302547,
+        "mnemônico": "TRIPERIC"
+    },
+    {
+        "id": 2013,
+        "nome": "CREATININA POS DIALISE",
+        "preço": 0,
+        "código": 40301630,
+        "mnemônico": "CREA-PD"
+    },
+    {
+        "id": 2014,
+        "nome": "GLICOSE POS DIALISE",
+        "preço": 0,
+        "código": 40302040,
+        "mnemônico": "GB-PD"
+    },
+    {
+        "id": 2057,
+        "nome": "HEMOGRAMA COMPLETO (SEM ANTICOAGULANTE)",
+        "preço": 0,
+        "código": 40304361,
+        "mnemônico": "HEMSA"
+    },
+    {
+        "id": 2189,
+        "nome": "PSA TOTAL - ANTIGENO PROSTATICO ESPECIFICO",
+        "preço": 0,
+        "código": 40316149,
+        "mnemônico": "PSATE"
+    }
+]

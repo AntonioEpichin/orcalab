@@ -1,0 +1,723 @@
+[
+    {
+        "id": 1001,
+        "nome": "US - ABDOME TOTAL (ABDOME SUPERIOR, RINS, BEXIGA, AORTA, VEIA CAVA INF",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "USABDOME"
+    },
+    {
+        "id": 1342,
+        "nome": "RX - ABDOME SIMPLES",
+        "preço": 0,
+        "código": 408080170,
+        "mnemônico": "R-ABDAP"
+    },
+    {
+        "id": 1343,
+        "nome": "RX - ADENOIDES OU CAVUM",
+        "preço": 0,
+        "código": 408011280,
+        "mnemônico": "R-ADELAT"
+    },
+    {
+        "id": 1344,
+        "nome": "RX - ANTEBRACO",
+        "preço": 0,
+        "código": 408031040,
+        "mnemônico": "R-ANTBR"
+    },
+    {
+        "id": 1345,
+        "nome": "RX - ARCOS ZIGOMATICOS OU MALAR OU APOFISES ESTILOIDES",
+        "preço": 0,
+        "código": 408011010,
+        "mnemônico": "R-ARCZI"
+    },
+    {
+        "id": 1346,
+        "nome": "RX - ARTICULACAO TEMPOROMANDIBULAR - BILATERAL",
+        "preço": 0,
+        "código": 408011100,
+        "mnemônico": "R-ARTMA"
+    },
+    {
+        "id": 1347,
+        "nome": "RX - ARTICULACAO ACROMIOCLAVICULAR",
+        "preço": 0,
+        "código": 408030660,
+        "mnemônico": "R-ARTAC"
+    },
+    {
+        "id": 1348,
+        "nome": "RX - ARTICULACAO COXOFEMORAL (QUADRIL)",
+        "preço": 0,
+        "código": 408040380,
+        "mnemônico": "R-ARTCXF"
+    },
+    {
+        "id": 1349,
+        "nome": "RX - ARTICULACAO ESCAPULOUMERAL (OMBRO)",
+        "preço": 0,
+        "código": 408030740,
+        "mnemônico": "R-ARTEUM"
+    },
+    {
+        "id": 1350,
+        "nome": "RX - ARTICULACAO ESTERNOCLAVICULAR",
+        "preço": 0,
+        "código": 408030230,
+        "mnemônico": "R-ARTCLA"
+    },
+    {
+        "id": 1351,
+        "nome": "RX - ARTICULACAO SACROILIACAS",
+        "preço": 0,
+        "código": 408040200,
+        "mnemônico": "R-ARTILI"
+    },
+    {
+        "id": 1352,
+        "nome": "RX - ARTICULACAO TIBIOTARSICA (TORNOZELO)",
+        "preço": 0,
+        "código": 408040890,
+        "mnemônico": "R-ARTTIB"
+    },
+    {
+        "id": 1353,
+        "nome": "RX - BACIA",
+        "preço": 0,
+        "código": 408040110,
+        "mnemônico": "R-BAAP"
+    },
+    {
+        "id": 1354,
+        "nome": "RX - BRACO",
+        "preço": 0,
+        "código": 408030820,
+        "mnemônico": "R-BRACO"
+    },
+    {
+        "id": 1355,
+        "nome": "RX - CALCANEO",
+        "preço": 0,
+        "código": 408041000,
+        "mnemônico": "R-CALCA"
+    },
+    {
+        "id": 1356,
+        "nome": "RX - CLAVICULA",
+        "preço": 0,
+        "código": 408030400,
+        "mnemônico": "R-CLAVIC"
+    },
+    {
+        "id": 1357,
+        "nome": "RX - COLUNA CERVICAL - 5 INCIDENCIAS",
+        "preço": 0,
+        "código": 408020270,
+        "mnemônico": "R-COLCFU"
+    },
+    {
+        "id": 1358,
+        "nome": "RX - COLUNA CERVICAL - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": 408020270,
+        "mnemônico": "R-COLCAP"
+    },
+    {
+        "id": 1359,
+        "nome": "RX - COLUNA DORSAL - 4 INCIDENCIAS",
+        "preço": 0,
+        "código": 408020430,
+        "mnemônico": "R-COLDPO"
+    },
+    {
+        "id": 1360,
+        "nome": "RX - COLUNA DORSAL - 2 INCIDENCIAS",
+        "preço": 0,
+        "código": 408020350,
+        "mnemônico": "R-COLDAP"
+    },
+    {
+        "id": 1361,
+        "nome": "RX - COLUNA LOMBO-SACRA - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": 408020510,
+        "mnemônico": "R-COLLSA"
+    },
+    {
+        "id": 1362,
+        "nome": "RX - COLUNA LOMBO-SACRA - 5 INCIDENCIAS",
+        "preço": 0,
+        "código": 408020510,
+        "mnemônico": "R-COLLFU"
+    },
+    {
+        "id": 1363,
+        "nome": "RX - SACRO-COCCIX",
+        "preço": 0,
+        "código": 408020780,
+        "mnemônico": "R-COLSCO"
+    },
+    {
+        "id": 1365,
+        "nome": "RX - COSTELAS - POR HEMITORAX",
+        "preço": 0,
+        "código": 408030310,
+        "mnemônico": "R-COSTE1"
+    },
+    {
+        "id": 1366,
+        "nome": "RX - COTOVELO",
+        "preço": 0,
+        "código": 408030900,
+        "mnemônico": "R-COTOV"
+    },
+    {
+        "id": 1367,
+        "nome": "RX - COXA",
+        "preço": 0,
+        "código": 408040460,
+        "mnemônico": "R-CXFMU"
+    },
+    {
+        "id": 1368,
+        "nome": "RX - CRANIO - 2 INCIDENCIAS",
+        "preço": 0,
+        "código": 408010120,
+        "mnemônico": "R-CRALAT"
+    },
+    {
+        "id": 1369,
+        "nome": "RX - CRANIO - 4 INCIDENCIAS",
+        "preço": 0,
+        "código": 408010200,
+        "mnemônico": "R-CRAHIR"
+    },
+    {
+        "id": 1370,
+        "nome": "RX - CRANIO - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": 408010200,
+        "mnemônico": "R-CRABRE"
+    },
+    {
+        "id": 1371,
+        "nome": "RX - ESCANOMETRIA",
+        "preço": 0,
+        "código": 408041190,
+        "mnemônico": "R-ESCANO"
+    },
+    {
+        "id": 1372,
+        "nome": "RX - ESTERNO",
+        "preço": 0,
+        "código": 408030150,
+        "mnemônico": "R-ESTERN"
+    },
+    {
+        "id": 1373,
+        "nome": "RX - PATELA",
+        "preço": 0,
+        "código": 408040620,
+        "mnemônico": "R-PATEL2"
+    },
+    {
+        "id": 1374,
+        "nome": "RX - JOELHO",
+        "preço": 0,
+        "código": 408040540,
+        "mnemônico": "R-JAPLAT"
+    },
+    {
+        "id": 1376,
+        "nome": "RX - MAO OU QUIRODACTILOS",
+        "preço": 0,
+        "código": 408031200,
+        "mnemônico": "R-MQUIR"
+    },
+    {
+        "id": 1377,
+        "nome": "RX - MAOS E PUNHOS PARA IDADE OSSEA",
+        "preço": 0,
+        "código": 408031390,
+        "mnemônico": "R-MPUNH"
+    },
+    {
+        "id": 1379,
+        "nome": "RX - MAXILAR INFERIOR",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-MXINF"
+    },
+    {
+        "id": 1380,
+        "nome": "RX - OMOPLATA OU ESCAPULA",
+        "preço": 0,
+        "código": 408030580,
+        "mnemônico": "R-OMOFUN"
+    },
+    {
+        "id": 1381,
+        "nome": "RX - ORBITAS - BILATERAL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-ORBHIR"
+    },
+    {
+        "id": 1382,
+        "nome": "RX - OSSOS DA FACE",
+        "preço": 0,
+        "código": 408010980,
+        "mnemônico": "R-OFACE"
+    },
+    {
+        "id": 1383,
+        "nome": "RX - PANORAMICA DOS MEMBROS INFERIORES",
+        "preço": 0,
+        "código": 408041270,
+        "mnemônico": "R-PANMI"
+    },
+    {
+        "id": 1385,
+        "nome": "RX - PATELA",
+        "preço": 0,
+        "código": 408040620,
+        "mnemônico": "R-PATELA"
+    },
+    {
+        "id": 1386,
+        "nome": "RX - PE OU PODODACTILOS",
+        "preço": 0,
+        "código": 408040970,
+        "mnemônico": "R-PEPOD"
+    },
+    {
+        "id": 1387,
+        "nome": "RX - PERNA",
+        "preço": 0,
+        "código": 408040700,
+        "mnemônico": "R-PERTIB"
+    },
+    {
+        "id": 1388,
+        "nome": "RX - PUNHO",
+        "preço": 0,
+        "código": 408031120,
+        "mnemônico": "R-PUNOB"
+    },
+    {
+        "id": 1389,
+        "nome": "RX - SEIOS DA FACE",
+        "preço": 0,
+        "código": 408010630,
+        "mnemônico": "R-SEFMN"
+    },
+    {
+        "id": 1390,
+        "nome": "RX - SELA TURCICA",
+        "preço": 0,
+        "código": 408010710,
+        "mnemônico": "R-SETURC"
+    },
+    {
+        "id": 1391,
+        "nome": "RX - TORAX - 1 INCIDENCIA",
+        "preço": 0,
+        "código": 408050180,
+        "mnemônico": "R-TXPA"
+    },
+    {
+        "id": 1392,
+        "nome": "RX - TORAX - 2 INCIDENCIAS ",
+        "preço": 0,
+        "código": 408050260,
+        "mnemônico": "R-TXPALA"
+    },
+    {
+        "id": 1393,
+        "nome": "RX - TORAX - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": 408050340,
+        "mnemônico": "R-TXINEX"
+    },
+    {
+        "id": 1394,
+        "nome": "RX - TORAX - 4 INCIDENCIAS",
+        "preço": 0,
+        "código": 408050420,
+        "mnemônico": "R-TXOBL"
+    },
+    {
+        "id": 1406,
+        "nome": "RX - ABDOME AGUDO",
+        "preço": 0,
+        "código": 408080250,
+        "mnemônico": "R-ABAGUD"
+    },
+    {
+        "id": 1407,
+        "nome": "RX - COLUNA DORSO-LOMBAR PARA ESCOLIOSE",
+        "preço": 0,
+        "código": 408020860,
+        "mnemônico": "R-PALAT"
+    },
+    {
+        "id": 1410,
+        "nome": "RX - ANTEBRACO",
+        "preço": 0,
+        "código": 408031040,
+        "mnemônico": "R-ANTBR2"
+    },
+    {
+        "id": 1411,
+        "nome": "RX - ARCOS ZIGOMATICOS OU MALAR OU APOFISES ESTILOIDES",
+        "preço": 0,
+        "código": 408011010,
+        "mnemônico": "R-ARCZI2"
+    },
+    {
+        "id": 1412,
+        "nome": "RX - PUNHO",
+        "preço": 0,
+        "código": 408031120,
+        "mnemônico": "R-PUNOB2"
+    },
+    {
+        "id": 1415,
+        "nome": "RX - MAO OU QUIRODACTILOS",
+        "preço": 0,
+        "código": 408031200,
+        "mnemônico": "R-MQUIR2"
+    },
+    {
+        "id": 1416,
+        "nome": "RX - JOELHO",
+        "preço": 0,
+        "código": 408040540,
+        "mnemônico": "R-JAPLA2"
+    },
+    {
+        "id": 1417,
+        "nome": "RX - OMOPLATA OU ESCAPULA",
+        "preço": 0,
+        "código": 408030580,
+        "mnemônico": "R-OMOFU2"
+    },
+    {
+        "id": 1476,
+        "nome": "RX - ORELHA, MASTOIDES OU ROCHEDOS - BILATERAL",
+        "preço": 0,
+        "código": 408010470,
+        "mnemônico": "ORMASRO"
+    },
+    {
+        "id": 1487,
+        "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "M-COVBIL"
+    },
+    {
+        "id": 1490,
+        "nome": "RX - CLAVICULA",
+        "preço": 0,
+        "código": 408030400,
+        "mnemônico": "R-CLAVI2"
+    },
+    {
+        "id": 1494,
+        "nome": "RX - BACIA",
+        "preço": 0,
+        "código": 408040110,
+        "mnemônico": "R-BAAP2"
+    },
+    {
+        "id": 1523,
+        "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR (OU DOIS SEGMENTOS)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "D-COLFEM"
+    },
+    {
+        "id": 1552,
+        "nome": "TC - MANDIBULA",
+        "preço": 0,
+        "código": 410010600,
+        "mnemônico": "TCMAND"
+    },
+    {
+        "id": 1553,
+        "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
+        "preço": 0,
+        "código": 410011250,
+        "mnemônico": "TCCOL2"
+    },
+    {
+        "id": 1554,
+        "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
+        "preço": 0,
+        "código": 410010100,
+        "mnemônico": "TCCRANIO"
+    },
+    {
+        "id": 1555,
+        "nome": "TC - MASTOIDES OU ORELHAS",
+        "preço": 0,
+        "código": 410010280,
+        "mnemônico": "TCMASOUV"
+    },
+    {
+        "id": 1556,
+        "nome": "TC - FACE OU SEIOS DA FACE",
+        "preço": 0,
+        "código": 410010360,
+        "mnemônico": "TCFACE"
+    },
+    {
+        "id": 1557,
+        "nome": "TC - PELVE OU BACIA",
+        "preço": 0,
+        "código": 410011170,
+        "mnemônico": "TCPELBA"
+    },
+    {
+        "id": 1558,
+        "nome": "TC - ABDOME SUPERIOR",
+        "preço": 0,
+        "código": 410011090,
+        "mnemônico": "TCABDOMS"
+    },
+    {
+        "id": 1559,
+        "nome": "TC - PESCOCO (PARTES MOLES, LARINGE, TIREOIDE, FARINGE E GLADULAS SALI",
+        "preço": 0,
+        "código": 410010600,
+        "mnemônico": "TCPESC"
+    },
+    {
+        "id": 1560,
+        "nome": "TC - TORAX",
+        "preço": 0,
+        "código": 410010790,
+        "mnemônico": "TCTORAX"
+    },
+    {
+        "id": 1561,
+        "nome": "TC - ABDOME TOTAL (ABDOME SUPERIOR, PELVE E RETROPERITONIO)",
+        "preço": 0,
+        "código": 410010950,
+        "mnemônico": "TCABDOMT"
+    },
+    {
+        "id": 1565,
+        "nome": "RM - ARTICULAR (POR ATICULACAO)",
+        "preço": 0,
+        "código": 411012940,
+        "mnemônico": "RMARTIR3"
+    },
+    {
+        "id": 1566,
+        "nome": "RM - TORAX (MEDIASTINO, PULMAO, PAREDE TORACICA)",
+        "preço": 0,
+        "código": 411011200,
+        "mnemônico": "RMTORAX"
+    },
+    {
+        "id": 1567,
+        "nome": "RM - BASE DO CRANIO",
+        "preço": 0,
+        "código": 411010300,
+        "mnemônico": "RMBASEC"
+    },
+    {
+        "id": 1568,
+        "nome": "RM - MEMBRO SUPERIOR UNILATERAL (NAO INCLUI MAO E ARTICULACOES)",
+        "preço": 0,
+        "código": 411012510,
+        "mnemônico": "RMMEBSUP"
+    },
+    {
+        "id": 1570,
+        "nome": "TC - SEGMENTO APENDICULAR (BRACO OU ANTEBRACO OU MAO OU PERNA OU PE) ",
+        "preço": 0,
+        "código": 410011500,
+        "mnemônico": "TCSEGAP"
+    },
+    {
+        "id": 1571,
+        "nome": "TC - ARTICULACAO (ESTERNOCLAVICULAR OU OMBRO OU COTOVELO OU PUNHO OU S",
+        "preço": 0,
+        "código": 410011410,
+        "mnemônico": "TCAMINF"
+    },
+    {
+        "id": 1578,
+        "nome": "RX - BRACO",
+        "preço": 0,
+        "código": 408030820,
+        "mnemônico": "R-BRACO2"
+    },
+    {
+        "id": 1580,
+        "nome": "RX - CALCANEO",
+        "preço": 0,
+        "código": 408041000,
+        "mnemônico": "R-CALCA2"
+    },
+    {
+        "id": 1614,
+        "nome": "RX - ARTICULACAO ACROMIOCLAVICULAR",
+        "preço": 0,
+        "código": 408030660,
+        "mnemônico": "R-ARTAC2"
+    },
+    {
+        "id": 1642,
+        "nome": "RX - ARTICULACAO TIBIOTARSICA (TORNOZELO)",
+        "preço": 0,
+        "código": 408040890,
+        "mnemônico": "R-ARTTI2"
+    },
+    {
+        "id": 1656,
+        "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
+        "preço": 0,
+        "código": 410011250,
+        "mnemônico": "TCCOL"
+    },
+    {
+        "id": 1658,
+        "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
+        "preço": 0,
+        "código": 411012270,
+        "mnemônico": "RMCOLCE2"
+    },
+    {
+        "id": 1659,
+        "nome": "RX - PE OU PODODACTILOS",
+        "preço": 0,
+        "código": 408040970,
+        "mnemônico": "R-PEPOD2"
+    },
+    {
+        "id": 1661,
+        "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
+        "preço": 0,
+        "código": 411012270,
+        "mnemônico": "RMCOLCE3"
+    },
+    {
+        "id": 1665,
+        "nome": "RX - COTOVELO",
+        "preço": 0,
+        "código": 408030900,
+        "mnemônico": "R-COTOV2"
+    },
+    {
+        "id": 1673,
+        "nome": "RX - PERNA",
+        "preço": 0,
+        "código": 408040700,
+        "mnemônico": "R-PERTI2"
+    },
+    {
+        "id": 1674,
+        "nome": "TC - ARTICULACAO (ESTERNOCLAVICULAR OU OMBRO OU COTOVELO OU PUNHO OU S",
+        "preço": 0,
+        "código": 410011410,
+        "mnemônico": "TCAMINF2"
+    },
+    {
+        "id": 1677,
+        "nome": "RX - ARTICULACAO COXOFEMORAL (QUADRIL)",
+        "preço": 0,
+        "código": 408040380,
+        "mnemônico": "R-ARTCX2"
+    },
+    {
+        "id": 1679,
+        "nome": "RX - COSTELAS - POR HEMITORAX",
+        "preço": 0,
+        "código": 408030310,
+        "mnemônico": "R-COSTE2"
+    },
+    {
+        "id": 1684,
+        "nome": "RX - COXA",
+        "preço": 0,
+        "código": 408040460,
+        "mnemônico": "R-CXFMU2"
+    },
+    {
+        "id": 1685,
+        "nome": "TC - SEGMENTO APENDICULAR (BRACO OU ANTEBRACO OU MAO OU PERNA OU PE) ",
+        "preço": 0,
+        "código": 410011500,
+        "mnemônico": "TCSEGAP2"
+    },
+    {
+        "id": 1687,
+        "nome": "TC - TORAX",
+        "preço": 0,
+        "código": 410010790,
+        "mnemônico": "TCTORAX2"
+    },
+    {
+        "id": 1702,
+        "nome": "RM - ARTICULAR (POR ATICULACAO)",
+        "preço": 0,
+        "código": 411012940,
+        "mnemônico": "RMARTIR4"
+    },
+    {
+        "id": 1708,
+        "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
+        "preço": 0,
+        "código": 410011250,
+        "mnemônico": "TCCOL3"
+    },
+    {
+        "id": 1709,
+        "nome": "RX - ARTICULACAO ESCAPULOUMERAL (OMBRO)",
+        "preço": 0,
+        "código": 408030740,
+        "mnemônico": "R-ARTEU2"
+    },
+    {
+        "id": 1722,
+        "nome": "RX - ARTICULACAO TEMPOROMANDIBULAR - BILATERAL",
+        "preço": 0,
+        "código": 408011100,
+        "mnemônico": "R-ARTMA2"
+    },
+    {
+        "id": 1724,
+        "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
+        "preço": 0,
+        "código": 410010100,
+        "mnemônico": "TCCRANI2"
+    },
+    {
+        "id": 1852,
+        "nome": "TC - SEGMENTO APENDICULAR (BRACO OU ANTEBRACO OU MAO OU PERNA OU PE) ",
+        "preço": 0,
+        "código": 410011500,
+        "mnemônico": "TCSEGAP3"
+    },
+    {
+        "id": 1917,
+        "nome": "TC - ARTICULACAO (ESTERNOCLAVICULAR OU OMBRO OU COTOVELO OU PUNHO OU S",
+        "preço": 0,
+        "código": 410011410,
+        "mnemônico": "TCAMINF3"
+    },
+    {
+        "id": 1918,
+        "nome": "TC - ARTICULACAO (ESTERNOCLAVICULAR OU OMBRO OU COTOVELO OU PUNHO OU S",
+        "preço": 0,
+        "código": 410011410,
+        "mnemônico": "TCAMINF4"
+    }
+]

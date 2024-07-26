@@ -1,0 +1,37 @@
+[
+    {
+        "id": 151,
+        "nome": "PSA TOTAL - ANTIGENO PROSTATICO ESPECIFICO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PSA"
+    },
+    {
+        "id": 1000,
+        "nome": "US - MAMAS FEMININA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "USMAMASF"
+    },
+    {
+        "id": 1375,
+        "nome": "MAMOGRAFIA DIGITAL BILATERAL",
+        "preço": 0,
+        "código": 408080410,
+        "mnemônico": "M-DIGBIL"
+    },
+    {
+        "id": 1487,
+        "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL",
+        "preço": 0,
+        "código": 408080330,
+        "mnemônico": "M-COVBIL"
+    },
+    {
+        "id": 2189,
+        "nome": "PSA TOTAL - ANTIGENO PROSTATICO ESPECIFICO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PSATE"
+    }
+]

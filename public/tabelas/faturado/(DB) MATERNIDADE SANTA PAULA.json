@@ -1,0 +1,303 @@
+[
+    {
+        "id": 54,
+        "nome": "HEPATITE B - HBSAC - (ANTI ANTIGENO DE SUPERFICIE)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "AHBS"
+    },
+    {
+        "id": 59,
+        "nome": "HEPATITE B - HBSAG - (AU, ANTIGENO AUSTRALIA) ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "AU"
+    },
+    {
+        "id": 109,
+        "nome": "HIV1+ HIV2",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HIV"
+    },
+    {
+        "id": 117,
+        "nome": "PROTEINA C REATIVA, QUANTITATIVA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PCR"
+    },
+    {
+        "id": 126,
+        "nome": "SIFILIS - VDRL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "VDRL"
+    },
+    {
+        "id": 129,
+        "nome": "HCV (ANTICORPOS CONTRA O VIRUS DA HEPATITE C)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HVC"
+    },
+    {
+        "id": 140,
+        "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (1ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104260,
+        "mnemônico": "TSG1"
+    },
+    {
+        "id": 151,
+        "nome": "PSA TOTAL - ANTIGENO PROSTATICO ESPECIFICO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PSA"
+    },
+    {
+        "id": 184,
+        "nome": "CULTURA - FUNGOS (1ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CFU"
+    },
+    {
+        "id": 242,
+        "nome": "GLICOSE - 3 HORAS POS PRANDIAL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "GBPP3H"
+    },
+    {
+        "id": 293,
+        "nome": "ACIDO METIL HIPURICO - URINA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "AMH"
+    },
+    {
+        "id": 294,
+        "nome": "ACIDO HIPURICO (PARA TUOLENO) - URINA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TUOLENO"
+    },
+    {
+        "id": 306,
+        "nome": "CULTURA - FUNGOS (3ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CFU3"
+    },
+    {
+        "id": 381,
+        "nome": "CULTURA - FUNGOS (4ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CFU4"
+    },
+    {
+        "id": 471,
+        "nome": "1 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HISTOS1"
+    },
+    {
+        "id": 535,
+        "nome": "HEMOGRAMA COMPLETO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HEM"
+    },
+    {
+        "id": 544,
+        "nome": "VHS - VELOCIDADE DE HEMOSSEDIMENTACAO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "VHS"
+    },
+    {
+        "id": 557,
+        "nome": "EPF - PARASITOLOGICO DE FEZES (1ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "EPF"
+    },
+    {
+        "id": 577,
+        "nome": "GLICOSE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "GB"
+    },
+    {
+        "id": 608,
+        "nome": "GLICOSE - 2 HORAS BASAL E POS PRANDIAL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "GBPP2H"
+    },
+    {
+        "id": 640,
+        "nome": "CULTURA - FUNGOS (5ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CFU5"
+    },
+    {
+        "id": 894,
+        "nome": "HIV 1 E 2 - TESTE RAPIDO ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HIVTR"
+    },
+    {
+        "id": 907,
+        "nome": "EAS - EXAME DE URINA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "EAS"
+    },
+    {
+        "id": 910,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUL1"
+    },
+    {
+        "id": 912,
+        "nome": "CULTURA - FUNGOS (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "CFU2"
+    },
+    {
+        "id": 918,
+        "nome": "CULTURA - BK",
+        "preço": 0,
+        "código": 403101590,
+        "mnemônico": "CBK"
+    },
+    {
+        "id": 1243,
+        "nome": "PESQUISA DE FUNGOS (A FRESCO)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PFU-AF"
+    },
+    {
+        "id": 1403,
+        "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR",
+        "preço": 0,
+        "código": 403046180,
+        "mnemônico": "COVID-DT"
+    },
+    {
+        "id": 1525,
+        "nome": "PESQUISA DE FUNGOS (A FRESCO) (2ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PFU-AF2"
+    },
+    {
+        "id": 1526,
+        "nome": "PESQUISA DE FUNGOS (A FRESCO) (3ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PFU-AF3"
+    },
+    {
+        "id": 1527,
+        "nome": "PESQUISA DE FUNGOS (A FRESCO) (4ª AMOSTRA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PFU-AF4"
+    },
+    {
+        "id": 1837,
+        "nome": "HIV1 OU HIV2",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HIV1OU2"
+    },
+    {
+        "id": 1842,
+        "nome": "ANTIGENO AUSTRALIA (HBSAG)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HBSAG"
+    },
+    {
+        "id": 1861,
+        "nome": "HEPATITE C - ANTI-HCV",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HCV"
+    },
+    {
+        "id": 2014,
+        "nome": "GLICOSE POS DIALISE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "GB-PD"
+    },
+    {
+        "id": 2052,
+        "nome": "SIFILIS - VDRL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "VDRL-URG"
+    },
+    {
+        "id": 2063,
+        "nome": "PESQUISA DE FUNGOS (KOH)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PFU-K"
+    },
+    {
+        "id": 2144,
+        "nome": "HEPATITE B - HBSAG - (AU, ANTIGENO AUSTRALIA) ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "AAUE"
+    },
+    {
+        "id": 2148,
+        "nome": "HEPATITE C - ANTI-HCV",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "AHCVE"
+    },
+    {
+        "id": 2172,
+        "nome": "HEPATITE B - HBSAC - (ANTI ANTIGENO DE SUPERFICIE)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HBQLE"
+    },
+    {
+        "id": 2174,
+        "nome": "HIV1+ HIV2",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "HIV1E"
+    },
+    {
+        "id": 2189,
+        "nome": "PSA TOTAL - ANTIGENO PROSTATICO ESPECIFICO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "PSATE"
+    },
+    {
+        "id": 2280,
+        "nome": "SIFILIS - VDRL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "VDRLE"
+    }
+]

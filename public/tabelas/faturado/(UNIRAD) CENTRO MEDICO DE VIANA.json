@@ -1,0 +1,506 @@
+[
+    {
+        "id": 1000,
+        "nome": "US - MAMAS FEMININA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "USMAMASF"
+    },
+    {
+        "id": 1014,
+        "nome": "US - OBSTETRICA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "USOBSTE"
+    },
+    {
+        "id": 1015,
+        "nome": "US - OBSTETRICA COM DOPPLER COLORIDO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "USOBSTD"
+    },
+    {
+        "id": 1019,
+        "nome": "US - OBSTETRICA 1º TRIMESTRE (ENDOVAGINAL)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "USOBS1TR"
+    },
+    {
+        "id": 1020,
+        "nome": "US - TRANSVAGINAL (UTERO, OVARIO, ANEXOS E VAGINA)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "USTRANSV"
+    },
+    {
+        "id": 1024,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "DPORGES1"
+    },
+    {
+        "id": 1031,
+        "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO SUPERIOR - UNILATERAL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "MARTS"
+    },
+    {
+        "id": 1032,
+        "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO SUPERIOR - UNILATERAL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "DPVMS"
+    },
+    {
+        "id": 1033,
+        "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO INFERIOR - UNILATERAL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "MARTI"
+    },
+    {
+        "id": 1034,
+        "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO INFERIOR - UNILATERAL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "MVENI"
+    },
+    {
+        "id": 1259,
+        "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO INFERIOR - UNILATERAL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "MARTI2"
+    },
+    {
+        "id": 1348,
+        "nome": "RX - ARTICULACAO COXOFEMORAL (QUADRIL)",
+        "preço": 0,
+        "código": 408040380,
+        "mnemônico": "R-ARTCXF"
+    },
+    {
+        "id": 1349,
+        "nome": "RX - ARTICULACAO ESCAPULOUMERAL (OMBRO)",
+        "preço": 0,
+        "código": 408030740,
+        "mnemônico": "R-ARTEUM"
+    },
+    {
+        "id": 1352,
+        "nome": "RX - ARTICULACAO TIBIOTARSICA (TORNOZELO)",
+        "preço": 0,
+        "código": 408040890,
+        "mnemônico": "R-ARTTIB"
+    },
+    {
+        "id": 1353,
+        "nome": "RX - BACIA",
+        "preço": 0,
+        "código": 408040110,
+        "mnemônico": "R-BAAP"
+    },
+    {
+        "id": 1355,
+        "nome": "RX - CALCANEO",
+        "preço": 0,
+        "código": 408041000,
+        "mnemônico": "R-CALCA"
+    },
+    {
+        "id": 1358,
+        "nome": "RX - COLUNA CERVICAL - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-COLCAP"
+    },
+    {
+        "id": 1359,
+        "nome": "RX - COLUNA DORSAL - 4 INCIDENCIAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-COLDPO"
+    },
+    {
+        "id": 1361,
+        "nome": "RX - COLUNA LOMBO-SACRA - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-COLLSA"
+    },
+    {
+        "id": 1366,
+        "nome": "RX - COTOVELO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-COTOV"
+    },
+    {
+        "id": 1367,
+        "nome": "RX - COXA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-CXFMU"
+    },
+    {
+        "id": 1368,
+        "nome": "RX - CRANIO - 2 INCIDENCIAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-CRALAT"
+    },
+    {
+        "id": 1371,
+        "nome": "RX - ESCANOMETRIA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-ESCANO"
+    },
+    {
+        "id": 1374,
+        "nome": "RX - JOELHO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-JAPLAT"
+    },
+    {
+        "id": 1376,
+        "nome": "RX - MAO OU QUIRODACTILOS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-MQUIR"
+    },
+    {
+        "id": 1377,
+        "nome": "RX - MAOS E PUNHOS PARA IDADE OSSEA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-MPUNH"
+    },
+    {
+        "id": 1380,
+        "nome": "RX - OMOPLATA OU ESCAPULA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-OMOFUN"
+    },
+    {
+        "id": 1386,
+        "nome": "RX - PE OU PODODACTILOS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-PEPOD"
+    },
+    {
+        "id": 1387,
+        "nome": "RX - PERNA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-PERTIB"
+    },
+    {
+        "id": 1388,
+        "nome": "RX - PUNHO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-PUNOB"
+    },
+    {
+        "id": 1389,
+        "nome": "RX - SEIOS DA FACE",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-SEFMN"
+    },
+    {
+        "id": 1391,
+        "nome": "RX - TORAX - 1 INCIDENCIA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-TXPA"
+    },
+    {
+        "id": 1392,
+        "nome": "RX - TORAX - 2 INCIDENCIAS ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-TXPALA"
+    },
+    {
+        "id": 1412,
+        "nome": "RX - PUNHO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-PUNOB2"
+    },
+    {
+        "id": 1415,
+        "nome": "RX - MAO OU QUIRODACTILOS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-MQUIR2"
+    },
+    {
+        "id": 1416,
+        "nome": "RX - JOELHO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-JAPLA2"
+    },
+    {
+        "id": 1417,
+        "nome": "RX - OMOPLATA OU ESCAPULA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-OMOFU2"
+    },
+    {
+        "id": 1427,
+        "nome": "US - MAMAS MASCULINA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "USMAMASC"
+    },
+    {
+        "id": 1473,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "DPORGES2"
+    },
+    {
+        "id": 1487,
+        "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "M-COVBIL"
+    },
+    {
+        "id": 1494,
+        "nome": "RX - BACIA",
+        "preço": 0,
+        "código": 408040110,
+        "mnemônico": "R-BAAP2"
+    },
+    {
+        "id": 1523,
+        "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR (OU DOIS SEGMENTOS)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "D-COLFEM"
+    },
+    {
+        "id": 1552,
+        "nome": "TC - MANDIBULA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCMAND"
+    },
+    {
+        "id": 1553,
+        "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCCOL2"
+    },
+    {
+        "id": 1554,
+        "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCCRANIO"
+    },
+    {
+        "id": 1558,
+        "nome": "TC - ABDOME SUPERIOR",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCABDOMS"
+    },
+    {
+        "id": 1560,
+        "nome": "TC - TORAX",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCTORAX"
+    },
+    {
+        "id": 1561,
+        "nome": "TC - ABDOME TOTAL (ABDOME SUPERIOR, PELVE E RETROPERITONIO)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCABDOMT"
+    },
+    {
+        "id": 1580,
+        "nome": "RX - CALCANEO",
+        "preço": 0,
+        "código": 408041000,
+        "mnemônico": "R-CALCA2"
+    },
+    {
+        "id": 1642,
+        "nome": "RX - ARTICULACAO TIBIOTARSICA (TORNOZELO)",
+        "preço": 0,
+        "código": 408040890,
+        "mnemônico": "R-ARTTI2"
+    },
+    {
+        "id": 1656,
+        "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCCOL"
+    },
+    {
+        "id": 1658,
+        "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "RMCOLCE2"
+    },
+    {
+        "id": 1659,
+        "nome": "RX - PE OU PODODACTILOS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-PEPOD2"
+    },
+    {
+        "id": 1661,
+        "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "RMCOLCE3"
+    },
+    {
+        "id": 1665,
+        "nome": "RX - COTOVELO",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-COTOV2"
+    },
+    {
+        "id": 1673,
+        "nome": "RX - PERNA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-PERTI2"
+    },
+    {
+        "id": 1677,
+        "nome": "RX - ARTICULACAO COXOFEMORAL (QUADRIL)",
+        "preço": 0,
+        "código": 408040380,
+        "mnemônico": "R-ARTCX2"
+    },
+    {
+        "id": 1678,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "DPORGES3"
+    },
+    {
+        "id": 1684,
+        "nome": "RX - COXA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-CXFMU2"
+    },
+    {
+        "id": 1687,
+        "nome": "TC - TORAX",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCTORAX2"
+    },
+    {
+        "id": 1709,
+        "nome": "RX - ARTICULACAO ESCAPULOUMERAL (OMBRO)",
+        "preço": 0,
+        "código": 408030740,
+        "mnemônico": "R-ARTEU2"
+    },
+    {
+        "id": 1718,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "DPORGES4"
+    },
+    {
+        "id": 1724,
+        "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "TCCRANI2"
+    },
+    {
+        "id": 1740,
+        "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO SUPERIOR - UNILATERAL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "DPVMS2"
+    },
+    {
+        "id": 1747,
+        "nome": "US - MAMAS FEMININA - UNIMED",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "USMAMAFU"
+    },
+    {
+        "id": 1766,
+        "nome": "DOPPLER CONVENCIONAL DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "DCOEI1"
+    },
+    {
+        "id": 1767,
+        "nome": "DOPPLER CONVENCIONAL DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "DCOEI2"
+    },
+    {
+        "id": 1853,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "DPORGES5"
+    },
+    {
+        "id": 1854,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "DPORGES6"
+    },
+    {
+        "id": 1855,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "DPORGES7"
+    },
+    {
+        "id": 1856,
+        "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "DPORGES8"
+    },
+    {
+        "id": 1968,
+        "nome": "US - OBSTETRICA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "USOBSTE2"
+    }
+]

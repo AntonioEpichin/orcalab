@@ -1,0 +1,23 @@
+[
+    {
+        "id": 542,
+        "nome": "CLASSIFICACAO SANGUINEA - GRUPO ABO E FATOR RH",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "GSA"
+    },
+    {
+        "id": 1403,
+        "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "COVID-DT"
+    },
+    {
+        "id": 1486,
+        "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR - LAUDO ESPANHOL",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "COVIDESP"
+    }
+]

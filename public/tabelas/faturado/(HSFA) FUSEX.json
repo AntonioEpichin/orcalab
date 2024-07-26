@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1342,
+        "nome": "RX - ABDOME SIMPLES",
+        "preço": 0,
+        "código": 408080170,
+        "mnemônico": "R-ABDAP"
+    },
+    {
+        "id": 1352,
+        "nome": "RX - ARTICULACAO TIBIOTARSICA (TORNOZELO)",
+        "preço": 0,
+        "código": 408040890,
+        "mnemônico": "R-ARTTIB"
+    },
+    {
+        "id": 1360,
+        "nome": "RX - COLUNA DORSAL - 2 INCIDENCIAS",
+        "preço": 0,
+        "código": 408020350,
+        "mnemônico": "R-COLDAP"
+    },
+    {
+        "id": 1361,
+        "nome": "RX - COLUNA LOMBO-SACRA - 3 INCIDENCIAS",
+        "preço": 0,
+        "código": 408020510,
+        "mnemônico": "R-COLLSA"
+    },
+    {
+        "id": 1374,
+        "nome": "RX - JOELHO",
+        "preço": 0,
+        "código": 408040540,
+        "mnemônico": "R-JAPLAT"
+    },
+    {
+        "id": 1386,
+        "nome": "RX - PE OU PODODACTILOS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-PEPOD"
+    },
+    {
+        "id": 1389,
+        "nome": "RX - SEIOS DA FACE",
+        "preço": 0,
+        "código": 408010630,
+        "mnemônico": "R-SEFMN"
+    },
+    {
+        "id": 1391,
+        "nome": "RX - TORAX - 1 INCIDENCIA",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-TXPA"
+    },
+    {
+        "id": 1392,
+        "nome": "RX - TORAX - 2 INCIDENCIAS ",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-TXPALA"
+    },
+    {
+        "id": 1416,
+        "nome": "RX - JOELHO",
+        "preço": 0,
+        "código": 408040540,
+        "mnemônico": "R-JAPLA2"
+    },
+    {
+        "id": 1553,
+        "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
+        "preço": 0,
+        "código": 410011250,
+        "mnemônico": "TCCOL2"
+    },
+    {
+        "id": 1554,
+        "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
+        "preço": 0,
+        "código": 410010100,
+        "mnemônico": "TCCRANIO"
+    },
+    {
+        "id": 1556,
+        "nome": "TC - FACE OU SEIOS DA FACE",
+        "preço": 0,
+        "código": 410010360,
+        "mnemônico": "TCFACE"
+    },
+    {
+        "id": 1560,
+        "nome": "TC - TORAX",
+        "preço": 0,
+        "código": 410010790,
+        "mnemônico": "TCTORAX"
+    },
+    {
+        "id": 1561,
+        "nome": "TC - ABDOME TOTAL (ABDOME SUPERIOR, PELVE E RETROPERITONIO)",
+        "preço": 0,
+        "código": 410010950,
+        "mnemônico": "TCABDOMT"
+    },
+    {
+        "id": 1642,
+        "nome": "RX - ARTICULACAO TIBIOTARSICA (TORNOZELO)",
+        "preço": 0,
+        "código": 408040890,
+        "mnemônico": "R-ARTTI2"
+    },
+    {
+        "id": 1656,
+        "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
+        "preço": 0,
+        "código": 410011250,
+        "mnemônico": "TCCOL"
+    },
+    {
+        "id": 1659,
+        "nome": "RX - PE OU PODODACTILOS",
+        "preço": 0,
+        "código": null,
+        "mnemônico": "R-PEPOD2"
+    },
+    {
+        "id": 1687,
+        "nome": "TC - TORAX",
+        "preço": 0,
+        "código": 410010790,
+        "mnemônico": "TCTORAX2"
+    },
+    {
+        "id": 1708,
+        "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
+        "preço": 0,
+        "código": 410011250,
+        "mnemônico": "TCCOL3"
+    },
+    {
+        "id": 1724,
+        "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
+        "preço": 0,
+        "código": 410010100,
+        "mnemônico": "TCCRANI2"
+    }
+]

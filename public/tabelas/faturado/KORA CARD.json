@@ -1,0 +1,1409 @@
+[
+    {
+        "id": 167,
+        "nome": "TESTE DO PEZINHO - AMPLIADO",
+        "preço": 0,
+        "código": 403121780,
+        "mnemônico": "AMPLIADO"
+    },
+    {
+        "id": 168,
+        "nome": "TESTE DO PEZINHO - PLUS",
+        "preço": 0,
+        "código": 403121780,
+        "mnemônico": "PLUS"
+    },
+    {
+        "id": 469,
+        "nome": "1 HISTOPATOLOGICO ",
+        "preço": 0,
+        "código": 406011100,
+        "mnemônico": "HISTOG1"
+    },
+    {
+        "id": 471,
+        "nome": "1 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 406012000,
+        "mnemônico": "HISTOS1"
+    },
+    {
+        "id": 472,
+        "nome": "1 PD EM PECA CIRURGICA OU ANATOMICA COMPLEXA",
+        "preço": 0,
+        "código": 403012180,
+        "mnemônico": "HISTOC1"
+    },
+    {
+        "id": 473,
+        "nome": "1 PD CITOPATOLOGICO ONCOT. LIQ. E RASP. CUTANEOS",
+        "preço": 0,
+        "código": 406011290,
+        "mnemônico": "CITOL1"
+    },
+    {
+        "id": 475,
+        "nome": "1 PD EM REV. LAMINAS OU CORTES HISTOLOGICOS SERIADOS",
+        "preço": 0,
+        "código": 406011530,
+        "mnemônico": "HISTOR1"
+    },
+    {
+        "id": 476,
+        "nome": "1 COLORACAO ESPECIAL POR COLORACAO",
+        "preço": 0,
+        "código": 406012690,
+        "mnemônico": "COLOR1"
+    },
+    {
+        "id": 477,
+        "nome": "1 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "HISTOV1"
+    },
+    {
+        "id": 478,
+        "nome": "2 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "HISTOV2"
+    },
+    {
+        "id": 479,
+        "nome": "3 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "HISTOV3"
+    },
+    {
+        "id": 480,
+        "nome": "4 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "HISTOV4"
+    },
+    {
+        "id": 538,
+        "nome": "COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 406011370,
+        "mnemônico": "COLP"
+    },
+    {
+        "id": 542,
+        "nome": "CLASSIFICACAO SANGUINEA - GRUPO ABO E FATOR RH",
+        "preço": 0,
+        "código": 403042990,
+        "mnemônico": "GSA"
+    },
+    {
+        "id": 599,
+        "nome": "BILIRRUBINAS (DIRETA, INDIRETA E TOTAL)",
+        "preço": 0,
+        "código": 403013970,
+        "mnemônico": "BIL"
+    },
+    {
+        "id": 619,
+        "nome": "5 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "HISTOV5"
+    },
+    {
+        "id": 620,
+        "nome": "6 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "HISTOV6"
+    },
+    {
+        "id": 621,
+        "nome": "7 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "HISTOV7"
+    },
+    {
+        "id": 622,
+        "nome": "8 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "HISTOV8"
+    },
+    {
+        "id": 623,
+        "nome": "9 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "HISTOV9"
+    },
+    {
+        "id": 632,
+        "nome": "PUNCAO BIOPSIA/ASPIRATIVA DE ORGAO OU ESTRUTURA - AGULHA FINA",
+        "preço": 0,
+        "código": 408091610,
+        "mnemônico": "PAAF"
+    },
+    {
+        "id": 682,
+        "nome": "1 FAT PD PRE OPERAT. SEM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010130,
+        "mnemônico": "C01"
+    },
+    {
+        "id": 683,
+        "nome": "4 FAT PD PRE OPERAT. SEM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010130,
+        "mnemônico": "C04"
+    },
+    {
+        "id": 684,
+        "nome": "1 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C05"
+    },
+    {
+        "id": 685,
+        "nome": "2 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C06"
+    },
+    {
+        "id": 686,
+        "nome": "3 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C07"
+    },
+    {
+        "id": 687,
+        "nome": "4 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C08"
+    },
+    {
+        "id": 688,
+        "nome": "1 FAT PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "C09"
+    },
+    {
+        "id": 694,
+        "nome": "1 FAT MICROSCOPIA ELETRONICA",
+        "preço": 0,
+        "código": 406010640,
+        "mnemônico": "C21"
+    },
+    {
+        "id": 719,
+        "nome": "5 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "HISTOI5"
+    },
+    {
+        "id": 720,
+        "nome": "2 FAT PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "C54"
+    },
+    {
+        "id": 721,
+        "nome": "3 FAT PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "C55"
+    },
+    {
+        "id": 722,
+        "nome": "4 FAT PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "C56"
+    },
+    {
+        "id": 727,
+        "nome": "1 FAT PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 406012340,
+        "mnemônico": "C61"
+    },
+    {
+        "id": 728,
+        "nome": "2 FAT PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 406012340,
+        "mnemônico": "C62"
+    },
+    {
+        "id": 729,
+        "nome": "3 FAT PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 406012340,
+        "mnemônico": "C63"
+    },
+    {
+        "id": 730,
+        "nome": "4 FAT PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 406012340,
+        "mnemônico": "C64"
+    },
+    {
+        "id": 731,
+        "nome": "1 FAT PD EM AMPUTACAO ED MEMBROS CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 406012420,
+        "mnemônico": "C65"
+    },
+    {
+        "id": 732,
+        "nome": "2 FAT PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 406012420,
+        "mnemônico": "C66"
+    },
+    {
+        "id": 733,
+        "nome": "3 FAT PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 406012420,
+        "mnemônico": "C67"
+    },
+    {
+        "id": 734,
+        "nome": "4 FAT PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 406012420,
+        "mnemônico": "C68"
+    },
+    {
+        "id": 735,
+        "nome": "1 FAT PD EM LAMINAS DE PAAF ATE 5",
+        "preço": 0,
+        "código": 406012500,
+        "mnemônico": "C69"
+    },
+    {
+        "id": 736,
+        "nome": "1 FAT PD EM IMUNOFLUORESCENCIA",
+        "preço": 0,
+        "código": 406012770,
+        "mnemônico": "C73"
+    },
+    {
+        "id": 737,
+        "nome": "2 FAT PD EM IMUNOFLUORESCENCIA",
+        "preço": 0,
+        "código": 406012770,
+        "mnemônico": "C74"
+    },
+    {
+        "id": 738,
+        "nome": "3 FAT PD EM IMUNOFLUORESCENCIA",
+        "preço": 0,
+        "código": 406012770,
+        "mnemônico": "C75"
+    },
+    {
+        "id": 739,
+        "nome": "4 FAT PD EM IMUNOFLUORESCENCIA",
+        "preço": 0,
+        "código": 406012770,
+        "mnemônico": "C76"
+    },
+    {
+        "id": 740,
+        "nome": "1 FAT PD EM PAINEL DE HIBRIDIZACAO IN SITU",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "C77"
+    },
+    {
+        "id": 741,
+        "nome": "2 FAT PD EM PAINEL DE HIBRIDIZACAO IN SITU",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "C78"
+    },
+    {
+        "id": 742,
+        "nome": "3 FAT PD EM PAINEL DE HIBRIDIZACAO IN SITU",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "C79"
+    },
+    {
+        "id": 743,
+        "nome": "1 FAT PD POR CAPTURA HIBRIDA",
+        "preço": 0,
+        "código": 406012930,
+        "mnemônico": "C81"
+    },
+    {
+        "id": 744,
+        "nome": "2 FAT PD POR CAPTURA HIBRIDA",
+        "preço": 0,
+        "código": 406012930,
+        "mnemônico": "C82"
+    },
+    {
+        "id": 745,
+        "nome": "3 FAT PD POR CAPTURA HIBRIDA",
+        "preço": 0,
+        "código": 406012930,
+        "mnemônico": "C83"
+    },
+    {
+        "id": 746,
+        "nome": "4 FAT PD POR CAPTURA HIBRIDA",
+        "preço": 0,
+        "código": 406012930,
+        "mnemônico": "C84"
+    },
+    {
+        "id": 747,
+        "nome": "1 FAT PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "C85"
+    },
+    {
+        "id": 748,
+        "nome": "2 FAT PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "C86"
+    },
+    {
+        "id": 749,
+        "nome": "3 FAT PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "C87"
+    },
+    {
+        "id": 750,
+        "nome": "4 FAT PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "C88"
+    },
+    {
+        "id": 751,
+        "nome": "1 FAT PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
+        "preço": 0,
+        "código": 406011960,
+        "mnemônico": "C89"
+    },
+    {
+        "id": 752,
+        "nome": "4 FAT PD CITOPATOLOGICO ONCOT. LIQ. E RASP. CUTANEOS",
+        "preço": 0,
+        "código": 406011290,
+        "mnemônico": "C92"
+    },
+    {
+        "id": 753,
+        "nome": "1 FAT PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 406012000,
+        "mnemônico": "C95"
+    },
+    {
+        "id": 754,
+        "nome": "1 FAT PD EM PECA CIRURGICA OU ANATOMICA COMPLEXA",
+        "preço": 0,
+        "código": 403012180,
+        "mnemônico": "C99"
+    },
+    {
+        "id": 756,
+        "nome": "4 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CONCIAS4"
+    },
+    {
+        "id": 757,
+        "nome": "6 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CONCIAS6"
+    },
+    {
+        "id": 758,
+        "nome": "7 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CONCIAS7"
+    },
+    {
+        "id": 760,
+        "nome": "1 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CONCIAS1"
+    },
+    {
+        "id": 761,
+        "nome": "2 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CONCIAS2"
+    },
+    {
+        "id": 762,
+        "nome": "3 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CONCIAS3"
+    },
+    {
+        "id": 763,
+        "nome": "5 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CONCIAS5"
+    },
+    {
+        "id": 764,
+        "nome": "8 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CONCIAS8"
+    },
+    {
+        "id": 765,
+        "nome": "9 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CONCIAS9"
+    },
+    {
+        "id": 766,
+        "nome": "REVISAO DE COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 406011370,
+        "mnemônico": "COLPREV"
+    },
+    {
+        "id": 769,
+        "nome": "1 FAT PD CITOPATOLOGICO ONCOT. LIQ. E RASP. CUTANEOS",
+        "preço": 0,
+        "código": 406011290,
+        "mnemônico": "D01"
+    },
+    {
+        "id": 770,
+        "nome": "1 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "D09"
+    },
+    {
+        "id": 771,
+        "nome": "3 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "D11"
+    },
+    {
+        "id": 772,
+        "nome": "FAT COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 406011370,
+        "mnemônico": "COLPFAT"
+    },
+    {
+        "id": 775,
+        "nome": "1 FAT PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CONG1FAT"
+    },
+    {
+        "id": 776,
+        "nome": "10 FAT PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CON10FAT"
+    },
+    {
+        "id": 782,
+        "nome": "1 FAT HISTOPATOLOGICO",
+        "preço": 0,
+        "código": 406011100,
+        "mnemônico": "H01"
+    },
+    {
+        "id": 784,
+        "nome": "1 PD EM REV. LAMINAS OU CORTES HISTOLOGICOS SERIADOS",
+        "preço": 0,
+        "código": 406011530,
+        "mnemônico": "HR2"
+    },
+    {
+        "id": 785,
+        "nome": "5 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 406012000,
+        "mnemônico": "HS5"
+    },
+    {
+        "id": 786,
+        "nome": "6 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 406012000,
+        "mnemônico": "HS6"
+    },
+    {
+        "id": 787,
+        "nome": "7 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 406012000,
+        "mnemônico": "HS7"
+    },
+    {
+        "id": 788,
+        "nome": "8 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 406012000,
+        "mnemônico": "HS8"
+    },
+    {
+        "id": 789,
+        "nome": "9 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 406012000,
+        "mnemônico": "HS9"
+    },
+    {
+        "id": 810,
+        "nome": "1 PD PRE OPERAT. SEM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010130,
+        "mnemônico": "CONGSD1"
+    },
+    {
+        "id": 813,
+        "nome": "1 PD PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "CONGPA1"
+    },
+    {
+        "id": 814,
+        "nome": "1 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010300,
+        "mnemônico": "CONGCD1"
+    },
+    {
+        "id": 815,
+        "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "P10"
+    },
+    {
+        "id": 820,
+        "nome": "1 MICROSCOPIA ELETRONICA",
+        "preço": 0,
+        "código": 406010640,
+        "mnemônico": "MICROELE"
+    },
+    {
+        "id": 845,
+        "nome": "1 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "HISTOI1"
+    },
+    {
+        "id": 846,
+        "nome": "2 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "HISTOI2"
+    },
+    {
+        "id": 847,
+        "nome": "3 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "HISTOI3"
+    },
+    {
+        "id": 848,
+        "nome": "4 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "HISTOI4"
+    },
+    {
+        "id": 853,
+        "nome": "1 PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 406012340,
+        "mnemônico": "AMP1"
+    },
+    {
+        "id": 854,
+        "nome": "2 PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 406012340,
+        "mnemônico": "AMP2"
+    },
+    {
+        "id": 855,
+        "nome": "3 PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 406012340,
+        "mnemônico": "AMP3"
+    },
+    {
+        "id": 856,
+        "nome": "4 PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 406012340,
+        "mnemônico": "AMP4"
+    },
+    {
+        "id": 857,
+        "nome": "1 PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 406012420,
+        "mnemônico": "AMPONCO1"
+    },
+    {
+        "id": 858,
+        "nome": "2 PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 406012420,
+        "mnemônico": "AMPONCO2"
+    },
+    {
+        "id": 859,
+        "nome": "3 PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 406012420,
+        "mnemônico": "AMPONCO3"
+    },
+    {
+        "id": 860,
+        "nome": "4 PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
+        "preço": 0,
+        "código": 406012420,
+        "mnemônico": "AMPONCO4"
+    },
+    {
+        "id": 861,
+        "nome": "1 PD EM LAMINAS DE PAAF ATE 5",
+        "preço": 0,
+        "código": 406012500,
+        "mnemônico": "CITOP1"
+    },
+    {
+        "id": 862,
+        "nome": "4 PD EM LAMINAS DE PAAF ATE 5",
+        "preço": 0,
+        "código": 406012500,
+        "mnemônico": "CITOP4"
+    },
+    {
+        "id": 863,
+        "nome": "1 PD EM IMUNOFLUORESCENCIA",
+        "preço": 0,
+        "código": 406012770,
+        "mnemônico": "HISTOF1"
+    },
+    {
+        "id": 864,
+        "nome": "2 PD EM IMUNOFLUORESCENCIA",
+        "preço": 0,
+        "código": 406012770,
+        "mnemônico": "HISTOF2"
+    },
+    {
+        "id": 865,
+        "nome": "3 PD EM IMUNOFLUORESCENCIA",
+        "preço": 0,
+        "código": 406012770,
+        "mnemônico": "HISTOF3"
+    },
+    {
+        "id": 866,
+        "nome": "4 PD EM IMUNOFLUORESCENCIA",
+        "preço": 0,
+        "código": 406012770,
+        "mnemônico": "HISTOF4"
+    },
+    {
+        "id": 867,
+        "nome": "1 PD EM PAINEL DE HIBRIDIZACAO IN SITU",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "HIBRIDI1"
+    },
+    {
+        "id": 868,
+        "nome": "2 PD EM PAINEL DE HIBRIDIZACAO IN SITU",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "HIBRIDI2"
+    },
+    {
+        "id": 869,
+        "nome": "3 PD EM PAINEL DE HIBRIDIZACAO IN SITU",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "HIBRIDI3"
+    },
+    {
+        "id": 870,
+        "nome": "4 PD EM PAINEL DE HIBRIDIZACAO IN SITU",
+        "preço": 0,
+        "código": 406012850,
+        "mnemônico": "HIBRIDI4"
+    },
+    {
+        "id": 871,
+        "nome": "1 PD POR CAPTURA HIBRIDA",
+        "preço": 0,
+        "código": 406012930,
+        "mnemônico": "CAPTURA1"
+    },
+    {
+        "id": 872,
+        "nome": "2 PD POR CAPTURA HIBRIDA",
+        "preço": 0,
+        "código": 406012930,
+        "mnemônico": "CAPTURA2"
+    },
+    {
+        "id": 873,
+        "nome": "3 PD POR CAPTURA HIBRIDA",
+        "preço": 0,
+        "código": 406012930,
+        "mnemônico": "CAPTURA3"
+    },
+    {
+        "id": 874,
+        "nome": "4 PD POR CAPTURA HIBRIDA",
+        "preço": 0,
+        "código": 406012930,
+        "mnemônico": "CAPTURA4"
+    },
+    {
+        "id": 875,
+        "nome": "1 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "CITOLIQ1"
+    },
+    {
+        "id": 876,
+        "nome": "2 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "CITOLIQ2"
+    },
+    {
+        "id": 877,
+        "nome": "3 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "CITOLIQ3"
+    },
+    {
+        "id": 878,
+        "nome": "4 PD CITOPATOLOGICO EM MEIO LIQUIDO",
+        "preço": 0,
+        "código": 406013230,
+        "mnemônico": "CITOLIQ4"
+    },
+    {
+        "id": 879,
+        "nome": "1 PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
+        "preço": 0,
+        "código": 406011960,
+        "mnemônico": "HISTOM1"
+    },
+    {
+        "id": 910,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUL1"
+    },
+    {
+        "id": 911,
+        "nome": "CULTURA - FEZES",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUF"
+    },
+    {
+        "id": 913,
+        "nome": "CULTURA - AUTOMATIZADA ",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "URO"
+    },
+    {
+        "id": 914,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUL2"
+    },
+    {
+        "id": 929,
+        "nome": "CULTURA - FEZES (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUF2"
+    },
+    {
+        "id": 931,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (4ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUL4"
+    },
+    {
+        "id": 932,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUL3"
+    },
+    {
+        "id": 933,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (5ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUL5"
+    },
+    {
+        "id": 935,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (7ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUL7"
+    },
+    {
+        "id": 936,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (8ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUL8"
+    },
+    {
+        "id": 937,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (9ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUL9"
+    },
+    {
+        "id": 955,
+        "nome": "CULTURA - ANAEROBICO",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CULANA"
+    },
+    {
+        "id": 970,
+        "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C02"
+    },
+    {
+        "id": 971,
+        "nome": "6 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C03"
+    },
+    {
+        "id": 972,
+        "nome": "7 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C10"
+    },
+    {
+        "id": 973,
+        "nome": "8 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C11"
+    },
+    {
+        "id": 976,
+        "nome": "3 FAT PD PRE OPERAT. SEM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010130,
+        "mnemônico": "C19"
+    },
+    {
+        "id": 977,
+        "nome": "2 FAT PD PRE OPERAT. SEM DESLOCAMENTO DO PATOLOGISTA",
+        "preço": 0,
+        "código": 406010130,
+        "mnemônico": "C12"
+    },
+    {
+        "id": 983,
+        "nome": "STREPTOCOCCUS AGALACTIAE (BETA HEMOLITICO DO GRUPO B)",
+        "preço": 0,
+        "código": 403101240,
+        "mnemônico": "STB"
+    },
+    {
+        "id": 998,
+        "nome": "ECODOPPLERCARDIOGRAMA TRANSESOFAGICO (INCLUIR TRANSTORACICO)",
+        "preço": 0,
+        "código": 409010920,
+        "mnemônico": "ECOTRANS"
+    },
+    {
+        "id": 999,
+        "nome": "ECODOPPLERCARDIOGRAMA TRANSTORACICO",
+        "preço": 0,
+        "código": 409011060,
+        "mnemônico": "ECOTRAN"
+    },
+    {
+        "id": 1047,
+        "nome": "1 PD EM LAMINAS DE PAAF ATE 5 - REVISAO",
+        "preço": 0,
+        "código": 406012500,
+        "mnemônico": "CITOREV1"
+    },
+    {
+        "id": 1167,
+        "nome": "STREPTOCOCCUS AGALACTIAE (BETA HEMOLITICO DO GRUPO B) (2ª AMOSTRA)",
+        "preço": 0,
+        "código": 403101240,
+        "mnemônico": "STB2"
+    },
+    {
+        "id": 1173,
+        "nome": "2 COLPOCITOLOGICO",
+        "preço": 0,
+        "código": 406011370,
+        "mnemônico": "COLP2"
+    },
+    {
+        "id": 1177,
+        "nome": "BILIRRUBINAS - MATERIAIS DIVERSOS",
+        "preço": 0,
+        "código": 403013970,
+        "mnemônico": "BIL-DIV"
+    },
+    {
+        "id": 1250,
+        "nome": "8 FAT PD EM FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
+        "preço": 0,
+        "código": 406011960,
+        "mnemônico": "F08"
+    },
+    {
+        "id": 1256,
+        "nome": "CULTURA - FEZES (3ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUF3"
+    },
+    {
+        "id": 1290,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (10ª AMOSTRA) ",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUL10"
+    },
+    {
+        "id": 1309,
+        "nome": "PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES) - REVISAO",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "REV-IMUN"
+    },
+    {
+        "id": 1331,
+        "nome": "6 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "HISTOI6"
+    },
+    {
+        "id": 1332,
+        "nome": "7 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "HISTOI7"
+    },
+    {
+        "id": 1333,
+        "nome": "8 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "HISTOI8"
+    },
+    {
+        "id": 1334,
+        "nome": "9 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES)",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "HISTOI9"
+    },
+    {
+        "id": 1437,
+        "nome": "1 HISTOPATOLOGICO - RETIFICACAO",
+        "preço": 0,
+        "código": 406011100,
+        "mnemônico": "RETIFH1"
+    },
+    {
+        "id": 1438,
+        "nome": "2 HISTOPATOLOGICO - RETIFICACAO",
+        "preço": 0,
+        "código": 406011100,
+        "mnemônico": "RETIFH2"
+    },
+    {
+        "id": 1439,
+        "nome": "1 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES) - RETIFICACA",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "RETIFI1"
+    },
+    {
+        "id": 1440,
+        "nome": "2 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES) - RETIFICACA",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "RETIFI2"
+    },
+    {
+        "id": 1454,
+        "nome": "3 PD EM PAINEL DE IMUNOISTOQUIMICA (DUAS A CINCO REACOES) - RETIFICACA",
+        "preço": 0,
+        "código": 406011700,
+        "mnemônico": "RETIFI3"
+    },
+    {
+        "id": 1460,
+        "nome": "2 PD EM LAMINAS DE PAAF ATE 5 - REVISAO",
+        "preço": 0,
+        "código": 406012500,
+        "mnemônico": "CITOREV2"
+    },
+    {
+        "id": 1477,
+        "nome": "DENSITOMETRIA OSSEA (1 SEGMENTO)",
+        "preço": 0,
+        "código": 408081220,
+        "mnemônico": "D-OSSE1S"
+    },
+    {
+        "id": 1478,
+        "nome": "ELETROCARDIOGRAMA (ECG)",
+        "preço": 0,
+        "código": 401010100,
+        "mnemônico": "C-ECG"
+    },
+    {
+        "id": 1479,
+        "nome": "TESTE ERGOMETRICO CONVENCIONAL - 3 OU MAIS DERIVACOES SIMULTANEAS",
+        "preço": 0,
+        "código": 401010370,
+        "mnemônico": "C-TERGOC"
+    },
+    {
+        "id": 1480,
+        "nome": "3 HISTOPATOLOGICO - RETIFICACAO",
+        "preço": 0,
+        "código": 406011100,
+        "mnemônico": "RETIFH3"
+    },
+    {
+        "id": 1481,
+        "nome": "4 HISTOPATOLOGICO - RETIFICACAO",
+        "preço": 0,
+        "código": 406011100,
+        "mnemônico": "RETIFH4"
+    },
+    {
+        "id": 1482,
+        "nome": "5 HISTOPATOLOGICO - RETIFICACAO",
+        "preço": 0,
+        "código": 406011100,
+        "mnemônico": "RETIFH5"
+    },
+    {
+        "id": 1489,
+        "nome": "9 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "C24"
+    },
+    {
+        "id": 1495,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (11ª AMOSTRA)\t",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUL11"
+    },
+    {
+        "id": 1502,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (12ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUL12"
+    },
+    {
+        "id": 1503,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (13ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUL13"
+    },
+    {
+        "id": 1504,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (14ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUL14"
+    },
+    {
+        "id": 1505,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (15ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUL15"
+    },
+    {
+        "id": 1510,
+        "nome": "BILIRRUBINAS (AVALIACAO DE EXASANGUINEOTRANSFUSAO)",
+        "preço": 0,
+        "código": 403013970,
+        "mnemônico": "BILTRANS"
+    },
+    {
+        "id": 1511,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (16ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUL16"
+    },
+    {
+        "id": 1523,
+        "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR (OU DOIS SEGMENTOS)",
+        "preço": 0,
+        "código": 408081300,
+        "mnemônico": "D-COLFEM"
+    },
+    {
+        "id": 1537,
+        "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "P11"
+    },
+    {
+        "id": 1538,
+        "nome": "6 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "P12"
+    },
+    {
+        "id": 1539,
+        "nome": "8 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "P13"
+    },
+    {
+        "id": 1540,
+        "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "P14"
+    },
+    {
+        "id": 1541,
+        "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
+        "preço": 0,
+        "código": 406010210,
+        "mnemônico": "P15"
+    },
+    {
+        "id": 1662,
+        "nome": "6 FAT PD EM LAMINAS DE PAAF ATE 5",
+        "preço": 0,
+        "código": 406012500,
+        "mnemônico": "CF6"
+    },
+    {
+        "id": 1663,
+        "nome": "7 FAT PD EM LAMINAS DE PAAF ATE 5",
+        "preço": 0,
+        "código": 406012500,
+        "mnemônico": "CF7"
+    },
+    {
+        "id": 1664,
+        "nome": "8 FAT PD EM LAMINAS DE PAAF ATE 5",
+        "preço": 0,
+        "código": 406012500,
+        "mnemônico": "CF8"
+    },
+    {
+        "id": 1692,
+        "nome": "22 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "D30"
+    },
+    {
+        "id": 1693,
+        "nome": "23 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "D31"
+    },
+    {
+        "id": 1694,
+        "nome": "24 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "D32"
+    },
+    {
+        "id": 1695,
+        "nome": "25 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "D33"
+    },
+    {
+        "id": 1696,
+        "nome": "26 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "D34"
+    },
+    {
+        "id": 1697,
+        "nome": "27 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "D35"
+    },
+    {
+        "id": 1698,
+        "nome": "28 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "D36"
+    },
+    {
+        "id": 1715,
+        "nome": "DENSITOMETRIA OSSEA - CORPO INTEIRO ",
+        "preço": 0,
+        "código": 408081490,
+        "mnemônico": "D-COMPC"
+    },
+    {
+        "id": 1733,
+        "nome": "MONITORACAO AMBULATORIAL DA PRESSAO ARTERIAL - MAPA (MAPA 24 HORAS)",
+        "preço": 0,
+        "código": 201020380,
+        "mnemônico": "MAPA24H"
+    },
+    {
+        "id": 1734,
+        "nome": "HOLTER DE 24 HORAS - 3 CANAIS - DIGITAL",
+        "preço": 0,
+        "código": 201020200,
+        "mnemônico": "HOLTER24"
+    },
+    {
+        "id": 1772,
+        "nome": "9 FAT PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
+        "preço": 0,
+        "código": 406011960,
+        "mnemônico": "F09"
+    },
+    {
+        "id": 1773,
+        "nome": "10 FAT PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
+        "preço": 0,
+        "código": 406011960,
+        "mnemônico": "F10"
+    },
+    {
+        "id": 1786,
+        "nome": "19 FAT PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
+        "preço": 0,
+        "código": 406012000,
+        "mnemônico": "C103"
+    },
+    {
+        "id": 1883,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (17ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUL17"
+    },
+    {
+        "id": 1884,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (18ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUL18"
+    },
+    {
+        "id": 1885,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (19ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUL19"
+    },
+    {
+        "id": 1886,
+        "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (20ª AMOSTRA)",
+        "preço": 0,
+        "código": 403104000,
+        "mnemônico": "CUL20"
+    },
+    {
+        "id": 2054,
+        "nome": "29 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "D37"
+    },
+    {
+        "id": 2055,
+        "nome": "30 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
+        "preço": 0,
+        "código": 406012260,
+        "mnemônico": "D38"
+    }
+]
