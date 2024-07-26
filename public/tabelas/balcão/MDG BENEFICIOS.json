@@ -2123,14 +2123,14 @@
     {
         "id": 311,
         "nome": "PATERNIDADE - CRIANCA E SUPOSTO PAI",
-        "preço": 53.61,
+        "preço": 405.00,
         "código": 405037200,
         "mnemônico": "PATER2"
     },
     {
         "id": 312,
         "nome": "PATERNIDADE - FILHO, MAE E SUPOSTO PAI",
-        "preço": 486.08,
+        "preço": 360.00,
         "código": 405037200,
         "mnemônico": "PATER3"
     },
