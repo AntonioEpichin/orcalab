@@ -3,35 +3,35 @@
         "id": 1000,
         "nome": "US - MAMAS FEMININA",
         "preço": 0,
-        "código": 409011140,
+        "código": 40901114,
         "mnemônico": "USMAMASF"
     },
     {
         "id": 1020,
         "nome": "US - TRANSVAGINAL (UTERO, OVARIO, ANEXOS E VAGINA)",
         "preço": 0,
-        "código": 409013000,
+        "código": 40901300,
         "mnemônico": "USTRANSV"
     },
     {
         "id": 1375,
         "nome": "MAMOGRAFIA DIGITAL BILATERAL",
         "preço": 0,
-        "código": 408080410,
+        "código": 40808041,
         "mnemônico": "M-DIGBIL"
     },
     {
         "id": 1487,
         "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL",
         "preço": 0,
-        "código": 408080330,
+        "código": 40808033,
         "mnemônico": "M-COVBIL"
     },
     {
         "id": 1612,
         "nome": "US - TRANSVAGINAL - UNIMED",
         "preço": 0,
-        "código": 409013000,
+        "código": 40901300,
         "mnemônico": "USTRANSU"
     }
 ]

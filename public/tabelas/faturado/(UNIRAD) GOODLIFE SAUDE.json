@@ -10,84 +10,84 @@
         "id": 1000,
         "nome": "US - MAMAS FEMININA",
         "preço": 0,
-        "código": 409011140,
+        "código": 40901114,
         "mnemônico": "USMAMASF"
     },
     {
         "id": 1001,
         "nome": "US - ABDOME TOTAL (ABDOME SUPERIOR, RINS, BEXIGA, AORTA, VEIA CAVA INF",
         "preço": 0,
-        "código": 409011220,
+        "código": 40901122,
         "mnemônico": "USABDOME"
     },
     {
         "id": 1003,
         "nome": "US - APARELHO URINARIO FEMININO (RINS, URETERES E BEXIGA)",
         "preço": 0,
-        "código": 409017690,
+        "código": 40901769,
         "mnemônico": "USAPAUF"
     },
     {
         "id": 1004,
         "nome": "US - APARELHO URINARIO MASCULINO (RINS, URETERES E BEXIGA)",
         "preço": 0,
-        "código": 409017690,
+        "código": 40901769,
         "mnemônico": "USAPAUM"
     },
     {
         "id": 1006,
         "nome": "US - ABDOME INFERIOR FEMININO (BEXIGA, UTERO, OVARIO E ANEXOS)",
         "preço": 0,
-        "código": 409011730,
+        "código": 40901173,
         "mnemônico": "USABDFEM"
     },
     {
         "id": 1008,
         "nome": "US - ORGAOS SUPERFICIAIS (ESCROTO)",
         "preço": 0,
-        "código": 409012030,
+        "código": 40901203,
         "mnemônico": "USESCRO"
     },
     {
         "id": 1009,
         "nome": "US - ORGAOS SUPERFICIAIS (PENIS)",
         "preço": 0,
-        "código": 409012030,
+        "código": 40901203,
         "mnemônico": "USPENIS"
     },
     {
         "id": 1013,
         "nome": "US - ARTICULAR (POR ARTICULACAO)",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTIC"
     },
     {
         "id": 1014,
         "nome": "US - OBSTETRICA",
         "preço": 0,
-        "código": 409012380,
+        "código": 40901238,
         "mnemônico": "USOBSTE"
     },
     {
         "id": 1015,
         "nome": "US - OBSTETRICA COM DOPPLER COLORIDO",
         "preço": 0,
-        "código": 409012460,
+        "código": 40901246,
         "mnemônico": "USOBSTD"
     },
     {
         "id": 1016,
         "nome": "US - OBSTETRICA COM TRANSLUCENCIA NUCAL",
         "preço": 0,
-        "código": 409012540,
+        "código": 40901254,
         "mnemônico": "USOBSTN"
     },
     {
         "id": 1017,
         "nome": "US - OBSTETRICA GESTACAO MULTIPLA: CADA FETO",
         "preço": 0,
-        "código": 409012700,
+        "código": 40901270,
         "mnemônico": "USOBSGM"
     },
     {
@@ -101,7 +101,7 @@
         "id": 1020,
         "nome": "US - TRANSVAGINAL (UTERO, OVARIO, ANEXOS E VAGINA)",
         "preço": 0,
-        "código": 409013000,
+        "código": 40901300,
         "mnemônico": "USTRANSV"
     },
     {
@@ -115,7 +115,7 @@
         "id": 1022,
         "nome": "US - PROSTATA (VIA ABDOMINAL)",
         "preço": 0,
-        "código": 409017500,
+        "código": 40901750,
         "mnemônico": "USPROST"
     },
     {
@@ -129,105 +129,105 @@
         "id": 1024,
         "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
         "preço": 0,
-        "código": 409013860,
+        "código": 40901386,
         "mnemônico": "DPORGES1"
     },
     {
         "id": 1025,
         "nome": "DOPPLER COLORIDO DE AORTA E ARTERIAS RENAIS",
         "preço": 0,
-        "código": 409013940,
+        "código": 40901394,
         "mnemônico": "DPAOARRE"
     },
     {
         "id": 1026,
         "nome": "DOPPLER COLORIDO DE AORTA E ILIACAS",
         "preço": 0,
-        "código": 409014080,
+        "código": 40901408,
         "mnemônico": "DPAOEIL"
     },
     {
         "id": 1027,
         "nome": "DOPPLER COLORIDO DE ARTERIAS VISCERAIS",
         "preço": 0,
-        "código": 409014160,
+        "código": 40901416,
         "mnemônico": "DPARTVIS"
     },
     {
         "id": 1029,
         "nome": "DOPPLER COLORIDO DE VEIA CAVA SUPERIOR OU INFERIOR",
         "preço": 0,
-        "código": 409014320,
+        "código": 40901432,
         "mnemônico": "DPVCAV"
     },
     {
         "id": 1031,
         "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO SUPERIOR - UNILATERAL",
         "preço": 0,
-        "código": 409014590,
+        "código": 40901459,
         "mnemônico": "MARTS"
     },
     {
         "id": 1032,
         "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO SUPERIOR - UNILATERAL",
         "preço": 0,
-        "código": 409014670,
+        "código": 40901467,
         "mnemônico": "DPVMS"
     },
     {
         "id": 1033,
         "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO INFERIOR - UNILATERAL",
         "preço": 0,
-        "código": 409014750,
+        "código": 40901475,
         "mnemônico": "MARTI"
     },
     {
         "id": 1034,
         "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO INFERIOR - UNILATERAL",
         "preço": 0,
-        "código": 409014830,
+        "código": 40901483,
         "mnemônico": "MVENI"
     },
     {
         "id": 1113,
         "nome": "US - ARTICULAR (POR ARTICULACAO)",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTIC2"
     },
     {
         "id": 1114,
         "nome": "US - ARTICULAR (POR ARTICULACAO)",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTIC3"
     },
     {
         "id": 1115,
         "nome": "US - ARTICULAR (POR ARTICULACAO)",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTIC4"
     },
     {
         "id": 1182,
         "nome": "US - OBSTETRICA MORFOLOGICA",
         "preço": 0,
-        "código": 409012620,
+        "código": 40901262,
         "mnemônico": "USOBSMSD"
     },
     {
         "id": 1187,
         "nome": "US - OBSTETRICA MORFOLOGICA ",
         "preço": 0,
-        "código": 409012620,
+        "código": 40901262,
         "mnemônico": "USOBMSD2"
     },
     {
         "id": 1324,
         "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO INFERIOR - UNILATERAL",
         "preço": 0,
-        "código": 409014830,
+        "código": 40901483,
         "mnemônico": "MVENI2"
     },
     {
@@ -423,7 +423,7 @@
         "id": 1373,
         "nome": "RX - PATELA",
         "preço": 0,
-        "código": 408040620,
+        "código": 40804062,
         "mnemônico": "R-PATEL2"
     },
     {
@@ -437,7 +437,7 @@
         "id": 1375,
         "nome": "MAMOGRAFIA DIGITAL BILATERAL",
         "preço": 0,
-        "código": 408080410,
+        "código": 40808041,
         "mnemônico": "M-DIGBIL"
     },
     {
@@ -458,7 +458,7 @@
         "id": 1380,
         "nome": "RX - OMOPLATA OU ESCAPULA",
         "preço": 0,
-        "código": 408030580,
+        "código": 40803058,
         "mnemônico": "R-OMOFUN"
     },
     {
@@ -493,7 +493,7 @@
         "id": 1385,
         "nome": "RX - PATELA",
         "preço": 0,
-        "código": 408040620,
+        "código": 40804062,
         "mnemônico": "R-PATELA"
     },
     {
@@ -584,35 +584,35 @@
         "id": 1416,
         "nome": "RX - JOELHO",
         "preço": 0,
-        "código": 408040540,
+        "código": 40804054,
         "mnemônico": "R-JAPLA2"
     },
     {
         "id": 1417,
         "nome": "RX - OMOPLATA OU ESCAPULA",
         "preço": 0,
-        "código": 408030580,
+        "código": 40803058,
         "mnemônico": "R-OMOFU2"
     },
     {
         "id": 1427,
         "nome": "US - MAMAS MASCULINA",
         "preço": 0,
-        "código": 409011140,
+        "código": 40901114,
         "mnemônico": "USMAMASC"
     },
     {
         "id": 1469,
         "nome": "US - ORGAOS SUPERFICIAIS (TIREOIDE)",
         "preço": 0,
-        "código": 409012030,
+        "código": 40901203,
         "mnemônico": "USTIREO"
     },
     {
         "id": 1473,
         "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
         "preço": 0,
-        "código": 409013860,
+        "código": 40901386,
         "mnemônico": "DPORGES2"
     },
     {
@@ -626,7 +626,7 @@
         "id": 1487,
         "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL",
         "preço": 0,
-        "código": 408080330,
+        "código": 40808033,
         "mnemônico": "M-COVBIL"
     },
     {
@@ -640,91 +640,91 @@
         "id": 1523,
         "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR (OU DOIS SEGMENTOS)",
         "preço": 0,
-        "código": 408081300,
+        "código": 40808130,
         "mnemônico": "D-COLFEM"
     },
     {
         "id": 1552,
         "nome": "TC - MANDIBULA",
         "preço": 0,
-        "código": 410011410,
+        "código": 41001141,
         "mnemônico": "TCMAND"
     },
     {
         "id": 1553,
         "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
         "preço": 0,
-        "código": 410011250,
+        "código": 41001125,
         "mnemônico": "TCCOL2"
     },
     {
         "id": 1554,
         "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
         "preço": 0,
-        "código": 410010100,
+        "código": 41001010,
         "mnemônico": "TCCRANIO"
     },
     {
         "id": 1555,
         "nome": "TC - MASTOIDES OU ORELHAS",
         "preço": 0,
-        "código": 410010280,
+        "código": 41001028,
         "mnemônico": "TCMASOUV"
     },
     {
         "id": 1556,
         "nome": "TC - FACE OU SEIOS DA FACE",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCFACE"
     },
     {
         "id": 1557,
         "nome": "TC - PELVE OU BACIA",
         "preço": 0,
-        "código": 410011170,
+        "código": 41001117,
         "mnemônico": "TCPELBA"
     },
     {
         "id": 1558,
         "nome": "TC - ABDOME SUPERIOR",
         "preço": 0,
-        "código": 410011090,
+        "código": 41001109,
         "mnemônico": "TCABDOMS"
     },
     {
         "id": 1559,
         "nome": "TC - PESCOCO (PARTES MOLES, LARINGE, TIREOIDE, FARINGE E GLADULAS SALI",
         "preço": 0,
-        "código": 410010600,
+        "código": 41001060,
         "mnemônico": "TCPESC"
     },
     {
         "id": 1560,
         "nome": "TC - TORAX",
         "preço": 0,
-        "código": 410010790,
+        "código": 41001079,
         "mnemônico": "TCTORAX"
     },
     {
         "id": 1561,
         "nome": "TC - ABDOME TOTAL (ABDOME SUPERIOR, PELVE E RETROPERITONIO)",
         "preço": 0,
-        "código": 410010950,
+        "código": 41001095,
         "mnemônico": "TCABDOMT"
     },
     {
         "id": 1565,
         "nome": "RM - ARTICULAR (POR ATICULACAO)",
         "preço": 0,
-        "código": 630002800,
+        "código": 63000280,
         "mnemônico": "RMARTIR3"
     },
     {
         "id": 1567,
         "nome": "RM - BASE DO CRANIO",
         "preço": 0,
-        "código": 411012940,
+        "código": 41101294,
         "mnemônico": "RMBASEC"
     },
     {
@@ -738,7 +738,7 @@
         "id": 1570,
         "nome": "TC - SEGMENTO APENDICULAR (BRACO OU ANTEBRACO OU MAO OU PERNA OU PE) ",
         "preço": 0,
-        "código": 410011500,
+        "código": 41001150,
         "mnemônico": "TCSEGAP"
     },
     {
@@ -759,7 +759,7 @@
         "id": 1588,
         "nome": "US - ABDOME INFERIOR FEMININO - UNIMED",
         "preço": 0,
-        "código": 409011730,
+        "código": 40901173,
         "mnemônico": "USABFEMU"
     },
     {
@@ -773,7 +773,7 @@
         "id": 1658,
         "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
         "preço": 0,
-        "código": 630002910,
+        "código": 63000291,
         "mnemônico": "RMCOLCE2"
     },
     {
@@ -787,7 +787,7 @@
         "id": 1661,
         "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
         "preço": 0,
-        "código": 630002910,
+        "código": 63000291,
         "mnemônico": "RMCOLCE3"
     },
     {
@@ -815,7 +815,7 @@
         "id": 1678,
         "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
         "preço": 0,
-        "código": 409013860,
+        "código": 40901386,
         "mnemônico": "DPORGES3"
     },
     {
@@ -836,21 +836,21 @@
         "id": 1685,
         "nome": "TC - SEGMENTO APENDICULAR (BRACO OU ANTEBRACO OU MAO OU PERNA OU PE) ",
         "preço": 0,
-        "código": 410011500,
+        "código": 41001150,
         "mnemônico": "TCSEGAP2"
     },
     {
         "id": 1687,
         "nome": "TC - TORAX",
         "preço": 0,
-        "código": 410010790,
+        "código": 41001079,
         "mnemônico": "TCTORAX2"
     },
     {
         "id": 1702,
         "nome": "RM - ARTICULAR (POR ATICULACAO)",
         "preço": 0,
-        "código": 630002800,
+        "código": 63000280,
         "mnemônico": "RMARTIR4"
     },
     {
@@ -864,7 +864,7 @@
         "id": 1718,
         "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
         "preço": 0,
-        "código": 409013860,
+        "código": 40901386,
         "mnemônico": "DPORGES4"
     },
     {
@@ -878,119 +878,119 @@
         "id": 1724,
         "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
         "preço": 0,
-        "código": 410010100,
+        "código": 41001010,
         "mnemônico": "TCCRANI2"
     },
     {
         "id": 1735,
         "nome": "US - ORGAOS SUPERFICIAIS (CRANIO)",
         "preço": 0,
-        "código": 409012030,
+        "código": 40901203,
         "mnemônico": "USCRANIO"
     },
     {
         "id": 1740,
         "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO SUPERIOR - UNILATERAL",
         "preço": 0,
-        "código": 409014670,
+        "código": 40901467,
         "mnemônico": "DPVMS2"
     },
     {
         "id": 1747,
         "nome": "US - MAMAS FEMININA - UNIMED",
         "preço": 0,
-        "código": 409011140,
+        "código": 40901114,
         "mnemônico": "USMAMAFU"
     },
     {
         "id": 1748,
         "nome": "US - ORGAOS SUPERFICIAIS (PENIS) - UNIMED",
         "preço": 0,
-        "código": 409012030,
+        "código": 40901203,
         "mnemônico": "USPENISU"
     },
     {
         "id": 1749,
         "nome": "US - ORGAOS SUPERFICIAIS (ESCROTO) - UNIMED",
         "preço": 0,
-        "código": 409012030,
+        "código": 40901203,
         "mnemônico": "USESCROU"
     },
     {
         "id": 1750,
         "nome": "US - ORGAOS SUPERFICIAIS (TIREOIDE) - UNIMED",
         "preço": 0,
-        "código": 409012030,
+        "código": 40901203,
         "mnemônico": "USTIREOU"
     },
     {
         "id": 1766,
         "nome": "DOPPLER CONVENCIONAL DE ORGAO OU ESTRUTURA ISOLADA",
         "preço": 0,
-        "código": 409013860,
+        "código": 40901386,
         "mnemônico": "DCOEI1"
     },
     {
         "id": 1767,
         "nome": "DOPPLER CONVENCIONAL DE ORGAO OU ESTRUTURA ISOLADA",
         "preço": 0,
-        "código": 409013860,
+        "código": 40901386,
         "mnemônico": "DCOEI2"
     },
     {
         "id": 1852,
         "nome": "TC - SEGMENTO APENDICULAR (BRACO OU ANTEBRACO OU MAO OU PERNA OU PE) ",
         "preço": 0,
-        "código": 410011500,
+        "código": 41001150,
         "mnemônico": "TCSEGAP3"
     },
     {
         "id": 1853,
         "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
         "preço": 0,
-        "código": 409013860,
+        "código": 40901386,
         "mnemônico": "DPORGES5"
     },
     {
         "id": 1854,
         "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
         "preço": 0,
-        "código": 409013860,
+        "código": 40901386,
         "mnemônico": "DPORGES6"
     },
     {
         "id": 1855,
         "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
         "preço": 0,
-        "código": 409013860,
+        "código": 40901386,
         "mnemônico": "DPORGES7"
     },
     {
         "id": 1856,
         "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
         "preço": 0,
-        "código": 409013860,
+        "código": 40901386,
         "mnemônico": "DPORGES8"
     },
     {
         "id": 1926,
         "nome": "DOPPLER COLORIDO DE AORTA E ARTERIAS RENAIS",
         "preço": 0,
-        "código": 409013940,
+        "código": 40901394,
         "mnemônico": "DPAOARR2"
     },
     {
         "id": 1952,
         "nome": "US - OBSTETRICA COM TRANSLUCENCIA NUCAL",
         "preço": 0,
-        "código": 409012540,
+        "código": 40901254,
         "mnemônico": "USOBSTN2"
     },
     {
         "id": 1968,
         "nome": "US - OBSTETRICA",
         "preço": 0,
-        "código": 409012380,
+        "código": 40901238,
         "mnemônico": "USOBSTE2"
     }
 ]

@@ -3104,7 +3104,7 @@
         "id": 613,
         "nome": "RESERVA ALCALINA (BICARBONATO)",
         "preço": 0,
-        "código": 403024070,
+        "código": 40302407,
         "mnemônico": "RA"
     },
     {
@@ -4595,7 +4595,7 @@
         "id": 1014,
         "nome": "US - OBSTETRICA",
         "preço": 0,
-        "código": 409012380,
+        "código": 40901238,
         "mnemônico": "USOBSTE"
     },
     {
@@ -5603,7 +5603,7 @@
         "id": 1349,
         "nome": "RX - ARTICULACAO ESCAPULOUMERAL (OMBRO)",
         "preço": 0,
-        "código": 408030740,
+        "código": 40803074,
         "mnemônico": "R-ARTEUM"
     },
     {
@@ -5631,7 +5631,7 @@
         "id": 1353,
         "nome": "RX - BACIA",
         "preço": 0,
-        "código": 408040110,
+        "código": 40804011,
         "mnemônico": "R-BAAP"
     },
     {

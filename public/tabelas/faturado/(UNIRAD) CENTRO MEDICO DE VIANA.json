@@ -80,35 +80,35 @@
         "id": 1348,
         "nome": "RX - ARTICULACAO COXOFEMORAL (QUADRIL)",
         "preço": 0,
-        "código": 408040380,
+        "código": 40804038,
         "mnemônico": "R-ARTCXF"
     },
     {
         "id": 1349,
         "nome": "RX - ARTICULACAO ESCAPULOUMERAL (OMBRO)",
         "preço": 0,
-        "código": 408030740,
+        "código": 40803074,
         "mnemônico": "R-ARTEUM"
     },
     {
         "id": 1352,
         "nome": "RX - ARTICULACAO TIBIOTARSICA (TORNOZELO)",
         "preço": 0,
-        "código": 408040890,
+        "código": 40804089,
         "mnemônico": "R-ARTTIB"
     },
     {
         "id": 1353,
         "nome": "RX - BACIA",
         "preço": 0,
-        "código": 408040110,
+        "código": 40804011,
         "mnemônico": "R-BAAP"
     },
     {
         "id": 1355,
         "nome": "RX - CALCANEO",
         "preço": 0,
-        "código": 408041000,
+        "código": 40804100,
         "mnemônico": "R-CALCA"
     },
     {
@@ -283,7 +283,7 @@
         "id": 1494,
         "nome": "RX - BACIA",
         "preço": 0,
-        "código": 408040110,
+        "código": 40804011,
         "mnemônico": "R-BAAP2"
     },
     {
@@ -339,14 +339,14 @@
         "id": 1580,
         "nome": "RX - CALCANEO",
         "preço": 0,
-        "código": 408041000,
+        "código": 40804100,
         "mnemônico": "R-CALCA2"
     },
     {
         "id": 1642,
         "nome": "RX - ARTICULACAO TIBIOTARSICA (TORNOZELO)",
         "preço": 0,
-        "código": 408040890,
+        "código": 40804089,
         "mnemônico": "R-ARTTI2"
     },
     {
@@ -395,7 +395,7 @@
         "id": 1677,
         "nome": "RX - ARTICULACAO COXOFEMORAL (QUADRIL)",
         "preço": 0,
-        "código": 408040380,
+        "código": 40804038,
         "mnemônico": "R-ARTCX2"
     },
     {
@@ -423,7 +423,7 @@
         "id": 1709,
         "nome": "RX - ARTICULACAO ESCAPULOUMERAL (OMBRO)",
         "preço": 0,
-        "código": 408030740,
+        "código": 40803074,
         "mnemônico": "R-ARTEU2"
     },
     {

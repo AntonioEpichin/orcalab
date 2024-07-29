@@ -3,7 +3,7 @@
         "id": 93,
         "nome": "BACTERIOSCOPIA - DIVERSOS MATERIAIS (1ª AMOSTRA)",
         "preço": 0,
-        "código": 403100600,
+        "código": 40310060,
         "mnemônico": "BAC"
     },
     {
@@ -24,7 +24,7 @@
         "id": 184,
         "nome": "CULTURA - FUNGOS (1ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU"
     },
     {
@@ -38,14 +38,14 @@
         "id": 306,
         "nome": "CULTURA - FUNGOS (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU3"
     },
     {
         "id": 381,
         "nome": "CULTURA - FUNGOS (4ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU4"
     },
     {
@@ -59,49 +59,49 @@
         "id": 538,
         "nome": "COLPOCITOLOGICO",
         "preço": 0,
-        "código": 406011370,
+        "código": 40601137,
         "mnemônico": "COLP"
     },
     {
         "id": 640,
         "nome": "CULTURA - FUNGOS (5ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU5"
     },
     {
         "id": 649,
         "nome": "DETECCAO E GENOTIPAGEM HPV DE ALTO RISCO",
         "preço": 0,
-        "código": 406012930,
+        "código": 40601293,
         "mnemônico": "HPV-GENO"
     },
     {
         "id": 875,
         "nome": "1 PD CITOPATOLOGICO EM MEIO LIQUIDO",
         "preço": 0,
-        "código": 406013230,
+        "código": 40601323,
         "mnemônico": "CITOLIQ1"
     },
     {
         "id": 910,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL1"
     },
     {
         "id": 912,
         "nome": "CULTURA - FUNGOS (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU2"
     },
     {
         "id": 914,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL2"
     },
     {
@@ -115,35 +115,35 @@
         "id": 1067,
         "nome": "CULTURA - FUNGOS (20ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU20"
     },
     {
         "id": 1068,
         "nome": "CULTURA - FUNGOS (19ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU19"
     },
     {
         "id": 1069,
         "nome": "CULTURA - FUNGOS (6ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU6"
     },
     {
         "id": 1070,
         "nome": "CULTURA - FUNGOS (18ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU18"
     },
     {
         "id": 1071,
         "nome": "CULTURA - FUNGOS (17ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU17"
     },
     {
@@ -157,28 +157,28 @@
         "id": 1286,
         "nome": "HERPES SIMPLEX TIPO 1 E 2 POR PCR",
         "preço": 0,
-        "código": 403143750,
+        "código": 40314375,
         "mnemônico": "HERHSV12"
     },
     {
         "id": 1294,
         "nome": "PAINEL INFECCOES SEXUALMENTE TRANSMISSIVEIS",
         "preço": 0,
-        "código": 406012850,
+        "código": 40601285,
         "mnemônico": "SEXT-PCR"
     },
     {
         "id": 1822,
         "nome": "DETECCAO DO HPV DE ALTO RISCO POR PCR",
         "preço": 0,
-        "código": 406012930,
+        "código": 40601293,
         "mnemônico": "HPV-PCR"
     },
     {
         "id": 1824,
         "nome": "1 FAT PAINEL INFECCOES SEXUALMENTE TRANSMISSIVEIS",
         "preço": 0,
-        "código": 406012930,
+        "código": 40601293,
         "mnemônico": "SEXTFAT"
     },
     {

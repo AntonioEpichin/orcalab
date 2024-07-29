@@ -2110,7 +2110,7 @@
         "id": 1016,
         "nome": "US - OBSTETRICA COM TRANSLUCENCIA NUCAL",
         "preço": 0,
-        "código": 409012540,
+        "código": 40901254,
         "mnemônico": "USOBSTN"
     },
     {
@@ -2712,7 +2712,7 @@
         "id": 1952,
         "nome": "US - OBSTETRICA COM TRANSLUCENCIA NUCAL",
         "preço": 0,
-        "código": 409012540,
+        "código": 40901254,
         "mnemônico": "USOBSTN2"
     },
     {

@@ -3,56 +3,56 @@
         "id": 535,
         "nome": "HEMOGRAMA COMPLETO",
         "preço": 0,
-        "código": 403043610,
+        "código": 40304361,
         "mnemônico": "HEM"
     },
     {
         "id": 567,
         "nome": "TRIGLICERIDEOS",
         "preço": 0,
-        "código": 403025470,
+        "código": 40302547,
         "mnemônico": "TRI"
     },
     {
         "id": 568,
         "nome": "UREIA",
         "preço": 0,
-        "código": 403025800,
+        "código": 40302580,
         "mnemônico": "URE"
     },
     {
         "id": 574,
         "nome": "HEMOGLOBINA GLICADA (FRACAO A1C) ",
         "preço": 0,
-        "código": 403020750,
+        "código": 40302075,
         "mnemônico": "HG"
     },
     {
         "id": 577,
         "nome": "GLICOSE",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GB"
     },
     {
         "id": 579,
         "nome": "COLESTEROL (HDL) ",
         "preço": 0,
-        "código": 403015830,
+        "código": 40301583,
         "mnemônico": "HDL"
     },
     {
         "id": 591,
         "nome": "CREATININA ",
         "preço": 0,
-        "código": 403016300,
+        "código": 40301630,
         "mnemônico": "CREA"
     },
     {
         "id": 592,
         "nome": "COLESTEROL TOTAL ",
         "preço": 0,
-        "código": 403016050,
+        "código": 40301605,
         "mnemônico": "COL"
     },
     {
@@ -101,21 +101,21 @@
         "id": 1391,
         "nome": "RX - TORAX - 1 INCIDENCIA",
         "preço": 0,
-        "código": 408050180,
+        "código": 40805018,
         "mnemônico": "R-TXPA"
     },
     {
         "id": 1392,
         "nome": "RX - TORAX - 2 INCIDENCIAS ",
         "preço": 0,
-        "código": 408050260,
+        "código": 40805026,
         "mnemônico": "R-TXPALA"
     },
     {
         "id": 1394,
         "nome": "RX - TORAX - 4 INCIDENCIAS",
         "preço": 0,
-        "código": 408050340,
+        "código": 40805034,
         "mnemônico": "R-TXOBL"
     },
     {
@@ -150,14 +150,14 @@
         "id": 2013,
         "nome": "CREATININA POS DIALISE",
         "preço": 0,
-        "código": 403016300,
+        "código": 40301630,
         "mnemônico": "CREA-PD"
     },
     {
         "id": 2014,
         "nome": "GLICOSE POS DIALISE",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GB-PD"
     }
 ]

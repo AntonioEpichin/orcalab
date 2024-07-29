@@ -3,77 +3,77 @@
         "id": 1000,
         "nome": "US - MAMAS FEMININA",
         "preço": 0,
-        "código": 409011140,
+        "código": 40901114,
         "mnemônico": "USMAMASF"
     },
     {
         "id": 1348,
         "nome": "RX - ARTICULACAO COXOFEMORAL (QUADRIL)",
         "preço": 0,
-        "código": 408040380,
+        "código": 40804038,
         "mnemônico": "R-ARTCXF"
     },
     {
         "id": 1353,
         "nome": "RX - BACIA",
         "preço": 0,
-        "código": 408040110,
+        "código": 40804011,
         "mnemônico": "R-BAAP"
     },
     {
         "id": 1375,
         "nome": "MAMOGRAFIA DIGITAL BILATERAL",
         "preço": 0,
-        "código": 408080410,
+        "código": 40808041,
         "mnemônico": "M-DIGBIL"
     },
     {
         "id": 1377,
         "nome": "RX - MAOS E PUNHOS PARA IDADE OSSEA",
         "preço": 0,
-        "código": 408031390,
+        "código": 40803139,
         "mnemônico": "R-MPUNH"
     },
     {
         "id": 1389,
         "nome": "RX - SEIOS DA FACE",
         "preço": 0,
-        "código": 408010630,
+        "código": 40801063,
         "mnemônico": "R-SEFMN"
     },
     {
         "id": 1391,
         "nome": "RX - TORAX - 1 INCIDENCIA",
         "preço": 0,
-        "código": 408050180,
+        "código": 40805018,
         "mnemônico": "R-TXPA"
     },
     {
         "id": 1392,
         "nome": "RX - TORAX - 2 INCIDENCIAS ",
         "preço": 0,
-        "código": 408050180,
+        "código": 40805018,
         "mnemônico": "R-TXPALA"
     },
     {
         "id": 1487,
         "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL",
         "preço": 0,
-        "código": 408080330,
+        "código": 40808033,
         "mnemônico": "M-COVBIL"
     },
     {
         "id": 1701,
         "nome": "MAMOGRAFIA DIGITAL BILATERAL - UNIMED",
         "preço": 0,
-        "código": 408080410,
+        "código": 40808041,
         "mnemônico": "M-DIGBIU"
     },
     {
         "id": 1713,
         "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL - UNIMED",
         "preço": 0,
-        "código": 408080330,
+        "código": 40808033,
         "mnemônico": "M-COVBIU"
     }
 ]

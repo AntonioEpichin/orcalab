@@ -3,105 +3,105 @@
         "id": 469,
         "nome": "1 HISTOPATOLOGICO ",
         "preço": 0,
-        "código": 406011100,
+        "código": 40601110,
         "mnemônico": "HISTOG1"
     },
     {
         "id": 471,
         "nome": "1 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
         "preço": 0,
-        "código": 406011100,
+        "código": 40601110,
         "mnemônico": "HISTOS1"
     },
     {
         "id": 476,
         "nome": "1 COLORACAO ESPECIAL POR COLORACAO",
         "preço": 0,
-        "código": 406011100,
+        "código": 40601110,
         "mnemônico": "COLOR1"
     },
     {
         "id": 538,
         "nome": "COLPOCITOLOGICO",
         "preço": 0,
-        "código": 406011370,
+        "código": 40601137,
         "mnemônico": "COLP"
     },
     {
         "id": 751,
         "nome": "1 FAT PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
         "preço": 0,
-        "código": 406011960,
+        "código": 40601196,
         "mnemônico": "C89"
     },
     {
         "id": 753,
         "nome": "1 FAT PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
         "preço": 0,
-        "código": 406011960,
+        "código": 40601196,
         "mnemônico": "C95"
     },
     {
         "id": 766,
         "nome": "REVISAO DE COLPOCITOLOGICO",
         "preço": 0,
-        "código": 406011370,
+        "código": 40601137,
         "mnemônico": "COLPREV"
     },
     {
         "id": 782,
         "nome": "1 FAT HISTOPATOLOGICO",
         "preço": 0,
-        "código": 406011100,
+        "código": 40601110,
         "mnemônico": "H01"
     },
     {
         "id": 879,
         "nome": "1 PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
         "preço": 0,
-        "código": 406011960,
+        "código": 40601196,
         "mnemônico": "HISTOM1"
     },
     {
         "id": 1173,
         "nome": "2 COLPOCITOLOGICO",
         "preço": 0,
-        "código": 406011370,
+        "código": 40601137,
         "mnemônico": "COLP2"
     },
     {
         "id": 1250,
         "nome": "8 FAT PD EM FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
         "preço": 0,
-        "código": 406011960,
+        "código": 40601196,
         "mnemônico": "F08"
     },
     {
         "id": 1437,
         "nome": "1 HISTOPATOLOGICO - RETIFICACAO",
         "preço": 0,
-        "código": 406011100,
+        "código": 40601110,
         "mnemônico": "RETIFH1"
     },
     {
         "id": 1438,
         "nome": "2 HISTOPATOLOGICO - RETIFICACAO",
         "preço": 0,
-        "código": 406011100,
+        "código": 40601110,
         "mnemônico": "RETIFH2"
     },
     {
         "id": 1772,
         "nome": "9 FAT PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
         "preço": 0,
-        "código": 406011960,
+        "código": 40601196,
         "mnemônico": "F09"
     },
     {
         "id": 1773,
         "nome": "10 FAT PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
         "preço": 0,
-        "código": 406011960,
+        "código": 40601196,
         "mnemônico": "F10"
     }
 ]

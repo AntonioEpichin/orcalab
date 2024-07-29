@@ -2691,7 +2691,7 @@
         "id": 430,
         "nome": "MUCOPOLISSACARIDEOS - URINA",
         "preço": 0,
-        "código": 40302652,
+        "código": null,
         "mnemônico": "MUCOP"
     },
     {
@@ -2705,7 +2705,7 @@
         "id": 432,
         "nome": "MIOGLOBINA - URINA RECENTE",
         "preço": 0,
-        "código": 40302245,
+        "código": null,
         "mnemônico": "MIOGLOBI"
     },
     {
@@ -2719,56 +2719,56 @@
         "id": 434,
         "nome": "AMP CICLICO - URINA 24H",
         "preço": 0,
-        "código": 40305163,
+        "código": null,
         "mnemônico": "AMP"
     },
     {
         "id": 435,
         "nome": "HORMONIO ANTIDIURETICO (VASOPRESSINA) ",
         "preço": 0,
-        "código": 40305384,
+        "código": null,
         "mnemônico": "VASO-C"
     },
     {
         "id": 436,
         "nome": "INDICE DE TIROXINA LIVRE (ITL) ",
         "preço": 0,
-        "código": 40712354,
+        "código": null,
         "mnemônico": "TIROXLIV"
     },
     {
         "id": 437,
         "nome": "17-HIDROXIPREGNENOLONA ",
         "preço": 0,
-        "código": 40305090,
+        "código": null,
         "mnemônico": "17PREG"
     },
     {
         "id": 438,
         "nome": "PEPTIDIO INTESTINAL VASOATIVO",
         "preço": 0,
-        "código": 40307620,
+        "código": null,
         "mnemônico": "VIP"
     },
     {
         "id": 439,
         "nome": "SARAMPO IGG ",
         "preço": 0,
-        "código": 40308120,
+        "código": null,
         "mnemônico": "SARG"
     },
     {
         "id": 440,
         "nome": "HEPATITE B (QUALITATIVO) POR PCR",
         "preço": 0,
-        "código": 40314073,
+        "código": null,
         "mnemônico": "HBQUAPCR"
     },
     {
         "id": 441,
         "nome": "COMPLEMENTO C2",
         "preço": 0,
-        "código": 40306690,
+        "código": null,
         "mnemônico": "C2"
     },
     {
@@ -2782,14 +2782,14 @@
         "id": 444,
         "nome": "ELETROFORESE DE PROTEINAS - URINA 24H",
         "preço": 0,
-        "código": 40311309,
+        "código": null,
         "mnemônico": "ELPRO24H"
     },
     {
         "id": 445,
         "nome": "FLUOR URINARIO - INICIO DA JORNADA DE TRABALHO",
         "preço": 0,
-        "código": 40313166,
+        "código": null,
         "mnemônico": "FLUOI"
     },
     {
@@ -2810,7 +2810,7 @@
         "id": 450,
         "nome": "BRUCELA IGM",
         "preço": 0,
-        "código": 40306518,
+        "código": null,
         "mnemônico": "BRUIGM"
     },
     {
@@ -2831,7 +2831,7 @@
         "id": 453,
         "nome": "HISTAMINA",
         "preço": 0,
-        "código": 40307131,
+        "código": null,
         "mnemônico": "HISTAMIN"
     },
     {
@@ -2859,7 +2859,7 @@
         "id": 467,
         "nome": "LACTOSE TESTE DE TOLERANCIA - 4 DOSAGENS (J.20.40.60)",
         "preço": 0,
-        "código": 40302164,
+        "código": null,
         "mnemônico": "LAC4"
     },
     {
@@ -2873,7 +2873,7 @@
         "id": 470,
         "nome": "SARAMPO IGM",
         "preço": 0,
-        "código": 40308138,
+        "código": null,
         "mnemônico": "SARM"
     },
     {
@@ -2901,7 +2901,7 @@
         "id": 492,
         "nome": "CURVA GLICEMICA - 6 DOSAGENS (J.15.30.45.60.90)",
         "preço": 0,
-        "código": 40305228,
+        "código": null,
         "mnemônico": "CG15MIN"
     },
     {
@@ -2915,14 +2915,14 @@
         "id": 497,
         "nome": "CROMO",
         "preço": 0,
-        "código": 40313310,
+        "código": null,
         "mnemônico": "CROMO-S"
     },
     {
         "id": 500,
         "nome": "CHAGAS HEMOAGLUTINACAO",
         "preço": 0,
-        "código": 40307964,
+        "código": null,
         "mnemônico": "CHAGHEM"
     },
     {
@@ -2950,7 +2950,7 @@
         "id": 505,
         "nome": "BRUCELA IGG ",
         "preço": 0,
-        "código": 40306500,
+        "código": null,
         "mnemônico": "BRUIGG"
     },
     {
@@ -2964,7 +2964,7 @@
         "id": 512,
         "nome": "CISTINA - URINA 24H",
         "preço": 0,
-        "código": 40311244,
+        "código": null,
         "mnemônico": "CISTI24H"
     },
     {
@@ -2992,7 +2992,7 @@
         "id": 519,
         "nome": "CURVA INSULINICA - 5 DOSAGENS (J.30.60.90.120)",
         "preço": 0,
-        "código": 40305236,
+        "código": null,
         "mnemônico": "CI120"
     },
     {
@@ -3013,7 +3013,7 @@
         "id": 522,
         "nome": "MAGNESIO - URINA RECENTE",
         "preço": 0,
-        "código": 40302237,
+        "código": null,
         "mnemônico": "MAGUR"
     },
     {
@@ -3083,7 +3083,7 @@
         "id": 539,
         "nome": "LEUCOGRAMA",
         "preço": 0,
-        "código": 40304426,
+        "código": null,
         "mnemônico": "LEU"
     },
     {
@@ -3153,14 +3153,14 @@
         "id": 551,
         "nome": "PLASMODIUM, PESQUISA EM GOTA ESPESSA MALARIA",
         "preço": 0,
-        "código": 40304477,
+        "código": null,
         "mnemônico": "PLAS"
     },
     {
         "id": 552,
         "nome": "PROVA DO LACO",
         "preço": 0,
-        "código": 40304531,
+        "código": null,
         "mnemônico": "PL"
     },
     {
@@ -3216,14 +3216,14 @@
         "id": 560,
         "nome": "LEUCOCITOS E HEMACIAS - FEZES ",
         "preço": 0,
-        "código": 40303098,
+        "código": null,
         "mnemônico": "PLF"
     },
     {
         "id": 561,
         "nome": "LEVEDURAS - FEZES ",
         "preço": 0,
-        "código": 40303101,
+        "código": null,
         "mnemônico": "LEVEDURA"
     },
     {
@@ -3244,7 +3244,7 @@
         "id": 564,
         "nome": "SWAB ANAL - PESQUISA DE OXIURUS - FEZES",
         "preço": 0,
-        "código": 40303020,
+        "código": null,
         "mnemônico": "FITA"
     },
     {
@@ -3286,7 +3286,7 @@
         "id": 570,
         "nome": "CRISTAIS COM LUZ POLARIZADA - URINA RECENTE",
         "preço": 0,
-        "código": 40309509,
+        "código": null,
         "mnemônico": "CRIS"
     },
     {
@@ -3363,7 +3363,7 @@
         "id": 581,
         "nome": "FRUTOSE",
         "preço": 0,
-        "código": 40301966,
+        "código": null,
         "mnemônico": "FRUTOSE"
     },
     {
@@ -3377,7 +3377,7 @@
         "id": 583,
         "nome": "FOSFATASE ACIDA TOTAL",
         "preço": 0,
-        "código": 40301877,
+        "código": null,
         "mnemônico": "FAT"
     },
     {
@@ -3412,7 +3412,7 @@
         "id": 588,
         "nome": "FENOBARBITAL",
         "preço": 0,
-        "código": 40301834,
+        "código": null,
         "mnemônico": "FENO"
     },
     {
@@ -3468,7 +3468,7 @@
         "id": 596,
         "nome": "CARBAMAZEPINA ",
         "preço": 0,
-        "código": 40301435,
+        "código": null,
         "mnemônico": "CARBAMA"
     },
     {
@@ -3503,7 +3503,7 @@
         "id": 601,
         "nome": "ALDOLASE",
         "preço": 0,
-        "código": 40301230,
+        "código": null,
         "mnemônico": "ALD"
     },
     {
@@ -3517,7 +3517,7 @@
         "id": 603,
         "nome": "ELETROFORESE DE LIPOPROTEINAS",
         "preço": 0,
-        "código": 40301788,
+        "código": null,
         "mnemônico": "ELELIPO"
     },
     {
@@ -3545,7 +3545,7 @@
         "id": 607,
         "nome": "GASOMETRIA ARTERIAL",
         "preço": 0,
-        "código": 40302024,
+        "código": null,
         "mnemônico": "GASARTE"
     },
     {
@@ -3566,7 +3566,7 @@
         "id": 610,
         "nome": "MALTOSE TESTE DE TOLERANCIA - 3 DOSAGENS (J.30.60)",
         "preço": 0,
-        "código": 40302644,
+        "código": null,
         "mnemônico": "MALT"
     },
     {
@@ -3580,21 +3580,21 @@
         "id": 613,
         "nome": "RESERVA ALCALINA (BICARBONATO)",
         "preço": 0,
-        "código": 40302407,
+        "código": null,
         "mnemônico": "RA"
     },
     {
         "id": 614,
         "nome": "SACAROSE TESTE DE TOLERANCIA - 3 DOSAGENS (J.30.60)",
         "preço": 0,
-        "código": 40302415,
+        "código": null,
         "mnemônico": "SAC"
     },
     {
         "id": 617,
         "nome": "ROTINA DE LIQUOR",
         "preço": 0,
-        "código": 40309100,
+        "código": null,
         "mnemônico": "LCR"
     },
     {
@@ -3615,7 +3615,7 @@
         "id": 628,
         "nome": "HIV 1 E 2 - WESTERN BLOT - RECOLETA",
         "preço": 0,
-        "código": 40307875,
+        "código": null,
         "mnemônico": "HIVWBREC"
     },
     {
@@ -3671,7 +3671,7 @@
         "id": 648,
         "nome": "ALDOSTERONA - URINA 24H",
         "preço": 0,
-        "código": 40712052,
+        "código": null,
         "mnemônico": "ALDUR24H"
     },
     {
@@ -3734,7 +3734,7 @@
         "id": 658,
         "nome": "CALCULO BILIAR, ANALISE FISICO E QUIMICA",
         "preço": 0,
-        "código": 40311040,
+        "código": null,
         "mnemônico": "BILIAR"
     },
     {
@@ -3804,7 +3804,7 @@
         "id": 675,
         "nome": "CISTICERCOSE - LIQUOR",
         "preço": 0,
-        "código": 40306658,
+        "código": null,
         "mnemônico": "CISL"
     },
     {
@@ -4035,7 +4035,7 @@
         "id": 912,
         "nome": "CULTURA - FUNGOS (2ª AMOSTRA)",
         "preço": 0,
-        "código": 40310140,
+        "código": null,
         "mnemônico": "CFU2"
     },
     {
@@ -4224,21 +4224,21 @@
         "id": 944,
         "nome": "CURVA GLICEMICA - 6 DOSAGENS (J.60.120.180.240.300)",
         "preço": 0,
-        "código": 40305228,
+        "código": null,
         "mnemônico": "CGD6"
     },
     {
         "id": 945,
         "nome": "GORDURA FECAL (2ª AMOSTRA)",
         "preço": 0,
-        "código": 40303055,
+        "código": null,
         "mnemônico": "GORDF2"
     },
     {
         "id": 946,
         "nome": "GORDURA FECAL (3ª AMOSTRA)",
         "preço": 0,
-        "código": 40303055,
+        "código": null,
         "mnemônico": "GORDF3"
     },
     {
@@ -4308,7 +4308,7 @@
         "id": 963,
         "nome": "CLORO",
         "preço": 0,
-        "código": 40301559,
+        "código": null,
         "mnemônico": "CLORO"
     },
     {
@@ -4616,14 +4616,14 @@
         "id": 1092,
         "nome": "MICOPLASMA PNEUMONIAE IGG ",
         "preço": 0,
-        "código": 40307522,
+        "código": null,
         "mnemônico": "MICOIGG"
     },
     {
         "id": 1093,
         "nome": "MICOPLASMA PNEUMONIAE IGM",
         "preço": 0,
-        "código": 40307530,
+        "código": null,
         "mnemônico": "MICOIGM"
     },
     {
@@ -4672,14 +4672,14 @@
         "id": 1107,
         "nome": "CHAGAS IGG ",
         "preço": 0,
-        "código": 40306615,
+        "código": null,
         "mnemônico": "CHAGIGG"
     },
     {
         "id": 1108,
         "nome": "CHAGAS IGM",
         "preço": 0,
-        "código": 40306623,
+        "código": null,
         "mnemônico": "CHAGIGM"
     },
     {
@@ -4700,14 +4700,14 @@
         "id": 1118,
         "nome": "GASOMETRIA ARTERIAL COMPLETA",
         "preço": 0,
-        "código": 40302024,
+        "código": null,
         "mnemônico": "GASOCA"
     },
     {
         "id": 1123,
         "nome": "GASOMETRIA VENOSA COMPLETA",
         "preço": 0,
-        "código": 40302024,
+        "código": null,
         "mnemônico": "GASOCV"
     },
     {
@@ -4721,14 +4721,14 @@
         "id": 1125,
         "nome": "GASOMETRIA VENOSA CENTRAL",
         "preço": 0,
-        "código": 40302024,
+        "código": null,
         "mnemônico": "GAVCENTR"
     },
     {
         "id": 1126,
         "nome": "GASOMETRIA ARTERIAL - JAYME",
         "preço": 0,
-        "código": 40302024,
+        "código": null,
         "mnemônico": "GASS"
     },
     {
@@ -4805,7 +4805,7 @@
         "id": 1152,
         "nome": "AMINOACIDOS - URINA RECENTE",
         "preço": 0,
-        "código": 40301290,
+        "código": null,
         "mnemônico": "AMINOACD"
     },
     {
@@ -5155,7 +5155,7 @@
         "id": 1300,
         "nome": "CURVA GLICEMICA - 7 DOSAGENS (J.60.120.180.240.300.360)",
         "preço": 0,
-        "código": 40305228,
+        "código": null,
         "mnemônico": "CGD7"
     },
     {
@@ -5778,7 +5778,7 @@
         "id": 2028,
         "nome": "GASOMETRIA VENOSA PERIFERICA",
         "preço": 0,
-        "código": 40302024,
+        "código": null,
         "mnemônico": "GAVPERI"
     },
     {
@@ -5960,7 +5960,7 @@
         "id": 2156,
         "nome": "CHAGAS IGG ",
         "preço": 0,
-        "código": 40306615,
+        "código": null,
         "mnemônico": "CHAIFE"
     },
     {

@@ -52,7 +52,7 @@
         "id": 9,
         "nome": "ACIDO VANIL MANDELICO - URINA 24H",
         "preço": 0,
-        "código": 28050010,
+        "código": null,
         "mnemônico": "ACVMA24H"
     },
     {
@@ -129,7 +129,7 @@
         "id": 22,
         "nome": "GASTRINA ",
         "preço": 0,
-        "código": 28050320,
+        "código": null,
         "mnemônico": "GASTRI"
     },
     {
@@ -325,7 +325,7 @@
         "id": 50,
         "nome": "ANTICENTROMERO",
         "preço": 0,
-        "código": 28061810,
+        "código": null,
         "mnemônico": "CENT"
     },
     {
@@ -430,7 +430,7 @@
         "id": 65,
         "nome": "COMPLEMENTO C3 ",
         "preço": 0,
-        "código": 40306704,
+        "código": null,
         "mnemônico": "C3"
     },
     {
@@ -535,7 +535,7 @@
         "id": 80,
         "nome": "MICOLOGICO DIRETO (4ª AMOSTRA)",
         "preço": 0,
-        "código": 28100280,
+        "código": null,
         "mnemônico": "MICO4"
     },
     {
@@ -556,7 +556,7 @@
         "id": 83,
         "nome": "CLEARANCE DE UREIA - URINA 24H",
         "preço": 0,
-        "código": 28010450,
+        "código": null,
         "mnemônico": "CU24H"
     },
     {
@@ -570,7 +570,7 @@
         "id": 85,
         "nome": "EOSINOFILOS - FEZES",
         "preço": 0,
-        "código": 28030044,
+        "código": null,
         "mnemônico": "EOSINF"
     },
     {
@@ -773,7 +773,7 @@
         "id": 115,
         "nome": "LISTERIOSE, REACAO SOROLOGICA",
         "preço": 0,
-        "código": 28060750,
+        "código": null,
         "mnemônico": "LISTE"
     },
     {
@@ -794,7 +794,7 @@
         "id": 118,
         "nome": "FRAGMENTOS DE VERME (HELMINTOS)",
         "preço": 0,
-        "código": 28030095,
+        "código": null,
         "mnemônico": "VERME"
     },
     {
@@ -1032,7 +1032,7 @@
         "id": 153,
         "nome": "BRUCELOSE",
         "preço": 0,
-        "código": 28060270,
+        "código": null,
         "mnemônico": "BRU"
     },
     {
@@ -1130,7 +1130,7 @@
         "id": 169,
         "nome": "BLASTOMICOSE - DIVERSOS MATERIAIS",
         "preço": 0,
-        "código": 28060253,
+        "código": null,
         "mnemônico": "BLAS"
     },
     {
@@ -1214,7 +1214,7 @@
         "id": 181,
         "nome": "MICOLOGICO DIRETO (1ª AMOSTRA)",
         "preço": 0,
-        "código": 28100280,
+        "código": null,
         "mnemônico": "MICO"
     },
     {
@@ -1382,14 +1382,14 @@
         "id": 208,
         "nome": "ROTINA DE LIQUIDO PLEURAL",
         "preço": 0,
-        "código": 28080041,
+        "código": null,
         "mnemônico": "PLEURAL"
     },
     {
         "id": 209,
         "nome": "LEVEDURAS - FEZES (2ª AMOSTRA)",
         "preço": 0,
-        "código": 28030125,
+        "código": null,
         "mnemônico": "LEVEDUR2"
     },
     {
@@ -1445,7 +1445,7 @@
         "id": 218,
         "nome": "PH - DIVERSOS MATERIAIS",
         "preço": 0,
-        "código": 28130014,
+        "código": null,
         "mnemônico": "PH"
     },
     {
@@ -1501,7 +1501,7 @@
         "id": 230,
         "nome": "CITOLOGIA DE MUCO NASAL",
         "preço": 0,
-        "código": 28140010,
+        "código": null,
         "mnemônico": "EOSINO"
     },
     {
@@ -1515,7 +1515,7 @@
         "id": 232,
         "nome": "MICOLOGICO DIRETO (3ª AMOSTRA)",
         "preço": 0,
-        "código": 28100280,
+        "código": null,
         "mnemônico": "MICO3"
     },
     {
@@ -1571,7 +1571,7 @@
         "id": 240,
         "nome": "COMPOSTO S (11 DESOXI-CORTISOL)",
         "preço": 0,
-        "código": 28050843,
+        "código": null,
         "mnemônico": "COMPOS"
     },
     {
@@ -1627,7 +1627,7 @@
         "id": 248,
         "nome": "ROTINA LIQUIDO ASCITICO - DIVERSOS MATERIAIS",
         "preço": 0,
-        "código": 28080041,
+        "código": null,
         "mnemônico": "LIQASCI"
     },
     {
@@ -1711,7 +1711,7 @@
         "id": 265,
         "nome": "LEVEDURAS - FEZES (3ª AMOSTRA)",
         "preço": 0,
-        "código": 28030125,
+        "código": null,
         "mnemônico": "LEVEDUR3"
     },
     {
@@ -1753,7 +1753,7 @@
         "id": 272,
         "nome": "CARBOXIHEMOGLOBINA",
         "preço": 0,
-        "código": 28150090,
+        "código": null,
         "mnemônico": "CARBOXHB"
     },
     {
@@ -1795,7 +1795,7 @@
         "id": 280,
         "nome": "PROTEINAS DE BENCE JONES - URINA 24H",
         "preço": 0,
-        "código": 28130332,
+        "código": null,
         "mnemônico": "BENCE24H"
     },
     {
@@ -1886,14 +1886,14 @@
         "id": 293,
         "nome": "ACIDO METIL HIPURICO - URINA",
         "preço": 0,
-        "código": 28150066,
+        "código": null,
         "mnemônico": "AMH"
     },
     {
         "id": 294,
         "nome": "ACIDO HIPURICO (PARA TUOLENO) - URINA",
         "preço": 0,
-        "código": 28150040,
+        "código": null,
         "mnemônico": "TUOLENO"
     },
     {
@@ -1942,7 +1942,7 @@
         "id": 303,
         "nome": "MICOLOGICO DIRETO (2ª AMOSTRA)",
         "preço": 0,
-        "código": 28100280,
+        "código": null,
         "mnemônico": "MICO2"
     },
     {
@@ -1970,7 +1970,7 @@
         "id": 307,
         "nome": "ACIDO 5 HIDROXI INDOL ACETICO - URINA 24H",
         "preço": 0,
-        "código": 28050517,
+        "código": null,
         "mnemônico": "AC5HX24H"
     },
     {
@@ -2026,7 +2026,7 @@
         "id": 320,
         "nome": "CORPUSCULO DE HEINZ",
         "preço": 0,
-        "código": 28040376,
+        "código": null,
         "mnemônico": "HEINZ"
     },
     {
@@ -2131,7 +2131,7 @@
         "id": 339,
         "nome": "TSH - HORMONIO TIREOESTIMULANTE - TESTE DO PEZINHO",
         "preço": 0,
-        "código": 28050703,
+        "código": null,
         "mnemônico": "TSHPEZ"
     },
     {
@@ -2530,7 +2530,7 @@
         "id": 415,
         "nome": "ZINCO ERITROCITARIO",
         "preço": 0,
-        "código": 28150260,
+        "código": null,
         "mnemônico": "ZINERI"
     },
     {
@@ -2775,7 +2775,7 @@
         "id": 500,
         "nome": "CHAGAS HEMOAGLUTINACAO",
         "preço": 0,
-        "código": 28060326,
+        "código": null,
         "mnemônico": "CHAGHEM"
     },
     {
@@ -2929,7 +2929,7 @@
         "id": 539,
         "nome": "LEUCOGRAMA",
         "preço": 0,
-        "código": 28040538,
+        "código": null,
         "mnemônico": "LEU"
     },
     {
@@ -2943,7 +2943,7 @@
         "id": 541,
         "nome": "ERITROGRAMA",
         "preço": 0,
-        "código": 28040180,
+        "código": null,
         "mnemônico": "ERI"
     },
     {
@@ -2971,7 +2971,7 @@
         "id": 545,
         "nome": "HEMOGLOBINA S - TESTE DE SOLUBILIDADE",
         "preço": 0,
-        "código": 28040198,
+        "código": null,
         "mnemônico": "FALCIZA"
     },
     {
@@ -2985,7 +2985,7 @@
         "id": 547,
         "nome": "HEMACIAS, CONTAGEM",
         "preço": 0,
-        "código": 28040384,
+        "código": null,
         "mnemônico": "HEMACIAS"
     },
     {
@@ -3013,7 +3013,7 @@
         "id": 551,
         "nome": "PLASMODIUM, PESQUISA EM GOTA ESPESSA MALARIA",
         "preço": 0,
-        "código": 28040600,
+        "código": null,
         "mnemônico": "PLAS"
     },
     {
@@ -3076,14 +3076,14 @@
         "id": 560,
         "nome": "LEUCOCITOS E HEMACIAS - FEZES ",
         "preço": 0,
-        "código": 28030117,
+        "código": null,
         "mnemônico": "PLF"
     },
     {
         "id": 561,
         "nome": "LEVEDURAS - FEZES ",
         "preço": 0,
-        "código": 28030125,
+        "código": null,
         "mnemônico": "LEVEDURA"
     },
     {
@@ -3104,7 +3104,7 @@
         "id": 564,
         "nome": "SWAB ANAL - PESQUISA DE OXIURUS - FEZES",
         "preço": 0,
-        "código": 28030133,
+        "código": null,
         "mnemônico": "FITA"
     },
     {
@@ -3146,7 +3146,7 @@
         "id": 570,
         "nome": "CRISTAIS COM LUZ POLARIZADA - URINA RECENTE",
         "preço": 0,
-        "código": 28080017,
+        "código": null,
         "mnemônico": "CRIS"
     },
     {
@@ -3223,7 +3223,7 @@
         "id": 581,
         "nome": "FRUTOSE",
         "preço": 0,
-        "código": 28010914,
+        "código": null,
         "mnemônico": "FRUTOSE"
     },
     {
@@ -3265,7 +3265,7 @@
         "id": 587,
         "nome": "FOSFATASE ACIDA PROSTATICA",
         "preço": 0,
-        "código": 28010833,
+        "código": null,
         "mnemônico": "FAP"
     },
     {
@@ -3286,7 +3286,7 @@
         "id": 590,
         "nome": "DIGITOXINA OU DIGOXINA ",
         "preço": 0,
-        "código": 28010698,
+        "código": null,
         "mnemônico": "DIGO"
     },
     {
@@ -3398,7 +3398,7 @@
         "id": 606,
         "nome": "COLINESTERASE PLASMATICA",
         "preço": 0,
-        "código": 28010523,
+        "código": null,
         "mnemônico": "COLI"
     },
     {
@@ -3426,7 +3426,7 @@
         "id": 610,
         "nome": "MALTOSE TESTE DE TOLERANCIA - 3 DOSAGENS (J.30.60)",
         "preço": 0,
-        "código": 28011589,
+        "código": null,
         "mnemônico": "MALT"
     },
     {
@@ -3454,14 +3454,14 @@
         "id": 614,
         "nome": "SACAROSE TESTE DE TOLERANCIA - 3 DOSAGENS (J.30.60)",
         "preço": 0,
-        "código": 28011619,
+        "código": null,
         "mnemônico": "SAC"
     },
     {
         "id": 615,
         "nome": "FAGOCITOS - DIVERSOS MATERIAIS",
         "preço": 0,
-        "código": 28080025,
+        "código": null,
         "mnemônico": "FAGO"
     },
     {
@@ -3482,7 +3482,7 @@
         "id": 624,
         "nome": "ACIDOS BILIARES",
         "preço": 0,
-        "código": 21010021,
+        "código": null,
         "mnemônico": "ACIDBILI"
     },
     {
@@ -3524,7 +3524,7 @@
         "id": 639,
         "nome": "MICOLOGICO DIRETO (5ª AMOSTRA)",
         "preço": 0,
-        "código": 28100280,
+        "código": null,
         "mnemônico": "MICO5"
     },
     {
@@ -3629,7 +3629,7 @@
         "id": 659,
         "nome": "OSMOLALIDADE",
         "preço": 0,
-        "código": 28011180,
+        "código": null,
         "mnemônico": "OSMOLALI"
     },
     {
@@ -3699,14 +3699,14 @@
         "id": 673,
         "nome": "MICOLOGICO DIRETO (6ª AMOSTRA)",
         "preço": 0,
-        "código": 28100280,
+        "código": null,
         "mnemônico": "MICO6"
     },
     {
         "id": 674,
         "nome": "MICOLOGICO DIRETO (7ª AMOSTRA)",
         "preço": 0,
-        "código": 28100280,
+        "código": null,
         "mnemônico": "MICO7"
     },
     {
@@ -4259,7 +4259,7 @@
         "id": 956,
         "nome": "ANTIBIOGRAMA - ANAEROBICO",
         "preço": 0,
-        "código": 28100034,
+        "código": null,
         "mnemônico": "TSANA"
     },
     {
@@ -4294,21 +4294,21 @@
         "id": 965,
         "nome": "MICOLOGICO DIRETO (8ª AMOSTRA)",
         "preço": 0,
-        "código": 28100280,
+        "código": null,
         "mnemônico": "MICO8"
     },
     {
         "id": 966,
         "nome": "MICOLOGICO DIRETO (9ª AMOSTRA)",
         "preço": 0,
-        "código": 28100280,
+        "código": null,
         "mnemônico": "MICO9"
     },
     {
         "id": 967,
         "nome": "MICOLOGICO DIRETO (10ª AMOSTRA)",
         "preço": 0,
-        "código": 28100280,
+        "código": null,
         "mnemônico": "MICO10"
     },
     {
@@ -4455,70 +4455,70 @@
         "id": 1056,
         "nome": "MICOLOGICO DIRETO (11ª AMOSTRA)",
         "preço": 0,
-        "código": 28100280,
+        "código": null,
         "mnemônico": "MICO11"
     },
     {
         "id": 1057,
         "nome": "MICOLOGICO DIRETO (12ª AMOSTRA)",
         "preço": 0,
-        "código": 28100280,
+        "código": null,
         "mnemônico": "MICO12"
     },
     {
         "id": 1058,
         "nome": "MICOLOGICO DIRETO (13ª AMOSTRA)",
         "preço": 0,
-        "código": 28100280,
+        "código": null,
         "mnemônico": "MICO13"
     },
     {
         "id": 1059,
         "nome": "MICOLOGICO DIRETO (14ª AMOSTRA)",
         "preço": 0,
-        "código": 28100280,
+        "código": null,
         "mnemônico": "MICO14"
     },
     {
         "id": 1060,
         "nome": "MICOLOGICO DIRETO (15ª AMOSTRA)",
         "preço": 0,
-        "código": 28100280,
+        "código": null,
         "mnemônico": "MICO15"
     },
     {
         "id": 1061,
         "nome": "MICOLOGICO DIRETO (16ª AMOSTRA)",
         "preço": 0,
-        "código": 28100280,
+        "código": null,
         "mnemônico": "MICO16"
     },
     {
         "id": 1062,
         "nome": "MICOLOGICO DIRETO (17ª AMOSTRA)",
         "preço": 0,
-        "código": 28100280,
+        "código": null,
         "mnemônico": "MICO17"
     },
     {
         "id": 1063,
         "nome": "MICOLOGICO DIRETO (18ª AMOSTRA)",
         "preço": 0,
-        "código": 28100280,
+        "código": null,
         "mnemônico": "MICO18"
     },
     {
         "id": 1064,
         "nome": "MICOLOGICO DIRETO (19ª AMOSTRA)",
         "preço": 0,
-        "código": 28100280,
+        "código": null,
         "mnemônico": "MICO19"
     },
     {
         "id": 1065,
         "nome": "MICOLOGICO DIRETO (20ª AMOSTRA)",
         "preço": 0,
-        "código": 28100280,
+        "código": null,
         "mnemônico": "MICO20"
     },
     {
@@ -4679,7 +4679,7 @@
         "id": 1089,
         "nome": "INDICE DE SATURACAO DE TRANSFERRINA",
         "preço": 0,
-        "código": 28011384,
+        "código": null,
         "mnemônico": "IST"
     },
     {
@@ -4812,7 +4812,7 @@
         "id": 1121,
         "nome": "HEPATITE C - TESTE RAPIDO",
         "preço": 0,
-        "código": 21010021,
+        "código": null,
         "mnemônico": "HCVTR"
     },
     {
@@ -4903,7 +4903,7 @@
         "id": 1136,
         "nome": "LIQUIDO PLEURAL QUIMIOCITOLOGICO",
         "preço": 0,
-        "código": 28080041,
+        "código": null,
         "mnemônico": "LIQ.PLEU"
     },
     {
@@ -5330,7 +5330,7 @@
         "id": 1239,
         "nome": "PH FECAL",
         "preço": 0,
-        "código": 28130014,
+        "código": null,
         "mnemônico": "PHFECAL"
     },
     {
@@ -5813,14 +5813,14 @@
         "id": 1413,
         "nome": "DENSIDADE - URINA RECENTE",
         "preço": 0,
-        "código": 28130014,
+        "código": null,
         "mnemônico": "DENSIREC"
     },
     {
         "id": 1414,
         "nome": "DENSIDADE - URINA 24H",
         "preço": 0,
-        "código": 28130014,
+        "código": null,
         "mnemônico": "DENS24H"
     },
     {
@@ -5988,7 +5988,7 @@
         "id": 1491,
         "nome": "ROTINA DE LIQUIDO PERICARDIO",
         "preço": 0,
-        "código": 28080041,
+        "código": null,
         "mnemônico": "L-PERICA"
     },
     {
@@ -6296,7 +6296,7 @@
         "id": 1776,
         "nome": "TESTE DE ESTIMULO DE 11DESOXI-CORTISOL APOS CORTROSINA - 2 DOS. (J.60)",
         "preço": 0,
-        "código": 28050843,
+        "código": null,
         "mnemônico": "COMPOS60"
     },
     {
@@ -6310,14 +6310,14 @@
         "id": 1781,
         "nome": "LEUCOCITOS E HEMACIAS - FEZES (2ª AMOSTRA)",
         "preço": 0,
-        "código": 28030117,
+        "código": null,
         "mnemônico": "PLF2"
     },
     {
         "id": 1782,
         "nome": "LEUCOCITOS E HEMACIAS - FEZES (3ª AMOSTRA)",
         "preço": 0,
-        "código": 28030117,
+        "código": null,
         "mnemônico": "PLF3"
     },
     {
@@ -6387,7 +6387,7 @@
         "id": 1823,
         "nome": "TESTE DE ESTIMULO DE 11DESOXI-CORTISOL APOS CORTROSINA - 3 D (J.30.60)",
         "preço": 0,
-        "código": 28050843,
+        "código": null,
         "mnemônico": "COMPOS-2"
     },
     {
@@ -7416,14 +7416,14 @@
         "id": 2200,
         "nome": "TESTE DE ESTIMULO DE 11DESOXI-CORTISOL APOS CORTROSINA - 2 DOS. (J.60)",
         "preço": 0,
-        "código": 28050843,
+        "código": null,
         "mnemônico": "TEDESO1"
     },
     {
         "id": 2201,
         "nome": "TESTE DE ESTIMULO DE 11DESOXI-CORTISOL APOS CORTROSINA - 3 D (J.30.60)",
         "preço": 0,
-        "código": 28050843,
+        "código": null,
         "mnemônico": "TEDESO2"
     },
     {

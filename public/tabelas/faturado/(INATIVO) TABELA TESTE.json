@@ -3104,7 +3104,7 @@
         "id": 447,
         "nome": "HEPATITE C (QUALITATIVO) POR PCR ",
         "preço": 0,
-        "código": 28062191,
+        "código": null,
         "mnemônico": "HCVQUPCR"
     },
     {

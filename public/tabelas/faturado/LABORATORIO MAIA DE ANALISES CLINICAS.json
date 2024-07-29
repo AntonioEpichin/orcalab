@@ -3,21 +3,21 @@
         "id": 23,
         "nome": "BETA HCG - QUANTITATIVO",
         "preço": 0,
-        "código": 403057670,
+        "código": 40305767,
         "mnemônico": "BETA"
     },
     {
         "id": 31,
         "nome": "HCG, PESQUISA DE",
         "preço": 0,
-        "código": 403163270,
+        "código": 40316327,
         "mnemônico": "HCG"
     },
     {
         "id": 87,
         "nome": "DISMORFISMO ERITROCITARIO - URINA RECENTE",
         "preço": 0,
-        "código": 403111040,
+        "código": 40311104,
         "mnemônico": "DISMO"
     },
     {
@@ -94,14 +94,14 @@
         "id": 327,
         "nome": "DISMORFISMO ERITROCITARIO - URINA RECENTE (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403111040,
+        "código": 40311104,
         "mnemônico": "DISMO2"
     },
     {
         "id": 328,
         "nome": "DISMORFISMO ERITROCITARIO - URINA RECENTE (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403111040,
+        "código": 40311104,
         "mnemônico": "DISMO3"
     },
     {
@@ -122,7 +122,7 @@
         "id": 546,
         "nome": "FIBRINOGENIO",
         "preço": 0,
-        "código": 403042640,
+        "código": 40304264,
         "mnemônico": "FIBR-C"
     },
     {
@@ -234,7 +234,7 @@
         "id": 589,
         "nome": "DESIDROGENASE LACTICA",
         "preço": 0,
-        "código": 403017290,
+        "código": 40301729,
         "mnemônico": "DHL"
     },
     {
@@ -346,7 +346,7 @@
         "id": 1295,
         "nome": "INFLUENZA A E B, VIRUS SINCICIAL A E B E SARS-COV-2 POR PCR",
         "preço": 0,
-        "código": 403236840,
+        "código": 40323684,
         "mnemônico": "INFLUPCR"
     },
     {
@@ -360,7 +360,7 @@
         "id": 1403,
         "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR",
         "preço": 0,
-        "código": 403146180,
+        "código": 40314618,
         "mnemônico": "COVID-DT"
     },
     {
@@ -409,7 +409,7 @@
         "id": 2173,
         "nome": "BETA HCG - QUANTITATIVO",
         "preço": 0,
-        "código": 403057670,
+        "código": 40305767,
         "mnemônico": "HCGQTE"
     }
 ]

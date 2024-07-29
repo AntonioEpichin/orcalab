@@ -3,70 +3,70 @@
         "id": 1011,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (CERVICAL)",
         "preço": 0,
-        "código": 409012110,
+        "código": 40901211,
         "mnemônico": "USCERVI"
     },
     {
         "id": 1012,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (AXILAS)",
         "preço": 0,
-        "código": 409012110,
+        "código": 40901211,
         "mnemônico": "USAXILA"
     },
     {
         "id": 1246,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (PAREDE ABDOMINAL)",
         "preço": 0,
-        "código": 409012110,
+        "código": 40901211,
         "mnemônico": "ADBP"
     },
     {
         "id": 1483,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (MUSCULO)",
         "preço": 0,
-        "código": 409012110,
+        "código": 40901211,
         "mnemônico": "USMUSC"
     },
     {
         "id": 1658,
         "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
         "preço": 0,
-        "código": 411012270,
+        "código": 41101227,
         "mnemônico": "RMCOLCE2"
     },
     {
         "id": 1661,
         "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
         "preço": 0,
-        "código": 411012270,
+        "código": 41101227,
         "mnemônico": "RMCOLCE3"
     },
     {
         "id": 1737,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (TENDAO)",
         "preço": 0,
-        "código": 409012110,
+        "código": 40901211,
         "mnemônico": "USTENDAO"
     },
     {
         "id": 1775,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (MUSCULO)",
         "preço": 0,
-        "código": 409012110,
+        "código": 40901211,
         "mnemônico": "USMUSC2"
     },
     {
         "id": 1791,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (TENDAO)",
         "preço": 0,
-        "código": 409012110,
+        "código": 40901211,
         "mnemônico": "USTENDA2"
     },
     {
         "id": 2067,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (AXILAS)",
         "preço": 0,
-        "código": 409012110,
+        "código": 40901211,
         "mnemônico": "USAXILA2"
     }
 ]

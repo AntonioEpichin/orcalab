@@ -3811,7 +3811,7 @@
         "id": 821,
         "nome": "PUNCAO ASPIRATIVA POR AGULHA FINA GUIADA POR ULTRASSOM",
         "preço": 0,
-        "código": 408082380,
+        "código": 40808238,
         "mnemônico": "PAAFSS1"
     },
     {
@@ -3874,7 +3874,7 @@
         "id": 861,
         "nome": "1 PD EM LAMINAS DE PAAF ATE 5",
         "preço": 0,
-        "código": 406012500,
+        "código": 40601250,
         "mnemônico": "CITOP1"
     },
     {

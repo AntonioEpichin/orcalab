@@ -108,14 +108,14 @@
         "id": 1357,
         "nome": "RX - COLUNA CERVICAL - 5 INCIDENCIAS",
         "preço": 0,
-        "código": 408020270,
+        "código": 40802027,
         "mnemônico": "R-COLCFU"
     },
     {
         "id": 1358,
         "nome": "RX - COLUNA CERVICAL - 3 INCIDENCIAS",
         "preço": 0,
-        "código": 408020190,
+        "código": 40802019,
         "mnemônico": "R-COLCAP"
     },
     {
@@ -143,7 +143,7 @@
         "id": 1362,
         "nome": "RX - COLUNA LOMBO-SACRA - 5 INCIDENCIAS",
         "preço": 0,
-        "código": 408020600,
+        "código": 40802060,
         "mnemônico": "R-COLLFU"
     },
     {
@@ -213,7 +213,7 @@
         "id": 1373,
         "nome": "RX - PATELA",
         "preço": 0,
-        "código": 408040620,
+        "código": 40804062,
         "mnemônico": "R-PATEL2"
     },
     {
@@ -227,14 +227,14 @@
         "id": 1375,
         "nome": "MAMOGRAFIA DIGITAL BILATERAL",
         "preço": 0,
-        "código": 408080410,
+        "código": 40808041,
         "mnemônico": "M-DIGBIL"
     },
     {
         "id": 1376,
         "nome": "RX - MAO OU QUIRODACTILOS",
         "preço": 0,
-        "código": 408031200,
+        "código": 40803120,
         "mnemônico": "R-MQUIR"
     },
     {
@@ -255,7 +255,7 @@
         "id": 1380,
         "nome": "RX - OMOPLATA OU ESCAPULA",
         "preço": 0,
-        "código": 408030580,
+        "código": 40803058,
         "mnemônico": "R-OMOFUN"
     },
     {
@@ -276,7 +276,7 @@
         "id": 1385,
         "nome": "RX - PATELA",
         "preço": 0,
-        "código": 408040620,
+        "código": 40804062,
         "mnemônico": "R-PATELA"
     },
     {
@@ -304,7 +304,7 @@
         "id": 1389,
         "nome": "RX - SEIOS DA FACE",
         "preço": 0,
-        "código": 408010630,
+        "código": 40801063,
         "mnemônico": "R-SEFMN"
     },
     {
@@ -339,14 +339,14 @@
         "id": 1406,
         "nome": "RX - ABDOME AGUDO",
         "preço": 0,
-        "código": 408080250,
+        "código": 40808025,
         "mnemônico": "R-ABAGUD"
     },
     {
         "id": 1407,
         "nome": "RX - COLUNA DORSO-LOMBAR PARA ESCOLIOSE",
         "preço": 0,
-        "código": 408020860,
+        "código": 40802086,
         "mnemônico": "R-PALAT"
     },
     {
@@ -367,7 +367,7 @@
         "id": 1415,
         "nome": "RX - MAO OU QUIRODACTILOS",
         "preço": 0,
-        "código": 408031200,
+        "código": 40803120,
         "mnemônico": "R-MQUIR2"
     },
     {
@@ -381,28 +381,28 @@
         "id": 1417,
         "nome": "RX - OMOPLATA OU ESCAPULA",
         "preço": 0,
-        "código": 408030580,
+        "código": 40803058,
         "mnemônico": "R-OMOFU2"
     },
     {
         "id": 1476,
         "nome": "RX - ORELHA, MASTOIDES OU ROCHEDOS - BILATERAL",
         "preço": 0,
-        "código": 408010470,
+        "código": 40801047,
         "mnemônico": "ORMASRO"
     },
     {
         "id": 1477,
         "nome": "DENSITOMETRIA OSSEA (1 SEGMENTO)",
         "preço": 0,
-        "código": 408081220,
+        "código": 40808122,
         "mnemônico": "D-OSSE1S"
     },
     {
         "id": 1487,
         "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL",
         "preço": 0,
-        "código": 408080330,
+        "código": 40808033,
         "mnemônico": "M-COVBIL"
     },
     {
@@ -416,7 +416,7 @@
         "id": 1565,
         "nome": "RM - ARTICULAR (POR ATICULACAO)",
         "preço": 0,
-        "código": 630002800,
+        "código": 63000280,
         "mnemônico": "RMARTIR3"
     },
     {
@@ -451,7 +451,7 @@
         "id": 1658,
         "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
         "preço": 0,
-        "código": 411012270,
+        "código": 41101227,
         "mnemônico": "RMCOLCE2"
     },
     {
@@ -465,7 +465,7 @@
         "id": 1661,
         "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
         "preço": 0,
-        "código": 411012270,
+        "código": 41101227,
         "mnemônico": "RMCOLCE3"
     },
     {
@@ -507,14 +507,14 @@
         "id": 1702,
         "nome": "RM - ARTICULAR (POR ATICULACAO)",
         "preço": 0,
-        "código": 630002800,
+        "código": 63000280,
         "mnemônico": "RMARTIR4"
     },
     {
         "id": 1709,
         "nome": "RX - ARTICULACAO ESCAPULOUMERAL (OMBRO)",
         "preço": 0,
-        "código": 408030740,
+        "código": 40803074,
         "mnemônico": "R-ARTEU2"
     },
     {

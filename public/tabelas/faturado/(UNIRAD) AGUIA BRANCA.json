@@ -3,77 +3,77 @@
         "id": 1000,
         "nome": "US - MAMAS FEMININA",
         "preço": 0,
-        "código": 409011140,
+        "código": 40901114,
         "mnemônico": "USMAMASF"
     },
     {
         "id": 1001,
         "nome": "US - ABDOME TOTAL (ABDOME SUPERIOR, RINS, BEXIGA, AORTA, VEIA CAVA INF",
         "preço": 0,
-        "código": 409011220,
+        "código": 40901122,
         "mnemônico": "USABDOME"
     },
     {
         "id": 1002,
         "nome": "US - ABDOME SUPERIOR (FIGADO, VIAS BILIARES, VESICULA, PANCREAS E BACO",
         "preço": 0,
-        "código": 409011300,
+        "código": 40901130,
         "mnemônico": "USABDSUP"
     },
     {
         "id": 1003,
         "nome": "US - APARELHO URINARIO FEMININO (RINS, URETERES E BEXIGA)",
         "preço": 0,
-        "código": 409011570,
+        "código": 40901157,
         "mnemônico": "USAPAUF"
     },
     {
         "id": 1004,
         "nome": "US - APARELHO URINARIO MASCULINO (RINS, URETERES E BEXIGA)",
         "preço": 0,
-        "código": 409017690,
+        "código": 40901769,
         "mnemônico": "USAPAUM"
     },
     {
         "id": 1005,
         "nome": "US - ABDOME INFERIOR MASCULINO (BEXIGA, PROSTATA E VESICULAS SEMINAIS)",
         "preço": 0,
-        "código": 409011730,
+        "código": 40901173,
         "mnemônico": "USABDMAS"
     },
     {
         "id": 1006,
         "nome": "US - ABDOME INFERIOR FEMININO (BEXIGA, UTERO, OVARIO E ANEXOS)",
         "preço": 0,
-        "código": 409011810,
+        "código": 40901181,
         "mnemônico": "USABDFEM"
     },
     {
         "id": 1008,
         "nome": "US - ORGAOS SUPERFICIAIS (ESCROTO)",
         "preço": 0,
-        "código": 409012030,
+        "código": 40901203,
         "mnemônico": "USESCRO"
     },
     {
         "id": 1014,
         "nome": "US - OBSTETRICA",
         "preço": 0,
-        "código": 409012380,
+        "código": 40901238,
         "mnemônico": "USOBSTE"
     },
     {
         "id": 1015,
         "nome": "US - OBSTETRICA COM DOPPLER COLORIDO",
         "preço": 0,
-        "código": 409012460,
+        "código": 40901246,
         "mnemônico": "USOBSTD"
     },
     {
         "id": 1016,
         "nome": "US - OBSTETRICA COM TRANSLUCENCIA NUCAL",
         "preço": 0,
-        "código": 409012540,
+        "código": 40901254,
         "mnemônico": "USOBSTN"
     },
     {
@@ -87,7 +87,7 @@
         "id": 1020,
         "nome": "US - TRANSVAGINAL (UTERO, OVARIO, ANEXOS E VAGINA)",
         "preço": 0,
-        "código": 409013000,
+        "código": 40901300,
         "mnemônico": "USTRANSV"
     },
     {
@@ -101,7 +101,7 @@
         "id": 1182,
         "nome": "US - OBSTETRICA MORFOLOGICA",
         "preço": 0,
-        "código": 409012620,
+        "código": 40901262,
         "mnemônico": "USOBSMSD"
     },
     {
@@ -122,14 +122,14 @@
         "id": 1427,
         "nome": "US - MAMAS MASCULINA",
         "preço": 0,
-        "código": 409011140,
+        "código": 40901114,
         "mnemônico": "USMAMASC"
     },
     {
         "id": 1469,
         "nome": "US - ORGAOS SUPERFICIAIS (TIREOIDE)",
         "preço": 0,
-        "código": 409012030,
+        "código": 40901203,
         "mnemônico": "USTIREO"
     },
     {
@@ -234,28 +234,28 @@
         "id": 1588,
         "nome": "US - ABDOME INFERIOR FEMININO - UNIMED",
         "preço": 0,
-        "código": 409011810,
+        "código": 40901181,
         "mnemônico": "USABFEMU"
     },
     {
         "id": 1618,
         "nome": "US - ABDOME SUPERIOR - COM DOPPLER",
         "preço": 0,
-        "código": 409011300,
+        "código": 40901130,
         "mnemônico": "ABDSUPD"
     },
     {
         "id": 1658,
         "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
         "preço": 0,
-        "código": 630002910,
+        "código": 63000291,
         "mnemônico": "RMCOLCE2"
     },
     {
         "id": 1661,
         "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
         "preço": 0,
-        "código": 630002910,
+        "código": 63000291,
         "mnemônico": "RMCOLCE3"
     },
     {
@@ -283,21 +283,21 @@
         "id": 1747,
         "nome": "US - MAMAS FEMININA - UNIMED",
         "preço": 0,
-        "código": 409011140,
+        "código": 40901114,
         "mnemônico": "USMAMAFU"
     },
     {
         "id": 1749,
         "nome": "US - ORGAOS SUPERFICIAIS (ESCROTO) - UNIMED",
         "preço": 0,
-        "código": 409012030,
+        "código": 40901203,
         "mnemônico": "USESCROU"
     },
     {
         "id": 1750,
         "nome": "US - ORGAOS SUPERFICIAIS (TIREOIDE) - UNIMED",
         "preço": 0,
-        "código": 409012030,
+        "código": 40901203,
         "mnemônico": "USTIREOU"
     },
     {
@@ -318,14 +318,14 @@
         "id": 1952,
         "nome": "US - OBSTETRICA COM TRANSLUCENCIA NUCAL",
         "preço": 0,
-        "código": 409012540,
+        "código": 40901254,
         "mnemônico": "USOBSTN2"
     },
     {
         "id": 1968,
         "nome": "US - OBSTETRICA",
         "preço": 0,
-        "código": 409012380,
+        "código": 40901238,
         "mnemônico": "USOBSTE2"
     }
 ]

@@ -3,14 +3,14 @@
         "id": 1000,
         "nome": "US - MAMAS FEMININA",
         "preço": 0,
-        "código": 409011140,
+        "código": 40901114,
         "mnemônico": "USMAMASF"
     },
     {
         "id": 1022,
         "nome": "US - PROSTATA (VIA ABDOMINAL)",
         "preço": 0,
-        "código": 409017500,
+        "código": 40901750,
         "mnemônico": "USPROST"
     },
     {
@@ -24,196 +24,196 @@
         "id": 1564,
         "nome": "BIOPSIA PERCUTANEA DE FRAGMENTO MAMARIO POR AGULHA GROSSA (CORE BIOPSY",
         "preço": 0,
-        "código": 408082620,
+        "código": 40808262,
         "mnemônico": "COREBIOP"
     },
     {
         "id": 1573,
         "nome": "BIOPSIA PERCUTANEA DE FRAGMENTO MAMARIO POR AGULHA GROSSA (CORE BIOPSY",
         "preço": 0,
-        "código": 408082620,
+        "código": 40808262,
         "mnemônico": "COREBIO2"
     },
     {
         "id": 1574,
         "nome": "BIOPSIA PERCUTANEA DE FRAGMENTO MAMARIO POR AGULHA GROSSA (CORE BIOPSY",
         "preço": 0,
-        "código": 408082620,
+        "código": 40808262,
         "mnemônico": "COREBIO3"
     },
     {
         "id": 1575,
         "nome": "BIOPSIA PERCUTANEA DE FRAGMENTO MAMARIO POR AGULHA GROSSA (CORE BIOPSY",
         "preço": 0,
-        "código": 408082620,
+        "código": 40808262,
         "mnemônico": "COREBIO4"
     },
     {
         "id": 1576,
         "nome": "BIOPSIA PERCUTANEA DE FRAGMENTO MAMARIO POR AGULHA GROSSA (CORE BIOPSY",
         "preço": 0,
-        "código": 408082620,
+        "código": 40808262,
         "mnemônico": "COREBIO5"
     },
     {
         "id": 1588,
         "nome": "US - ABDOME INFERIOR FEMININO - UNIMED",
         "preço": 0,
-        "código": 409011810,
+        "código": 40901181,
         "mnemônico": "USABFEMU"
     },
     {
         "id": 1589,
         "nome": "US - ABDOME INFERIOR MASCULINO - UNIMED",
         "preço": 0,
-        "código": 409011750,
+        "código": 40901175,
         "mnemônico": "USABDIMU"
     },
     {
         "id": 1590,
         "nome": "US - ABDOME SUPERIOR - UNIMED",
         "preço": 0,
-        "código": 409011300,
+        "código": 40901130,
         "mnemônico": "USABDSU"
     },
     {
         "id": 1591,
         "nome": "US - ABDOME TOTAL - UNIMED",
         "preço": 0,
-        "código": 409011220,
+        "código": 40901122,
         "mnemônico": "USABDTU"
     },
     {
         "id": 1592,
         "nome": "US - APARELHO URINARIO FEMININO - UNIMED",
         "preço": 0,
-        "código": 409017690,
+        "código": 40901769,
         "mnemônico": "USAPAUFU"
     },
     {
         "id": 1604,
         "nome": "US - OBSTETRICA - UNIMED",
         "preço": 0,
-        "código": 409012380,
+        "código": 40901238,
         "mnemônico": "USOBSTEU"
     },
     {
         "id": 1605,
         "nome": "US - OBSTETRICA 1º TRIMESTRE (ENDOVAGINAL) - UNIMED",
         "preço": 0,
-        "código": 409012970,
+        "código": 40901297,
         "mnemônico": "USOBS1TU"
     },
     {
         "id": 1606,
         "nome": "US - OBSTETRICA COM DOPPLER COLORIDO - UNIMED",
         "preço": 0,
-        "código": 409012460,
+        "código": 40901246,
         "mnemônico": "USOBSTDU"
     },
     {
         "id": 1607,
         "nome": "US - OBSTETRICA COM TRANSLUCENCIA NUCAL - UNIMED",
         "preço": 0,
-        "código": 409012540,
+        "código": 40901254,
         "mnemônico": "USOBSTNU"
     },
     {
         "id": 1608,
         "nome": "US - OBSTETRICA MORFOLOGICA - UNIMED",
         "preço": 0,
-        "código": 409012620,
+        "código": 40901262,
         "mnemônico": "USOBMSDU"
     },
     {
         "id": 1609,
         "nome": "US - ORGAOS SUPERFICIAIS - UNIMED",
         "preço": 0,
-        "código": 409012030,
+        "código": 40901203,
         "mnemônico": "USORGSU"
     },
     {
         "id": 1610,
         "nome": "US - TRANSVAGINAL PARA CONTROLE DE OVULACAO (3 OU MAIS EXAMES) - UNIME",
         "preço": 0,
-        "código": 409013190,
+        "código": 40901319,
         "mnemônico": "USTRASCU"
     },
     {
         "id": 1612,
         "nome": "US - TRANSVAGINAL - UNIMED",
         "preço": 0,
-        "código": 409013000,
+        "código": 40901300,
         "mnemônico": "USTRANSU"
     },
     {
         "id": 1701,
         "nome": "MAMOGRAFIA DIGITAL BILATERAL - UNIMED",
         "preço": 0,
-        "código": 408080410,
+        "código": 40808041,
         "mnemônico": "M-DIGBIU"
     },
     {
         "id": 1713,
         "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL - UNIMED",
         "preço": 0,
-        "código": 408080330,
+        "código": 40808033,
         "mnemônico": "M-COVBIU"
     },
     {
         "id": 1714,
         "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR - UNIMED",
         "preço": 0,
-        "código": 408081300,
+        "código": 40808130,
         "mnemônico": "D-COLFEU"
     },
     {
         "id": 1716,
         "nome": "DENSITOMETRIA OSSEA - CORPO INTEIRO - UNIMED",
         "preço": 0,
-        "código": 408081490,
+        "código": 40808149,
         "mnemônico": "D-COMPCU"
     },
     {
         "id": 1723,
         "nome": "PUNCAO BIOPSIA/ASPIRATIVA DE ORGAO OU ESTRUTURA SUPERFICIAL ORIENTADA ",
         "preço": 0,
-        "código": 408091610,
+        "código": 40809161,
         "mnemônico": "PAAFSSU"
     },
     {
         "id": 1726,
         "nome": "PUNCAO BIOPSIA/ASPIRATIVA DE ORGAO OU ESTRUTURA SUPERFICIAL ORIENTADA ",
         "preço": 0,
-        "código": 408091610,
+        "código": 40809161,
         "mnemônico": "PAAFSSU2"
     },
     {
         "id": 1743,
         "nome": "US - APARELHO URINARIO MASCULINO - UNIMED",
         "preço": 0,
-        "código": 409017690,
+        "código": 40901769,
         "mnemônico": "USAPAUMU"
     },
     {
         "id": 1744,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (CERVICAL) - UNIMED",
         "preço": 0,
-        "código": 409012110,
+        "código": 40901211,
         "mnemônico": "USCERVIU"
     },
     {
         "id": 1747,
         "nome": "US - MAMAS FEMININA - UNIMED",
         "preço": 0,
-        "código": 409011140,
+        "código": 40901114,
         "mnemônico": "USMAMAFU"
     },
     {
         "id": 1750,
         "nome": "US - ORGAOS SUPERFICIAIS (TIREOIDE) - UNIMED",
         "preço": 0,
-        "código": 409012030,
+        "código": 40901203,
         "mnemônico": "USTIREOU"
     }
 ]

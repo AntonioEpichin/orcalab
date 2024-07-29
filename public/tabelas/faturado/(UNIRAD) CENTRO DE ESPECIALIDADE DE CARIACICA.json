@@ -3,7 +3,7 @@
         "id": 1000,
         "nome": "US - MAMAS FEMININA",
         "preço": 0,
-        "código": 409011140,
+        "código": 40901114,
         "mnemônico": "USMAMASF"
     },
     {
@@ -234,7 +234,7 @@
         "id": 1375,
         "nome": "MAMOGRAFIA DIGITAL BILATERAL",
         "preço": 0,
-        "código": 408080330,
+        "código": 40808033,
         "mnemônico": "M-DIGBIL"
     },
     {
@@ -402,7 +402,7 @@
         "id": 1427,
         "nome": "US - MAMAS MASCULINA",
         "preço": 0,
-        "código": 409011140,
+        "código": 40901114,
         "mnemônico": "USMAMASC"
     },
     {
@@ -416,7 +416,7 @@
         "id": 1487,
         "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL",
         "preço": 0,
-        "código": 408080330,
+        "código": 40808033,
         "mnemônico": "M-COVBIL"
     },
     {
@@ -668,7 +668,7 @@
         "id": 1701,
         "nome": "MAMOGRAFIA DIGITAL BILATERAL - UNIMED",
         "preço": 0,
-        "código": 408080330,
+        "código": 40808033,
         "mnemônico": "M-DIGBIU"
     },
     {
@@ -696,7 +696,7 @@
         "id": 1713,
         "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL - UNIMED",
         "preço": 0,
-        "código": 408080330,
+        "código": 40808033,
         "mnemônico": "M-COVBIU"
     },
     {

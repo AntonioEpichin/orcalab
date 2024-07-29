@@ -668,7 +668,7 @@
         "id": 1571,
         "nome": "TC - ARTICULACAO (ESTERNOCLAVICULAR OU OMBRO OU COTOVELO OU PUNHO OU S",
         "preço": 0,
-        "código": 41001141,
+        "código": null,
         "mnemônico": "TCAMINF"
     },
     {

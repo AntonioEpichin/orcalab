@@ -3,4277 +3,4277 @@
         "id": 1,
         "nome": "VITAMINA B12",
         "preço": 0,
-        "código": 403165720,
+        "código": 40316572,
         "mnemônico": "B12"
     },
     {
         "id": 2,
         "nome": "ACIDO CITRICO - URINA 24H",
         "preço": 0,
-        "código": 403110150,
+        "código": 40311015,
         "mnemônico": "ACCIT24H"
     },
     {
         "id": 4,
         "nome": "FERRITINA",
         "preço": 0,
-        "código": 403162700,
+        "código": 40316270,
         "mnemônico": "FERRI"
     },
     {
         "id": 5,
         "nome": "TEMPO TROMBOPLASTINA PARCIAL ATIVADA",
         "preço": 0,
-        "código": 403046390,
+        "código": 40304639,
         "mnemônico": "PTTK"
     },
     {
         "id": 7,
         "nome": "COOMBS DIRETO",
         "preço": 0,
-        "código": 403041080,
+        "código": 40304108,
         "mnemônico": "COOD"
     },
     {
         "id": 8,
         "nome": "ZINCO",
         "preço": 0,
-        "código": 403133280,
+        "código": 40313328,
         "mnemônico": "ZINCO"
     },
     {
         "id": 9,
         "nome": "ACIDO VANIL MANDELICO - URINA 24H",
         "preço": 0,
-        "código": 403160330,
+        "código": 40316033,
         "mnemônico": "ACVMA24H"
     },
     {
         "id": 11,
         "nome": "ALDOSTERONA",
         "preço": 0,
-        "código": 403160500,
+        "código": 40316050,
         "mnemônico": "ALDOST"
     },
     {
         "id": 12,
         "nome": "ALFA-1-ANTITRIPSINA ",
         "preço": 0,
-        "código": 403012490,
+        "código": 40301249,
         "mnemônico": "ALFA1AT"
     },
     {
         "id": 14,
         "nome": "CORTISOL - 16:00 HORAS",
         "preço": 0,
-        "código": 403161900,
+        "código": 40316190,
         "mnemônico": "C16H"
     },
     {
         "id": 15,
         "nome": "CORTISOL - 08:00 HORAS",
         "preço": 0,
-        "código": 403161900,
+        "código": 40316190,
         "mnemônico": "C8H"
     },
     {
         "id": 17,
         "nome": "SULFATO DE DEHIDROEPIANDROSTERONA (S-DHEA)",
         "preço": 0,
-        "código": 403164590,
+        "código": 40316459,
         "mnemônico": "SDHEA"
     },
     {
         "id": 18,
         "nome": "DIHIDROTESTOSTERONA (DHT) ",
         "preço": 0,
-        "código": 403162200,
+        "código": 40316220,
         "mnemônico": "DHT"
     },
     {
         "id": 19,
         "nome": "ESTRADIOL",
         "preço": 0,
-        "código": 403162460,
+        "código": 40316246,
         "mnemônico": "ESTR"
     },
     {
         "id": 21,
         "nome": "FOLICO ESTIMULANTE, HORMONIO (FSH) ",
         "preço": 0,
-        "código": 403162890,
+        "código": 40316289,
         "mnemônico": "FSH"
     },
     {
         "id": 23,
         "nome": "BETA HCG - QUANTITATIVO",
         "preço": 0,
-        "código": 403057670,
+        "código": 40305767,
         "mnemônico": "BETA"
     },
     {
         "id": 24,
         "nome": "LH - HORMONIO LUTEINIZANTE",
         "preço": 0,
-        "código": 403163350,
+        "código": 40316335,
         "mnemônico": "LH"
     },
     {
         "id": 26,
         "nome": "PROGESTERONA",
         "preço": 0,
-        "código": 403164080,
+        "código": 40316408,
         "mnemônico": "PROG"
     },
     {
         "id": 27,
         "nome": "TRIIODOTIRONINA (T3) ",
         "preço": 0,
-        "código": 403165560,
+        "código": 40316556,
         "mnemônico": "T3"
     },
     {
         "id": 28,
         "nome": "TIREOGLOBULINA ",
         "preço": 0,
-        "código": 403165300,
+        "código": 40316530,
         "mnemônico": "TIRE"
     },
     {
         "id": 29,
         "nome": "TSH - HORMONIO TIREOESTIMULANTE ",
         "preço": 0,
-        "código": 403165210,
+        "código": 40316521,
         "mnemônico": "TSH"
     },
     {
         "id": 30,
         "nome": "ANDROSTENEDIONA",
         "preço": 0,
-        "código": 403160760,
+        "código": 40316076,
         "mnemônico": "ANDR"
     },
     {
         "id": 31,
         "nome": "HCG, PESQUISA DE",
         "preço": 0,
-        "código": 403163270,
+        "código": 40316327,
         "mnemônico": "HCG"
     },
     {
         "id": 32,
         "nome": "DEHIDROEPIANDROSTERONA (DHEA)",
         "preço": 0,
-        "código": 403162110,
+        "código": 40316211,
         "mnemônico": "DHEA"
     },
     {
         "id": 33,
         "nome": "ESTRIOL",
         "preço": 0,
-        "código": 403162540,
+        "código": 40316254,
         "mnemônico": "ESTRIOL"
     },
     {
         "id": 34,
         "nome": "ESTRONA - E1",
         "preço": 0,
-        "código": 403162620,
+        "código": 40316262,
         "mnemônico": "ESTRONA"
     },
     {
         "id": 37,
         "nome": "CRESCIMENTO, HORMONIO DO (HGH) ",
         "preço": 0,
-        "código": 403162030,
+        "código": 40316203,
         "mnemônico": "GH"
     },
     {
         "id": 38,
         "nome": "INSULINA",
         "preço": 0,
-        "código": 403163600,
+        "código": 40316360,
         "mnemônico": "INSU"
     },
     {
         "id": 41,
         "nome": "TIROXINA (T4)",
         "preço": 0,
-        "código": 403165480,
+        "código": 40316548,
         "mnemônico": "T4"
     },
     {
         "id": 43,
         "nome": "TIROXINA T4 LIVRE",
         "preço": 0,
-        "código": 403164910,
+        "código": 40316491,
         "mnemônico": "T4L"
     },
     {
         "id": 44,
         "nome": "ANTI - ESCLERODERMA (SCL 70)",
         "preço": 0,
-        "código": 403062910,
+        "código": 40306291,
         "mnemônico": "ACSCL70"
     },
     {
         "id": 46,
         "nome": "HEPATITE A IGG",
         "preço": 0,
-        "código": 403069330,
+        "código": 40306933,
         "mnemônico": "HAVG"
     },
     {
         "id": 47,
         "nome": "HEPATITE A IGM",
         "preço": 0,
-        "código": 403069410,
+        "código": 40306941,
         "mnemônico": "HAVM"
     },
     {
         "id": 48,
         "nome": "ANTICORPOS ANTI-INSULINA",
         "preço": 0,
-        "código": 403160920,
+        "código": 40316092,
         "mnemônico": "ACAINSU"
     },
     {
         "id": 49,
         "nome": "ANTICARDIOLIPINA IGG ",
         "preço": 0,
-        "código": 403061430,
+        "código": 40306143,
         "mnemônico": "CARG"
     },
     {
         "id": 50,
         "nome": "ANTICENTROMERO",
         "preço": 0,
-        "código": 403061600,
+        "código": 40306160,
         "mnemônico": "CENT"
     },
     {
         "id": 52,
         "nome": "ANTICORPO ANTI-SM",
         "preço": 0,
-        "código": 403061270,
+        "código": 40306127,
         "mnemônico": "SM"
     },
     {
         "id": 53,
         "nome": "ANTI-LA/SSB ",
         "preço": 0,
-        "código": 403060890,
+        "código": 40306089,
         "mnemônico": "SSB"
     },
     {
         "id": 54,
         "nome": "HEPATITE B - HBSAC - (ANTI ANTIGENO DE SUPERFICIE)",
         "preço": 0,
-        "código": 403069920,
+        "código": 40306992,
         "mnemônico": "AHBS"
     },
     {
         "id": 55,
         "nome": "HEPATITE B - ANTI-HBE",
         "preço": 0,
-        "código": 403069760,
+        "código": 40306976,
         "mnemônico": "AHBE"
     },
     {
         "id": 56,
         "nome": "ANTI-DNA ",
         "preço": 0,
-        "código": 403060620,
+        "código": 40306062,
         "mnemônico": "DNA"
     },
     {
         "id": 57,
         "nome": "ANTI-RO/SSA",
         "preço": 0,
-        "código": 403061190,
+        "código": 40306119,
         "mnemônico": "SSA"
     },
     {
         "id": 58,
         "nome": "ASLO",
         "preço": 0,
-        "código": 403084050,
+        "código": 40308405,
         "mnemônico": "ASLO"
     },
     {
         "id": 59,
         "nome": "HEPATITE B - HBSAG - (AU, ANTIGENO AUSTRALIA) ",
         "preço": 0,
-        "código": 403070180,
+        "código": 40307018,
         "mnemônico": "AU"
     },
     {
         "id": 60,
         "nome": "HEPATITE B - ANTI HBC TOTAL",
         "preço": 0,
-        "código": 403069500,
+        "código": 40306950,
         "mnemônico": "HBCG"
     },
     {
         "id": 61,
         "nome": "CAXUMBA IGG",
         "preço": 0,
-        "código": 403065930,
+        "código": 40306593,
         "mnemônico": "CAXUMBAG"
     },
     {
         "id": 63,
         "nome": "CITOMEGALOVIRUS IGG ",
         "preço": 0,
-        "código": 403066660,
+        "código": 40306666,
         "mnemônico": "CITG"
     },
     {
         "id": 64,
         "nome": "COMPLEMENTO C4 ",
         "preço": 0,
-        "código": 403067120,
+        "código": 40306712,
         "mnemônico": "C4"
     },
     {
         "id": 65,
         "nome": "COMPLEMENTO C3 ",
         "preço": 0,
-        "código": 403079990,
+        "código": 40307999,
         "mnemônico": "C3"
     },
     {
         "id": 79,
         "nome": "ANTIGENO CARCINOEMBRIOGENICO (CEA)",
         "preço": 0,
-        "código": 403161220,
+        "código": 40316122,
         "mnemônico": "CEA"
     },
     {
         "id": 82,
         "nome": "ACIDO URICO - URINA 24H",
         "preço": 0,
-        "código": 403011500,
+        "código": 40301150,
         "mnemônico": "AUR24H"
     },
     {
         "id": 84,
         "nome": "GLICOSE - URINA RECENTE",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GLICOSU"
     },
     {
         "id": 86,
         "nome": "CREATININA - URINA RECENTE",
         "preço": 0,
-        "código": 403015080,
+        "código": 40301508,
         "mnemônico": "CREAU"
     },
     {
         "id": 88,
         "nome": "POTASSIO - URINA 24H",
         "preço": 0,
-        "código": 403023180,
+        "código": 40302318,
         "mnemônico": "POTA24H"
     },
     {
         "id": 89,
         "nome": "FOSFORO - URINA 24H",
         "preço": 0,
-        "código": 403019310,
+        "código": 40301931,
         "mnemônico": "FOSF24H"
     },
     {
         "id": 90,
         "nome": "MAGNESIO - URINA 24H",
         "preço": 0,
-        "código": 403022370,
+        "código": 40302237,
         "mnemônico": "MAGU24H"
     },
     {
         "id": 91,
         "nome": "SODIO - URINA 24H",
         "preço": 0,
-        "código": 403024230,
+        "código": 40302423,
         "mnemônico": "SODU24H"
     },
     {
         "id": 92,
         "nome": "BAAR (1ª AMOSTRA)",
         "preço": 0,
-        "código": 403100510,
+        "código": 40310051,
         "mnemônico": "BAAR"
     },
     {
         "id": 93,
         "nome": "BACTERIOSCOPIA - DIVERSOS MATERIAIS (1ª AMOSTRA)",
         "preço": 0,
-        "código": 403100600,
+        "código": 40310060,
         "mnemônico": "BAC"
     },
     {
         "id": 94,
         "nome": "BACTERIOSCOPIA - FEZES",
         "preço": 0,
-        "código": 403100600,
+        "código": 40310060,
         "mnemônico": "BFZ"
     },
     {
         "id": 98,
         "nome": "AMILASE - URINA 24H",
         "preço": 0,
-        "código": 403012810,
+        "código": 40301281,
         "mnemônico": "AMILA24H"
     },
     {
         "id": 99,
         "nome": "CALCIO - URINA 24H",
         "preço": 0,
-        "código": 403014000,
+        "código": 40301400,
         "mnemônico": "CALU24H"
     },
     {
         "id": 104,
         "nome": "FAN - FATOR ANTINUCLEAR",
         "preço": 0,
-        "código": 403068520,
+        "código": 40306852,
         "mnemônico": "FAN"
     },
     {
         "id": 109,
         "nome": "HIV1+ HIV2",
         "preço": 0,
-        "código": 403071820,
+        "código": 40307182,
         "mnemônico": "HIV"
     },
     {
         "id": 111,
         "nome": "IMUNOGLOBULINA IGA",
         "preço": 0,
-        "código": 403072200,
+        "código": 40307220,
         "mnemônico": "IGA"
     },
     {
         "id": 112,
         "nome": "IMUNOGLOBULINA IGE",
         "preço": 0,
-        "código": 403072710,
+        "código": 40307271,
         "mnemônico": "IGE"
     },
     {
         "id": 113,
         "nome": "IMUNOGLOBULINA IGG",
         "preço": 0,
-        "código": 403072800,
+        "código": 40307280,
         "mnemônico": "IGG"
     },
     {
         "id": 114,
         "nome": "IMUNOGLOBULINA IGM",
         "preço": 0,
-        "código": 403073010,
+        "código": 40307301,
         "mnemônico": "IGM"
     },
     {
         "id": 117,
         "nome": "PROTEINA C REATIVA, QUANTITATIVA",
         "preço": 0,
-        "código": 403083910,
+        "código": 40308391,
         "mnemônico": "PCR"
     },
     {
         "id": 119,
         "nome": "SUB CLASSES DE IGG - 1",
         "preço": 0,
-        "código": 403072980,
+        "código": 40307298,
         "mnemônico": "IGG1"
     },
     {
         "id": 120,
         "nome": "SUB CLASSES DE IGG - 2",
         "preço": 0,
-        "código": 403072980,
+        "código": 40307298,
         "mnemônico": "IGG2"
     },
     {
         "id": 121,
         "nome": "SUB CLASSES DE IGG - 3",
         "preço": 0,
-        "código": 403072980,
+        "código": 40307298,
         "mnemônico": "IGG3"
     },
     {
         "id": 123,
         "nome": "SUB CLASSES DE IGG - 4",
         "preço": 0,
-        "código": 403072980,
+        "código": 40307298,
         "mnemônico": "IGG4"
     },
     {
         "id": 126,
         "nome": "SIFILIS - VDRL",
         "preço": 0,
-        "código": 403077600,
+        "código": 40307760,
         "mnemônico": "VDRL"
     },
     {
         "id": 128,
         "nome": "SIFILIS - FTA-ABS-IGG ",
         "preço": 0,
-        "código": 403077350,
+        "código": 40307735,
         "mnemônico": "FTAIGG"
     },
     {
         "id": 129,
         "nome": "HCV (ANTICORPOS CONTRA O VIRUS DA HEPATITE C)",
         "preço": 0,
-        "código": 403070260,
+        "código": 40307026,
         "mnemônico": "HVC"
     },
     {
         "id": 134,
         "nome": "WAALER - ROSE",
         "preço": 0,
-        "código": 403078670,
+        "código": 40307867,
         "mnemônico": "WAALER"
     },
     {
         "id": 136,
         "nome": "LITIO BASAL",
         "preço": 0,
-        "código": 403022290,
+        "código": 40302229,
         "mnemônico": "LITIO"
     },
     {
         "id": 138,
         "nome": "EPF - PARASITOLOGICO DE FEZES (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPF2"
     },
     {
         "id": 139,
         "nome": "EPF - PARASITOLOGICO DE FEZES (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPF3"
     },
     {
         "id": 140,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (1ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSG1"
     },
     {
         "id": 141,
         "nome": "ANTICORPOS ANTI - MITOCONDRIA M2",
         "preço": 0,
-        "código": 403063560,
+        "código": 40306356,
         "mnemônico": "MITM2"
     },
     {
         "id": 143,
         "nome": "ANTIBIOGRAMA - FEZES",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSF"
     },
     {
         "id": 144,
         "nome": "ANTIBIOGRAMA - URINA",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSU"
     },
     {
         "id": 145,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSG2"
     },
     {
         "id": 146,
         "nome": "ALBUMINA ",
         "preço": 0,
-        "código": 403012220,
+        "código": 40301222,
         "mnemônico": "ALB"
     },
     {
         "id": 148,
         "nome": "FATOR RH",
         "preço": 0,
-        "código": 403042990,
+        "código": 40304299,
         "mnemônico": "RH"
     },
     {
         "id": 149,
         "nome": "RUBEOLA IGM",
         "preço": 0,
-        "código": 403077000,
+        "código": 40307700,
         "mnemônico": "RUBM"
     },
     {
         "id": 150,
         "nome": "RUBEOLA IGG",
         "preço": 0,
-        "código": 403076970,
+        "código": 40307697,
         "mnemônico": "RUBG"
     },
     {
         "id": 151,
         "nome": "PSA TOTAL - ANTIGENO PROSTATICO ESPECIFICO",
         "preço": 0,
-        "código": 403161490,
+        "código": 40316149,
         "mnemônico": "PSA"
     },
     {
         "id": 158,
         "nome": "BAAR (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403100510,
+        "código": 40310051,
         "mnemônico": "BAAR2"
     },
     {
         "id": 159,
         "nome": "BAAR (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403100510,
+        "código": 40310051,
         "mnemônico": "BAAR3"
     },
     {
         "id": 162,
         "nome": "BAAR (4ª AMOSTRA)",
         "preço": 0,
-        "código": 403100510,
+        "código": 40310051,
         "mnemônico": "BAAR4"
     },
     {
         "id": 163,
         "nome": "BAAR (5ª AMOSTRA)",
         "preço": 0,
-        "código": 403100510,
+        "código": 40310051,
         "mnemônico": "BAAR5"
     },
     {
         "id": 165,
         "nome": "HEPATITE B - ANTI HBC IGM",
         "preço": 0,
-        "código": 403069680,
+        "código": 40306968,
         "mnemônico": "HBCM"
     },
     {
         "id": 166,
         "nome": "HEPATITE B - HBEAG - (ANTIGENO \"E\")",
         "preço": 0,
-        "código": 403069840,
+        "código": 40306984,
         "mnemônico": "HBEAG"
     },
     {
         "id": 172,
         "nome": "CORTISOL BASAL",
         "preço": 0,
-        "código": 403161900,
+        "código": 40316190,
         "mnemônico": "CB"
     },
     {
         "id": 177,
         "nome": "ACIDO URICO - DIVERSOS MATERIAIS",
         "preço": 0,
-        "código": 403011500,
+        "código": 40301150,
         "mnemônico": "AURDVM"
     },
     {
         "id": 178,
         "nome": "SODIO - URINA RECENTE",
         "preço": 0,
-        "código": 403024230,
+        "código": 40302423,
         "mnemônico": "SODIOUR"
     },
     {
         "id": 179,
         "nome": "UREIA - POS HEMODIALISE",
         "preço": 0,
-        "código": 403025800,
+        "código": 40302580,
         "mnemônico": "UR"
     },
     {
         "id": 182,
         "nome": "GLICOSE - 2 HORAS POS PRANDIAL",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GP"
     },
     {
         "id": 183,
         "nome": "ANTIBIOGRAMA - URINA (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSU2"
     },
     {
         "id": 185,
         "nome": "PSA TOTAL/LIVRE - FRACOES TOTAL E LIVRE",
         "preço": 0,
-        "código": 403161300,
+        "código": 40316130,
         "mnemônico": "PSAL"
     },
     {
         "id": 189,
         "nome": "AMINOACIDOS CROMATOGRAFIA - QUANTITATIVA",
         "preço": 0,
-        "código": 403012900,
+        "código": 40301290,
         "mnemônico": "CROMA"
     },
     {
         "id": 190,
         "nome": "BAAR (6ª AMOSTRA)",
         "preço": 0,
-        "código": 403100510,
+        "código": 40310051,
         "mnemônico": "BAAR6"
     },
     {
         "id": 191,
         "nome": "BAAR (7ª AMOSTRA)",
         "preço": 0,
-        "código": 403100510,
+        "código": 40310051,
         "mnemônico": "BAAR7"
     },
     {
         "id": 192,
         "nome": "BAAR (8ª AMOSTRA)",
         "preço": 0,
-        "código": 403100510,
+        "código": 40310051,
         "mnemônico": "BAAR8"
     },
     {
         "id": 193,
         "nome": "BAAR (9ª AMOSTRA)",
         "preço": 0,
-        "código": 403100510,
+        "código": 40310051,
         "mnemônico": "BAAR9"
     },
     {
         "id": 194,
         "nome": "BAAR (10ª AMOSTRA)",
         "preço": 0,
-        "código": 403100510,
+        "código": 40310051,
         "mnemônico": "BAAR10"
     },
     {
         "id": 196,
         "nome": "HTLV 1 E 2 ",
         "preço": 0,
-        "código": 403072120,
+        "código": 40307212,
         "mnemônico": "HTLV1E2"
     },
     {
         "id": 197,
         "nome": "CROMO - URINA",
         "preço": 0,
-        "código": 403133100,
+        "código": 40313310,
         "mnemônico": "CROMOUR"
     },
     {
         "id": 200,
         "nome": "HERPES SIMPLES IGG",
         "preço": 0,
-        "código": 403070850,
+        "código": 40307085,
         "mnemônico": "HERG"
     },
     {
         "id": 201,
         "nome": "HERPES SIMPLES IGM",
         "preço": 0,
-        "código": 403070930,
+        "código": 40307093,
         "mnemônico": "HERM"
     },
     {
         "id": 204,
         "nome": "PESQUISA SANGUE OCULTO NAS FEZES (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403031360,
+        "código": 40303136,
         "mnemônico": "PSO2"
     },
     {
         "id": 205,
         "nome": "PESQUISA SANGUE OCULTO NAS FEZES (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403031360,
+        "código": 40303136,
         "mnemônico": "PSO3"
     },
     {
         "id": 206,
         "nome": "PESQUISA SANGUE OCULTO NAS FEZES (4ª AMOSTRA)",
         "preço": 0,
-        "código": 403031360,
+        "código": 40303136,
         "mnemônico": "PSO4"
     },
     {
         "id": 207,
         "nome": "PESQUISA SANGUE OCULTO NAS FEZES (5ª AMOSTRA)",
         "preço": 0,
-        "código": 403031360,
+        "código": 40303136,
         "mnemônico": "PSO5"
     },
     {
         "id": 212,
         "nome": "APOLIPOPROTEINA A",
         "preço": 0,
-        "código": 403013540,
+        "código": 40301354,
         "mnemônico": "APOA"
     },
     {
         "id": 213,
         "nome": "APOLIPOPROTEINA B",
         "preço": 0,
-        "código": 403013620,
+        "código": 40301362,
         "mnemônico": "APOB"
     },
     {
         "id": 215,
         "nome": "COMPLEMENTO C1Q",
         "preço": 0,
-        "código": 403065340,
+        "código": 40306534,
         "mnemônico": "C1Q"
     },
     {
         "id": 217,
         "nome": "COMPLEMENTO CH-100",
         "preço": 0,
-        "código": 403067390,
+        "código": 40306739,
         "mnemônico": "CH100"
     },
     {
         "id": 224,
         "nome": "ANTICARDIOLIPINA IGM ",
         "preço": 0,
-        "código": 403061510,
+        "código": 40306151,
         "mnemônico": "CARM"
     },
     {
         "id": 225,
         "nome": "CITOMEGALOVIRUS IGM ",
         "preço": 0,
-        "código": 403066740,
+        "código": 40306674,
         "mnemônico": "CITM"
     },
     {
         "id": 226,
         "nome": "INSULINA - 2 HORAS POS PRANDIAL",
         "preço": 0,
-        "código": 403163600,
+        "código": 40316360,
         "mnemônico": "INSUP2"
     },
     {
         "id": 227,
         "nome": "PROTEINAS TOTAIS ",
         "preço": 0,
-        "código": 403023770,
+        "código": 40302377,
         "mnemônico": "PROT"
     },
     {
         "id": 229,
         "nome": "SIFILIS - FTA-ABS-IGM",
         "preço": 0,
-        "código": 403077430,
+        "código": 40307743,
         "mnemônico": "FTAIGM"
     },
     {
         "id": 233,
         "nome": "17-ALFA-HIDROXIPROGESTERONA - TESTE DO PEZINHO",
         "preço": 0,
-        "código": 403160170,
+        "código": 40316017,
         "mnemônico": "17OH.PEZ"
     },
     {
         "id": 235,
         "nome": "VITAMINA A",
         "preço": 0,
-        "código": 403026010,
+        "código": 40302601,
         "mnemônico": "VITA"
     },
     {
         "id": 238,
         "nome": "CHLAMYDIA TRACHOMATIS IGG",
         "preço": 0,
-        "código": 403066310,
+        "código": 40306631,
         "mnemônico": "CLAG"
     },
     {
         "id": 239,
         "nome": "CHLAMYDIA TRACHOMATIS IGM",
         "preço": 0,
-        "código": 403066400,
+        "código": 40306640,
         "mnemônico": "CLAM"
     },
     {
         "id": 241,
         "nome": "ANTIGLIADINA (GLUTEN) IGA ",
         "preço": 0,
-        "código": 403063050,
+        "código": 40306305,
         "mnemônico": "GLIAA"
     },
     {
         "id": 243,
         "nome": "ANTIBIOGRAMA - URINA (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSU3"
     },
     {
         "id": 251,
         "nome": "ACIDO DELTA AMINO LEVULINICO - URINA",
         "preço": 0,
-        "código": 403130260,
+        "código": 40313026,
         "mnemônico": "ACDELTAA"
     },
     {
         "id": 252,
         "nome": "BACTERIOSCOPIA - DIVERSOS MATERIAIS (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403100600,
+        "código": 40310060,
         "mnemônico": "BAC2"
     },
     {
         "id": 253,
         "nome": "ANTICORPOS FATOR INTRINSECO",
         "preço": 0,
-        "código": 403086500,
+        "código": 40308650,
         "mnemônico": "ACFI"
     },
     {
         "id": 255,
         "nome": "ACIDO METIL MALONICO",
         "preço": 0,
-        "código": 403133010,
+        "código": 40313301,
         "mnemônico": "MALONICO"
     },
     {
         "id": 257,
         "nome": "INSULINA - 1 HORA POS DEXTROSOL ",
         "preço": 0,
-        "código": 403163600,
+        "código": 40316360,
         "mnemônico": "INSUDX1"
     },
     {
         "id": 271,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSG3"
     },
     {
         "id": 276,
         "nome": "IGF BP3 - PROTEINA LIGADORA-3 DO IGF",
         "preço": 0,
-        "código": 403054060,
+        "código": 40305406,
         "mnemônico": "IGFBP3"
     },
     {
         "id": 281,
         "nome": "ANTI-TPO",
         "preço": 0,
-        "código": 403064370,
+        "código": 40306437,
         "mnemônico": "TPO"
     },
     {
         "id": 282,
         "nome": "INSULINA - 2 HORAS POS DEXTROSOL",
         "preço": 0,
-        "código": 403163600,
+        "código": 40316360,
         "mnemônico": "INSUDX2"
     },
     {
         "id": 285,
         "nome": "TRAB - ANTI-RECEPTOR DE TSH",
         "preço": 0,
-        "código": 403160840,
+        "código": 40316084,
         "mnemônico": "TRAB"
     },
     {
         "id": 292,
         "nome": "BACTERIOSCOPIA - DIVERSOS MATERIAIS (4ª AMOSTRA)",
         "preço": 0,
-        "código": 403100600,
+        "código": 40310060,
         "mnemônico": "BAC4"
     },
     {
         "id": 293,
         "nome": "ACIDO METIL HIPURICO - URINA",
         "preço": 0,
-        "código": 403130690,
+        "código": 40313069,
         "mnemônico": "AMH"
     },
     {
         "id": 295,
         "nome": "ANTIENDOMISIO IGG",
         "preço": 0,
-        "código": 403062590,
+        "código": 40306259,
         "mnemônico": "ENDOIGG"
     },
     {
         "id": 296,
         "nome": "ANTIMUSCULO LISO",
         "preço": 0,
-        "código": 403063990,
+        "código": 40306399,
         "mnemônico": "MUSCULO"
     },
     {
         "id": 297,
         "nome": "CORTISOL LIVRE - URINA 24H",
         "preço": 0,
-        "código": 403052100,
+        "código": 40305210,
         "mnemônico": "CL"
     },
     {
         "id": 302,
         "nome": "ACIDO FOLICO",
         "preço": 0,
-        "código": 403010870,
+        "código": 40301087,
         "mnemônico": "FOLICO"
     },
     {
         "id": 305,
         "nome": "CERULOPLASMINA ",
         "preço": 0,
-        "código": 403014780,
+        "código": 40301478,
         "mnemônico": "CERULO"
     },
     {
         "id": 306,
         "nome": "CULTURA - FUNGOS (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU3"
     },
     {
         "id": 307,
         "nome": "ACIDO 5 HIDROXI INDOL ACETICO - URINA 24H",
         "preço": 0,
-        "código": 403051120,
+        "código": 40305112,
         "mnemônico": "AC5HX24H"
     },
     {
         "id": 308,
         "nome": "GLICOSE - URINA 24H",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GLICO24H"
     },
     {
         "id": 316,
         "nome": "3 ALFA ANDROSTANEDIOL GLUCORONIDEO (3ALFDADIOL) ",
         "preço": 0,
-        "código": 403160250,
+        "código": 40316025,
         "mnemônico": "3ANDROST"
     },
     {
         "id": 321,
         "nome": "ACIDO CITRICO (CITRATO)",
         "preço": 0,
-        "código": 403110150,
+        "código": 40311015,
         "mnemônico": "CITRATO"
     },
     {
         "id": 325,
         "nome": "CALCIO IONICO ",
         "preço": 0,
-        "código": 403014190,
+        "código": 40301419,
         "mnemônico": "IONICO"
     },
     {
         "id": 326,
         "nome": "SHBG (GLOBULINA LIGADORA DOS HORMONIOS SEXUAIS)",
         "preço": 0,
-        "código": 403163000,
+        "código": 40316300,
         "mnemônico": "SHBG"
     },
     {
         "id": 329,
         "nome": "ANTITROMBINA III",
         "preço": 0,
-        "código": 403040600,
+        "código": 40304060,
         "mnemônico": "ANTITR-C"
     },
     {
         "id": 332,
         "nome": "ACTH HORMONIO ADRENOCORTICOTROFICO",
         "preço": 0,
-        "código": 403160410,
+        "código": 40316041,
         "mnemônico": "ACTH-C"
     },
     {
         "id": 336,
         "nome": "CLORO - URINA 24H",
         "preço": 0,
-        "código": 403015590,
+        "código": 40301559,
         "mnemônico": "CLORU24H"
     },
     {
         "id": 338,
         "nome": "GLICOSE APOS INSULINA",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GBINSU"
     },
     {
         "id": 343,
         "nome": "CORTISOL - 17:00 HORAS",
         "preço": 0,
-        "código": 403161900,
+        "código": 40316190,
         "mnemônico": "C17H"
     },
     {
         "id": 345,
         "nome": "AMILASE - LIQUIDO PLEURAL",
         "preço": 0,
-        "código": 403012810,
+        "código": 40301281,
         "mnemônico": "AMILPLEU"
     },
     {
         "id": 346,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (4ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSG4"
     },
     {
         "id": 347,
         "nome": "ANTICORPOS ANTI MIELOPEROXIDASE",
         "preço": 0,
-        "código": 403046710,
+        "código": 40304671,
         "mnemônico": "MPO"
     },
     {
         "id": 350,
         "nome": "PCR ULTRA-SENSIVEL (PROTEINA C REATIVA)",
         "preço": 0,
-        "código": 403083910,
+        "código": 40308391,
         "mnemônico": "PCRU"
     },
     {
         "id": 351,
         "nome": "ANTI-JO1",
         "preço": 0,
-        "código": 403060700,
+        "código": 40306070,
         "mnemônico": "JO1"
     },
     {
         "id": 353,
         "nome": "GLICOSE - 16:00H",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GB16H"
     },
     {
         "id": 355,
         "nome": "ANTIGLIADINA (GLUTEN) IGG",
         "preço": 0,
-        "código": 403063130,
+        "código": 40306313,
         "mnemônico": "GLIAG"
     },
     {
         "id": 356,
         "nome": "PSA LIVRE (NAO INCLUI PSA TOTAL)",
         "preço": 0,
-        "código": 403161300,
+        "código": 40316130,
         "mnemônico": "PSALIVRE"
     },
     {
         "id": 357,
         "nome": "CAXUMBA IGM ",
         "preço": 0,
-        "código": 403066070,
+        "código": 40306607,
         "mnemônico": "CAXM-C"
     },
     {
         "id": 359,
         "nome": "TOXOPLASMOSE IGG",
         "preço": 0,
-        "código": 403078240,
+        "código": 40307824,
         "mnemônico": "TOXIGG"
     },
     {
         "id": 370,
         "nome": "CAPACIDADE TOTAL DE COMBINACAO DO FERRO",
         "preço": 0,
-        "código": 403014270,
+        "código": 40301427,
         "mnemônico": "CTCF"
     },
     {
         "id": 372,
         "nome": "1,25-DIHIDROXI VITAMINA D",
         "preço": 0,
-        "código": 403050150,
+        "código": 40305015,
         "mnemônico": "VIT1,25"
     },
     {
         "id": 373,
         "nome": "VITAMINA \"D\" 25 HIDROXI",
         "preço": 0,
-        "código": 403028300,
+        "código": 40302830,
         "mnemônico": "VI25"
     },
     {
         "id": 377,
         "nome": "GLICOSE - 30 MINUTOS POS PRANDIAL",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GB30MPP"
     },
     {
         "id": 378,
         "nome": "TOXOPLASMOSE IGM",
         "preço": 0,
-        "código": 403078320,
+        "código": 40307832,
         "mnemônico": "TOXIGM"
     },
     {
         "id": 381,
         "nome": "CULTURA - FUNGOS (4ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU4"
     },
     {
         "id": 382,
         "nome": "ANTI TRANSGLUTAMINASE TECIDUAL IGA",
         "preço": 0,
-        "código": 403085530,
+        "código": 40308553,
         "mnemônico": "TRANSGLU"
     },
     {
         "id": 388,
         "nome": "ANTI-CCP (ANTI PEPTIDIO CITRULINADO CICLICO)",
         "preço": 0,
-        "código": 403088040,
+        "código": 40308804,
         "mnemônico": "CCP"
     },
     {
         "id": 390,
         "nome": "CARDIOLIPINA IGA",
         "preço": 0,
-        "código": 403061350,
+        "código": 40306135,
         "mnemônico": "CARA"
     },
     {
         "id": 395,
         "nome": "COMPLEMENTO CH-50",
         "preço": 0,
-        "código": 403067470,
+        "código": 40306747,
         "mnemônico": "CH50"
     },
     {
         "id": 396,
         "nome": "ACIDOS ORGANICOS (QUANTITATIVO) - URINA",
         "preço": 0,
-        "código": 403011920,
+        "código": 40301192,
         "mnemônico": "ORGANURI"
     },
     {
         "id": 404,
         "nome": "GLICOSE - 17:00H",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GB17H"
     },
     {
         "id": 411,
         "nome": "2,5-HEXANODIONA - URINA",
         "preço": 0,
-        "código": 403112360,
+        "código": 40311236,
         "mnemônico": "HEXANO"
     },
     {
         "id": 413,
         "nome": "INSULINA - 3 HORAS POS PRANDIAL",
         "preço": 0,
-        "código": 403163600,
+        "código": 40316360,
         "mnemônico": "INSUP3"
     },
     {
         "id": 414,
         "nome": "ANTI-LKM-1",
         "preço": 0,
-        "código": 403060970,
+        "código": 40306097,
         "mnemônico": "LKM"
     },
     {
         "id": 415,
         "nome": "ZINCO ERITROCITARIO",
         "preço": 0,
-        "código": 403133280,
+        "código": 40313328,
         "mnemônico": "ZINERI"
     },
     {
         "id": 416,
         "nome": "ALBUMINURIA - URINA RECENTE",
         "preço": 0,
-        "código": 403111700,
+        "código": 40311170,
         "mnemônico": "ALBU"
     },
     {
         "id": 417,
         "nome": "VITAMINA C - ACIDO ASCORBICO",
         "preço": 0,
-        "código": 403010600,
+        "código": 40301060,
         "mnemônico": "VITC-C"
     },
     {
         "id": 420,
         "nome": "ENDOMISIO IGM",
         "preço": 0,
-        "código": 403062590,
+        "código": 40306259,
         "mnemônico": "ENDOIGM"
     },
     {
         "id": 421,
         "nome": "ENDOMISIO IGA",
         "preço": 0,
-        "código": 403062590,
+        "código": 40306259,
         "mnemônico": "ENDOIGA"
     },
     {
         "id": 422,
         "nome": "T3 REVERSO",
         "preço": 0,
-        "código": 403164830,
+        "código": 40316483,
         "mnemônico": "T3R"
     },
     {
         "id": 425,
         "nome": "COLINESTERASE ERITROCITARIA",
         "preço": 0,
-        "código": 403010440,
+        "código": 40301044,
         "mnemônico": "ACECOLI"
     },
     {
         "id": 434,
         "nome": "AMP CICLICO - URINA 24H",
         "preço": 0,
-        "código": 403051630,
+        "código": 40305163,
         "mnemônico": "AMP"
     },
     {
         "id": 439,
         "nome": "SARAMPO IGG ",
         "preço": 0,
-        "código": 403081200,
+        "código": 40308120,
         "mnemônico": "SARG"
     },
     {
         "id": 441,
         "nome": "COMPLEMENTO C2",
         "preço": 0,
-        "código": 403066900,
+        "código": 40306690,
         "mnemônico": "C2"
     },
     {
         "id": 454,
         "nome": "CALCIO - URINA RECENTE",
         "preço": 0,
-        "código": 403014000,
+        "código": 40301400,
         "mnemônico": "CALURINA"
     },
     {
         "id": 455,
         "nome": "ACIDO URICO - URINA RECENTE",
         "preço": 0,
-        "código": 403011500,
+        "código": 40301150,
         "mnemônico": "AURURINA"
     },
     {
         "id": 456,
         "nome": "CITRATO - URINA RECENTE",
         "preço": 0,
-        "código": 403110150,
+        "código": 40311015,
         "mnemônico": "CITRICO"
     },
     {
         "id": 461,
         "nome": "GLICOSE - 1 HORA POS DEXTROSOL (J.60)",
         "preço": 0,
-        "código": 403027090,
+        "código": 40302709,
         "mnemônico": "GBDX1H"
     },
     {
         "id": 465,
         "nome": "ANFETAMINAS - URINA RECENTE",
         "preço": 0,
-        "código": 403013380,
+        "código": 40301338,
         "mnemônico": "ANFE"
     },
     {
         "id": 469,
         "nome": "1 HISTOPATOLOGICO ",
         "preço": 0,
-        "código": 406011100,
+        "código": 40601110,
         "mnemônico": "HISTOG1"
     },
     {
         "id": 470,
         "nome": "SARAMPO IGM",
         "preço": 0,
-        "código": 403081380,
+        "código": 40308138,
         "mnemônico": "SARM"
     },
     {
         "id": 471,
         "nome": "1 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
         "preço": 0,
-        "código": 406012000,
+        "código": 40601200,
         "mnemônico": "HISTOS1"
     },
     {
         "id": 472,
         "nome": "1 PD EM PECA CIRURGICA OU ANATOMICA COMPLEXA",
         "preço": 0,
-        "código": 406012180,
+        "código": 40601218,
         "mnemônico": "HISTOC1"
     },
     {
         "id": 473,
         "nome": "1 PD CITOPATOLOGICO ONCOT. LIQ. E RASP. CUTANEOS",
         "preço": 0,
-        "código": 406011290,
+        "código": 40601129,
         "mnemônico": "CITOL1"
     },
     {
         "id": 475,
         "nome": "1 PD EM REV. LAMINAS OU CORTES HISTOLOGICOS SERIADOS",
         "preço": 0,
-        "código": 406011530,
+        "código": 40601153,
         "mnemônico": "HISTOR1"
     },
     {
         "id": 476,
         "nome": "1 COLORACAO ESPECIAL POR COLORACAO",
         "preço": 0,
-        "código": 406012690,
+        "código": 40601269,
         "mnemônico": "COLOR1"
     },
     {
         "id": 477,
         "nome": "1 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
         "preço": 0,
-        "código": 406012260,
+        "código": 40601226,
         "mnemônico": "HISTOV1"
     },
     {
         "id": 478,
         "nome": "2 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
         "preço": 0,
-        "código": 406012260,
+        "código": 40601226,
         "mnemônico": "HISTOV2"
     },
     {
         "id": 479,
         "nome": "3 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
         "preço": 0,
-        "código": 406012260,
+        "código": 40601226,
         "mnemônico": "HISTOV3"
     },
     {
         "id": 480,
         "nome": "4 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
         "preço": 0,
-        "código": 406012260,
+        "código": 40601226,
         "mnemônico": "HISTOV4"
     },
     {
         "id": 481,
         "nome": "ANTI RETICULINA",
         "preço": 0,
-        "código": 403088200,
+        "código": 40308820,
         "mnemônico": "RETICULI"
     },
     {
         "id": 494,
         "nome": "DIMERO D",
         "preço": 0,
-        "código": 403049060,
+        "código": 40304906,
         "mnemônico": "DIMERO"
     },
     {
         "id": 497,
         "nome": "CROMO",
         "preço": 0,
-        "código": 403133100,
+        "código": 40313310,
         "mnemônico": "CROMO-S"
     },
     {
         "id": 508,
         "nome": "ANTICORPOS ANTI CECULA PARIETAL",
         "preço": 0,
-        "código": 403064290,
+        "código": 40306429,
         "mnemônico": "PARIETAL"
     },
     {
         "id": 522,
         "nome": "MAGNESIO - URINA RECENTE",
         "preço": 0,
-        "código": 403022370,
+        "código": 40302237,
         "mnemônico": "MAGUR"
     },
     {
         "id": 525,
         "nome": "INSULINA - 1 HORA POS PRANDIAL",
         "preço": 0,
-        "código": 403163600,
+        "código": 40316360,
         "mnemônico": "INSUP1"
     },
     {
         "id": 531,
         "nome": "CREATINO FOSFAQUINASE - FRACAO MB - MASSA ",
         "preço": 0,
-        "código": 403016560,
+        "código": 40301656,
         "mnemônico": "CKMM"
     },
     {
         "id": 535,
         "nome": "HEMOGRAMA COMPLETO",
         "preço": 0,
-        "código": 403043610,
+        "código": 40304361,
         "mnemônico": "HEM"
     },
     {
         "id": 538,
         "nome": "COLPOCITOLOGICO",
         "preço": 0,
-        "código": 406011370,
+        "código": 40601137,
         "mnemônico": "COLP"
     },
     {
         "id": 542,
         "nome": "CLASSIFICACAO SANGUINEA - GRUPO ABO E FATOR RH",
         "preço": 0,
-        "código": 403042990,
+        "código": 40304299,
         "mnemônico": "GSA"
     },
     {
         "id": 543,
         "nome": "COAGULOGRAMA (TAP, PTTK, CONTAGEM DE PLAQUETAS)",
         "preço": 0,
-        "código": 403049220,
+        "código": 40304922,
         "mnemônico": "COA"
     },
     {
         "id": 544,
         "nome": "VHS - VELOCIDADE DE HEMOSSEDIMENTACAO",
         "preço": 0,
-        "código": 403043700,
+        "código": 40304370,
         "mnemônico": "VHS"
     },
     {
         "id": 556,
         "nome": "MIF - PARASITOLOGICO COM CONSERVANTE",
         "preço": 0,
-        "código": 403031280,
+        "código": 40303128,
         "mnemônico": "MIF"
     },
     {
         "id": 557,
         "nome": "EPF - PARASITOLOGICO DE FEZES (1ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPF"
     },
     {
         "id": 558,
         "nome": "COLESTEROL (VLDL)",
         "preço": 0,
-        "código": 403026950,
+        "código": 40302695,
         "mnemônico": "VLDL"
     },
     {
         "id": 562,
         "nome": "PESQUISA SANGUE OCULTO NAS FEZES",
         "preço": 0,
-        "código": 403031360,
+        "código": 40303136,
         "mnemônico": "PSO"
     },
     {
         "id": 565,
         "nome": "ASPARTATO AMINOTRANSFERASE (TGO, AST)",
         "preço": 0,
-        "código": 403025040,
+        "código": 40302504,
         "mnemônico": "TGO"
     },
     {
         "id": 566,
         "nome": "ALANINA AMINOTRANSFERASE (TGP, ALT)",
         "preço": 0,
-        "código": 403025120,
+        "código": 40302512,
         "mnemônico": "TGP"
     },
     {
         "id": 567,
         "nome": "TRIGLICERIDEOS",
         "preço": 0,
-        "código": 403025470,
+        "código": 40302547,
         "mnemônico": "TRI"
     },
     {
         "id": 568,
         "nome": "UREIA",
         "preço": 0,
-        "código": 403025800,
+        "código": 40302580,
         "mnemônico": "URE"
     },
     {
         "id": 569,
         "nome": "TRANSFERRINA",
         "preço": 0,
-        "código": 403025200,
+        "código": 40302520,
         "mnemônico": "TRANS"
     },
     {
         "id": 571,
         "nome": "ALBUMINA - DIVERSOS MATERIAIS",
         "preço": 0,
-        "código": 403023770,
+        "código": 40302377,
         "mnemônico": "ALB-DM"
     },
     {
         "id": 572,
         "nome": "T3 LIVRE ",
         "preço": 0,
-        "código": 403164670,
+        "código": 40316467,
         "mnemônico": "T3L"
     },
     {
         "id": 573,
         "nome": "MAGNESIO",
         "preço": 0,
-        "código": 403022370,
+        "código": 40302237,
         "mnemônico": "MAG"
     },
     {
         "id": 574,
         "nome": "HEMOGLOBINA GLICADA (FRACAO A1C) ",
         "preço": 0,
-        "código": 403027330,
+        "código": 40302733,
         "mnemônico": "HG"
     },
     {
         "id": 575,
         "nome": "COLESTEROL (LDL)",
         "preço": 0,
-        "código": 403015910,
+        "código": 40301591,
         "mnemônico": "LDL"
     },
     {
         "id": 577,
         "nome": "GLICOSE",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GB"
     },
     {
         "id": 579,
         "nome": "COLESTEROL (HDL) ",
         "preço": 0,
-        "código": 403015830,
+        "código": 40301583,
         "mnemônico": "HDL"
     },
     {
         "id": 580,
         "nome": "FOSFORO ",
         "preço": 0,
-        "código": 403019310,
+        "código": 40301931,
         "mnemônico": "FOS"
     },
     {
         "id": 581,
         "nome": "FRUTOSE",
         "preço": 0,
-        "código": 403019660,
+        "código": 40301966,
         "mnemônico": "FRUTOSE"
     },
     {
         "id": 584,
         "nome": "FOSFATASE ALCALINA",
         "preço": 0,
-        "código": 403018850,
+        "código": 40301885,
         "mnemônico": "FAL"
     },
     {
         "id": 585,
         "nome": "PROTEINAS TOTAIS E FRACOES",
         "preço": 0,
-        "código": 403023850,
+        "código": 40302385,
         "mnemônico": "PTF"
     },
     {
         "id": 586,
         "nome": "FERRO",
         "preço": 0,
-        "código": 403018420,
+        "código": 40301842,
         "mnemônico": "FER"
     },
     {
         "id": 589,
         "nome": "DESIDROGENASE LACTICA",
         "preço": 0,
-        "código": 403017290,
+        "código": 40301729,
         "mnemônico": "DHL"
     },
     {
         "id": 591,
         "nome": "CREATININA ",
         "preço": 0,
-        "código": 403016300,
+        "código": 40301630,
         "mnemônico": "CREA"
     },
     {
         "id": 592,
         "nome": "COLESTEROL TOTAL ",
         "preço": 0,
-        "código": 403016050,
+        "código": 40301605,
         "mnemônico": "COL"
     },
     {
         "id": 593,
         "nome": "CREATINO FOSFOQUINASE TOTAL (CK) ",
         "preço": 0,
-        "código": 403016480,
+        "código": 40301648,
         "mnemônico": "CK"
     },
     {
         "id": 594,
         "nome": "CREATINO FOSFOQUINASE - FRACAO MB - ATIVIDADE",
         "preço": 0,
-        "código": 403016640,
+        "código": 40301664,
         "mnemônico": "CKMB"
     },
     {
         "id": 595,
         "nome": "CALCIO ",
         "preço": 0,
-        "código": 403014000,
+        "código": 40301400,
         "mnemônico": "CAL"
     },
     {
         "id": 597,
         "nome": "AMILASE",
         "preço": 0,
-        "código": 403012810,
+        "código": 40301281,
         "mnemônico": "AMI"
     },
     {
         "id": 598,
         "nome": "ACIDO URICO",
         "preço": 0,
-        "código": 403011500,
+        "código": 40301150,
         "mnemônico": "AUR"
     },
     {
         "id": 599,
         "nome": "BILIRRUBINAS (DIRETA, INDIRETA E TOTAL)",
         "preço": 0,
-        "código": 403013970,
+        "código": 40301397,
         "mnemônico": "BIL"
     },
     {
         "id": 600,
         "nome": "ACIDO VALPROICO",
         "preço": 0,
-        "código": 403011680,
+        "código": 40301168,
         "mnemônico": "VAL"
     },
     {
         "id": 601,
         "nome": "ALDOLASE",
         "preço": 0,
-        "código": 403012300,
+        "código": 40301230,
         "mnemônico": "ALD"
     },
     {
         "id": 602,
         "nome": "ALFA-FETOPROTEINA",
         "preço": 0,
-        "código": 403160680,
+        "código": 40316068,
         "mnemônico": "FETO"
     },
     {
         "id": 605,
         "nome": "ALFA-1-GLICOPROTEINA ACIDA ",
         "preço": 0,
-        "código": 403012570,
+        "código": 40301257,
         "mnemônico": "ALFA1"
     },
     {
         "id": 611,
         "nome": "ACIDO LACTICO (LACTATO)",
         "preço": 0,
-        "código": 403011090,
+        "código": 40301109,
         "mnemônico": "LACTATO"
     },
     {
         "id": 619,
         "nome": "5 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
         "preço": 0,
-        "código": 406012260,
+        "código": 40601226,
         "mnemônico": "HISTOV5"
     },
     {
         "id": 620,
         "nome": "6 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
         "preço": 0,
-        "código": 406012260,
+        "código": 40601226,
         "mnemônico": "HISTOV6"
     },
     {
         "id": 621,
         "nome": "7 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
         "preço": 0,
-        "código": 406012260,
+        "código": 40601226,
         "mnemônico": "HISTOV7"
     },
     {
         "id": 622,
         "nome": "8 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
         "preço": 0,
-        "código": 406012260,
+        "código": 40601226,
         "mnemônico": "HISTOV8"
     },
     {
         "id": 623,
         "nome": "9 PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
         "preço": 0,
-        "código": 406012260,
+        "código": 40601226,
         "mnemônico": "HISTOV9"
     },
     {
         "id": 640,
         "nome": "CULTURA - FUNGOS (5ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU5"
     },
     {
         "id": 644,
         "nome": "BACTERIOSCOPIA - DIVERSOS MATERIAIS (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403100600,
+        "código": 40310060,
         "mnemônico": "BAC3"
     },
     {
         "id": 648,
         "nome": "ALDOSTERONA - URINA 24H",
         "preço": 0,
-        "código": 403160500,
+        "código": 40316050,
         "mnemônico": "ALDUR24H"
     },
     {
         "id": 656,
         "nome": "CORTISOL SALIVAR (1ª AMOSTRA)",
         "preço": 0,
-        "código": 403161900,
+        "código": 40316190,
         "mnemônico": "CORTSALI"
     },
     {
         "id": 662,
         "nome": "EPF - PARASITOLOGICO DE FEZES (4ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPF4"
     },
     {
         "id": 663,
         "nome": "EPF - PARASITOLOGICO DE FEZES (5ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPF5"
     },
     {
         "id": 669,
         "nome": "COBRE - URINA 24H",
         "preço": 0,
-        "código": 403015670,
+        "código": 40301567,
         "mnemônico": "COBRE24H"
     },
     {
         "id": 676,
         "nome": "AMILASE - DIVERSOS MATERIAIS",
         "preço": 0,
-        "código": 403012810,
+        "código": 40301281,
         "mnemônico": "AMILALD"
     },
     {
         "id": 684,
         "nome": "1 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
         "preço": 0,
-        "código": 406010210,
+        "código": 40601021,
         "mnemônico": "C05"
     },
     {
         "id": 685,
         "nome": "2 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
         "preço": 0,
-        "código": 406010210,
+        "código": 40601021,
         "mnemônico": "C06"
     },
     {
         "id": 686,
         "nome": "3 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
         "preço": 0,
-        "código": 406010210,
+        "código": 40601021,
         "mnemônico": "C07"
     },
     {
         "id": 687,
         "nome": "4 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
         "preço": 0,
-        "código": 406010210,
+        "código": 40601021,
         "mnemônico": "C08"
     },
     {
         "id": 688,
         "nome": "1 FAT PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
         "preço": 0,
-        "código": 406010300,
+        "código": 40601030,
         "mnemônico": "C09"
     },
     {
         "id": 694,
         "nome": "1 FAT MICROSCOPIA ELETRONICA",
         "preço": 0,
-        "código": 406010640,
+        "código": 40601064,
         "mnemônico": "C21"
     },
     {
         "id": 727,
         "nome": "1 FAT PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
         "preço": 0,
-        "código": 406012340,
+        "código": 40601234,
         "mnemônico": "C61"
     },
     {
         "id": 728,
         "nome": "2 FAT PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
         "preço": 0,
-        "código": 406012340,
+        "código": 40601234,
         "mnemônico": "C62"
     },
     {
         "id": 729,
         "nome": "3 FAT PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
         "preço": 0,
-        "código": 406012340,
+        "código": 40601234,
         "mnemônico": "C63"
     },
     {
         "id": 730,
         "nome": "4 FAT PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
         "preço": 0,
-        "código": 406012340,
+        "código": 40601234,
         "mnemônico": "C64"
     },
     {
         "id": 731,
         "nome": "1 FAT PD EM AMPUTACAO ED MEMBROS CAUSA ONCOLOGICA",
         "preço": 0,
-        "código": 406012420,
+        "código": 40601242,
         "mnemônico": "C65"
     },
     {
         "id": 732,
         "nome": "2 FAT PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
         "preço": 0,
-        "código": 406012420,
+        "código": 40601242,
         "mnemônico": "C66"
     },
     {
         "id": 733,
         "nome": "3 FAT PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
         "preço": 0,
-        "código": 406012420,
+        "código": 40601242,
         "mnemônico": "C67"
     },
     {
         "id": 734,
         "nome": "4 FAT PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
         "preço": 0,
-        "código": 406012420,
+        "código": 40601242,
         "mnemônico": "C68"
     },
     {
         "id": 735,
         "nome": "1 FAT PD EM LAMINAS DE PAAF ATE 5",
         "preço": 0,
-        "código": 406012500,
+        "código": 40601250,
         "mnemônico": "C69"
     },
     {
         "id": 736,
         "nome": "1 FAT PD EM IMUNOFLUORESCENCIA",
         "preço": 0,
-        "código": 406012770,
+        "código": 40601277,
         "mnemônico": "C73"
     },
     {
         "id": 737,
         "nome": "2 FAT PD EM IMUNOFLUORESCENCIA",
         "preço": 0,
-        "código": 406012770,
+        "código": 40601277,
         "mnemônico": "C74"
     },
     {
         "id": 738,
         "nome": "3 FAT PD EM IMUNOFLUORESCENCIA",
         "preço": 0,
-        "código": 406012770,
+        "código": 40601277,
         "mnemônico": "C75"
     },
     {
         "id": 739,
         "nome": "4 FAT PD EM IMUNOFLUORESCENCIA",
         "preço": 0,
-        "código": 406012770,
+        "código": 40601277,
         "mnemônico": "C76"
     },
     {
         "id": 740,
         "nome": "1 FAT PD EM PAINEL DE HIBRIDIZACAO IN SITU",
         "preço": 0,
-        "código": 406012850,
+        "código": 40601285,
         "mnemônico": "C77"
     },
     {
         "id": 741,
         "nome": "2 FAT PD EM PAINEL DE HIBRIDIZACAO IN SITU",
         "preço": 0,
-        "código": 406012850,
+        "código": 40601285,
         "mnemônico": "C78"
     },
     {
         "id": 742,
         "nome": "3 FAT PD EM PAINEL DE HIBRIDIZACAO IN SITU",
         "preço": 0,
-        "código": 406012850,
+        "código": 40601285,
         "mnemônico": "C79"
     },
     {
         "id": 743,
         "nome": "1 FAT PD POR CAPTURA HIBRIDA",
         "preço": 0,
-        "código": 406012930,
+        "código": 40601293,
         "mnemônico": "C81"
     },
     {
         "id": 744,
         "nome": "2 FAT PD POR CAPTURA HIBRIDA",
         "preço": 0,
-        "código": 406012930,
+        "código": 40601293,
         "mnemônico": "C82"
     },
     {
         "id": 745,
         "nome": "3 FAT PD POR CAPTURA HIBRIDA",
         "preço": 0,
-        "código": 406012930,
+        "código": 40601293,
         "mnemônico": "C83"
     },
     {
         "id": 746,
         "nome": "4 FAT PD POR CAPTURA HIBRIDA",
         "preço": 0,
-        "código": 406012930,
+        "código": 40601293,
         "mnemônico": "C84"
     },
     {
         "id": 747,
         "nome": "1 FAT PD CITOPATOLOGICO EM MEIO LIQUIDO",
         "preço": 0,
-        "código": 406013230,
+        "código": 40601323,
         "mnemônico": "C85"
     },
     {
         "id": 748,
         "nome": "2 FAT PD CITOPATOLOGICO EM MEIO LIQUIDO",
         "preço": 0,
-        "código": 406013230,
+        "código": 40601323,
         "mnemônico": "C86"
     },
     {
         "id": 749,
         "nome": "3 FAT PD CITOPATOLOGICO EM MEIO LIQUIDO",
         "preço": 0,
-        "código": 406013230,
+        "código": 40601323,
         "mnemônico": "C87"
     },
     {
         "id": 750,
         "nome": "4 FAT PD CITOPATOLOGICO EM MEIO LIQUIDO",
         "preço": 0,
-        "código": 406013230,
+        "código": 40601323,
         "mnemônico": "C88"
     },
     {
         "id": 751,
         "nome": "1 FAT PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
         "preço": 0,
-        "código": 406011960,
+        "código": 40601196,
         "mnemônico": "C89"
     },
     {
         "id": 752,
         "nome": "4 FAT PD CITOPATOLOGICO ONCOT. LIQ. E RASP. CUTANEOS",
         "preço": 0,
-        "código": 406011290,
+        "código": 40601129,
         "mnemônico": "C92"
     },
     {
         "id": 753,
         "nome": "1 FAT PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
         "preço": 0,
-        "código": 406012000,
+        "código": 40601200,
         "mnemônico": "C95"
     },
     {
         "id": 754,
         "nome": "1 FAT PD EM PECA CIRURGICA OU ANATOMICA COMPLEXA",
         "preço": 0,
-        "código": 406012180,
+        "código": 40601218,
         "mnemônico": "C99"
     },
     {
         "id": 756,
         "nome": "4 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
         "preço": 0,
-        "código": 406010300,
+        "código": 40601030,
         "mnemônico": "CONCIAS4"
     },
     {
         "id": 757,
         "nome": "6 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
         "preço": 0,
-        "código": 406010300,
+        "código": 40601030,
         "mnemônico": "CONCIAS6"
     },
     {
         "id": 758,
         "nome": "7 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
         "preço": 0,
-        "código": 406010300,
+        "código": 40601030,
         "mnemônico": "CONCIAS7"
     },
     {
         "id": 760,
         "nome": "1 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
         "preço": 0,
-        "código": 406010300,
+        "código": 40601030,
         "mnemônico": "CONCIAS1"
     },
     {
         "id": 761,
         "nome": "2 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
         "preço": 0,
-        "código": 406010300,
+        "código": 40601030,
         "mnemônico": "CONCIAS2"
     },
     {
         "id": 762,
         "nome": "3 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
         "preço": 0,
-        "código": 406010300,
+        "código": 40601030,
         "mnemônico": "CONCIAS3"
     },
     {
         "id": 763,
         "nome": "5 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
         "preço": 0,
-        "código": 406010300,
+        "código": 40601030,
         "mnemônico": "CONCIAS5"
     },
     {
         "id": 764,
         "nome": "8 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
         "preço": 0,
-        "código": 406010300,
+        "código": 40601030,
         "mnemônico": "CONCIAS8"
     },
     {
         "id": 765,
         "nome": "9 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
         "preço": 0,
-        "código": 406010300,
+        "código": 40601030,
         "mnemônico": "CONCIAS9"
     },
     {
         "id": 769,
         "nome": "1 FAT PD CITOPATOLOGICO ONCOT. LIQ. E RASP. CUTANEOS",
         "preço": 0,
-        "código": 406011290,
+        "código": 40601129,
         "mnemônico": "D01"
     },
     {
         "id": 770,
         "nome": "1 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
         "preço": 0,
-        "código": 406012260,
+        "código": 40601226,
         "mnemônico": "D09"
     },
     {
         "id": 771,
         "nome": "3 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
         "preço": 0,
-        "código": 406012260,
+        "código": 40601226,
         "mnemônico": "D11"
     },
     {
         "id": 772,
         "nome": "FAT COLPOCITOLOGICO",
         "preço": 0,
-        "código": 406011370,
+        "código": 40601137,
         "mnemônico": "COLPFAT"
     },
     {
         "id": 775,
         "nome": "1 FAT PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
         "preço": 0,
-        "código": 406010300,
+        "código": 40601030,
         "mnemônico": "CONG1FAT"
     },
     {
         "id": 776,
         "nome": "10 FAT PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
         "preço": 0,
-        "código": 406010300,
+        "código": 40601030,
         "mnemônico": "CON10FAT"
     },
     {
         "id": 778,
         "nome": "GLICOSE",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GBM"
     },
     {
         "id": 782,
         "nome": "1 FAT HISTOPATOLOGICO",
         "preço": 0,
-        "código": 406011100,
+        "código": 40601110,
         "mnemônico": "H01"
     },
     {
         "id": 784,
         "nome": "1 PD EM REV. LAMINAS OU CORTES HISTOLOGICOS SERIADOS",
         "preço": 0,
-        "código": 406011530,
+        "código": 40601153,
         "mnemônico": "HR2"
     },
     {
         "id": 785,
         "nome": "5 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
         "preço": 0,
-        "código": 406012000,
+        "código": 40601200,
         "mnemônico": "HS5"
     },
     {
         "id": 786,
         "nome": "6 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
         "preço": 0,
-        "código": 406012000,
+        "código": 40601200,
         "mnemônico": "HS6"
     },
     {
         "id": 787,
         "nome": "7 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
         "preço": 0,
-        "código": 406012000,
+        "código": 40601200,
         "mnemônico": "HS7"
     },
     {
         "id": 788,
         "nome": "8 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
         "preço": 0,
-        "código": 406012000,
+        "código": 40601200,
         "mnemônico": "HS8"
     },
     {
         "id": 789,
         "nome": "9 PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
         "preço": 0,
-        "código": 406012000,
+        "código": 40601200,
         "mnemônico": "HS9"
     },
     {
         "id": 803,
         "nome": "TAP - TEMPO DE ATIVIDADE DA PROTOMBINA",
         "preço": 0,
-        "código": 403045900,
+        "código": 40304590,
         "mnemônico": "TAP"
     },
     {
         "id": 809,
         "nome": "COLESTEROL NAO-HDL",
         "preço": 0,
-        "código": 403026950,
+        "código": 40302695,
         "mnemônico": "N-HDL"
     },
     {
         "id": 813,
         "nome": "1 PD PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
         "preço": 0,
-        "código": 406010210,
+        "código": 40601021,
         "mnemônico": "CONGPA1"
     },
     {
         "id": 814,
         "nome": "1 PD PRE OPERAT. COM DESLOCAMENTO DO PATOLOGISTA",
         "preço": 0,
-        "código": 406010300,
+        "código": 40601030,
         "mnemônico": "CONGCD1"
     },
     {
         "id": 815,
         "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
         "preço": 0,
-        "código": 406010210,
+        "código": 40601021,
         "mnemônico": "P10"
     },
     {
         "id": 820,
         "nome": "1 MICROSCOPIA ELETRONICA",
         "preço": 0,
-        "código": 406010640,
+        "código": 40601064,
         "mnemônico": "MICROELE"
     },
     {
         "id": 853,
         "nome": "1 PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
         "preço": 0,
-        "código": 406012340,
+        "código": 40601234,
         "mnemônico": "AMP1"
     },
     {
         "id": 854,
         "nome": "2 PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
         "preço": 0,
-        "código": 406012340,
+        "código": 40601234,
         "mnemônico": "AMP2"
     },
     {
         "id": 855,
         "nome": "3 PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
         "preço": 0,
-        "código": 406012340,
+        "código": 40601234,
         "mnemônico": "AMP3"
     },
     {
         "id": 856,
         "nome": "4 PD EM AMPUTACAO DE MEMBROS SEM CAUSA ONCOLOGICA",
         "preço": 0,
-        "código": 406012340,
+        "código": 40601234,
         "mnemônico": "AMP4"
     },
     {
         "id": 857,
         "nome": "1 PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
         "preço": 0,
-        "código": 406012420,
+        "código": 40601242,
         "mnemônico": "AMPONCO1"
     },
     {
         "id": 858,
         "nome": "2 PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
         "preço": 0,
-        "código": 406012420,
+        "código": 40601242,
         "mnemônico": "AMPONCO2"
     },
     {
         "id": 859,
         "nome": "3 PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
         "preço": 0,
-        "código": 406012420,
+        "código": 40601242,
         "mnemônico": "AMPONCO3"
     },
     {
         "id": 860,
         "nome": "4 PD EM AMPUTACAO DE MEMBROS CAUSA ONCOLOGICA",
         "preço": 0,
-        "código": 406012420,
+        "código": 40601242,
         "mnemônico": "AMPONCO4"
     },
     {
         "id": 861,
         "nome": "1 PD EM LAMINAS DE PAAF ATE 5",
         "preço": 0,
-        "código": 406012500,
+        "código": 40601250,
         "mnemônico": "CITOP1"
     },
     {
         "id": 862,
         "nome": "4 PD EM LAMINAS DE PAAF ATE 5",
         "preço": 0,
-        "código": 406012500,
+        "código": 40601250,
         "mnemônico": "CITOP4"
     },
     {
         "id": 863,
         "nome": "1 PD EM IMUNOFLUORESCENCIA",
         "preço": 0,
-        "código": 406012770,
+        "código": 40601277,
         "mnemônico": "HISTOF1"
     },
     {
         "id": 864,
         "nome": "2 PD EM IMUNOFLUORESCENCIA",
         "preço": 0,
-        "código": 406012770,
+        "código": 40601277,
         "mnemônico": "HISTOF2"
     },
     {
         "id": 865,
         "nome": "3 PD EM IMUNOFLUORESCENCIA",
         "preço": 0,
-        "código": 406012770,
+        "código": 40601277,
         "mnemônico": "HISTOF3"
     },
     {
         "id": 866,
         "nome": "4 PD EM IMUNOFLUORESCENCIA",
         "preço": 0,
-        "código": 406012770,
+        "código": 40601277,
         "mnemônico": "HISTOF4"
     },
     {
         "id": 867,
         "nome": "1 PD EM PAINEL DE HIBRIDIZACAO IN SITU",
         "preço": 0,
-        "código": 406012850,
+        "código": 40601285,
         "mnemônico": "HIBRIDI1"
     },
     {
         "id": 868,
         "nome": "2 PD EM PAINEL DE HIBRIDIZACAO IN SITU",
         "preço": 0,
-        "código": 406012850,
+        "código": 40601285,
         "mnemônico": "HIBRIDI2"
     },
     {
         "id": 869,
         "nome": "3 PD EM PAINEL DE HIBRIDIZACAO IN SITU",
         "preço": 0,
-        "código": 406012850,
+        "código": 40601285,
         "mnemônico": "HIBRIDI3"
     },
     {
         "id": 870,
         "nome": "4 PD EM PAINEL DE HIBRIDIZACAO IN SITU",
         "preço": 0,
-        "código": 406012850,
+        "código": 40601285,
         "mnemônico": "HIBRIDI4"
     },
     {
         "id": 871,
         "nome": "1 PD POR CAPTURA HIBRIDA",
         "preço": 0,
-        "código": 406012930,
+        "código": 40601293,
         "mnemônico": "CAPTURA1"
     },
     {
         "id": 872,
         "nome": "2 PD POR CAPTURA HIBRIDA",
         "preço": 0,
-        "código": 406012930,
+        "código": 40601293,
         "mnemônico": "CAPTURA2"
     },
     {
         "id": 873,
         "nome": "3 PD POR CAPTURA HIBRIDA",
         "preço": 0,
-        "código": 406012930,
+        "código": 40601293,
         "mnemônico": "CAPTURA3"
     },
     {
         "id": 874,
         "nome": "4 PD POR CAPTURA HIBRIDA",
         "preço": 0,
-        "código": 406012930,
+        "código": 40601293,
         "mnemônico": "CAPTURA4"
     },
     {
         "id": 875,
         "nome": "1 PD CITOPATOLOGICO EM MEIO LIQUIDO",
         "preço": 0,
-        "código": 406013230,
+        "código": 40601323,
         "mnemônico": "CITOLIQ1"
     },
     {
         "id": 876,
         "nome": "2 PD CITOPATOLOGICO EM MEIO LIQUIDO",
         "preço": 0,
-        "código": 406013230,
+        "código": 40601323,
         "mnemônico": "CITOLIQ2"
     },
     {
         "id": 877,
         "nome": "3 PD CITOPATOLOGICO EM MEIO LIQUIDO",
         "preço": 0,
-        "código": 406013230,
+        "código": 40601323,
         "mnemônico": "CITOLIQ3"
     },
     {
         "id": 878,
         "nome": "4 PD CITOPATOLOGICO EM MEIO LIQUIDO",
         "preço": 0,
-        "código": 406013230,
+        "código": 40601323,
         "mnemônico": "CITOLIQ4"
     },
     {
         "id": 879,
         "nome": "1 PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
         "preço": 0,
-        "código": 406011960,
+        "código": 40601196,
         "mnemônico": "HISTOM1"
     },
     {
         "id": 881,
         "nome": "PESQUISA DE FUNGOS (TINTA DA CHINA) - LIQUOR",
         "preço": 0,
-        "código": 403102300,
+        "código": 40310230,
         "mnemônico": "PFU-LIQ"
     },
     {
         "id": 884,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (6ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSG6"
     },
     {
         "id": 885,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (7ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSG7"
     },
     {
         "id": 886,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (8ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSG8"
     },
     {
         "id": 887,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (9ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSG9"
     },
     {
         "id": 888,
         "nome": "ANTIBIOGRAMA - FEZES (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSF2"
     },
     {
         "id": 889,
         "nome": "ANTIBIOGRAMA - VIGILANCIA (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSGVG2"
     },
     {
         "id": 890,
         "nome": "ANTIBIOGRAMA - VIGILANCIA (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSGVG3"
     },
     {
         "id": 891,
         "nome": "ANTIBIOGRAMA - VIGILANCIA (4ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSGVG4"
     },
     {
         "id": 892,
         "nome": "ANTIBIOGRAMA - VIGILANCIA (5ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSGVG5"
     },
     {
         "id": 893,
         "nome": "ANTIBIOGRAMA - VIGILANCIA ",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSGVG1"
     },
     {
         "id": 907,
         "nome": "EAS - EXAME DE URINA",
         "preço": 0,
-        "código": 403112100,
+        "código": 40311210,
         "mnemônico": "EAS"
     },
     {
         "id": 908,
         "nome": "SODIO ",
         "preço": 0,
-        "código": 403024230,
+        "código": 40302423,
         "mnemônico": "SOD"
     },
     {
         "id": 909,
         "nome": "POTASSIO",
         "preço": 0,
-        "código": 403023180,
+        "código": 40302318,
         "mnemônico": "POT"
     },
     {
         "id": 910,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL1"
     },
     {
         "id": 911,
         "nome": "CULTURA - FEZES",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUF"
     },
     {
         "id": 912,
         "nome": "CULTURA - FUNGOS (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU2"
     },
     {
         "id": 913,
         "nome": "CULTURA - AUTOMATIZADA ",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "URO"
     },
     {
         "id": 914,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL2"
     },
     {
         "id": 929,
         "nome": "CULTURA - FEZES (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUF2"
     },
     {
         "id": 931,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (4ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL4"
     },
     {
         "id": 932,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL3"
     },
     {
         "id": 933,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (5ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL5"
     },
     {
         "id": 934,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (6ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL6"
     },
     {
         "id": 935,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (7ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL7"
     },
     {
         "id": 936,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (8ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL8"
     },
     {
         "id": 937,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (9ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL9"
     },
     {
         "id": 948,
         "nome": "CORTISOL SALIVAR - 08:00 HORAS ",
         "preço": 0,
-        "código": 403161900,
+        "código": 40316190,
         "mnemônico": "CTSAL8H"
     },
     {
         "id": 949,
         "nome": "CORTISOL SALIVAR - 11:00 HORAS",
         "preço": 0,
-        "código": 403161900,
+        "código": 40316190,
         "mnemônico": "CTSAL11H"
     },
     {
         "id": 950,
         "nome": "CORTISOL SALIVAR - 16:00 HORAS",
         "preço": 0,
-        "código": 403161900,
+        "código": 40316190,
         "mnemônico": "CTSAL16H"
     },
     {
         "id": 951,
         "nome": "CORTISOL SALIVAR - 23:00 HORAS",
         "preço": 0,
-        "código": 403161900,
+        "código": 40316190,
         "mnemônico": "CTSAL23H"
     },
     {
         "id": 955,
         "nome": "CULTURA - ANAEROBICO",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CULANA"
     },
     {
         "id": 956,
         "nome": "ANTIBIOGRAMA - ANAEROBICO",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSANA"
     },
     {
         "id": 960,
         "nome": "TOXOPLASMOSE IGG - AVIDEZ",
         "preço": 0,
-        "código": 403064610,
+        "código": 40306461,
         "mnemônico": "TOXAVIDE"
     },
     {
         "id": 961,
         "nome": "GLICOSE - 13:00H",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GB13H"
     },
     {
         "id": 962,
         "nome": "CORTISOL SALIVAR - 00:00 HORAS",
         "preço": 0,
-        "código": 403161900,
+        "código": 40316190,
         "mnemônico": "CS24"
     },
     {
         "id": 963,
         "nome": "CLORO",
         "preço": 0,
-        "código": 403015590,
+        "código": 40301559,
         "mnemônico": "CLORO"
     },
     {
         "id": 964,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (5ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSG5"
     },
     {
         "id": 970,
         "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
         "preço": 0,
-        "código": 406010210,
+        "código": 40601021,
         "mnemônico": "C02"
     },
     {
         "id": 971,
         "nome": "6 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
         "preço": 0,
-        "código": 406010210,
+        "código": 40601021,
         "mnemônico": "C03"
     },
     {
         "id": 972,
         "nome": "7 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
         "preço": 0,
-        "código": 406010210,
+        "código": 40601021,
         "mnemônico": "C10"
     },
     {
         "id": 973,
         "nome": "8 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
         "preço": 0,
-        "código": 406010210,
+        "código": 40601021,
         "mnemônico": "C11"
     },
     {
         "id": 993,
         "nome": "US - GLANDULAS SALIVARES (TODAS)",
         "preço": 0,
-        "código": 409010330,
+        "código": 40901033,
         "mnemônico": "USGSALIV"
     },
     {
         "id": 998,
         "nome": "ECODOPPLERCARDIOGRAMA TRANSESOFAGICO (INCLUIR TRANSTORACICO)",
         "preço": 0,
-        "código": 409010920,
+        "código": 40901092,
         "mnemônico": "ECOTRANS"
     },
     {
         "id": 999,
         "nome": "ECODOPPLERCARDIOGRAMA TRANSTORACICO",
         "preço": 0,
-        "código": 409011060,
+        "código": 40901106,
         "mnemônico": "ECOTRAN"
     },
     {
         "id": 1000,
         "nome": "US - MAMAS FEMININA",
         "preço": 0,
-        "código": 409011140,
+        "código": 40901114,
         "mnemônico": "USMAMASF"
     },
     {
         "id": 1001,
         "nome": "US - ABDOME TOTAL (ABDOME SUPERIOR, RINS, BEXIGA, AORTA, VEIA CAVA INF",
         "preço": 0,
-        "código": 409011220,
+        "código": 40901122,
         "mnemônico": "USABDOME"
     },
     {
         "id": 1003,
         "nome": "US - APARELHO URINARIO FEMININO (RINS, URETERES E BEXIGA)",
         "preço": 0,
-        "código": 409011570,
+        "código": 40901157,
         "mnemônico": "USAPAUF"
     },
     {
         "id": 1004,
         "nome": "US - APARELHO URINARIO MASCULINO (RINS, URETERES E BEXIGA)",
         "preço": 0,
-        "código": 409011650,
+        "código": 40901165,
         "mnemônico": "USAPAUM"
     },
     {
         "id": 1005,
         "nome": "US - ABDOME INFERIOR MASCULINO (BEXIGA, PROSTATA E VESICULAS SEMINAIS)",
         "preço": 0,
-        "código": 409011730,
+        "código": 40901173,
         "mnemônico": "USABDMAS"
     },
     {
         "id": 1006,
         "nome": "US - ABDOME INFERIOR FEMININO (BEXIGA, UTERO, OVARIO E ANEXOS)",
         "preço": 0,
-        "código": 409011810,
+        "código": 40901181,
         "mnemônico": "USABDFEM"
     },
     {
         "id": 1008,
         "nome": "US - ORGAOS SUPERFICIAIS (ESCROTO)",
         "preço": 0,
-        "código": 406012030,
+        "código": 40601203,
         "mnemônico": "USESCRO"
     },
     {
         "id": 1009,
         "nome": "US - ORGAOS SUPERFICIAIS (PENIS)",
         "preço": 0,
-        "código": 406012030,
+        "código": 40601203,
         "mnemônico": "USPENIS"
     },
     {
         "id": 1011,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (CERVICAL)",
         "preço": 0,
-        "código": 409012110,
+        "código": 40901211,
         "mnemônico": "USCERVI"
     },
     {
         "id": 1012,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (AXILAS)",
         "preço": 0,
-        "código": 409012110,
+        "código": 40901211,
         "mnemônico": "USAXILA"
     },
     {
         "id": 1013,
         "nome": "US - ARTICULAR (POR ARTICULACAO)",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTIC"
     },
     {
         "id": 1014,
         "nome": "US - OBSTETRICA",
         "preço": 0,
-        "código": 409012970,
+        "código": 40901297,
         "mnemônico": "USOBSTE"
     },
     {
         "id": 1016,
         "nome": "US - OBSTETRICA COM TRANSLUCENCIA NUCAL",
         "preço": 0,
-        "código": 409012540,
+        "código": 40901254,
         "mnemônico": "USOBSTN"
     },
     {
         "id": 1017,
         "nome": "US - OBSTETRICA GESTACAO MULTIPLA: CADA FETO",
         "preço": 0,
-        "código": 409012700,
+        "código": 40901270,
         "mnemônico": "USOBSGM"
     },
     {
         "id": 1019,
         "nome": "US - OBSTETRICA 1º TRIMESTRE (ENDOVAGINAL)",
         "preço": 0,
-        "código": 409012970,
+        "código": 40901297,
         "mnemônico": "USOBS1TR"
     },
     {
         "id": 1020,
         "nome": "US - TRANSVAGINAL (UTERO, OVARIO, ANEXOS E VAGINA)",
         "preço": 0,
-        "código": 409013000,
+        "código": 40901300,
         "mnemônico": "USTRANSV"
     },
     {
         "id": 1021,
         "nome": "US - TRANSVAGINAL PARA CONTROLE DE OVULACAO (3 OU MAIS EXAMES)",
         "preço": 0,
-        "código": 409013190,
+        "código": 40901319,
         "mnemônico": "USTRASCO"
     },
     {
         "id": 1022,
         "nome": "US - PROSTATA (VIA ABDOMINAL)",
         "preço": 0,
-        "código": 409013350,
+        "código": 40901335,
         "mnemônico": "USPROST"
     },
     {
         "id": 1023,
         "nome": "DOPPLER COLORIDO DE VASOS CERVICAIS VENOSOS BILATERAL (SUBCLAVIAS E JU",
         "preço": 0,
-        "código": 409013780,
+        "código": 40901378,
         "mnemônico": "DPVCVB"
     },
     {
         "id": 1024,
         "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
         "preço": 0,
-        "código": 409013860,
+        "código": 40901386,
         "mnemônico": "DPORGES1"
     },
     {
         "id": 1025,
         "nome": "DOPPLER COLORIDO DE AORTA E ARTERIAS RENAIS",
         "preço": 0,
-        "código": 409013940,
+        "código": 40901394,
         "mnemônico": "DPAOARRE"
     },
     {
         "id": 1026,
         "nome": "DOPPLER COLORIDO DE AORTA E ILIACAS",
         "preço": 0,
-        "código": 409014080,
+        "código": 40901408,
         "mnemônico": "DPAOEIL"
     },
     {
         "id": 1027,
         "nome": "DOPPLER COLORIDO DE ARTERIAS VISCERAIS",
         "preço": 0,
-        "código": 409014160,
+        "código": 40901416,
         "mnemônico": "DPARTVIS"
     },
     {
         "id": 1028,
         "nome": "DOPPLER COLORIDO DE HEMANGIOMA",
         "preço": 0,
-        "código": 409014240,
+        "código": 40901424,
         "mnemônico": "DPHEMANG"
     },
     {
         "id": 1029,
         "nome": "DOPPLER COLORIDO DE VEIA CAVA SUPERIOR OU INFERIOR",
         "preço": 0,
-        "código": 409014320,
+        "código": 40901432,
         "mnemônico": "DPVCAV"
     },
     {
         "id": 1031,
         "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO SUPERIOR - UNILATERAL",
         "preço": 0,
-        "código": 409014590,
+        "código": 40901459,
         "mnemônico": "MARTS"
     },
     {
         "id": 1032,
         "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO SUPERIOR - UNILATERAL",
         "preço": 0,
-        "código": 409014670,
+        "código": 40901467,
         "mnemônico": "DPVMS"
     },
     {
         "id": 1033,
         "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO INFERIOR - UNILATERAL",
         "preço": 0,
-        "código": 409014750,
+        "código": 40901475,
         "mnemônico": "MARTI"
     },
     {
         "id": 1034,
         "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO INFERIOR - UNILATERAL",
         "preço": 0,
-        "código": 409014670,
+        "código": 40901467,
         "mnemônico": "MVENI"
     },
     {
         "id": 1047,
         "nome": "1 PD EM LAMINAS DE PAAF ATE 5 - REVISAO",
         "preço": 0,
-        "código": 406012500,
+        "código": 40601250,
         "mnemônico": "CITOREV1"
     },
     {
         "id": 1048,
         "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (1ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPFSM1"
     },
     {
         "id": 1049,
         "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (2ª AMOSTRA) ",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPFSM2"
     },
     {
         "id": 1050,
         "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPFSM3"
     },
     {
         "id": 1051,
         "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (4ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPFSM4"
     },
     {
         "id": 1052,
         "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (5ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPFSM5"
     },
     {
         "id": 1067,
         "nome": "CULTURA - FUNGOS (20ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU20"
     },
     {
         "id": 1068,
         "nome": "CULTURA - FUNGOS (19ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU19"
     },
     {
         "id": 1069,
         "nome": "CULTURA - FUNGOS (6ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU6"
     },
     {
         "id": 1070,
         "nome": "CULTURA - FUNGOS (18ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU18"
     },
     {
         "id": 1071,
         "nome": "CULTURA - FUNGOS (17ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU17"
     },
     {
         "id": 1072,
         "nome": "CULTURA - FUNGOS (7ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU7"
     },
     {
         "id": 1073,
         "nome": "CULTURA - FUNGOS (16ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU16"
     },
     {
         "id": 1074,
         "nome": "CULTURA - FUNGOS (8ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU8"
     },
     {
         "id": 1075,
         "nome": "CULTURA - FUNGOS (15ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU15"
     },
     {
         "id": 1076,
         "nome": "CULTURA - FUNGOS (14ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU14"
     },
     {
         "id": 1077,
         "nome": "CULTURA - FUNGOS (9ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU9"
     },
     {
         "id": 1078,
         "nome": "CULTURA - FUNGOS (13ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU13"
     },
     {
         "id": 1079,
         "nome": "CULTURA - FUNGOS (10ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU10"
     },
     {
         "id": 1080,
         "nome": "CULTURA - FUNGOS (12ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU12"
     },
     {
         "id": 1081,
         "nome": "CULTURA - FUNGOS (11ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU11"
     },
     {
         "id": 1086,
         "nome": "COOMBS INDIRETO",
         "preço": 0,
-        "código": 403048840,
+        "código": 40304884,
         "mnemônico": "COOICSV"
     },
     {
         "id": 1090,
         "nome": "ANTICOAGULANTE LUPICO",
         "preço": 0,
-        "código": 403040190,
+        "código": 40304019,
         "mnemônico": "LUPICO"
     },
     {
         "id": 1094,
         "nome": "PESQUISA DE FUNGOS (TINTA DA CHINA) (2ª AMOSTRA) - LIQUOR",
         "preço": 0,
-        "código": 403102300,
+        "código": 40310230,
         "mnemônico": "PFU2-LIQ"
     },
     {
         "id": 1095,
         "nome": "PESQUISA DE FUNGOS (TINTA DA CHINA) (3ª AMOSTRA) - LIQUOR",
         "preço": 0,
-        "código": 403102300,
+        "código": 40310230,
         "mnemônico": "PFU3-LIQ"
     },
     {
         "id": 1097,
         "nome": "HERPES ZOSTER IGG ",
         "preço": 0,
-        "código": 403071070,
+        "código": 40307107,
         "mnemônico": "HEZIGG"
     },
     {
         "id": 1098,
         "nome": "HERPES ZOSTER IGM ",
         "preço": 0,
-        "código": 403071150,
+        "código": 40307115,
         "mnemônico": "HEZIGM"
     },
     {
         "id": 1105,
         "nome": "TESTOSTERONA TOTAL",
         "preço": 0,
-        "código": 403165130,
+        "código": 40316513,
         "mnemônico": "TST"
     },
     {
         "id": 1107,
         "nome": "CHAGAS IGG ",
         "preço": 0,
-        "código": 403066150,
+        "código": 40306615,
         "mnemônico": "CHAGIGG"
     },
     {
         "id": 1108,
         "nome": "CHAGAS IGM",
         "preço": 0,
-        "código": 403066230,
+        "código": 40306623,
         "mnemônico": "CHAGIGM"
     },
     {
         "id": 1113,
         "nome": "US - ARTICULAR (POR ARTICULACAO)",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTIC2"
     },
     {
         "id": 1114,
         "nome": "US - ARTICULAR (POR ARTICULACAO)",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTIC3"
     },
     {
         "id": 1115,
         "nome": "US - ARTICULAR (POR ARTICULACAO)",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTIC4"
     },
     {
         "id": 1116,
         "nome": "US - ARTICULAR (POR ARTICULACAO)",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTIC5"
     },
     {
         "id": 1150,
         "nome": "ANTIGLIADINA (GLUTEN) IGM ",
         "preço": 0,
-        "código": 403063210,
+        "código": 40306321,
         "mnemônico": "GLIAM"
     },
     {
         "id": 1152,
         "nome": "AMINOACIDOS - URINA RECENTE",
         "preço": 0,
-        "código": 403012900,
+        "código": 40301290,
         "mnemônico": "AMINOACD"
     },
     {
         "id": 1170,
         "nome": "APOLIPOPROTEINA E",
         "preço": 0,
-        "código": 403140140,
+        "código": 40314014,
         "mnemônico": "APOE"
     },
     {
         "id": 1174,
         "nome": "CITOMEGALOVIRUS IGG - AVIDEZ",
         "preço": 0,
-        "código": 403064610,
+        "código": 40306461,
         "mnemônico": "CMV-AV"
     },
     {
         "id": 1177,
         "nome": "BILIRRUBINAS - MATERIAIS DIVERSOS",
         "preço": 0,
-        "código": 403013970,
+        "código": 40301397,
         "mnemônico": "BIL-DIV"
     },
     {
         "id": 1182,
         "nome": "US - OBSTETRICA MORFOLOGICA",
         "preço": 0,
-        "código": 409012620,
+        "código": 40901262,
         "mnemônico": "USOBSMSD"
     },
     {
         "id": 1189,
         "nome": "UREIA - URINA 24H",
         "preço": 0,
-        "código": 403025800,
+        "código": 40302580,
         "mnemônico": "UNIT-U24"
     },
     {
         "id": 1202,
         "nome": "CITOMEGALOVIRUS IGG - LIQUOR",
         "preço": 0,
-        "código": 403066660,
+        "código": 40306666,
         "mnemônico": "CMVGLIQ"
     },
     {
         "id": 1213,
         "nome": "EPF - PARASITOLOGICO DE FEZES (6ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPF6"
     },
     {
         "id": 1214,
         "nome": "EPF - PARASITOLOGICO DE FEZES (7ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPF7"
     },
     {
         "id": 1215,
         "nome": "EPF - PARASITOLOGICO DE FEZES (8ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPF8"
     },
     {
         "id": 1216,
         "nome": "EPF - PARASITOLOGICO DE FEZES (9ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPF9"
     },
     {
         "id": 1217,
         "nome": "EPF - PARASITOLOGICO DE FEZES (10ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPF10"
     },
     {
         "id": 1226,
         "nome": "ALFA FETOPROTEINA - LIQUOR",
         "preço": 0,
-        "código": 403160680,
+        "código": 40316068,
         "mnemônico": "LIQAFETO"
     },
     {
         "id": 1240,
         "nome": "COBRE - URINA RECENTE",
         "preço": 0,
-        "código": 403015670,
+        "código": 40301567,
         "mnemônico": "COBU"
     },
     {
         "id": 1241,
         "nome": "COBRE ",
         "preço": 0,
-        "código": 403015670,
+        "código": 40301567,
         "mnemônico": "CUB"
     },
     {
         "id": 1243,
         "nome": "PESQUISA DE FUNGOS (A FRESCO)",
         "preço": 0,
-        "código": 403102300,
+        "código": 40310230,
         "mnemônico": "PFU-AF"
     },
     {
         "id": 1244,
         "nome": "BACTERIOSCOPIA - DIVERSOS MATERIAIS (5ª AMOSTRA)",
         "preço": 0,
-        "código": 403100600,
+        "código": 40310060,
         "mnemônico": "BAC5"
     },
     {
         "id": 1245,
         "nome": "BACTERIOSCOPIA - DIVERSOS MATERIAIS (6ª AMOSTRA)",
         "preço": 0,
-        "código": 403100600,
+        "código": 40310060,
         "mnemônico": "BAC6"
     },
     {
         "id": 1250,
         "nome": "8 FAT PD EM FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
         "preço": 0,
-        "código": 406011960,
+        "código": 40601196,
         "mnemônico": "F08"
     },
     {
         "id": 1253,
         "nome": "ZINCO - URINA RECENTE",
         "preço": 0,
-        "código": 403133280,
+        "código": 40313328,
         "mnemônico": "ZIN-UR"
     },
     {
         "id": 1256,
         "nome": "CULTURA - FEZES (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUF3"
     },
     {
         "id": 1257,
         "nome": "ANTIBIOGRAMA - FEZES (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSF3"
     },
     {
         "id": 1259,
         "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO INFERIOR - UNILATERAL",
         "preço": 0,
-        "código": 409014750,
+        "código": 40901475,
         "mnemônico": "MARTI2"
     },
     {
         "id": 1262,
         "nome": "EPF - KATO KATZ (1ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPF1KATO"
     },
     {
         "id": 1263,
         "nome": "EPF - KATO KATZ (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPF2KATO"
     },
     {
         "id": 1264,
         "nome": "EPF - KATO KATZ (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPF3KATO"
     },
     {
         "id": 1265,
         "nome": "EPF - KATO KATZ (4ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPF4KATO"
     },
     {
         "id": 1266,
         "nome": "EPF - KATO KATZ (5ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPF5KATO"
     },
     {
         "id": 1276,
         "nome": "CAPACIDADE LIVRE DE COMBINACAO DO FERRO",
         "preço": 0,
-        "código": 403014270,
+        "código": 40301427,
         "mnemônico": "CCF"
     },
     {
         "id": 1289,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (10ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSG10"
     },
     {
         "id": 1290,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (10ª AMOSTRA) ",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL10"
     },
     {
         "id": 1303,
         "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPFSM"
     },
     {
         "id": 1315,
         "nome": "CELULAS LE ",
         "preço": 0,
-        "código": 403047950,
+        "código": 40304795,
         "mnemônico": "CLE"
     },
     {
         "id": 1324,
         "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO INFERIOR - UNILATERAL",
         "preço": 0,
-        "código": 409014670,
+        "código": 40901467,
         "mnemônico": "MVENI2"
     },
     {
         "id": 1342,
         "nome": "RX - ABDOME SIMPLES",
         "preço": 0,
-        "código": 408080170,
+        "código": 40808017,
         "mnemônico": "R-ABDAP"
     },
     {
         "id": 1343,
         "nome": "RX - ADENOIDES OU CAVUM",
         "preço": 0,
-        "código": 408011280,
+        "código": 40801128,
         "mnemônico": "R-ADELAT"
     },
     {
         "id": 1344,
         "nome": "RX - ANTEBRACO",
         "preço": 0,
-        "código": 408031040,
+        "código": 40803104,
         "mnemônico": "R-ANTBR"
     },
     {
         "id": 1345,
         "nome": "RX - ARCOS ZIGOMATICOS OU MALAR OU APOFISES ESTILOIDES",
         "preço": 0,
-        "código": 408011010,
+        "código": 40801101,
         "mnemônico": "R-ARCZI"
     },
     {
         "id": 1346,
         "nome": "RX - ARTICULACAO TEMPOROMANDIBULAR - BILATERAL",
         "preço": 0,
-        "código": 408011100,
+        "código": 40801110,
         "mnemônico": "R-ARTMA"
     },
     {
         "id": 1347,
         "nome": "RX - ARTICULACAO ACROMIOCLAVICULAR",
         "preço": 0,
-        "código": 408030660,
+        "código": 40803066,
         "mnemônico": "R-ARTAC"
     },
     {
         "id": 1348,
         "nome": "RX - ARTICULACAO COXOFEMORAL (QUADRIL)",
         "preço": 0,
-        "código": 408040380,
+        "código": 40804038,
         "mnemônico": "R-ARTCXF"
     },
     {
         "id": 1349,
         "nome": "RX - ARTICULACAO ESCAPULOUMERAL (OMBRO)",
         "preço": 0,
-        "código": 408030740,
+        "código": 40803074,
         "mnemônico": "R-ARTEUM"
     },
     {
         "id": 1350,
         "nome": "RX - ARTICULACAO ESTERNOCLAVICULAR",
         "preço": 0,
-        "código": 408030230,
+        "código": 40803023,
         "mnemônico": "R-ARTCLA"
     },
     {
         "id": 1351,
         "nome": "RX - ARTICULACAO SACROILIACAS",
         "preço": 0,
-        "código": 408040200,
+        "código": 40804020,
         "mnemônico": "R-ARTILI"
     },
     {
         "id": 1352,
         "nome": "RX - ARTICULACAO TIBIOTARSICA (TORNOZELO)",
         "preço": 0,
-        "código": 408040890,
+        "código": 40804089,
         "mnemônico": "R-ARTTIB"
     },
     {
         "id": 1353,
         "nome": "RX - BACIA",
         "preço": 0,
-        "código": 408040110,
+        "código": 40804011,
         "mnemônico": "R-BAAP"
     },
     {
         "id": 1354,
         "nome": "RX - BRACO",
         "preço": 0,
-        "código": 408030820,
+        "código": 40803082,
         "mnemônico": "R-BRACO"
     },
     {
         "id": 1355,
         "nome": "RX - CALCANEO",
         "preço": 0,
-        "código": 408041000,
+        "código": 40804100,
         "mnemônico": "R-CALCA"
     },
     {
         "id": 1356,
         "nome": "RX - CLAVICULA",
         "preço": 0,
-        "código": 408030400,
+        "código": 40803040,
         "mnemônico": "R-CLAVIC"
     },
     {
         "id": 1357,
         "nome": "RX - COLUNA CERVICAL - 5 INCIDENCIAS",
         "preço": 0,
-        "código": 408020190,
+        "código": 40802019,
         "mnemônico": "R-COLCFU"
     },
     {
         "id": 1358,
         "nome": "RX - COLUNA CERVICAL - 3 INCIDENCIAS",
         "preço": 0,
-        "código": 408020190,
+        "código": 40802019,
         "mnemônico": "R-COLCAP"
     },
     {
         "id": 1359,
         "nome": "RX - COLUNA DORSAL - 4 INCIDENCIAS",
         "preço": 0,
-        "código": 408020430,
+        "código": 40802043,
         "mnemônico": "R-COLDPO"
     },
     {
         "id": 1360,
         "nome": "RX - COLUNA DORSAL - 2 INCIDENCIAS",
         "preço": 0,
-        "código": 408020430,
+        "código": 40802043,
         "mnemônico": "R-COLDAP"
     },
     {
         "id": 1361,
         "nome": "RX - COLUNA LOMBO-SACRA - 3 INCIDENCIAS",
         "preço": 0,
-        "código": 408020510,
+        "código": 40802051,
         "mnemônico": "R-COLLSA"
     },
     {
         "id": 1362,
         "nome": "RX - COLUNA LOMBO-SACRA - 5 INCIDENCIAS",
         "preço": 0,
-        "código": 408020510,
+        "código": 40802051,
         "mnemônico": "R-COLLFU"
     },
     {
         "id": 1363,
         "nome": "RX - SACRO-COCCIX",
         "preço": 0,
-        "código": 408020780,
+        "código": 40802078,
         "mnemônico": "R-COLSCO"
     },
     {
         "id": 1364,
         "nome": "RX - CORACAO E VASOS DA BASE",
         "preço": 0,
-        "código": 408050500,
+        "código": 40805050,
         "mnemônico": "R-COVAC"
     },
     {
         "id": 1365,
         "nome": "RX - COSTELAS - POR HEMITORAX",
         "preço": 0,
-        "código": 408030310,
+        "código": 40803031,
         "mnemônico": "R-COSTE1"
     },
     {
         "id": 1366,
         "nome": "RX - COTOVELO",
         "preço": 0,
-        "código": 408030900,
+        "código": 40803090,
         "mnemônico": "R-COTOV"
     },
     {
         "id": 1367,
         "nome": "RX - COXA",
         "preço": 0,
-        "código": 408040460,
+        "código": 40804046,
         "mnemônico": "R-CXFMU"
     },
     {
         "id": 1368,
         "nome": "RX - CRANIO - 2 INCIDENCIAS",
         "preço": 0,
-        "código": 408010120,
+        "código": 40801012,
         "mnemônico": "R-CRALAT"
     },
     {
         "id": 1369,
         "nome": "RX - CRANIO - 4 INCIDENCIAS",
         "preço": 0,
-        "código": 408010390,
+        "código": 40801039,
         "mnemônico": "R-CRAHIR"
     },
     {
         "id": 1370,
         "nome": "RX - CRANIO - 3 INCIDENCIAS",
         "preço": 0,
-        "código": 408010200,
+        "código": 40801020,
         "mnemônico": "R-CRABRE"
     },
     {
         "id": 1371,
         "nome": "RX - ESCANOMETRIA",
         "preço": 0,
-        "código": 408041190,
+        "código": 40804119,
         "mnemônico": "R-ESCANO"
     },
     {
         "id": 1372,
         "nome": "RX - ESTERNO",
         "preço": 0,
-        "código": 408030150,
+        "código": 40803015,
         "mnemônico": "R-ESTERN"
     },
     {
         "id": 1373,
         "nome": "RX - PATELA",
         "preço": 0,
-        "código": 408040540,
+        "código": 40804054,
         "mnemônico": "R-PATEL2"
     },
     {
         "id": 1374,
         "nome": "RX - JOELHO",
         "preço": 0,
-        "código": 408040540,
+        "código": 40804054,
         "mnemônico": "R-JAPLAT"
     },
     {
         "id": 1375,
         "nome": "MAMOGRAFIA DIGITAL BILATERAL",
         "preço": 0,
-        "código": 408080410,
+        "código": 40808041,
         "mnemônico": "M-DIGBIL"
     },
     {
         "id": 1376,
         "nome": "RX - MAO OU QUIRODACTILOS",
         "preço": 0,
-        "código": 408031200,
+        "código": 40803120,
         "mnemônico": "R-MQUIR"
     },
     {
         "id": 1377,
         "nome": "RX - MAOS E PUNHOS PARA IDADE OSSEA",
         "preço": 0,
-        "código": 408031390,
+        "código": 40803139,
         "mnemônico": "R-MPUNH"
     },
     {
         "id": 1378,
         "nome": "RX - ORELHA, MASTOIDES OU ROCHEDOS - BILATERAL",
         "preço": 0,
-        "código": 408010470,
+        "código": 40801047,
         "mnemônico": "R-MASBIL"
     },
     {
         "id": 1379,
         "nome": "RX - MAXILAR INFERIOR",
         "preço": 0,
-        "código": 408010800,
+        "código": 40801080,
         "mnemônico": "R-MXINF"
     },
     {
         "id": 1380,
         "nome": "RX - OMOPLATA OU ESCAPULA",
         "preço": 0,
-        "código": 408030580,
+        "código": 40803058,
         "mnemônico": "R-OMOFUN"
     },
     {
         "id": 1381,
         "nome": "RX - ORBITAS - BILATERAL",
         "preço": 0,
-        "código": 408010550,
+        "código": 40801055,
         "mnemônico": "R-ORBHIR"
     },
     {
         "id": 1382,
         "nome": "RX - OSSOS DA FACE",
         "preço": 0,
-        "código": 408010980,
+        "código": 40801098,
         "mnemônico": "R-OFACE"
     },
     {
         "id": 1385,
         "nome": "RX - PATELA",
         "preço": 0,
-        "código": 408040620,
+        "código": 40804062,
         "mnemônico": "R-PATELA"
     },
     {
         "id": 1386,
         "nome": "RX - PE OU PODODACTILOS",
         "preço": 0,
-        "código": 408040970,
+        "código": 40804097,
         "mnemônico": "R-PEPOD"
     },
     {
         "id": 1387,
         "nome": "RX - PERNA",
         "preço": 0,
-        "código": 408040700,
+        "código": 40804070,
         "mnemônico": "R-PERTIB"
     },
     {
         "id": 1388,
         "nome": "RX - PUNHO",
         "preço": 0,
-        "código": 408031120,
+        "código": 40803112,
         "mnemônico": "R-PUNOB"
     },
     {
         "id": 1389,
         "nome": "RX - SEIOS DA FACE",
         "preço": 0,
-        "código": 408010630,
+        "código": 40801063,
         "mnemônico": "R-SEFMN"
     },
     {
         "id": 1390,
         "nome": "RX - SELA TURCICA",
         "preço": 0,
-        "código": 408010710,
+        "código": 40801071,
         "mnemônico": "R-SETURC"
     },
     {
         "id": 1391,
         "nome": "RX - TORAX - 1 INCIDENCIA",
         "preço": 0,
-        "código": 408050180,
+        "código": 40805018,
         "mnemônico": "R-TXPA"
     },
     {
         "id": 1392,
         "nome": "RX - TORAX - 2 INCIDENCIAS ",
         "preço": 0,
-        "código": 408050260,
+        "código": 40805026,
         "mnemônico": "R-TXPALA"
     },
     {
         "id": 1393,
         "nome": "RX - TORAX - 3 INCIDENCIAS",
         "preço": 0,
-        "código": 408050180,
+        "código": 40805018,
         "mnemônico": "R-TXINEX"
     },
     {
         "id": 1394,
         "nome": "RX - TORAX - 4 INCIDENCIAS",
         "preço": 0,
-        "código": 408050420,
+        "código": 40805042,
         "mnemônico": "R-TXOBL"
     },
     {
         "id": 1403,
         "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR",
         "preço": 0,
-        "código": 403146180,
+        "código": 40314618,
         "mnemônico": "COVID-DT"
     },
     {
         "id": 1406,
         "nome": "RX - ABDOME AGUDO",
         "preço": 0,
-        "código": 408080250,
+        "código": 40808025,
         "mnemônico": "R-ABAGUD"
     },
     {
         "id": 1407,
         "nome": "RX - COLUNA DORSO-LOMBAR PARA ESCOLIOSE",
         "preço": 0,
-        "código": 408020940,
+        "código": 40802094,
         "mnemônico": "R-PALAT"
     },
     {
         "id": 1410,
         "nome": "RX - ANTEBRACO",
         "preço": 0,
-        "código": 408031040,
+        "código": 40803104,
         "mnemônico": "R-ANTBR2"
     },
     {
         "id": 1411,
         "nome": "RX - ARCOS ZIGOMATICOS OU MALAR OU APOFISES ESTILOIDES",
         "preço": 0,
-        "código": 408011010,
+        "código": 40801101,
         "mnemônico": "R-ARCZI2"
     },
     {
         "id": 1412,
         "nome": "RX - PUNHO",
         "preço": 0,
-        "código": 408031120,
+        "código": 40803112,
         "mnemônico": "R-PUNOB2"
     },
     {
         "id": 1415,
         "nome": "RX - MAO OU QUIRODACTILOS",
         "preço": 0,
-        "código": 408031200,
+        "código": 40803120,
         "mnemônico": "R-MQUIR2"
     },
     {
         "id": 1416,
         "nome": "RX - JOELHO",
         "preço": 0,
-        "código": 408040540,
+        "código": 40804054,
         "mnemônico": "R-JAPLA2"
     },
     {
         "id": 1417,
         "nome": "RX - OMOPLATA OU ESCAPULA",
         "preço": 0,
-        "código": 408030580,
+        "código": 40803058,
         "mnemônico": "R-OMOFU2"
     },
     {
         "id": 1420,
         "nome": "ACIDO OXALICO - URINA RECENTE",
         "preço": 0,
-        "código": 403011250,
+        "código": 40301125,
         "mnemônico": "AC-OXA"
     },
     {
         "id": 1422,
         "nome": "EPF - KATO KATZ (6ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPF6KATO"
     },
     {
         "id": 1424,
         "nome": "ACIDO METIL MALONICO - URINA RECENTE",
         "preço": 0,
-        "código": 403133010,
+        "código": 40313301,
         "mnemônico": "MALONI"
     },
     {
         "id": 1427,
         "nome": "US - MAMAS MASCULINA",
         "preço": 0,
-        "código": 409011140,
+        "código": 40901114,
         "mnemônico": "USMAMASC"
     },
     {
         "id": 1445,
         "nome": "UREIA - URINA RECENTE",
         "preço": 0,
-        "código": 403025800,
+        "código": 40302580,
         "mnemônico": "UREIA-UR"
     },
     {
         "id": 1447,
         "nome": "CORTISOL SALIVAR - 22:00 HORAS",
         "preço": 0,
-        "código": 403161900,
+        "código": 40316190,
         "mnemônico": "CORT22"
     },
     {
         "id": 1451,
         "nome": "EPF - KATO KATZ (7ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPF7KATO"
     },
     {
         "id": 1452,
         "nome": "ANTIBIOGRAMA - URINA (4ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSU4"
     },
     {
         "id": 1453,
         "nome": "ALFA-1-ANTITRIPSINA - FEZES",
         "preço": 0,
-        "código": 403030120,
+        "código": 40303012,
         "mnemônico": "ALFTR-FE"
     },
     {
         "id": 1461,
         "nome": "US - ARTICULAR (POR ARTICULACAO)",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTIC6"
     },
     {
         "id": 1462,
         "nome": "US - ARTICULAR (POR ARTICULACAO)",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTIC7"
     },
     {
         "id": 1463,
         "nome": "US - ARTICULAR (POR ARTICULACAO)",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTIC8"
     },
     {
         "id": 1469,
         "nome": "US - ORGAOS SUPERFICIAIS (TIREOIDE)",
         "preço": 0,
-        "código": 406012030,
+        "código": 40601203,
         "mnemônico": "USTIREO"
     },
     {
         "id": 1473,
         "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
         "preço": 0,
-        "código": 409013860,
+        "código": 40901386,
         "mnemônico": "DPORGES2"
     },
     {
         "id": 1474,
         "nome": "RX - COLUNA TOTAL PARA ESCOLIOSE (TELESPONDILOGRAFIA)",
         "preço": 0,
-        "código": 408020940,
+        "código": 40802094,
         "mnemônico": "R-CTESCO"
     },
     {
         "id": 1476,
         "nome": "RX - ORELHA, MASTOIDES OU ROCHEDOS - BILATERAL",
         "preço": 0,
-        "código": 408010470,
+        "código": 40801047,
         "mnemônico": "ORMASRO"
     },
     {
         "id": 1478,
         "nome": "ELETROCARDIOGRAMA (ECG)",
         "preço": 0,
-        "código": 401010100,
+        "código": 40101010,
         "mnemônico": "C-ECG"
     },
     {
         "id": 1479,
         "nome": "TESTE ERGOMETRICO CONVENCIONAL - 3 OU MAIS DERIVACOES SIMULTANEAS",
         "preço": 0,
-        "código": 401010450,
+        "código": 40101045,
         "mnemônico": "C-TERGOC"
     },
     {
         "id": 1483,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (MUSCULO)",
         "preço": 0,
-        "código": 409012110,
+        "código": 40901211,
         "mnemônico": "USMUSC"
     },
     {
         "id": 1487,
         "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL",
         "preço": 0,
-        "código": 408080330,
+        "código": 40808033,
         "mnemônico": "M-COVBIL"
     },
     {
         "id": 1489,
         "nome": "9 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
         "preço": 0,
-        "código": 406010210,
+        "código": 40601021,
         "mnemônico": "C24"
     },
     {
         "id": 1490,
         "nome": "RX - CLAVICULA",
         "preço": 0,
-        "código": 408030400,
+        "código": 40803040,
         "mnemônico": "R-CLAVI2"
     },
     {
         "id": 1493,
         "nome": "CORTISOL SALIVAR - 17:00 HORAS",
         "preço": 0,
-        "código": 403161900,
+        "código": 40316190,
         "mnemônico": "CTSAL17H"
     },
     {
         "id": 1494,
         "nome": "RX - BACIA",
         "preço": 0,
-        "código": 408040110,
+        "código": 40804011,
         "mnemônico": "R-BAAP2"
     },
     {
         "id": 1495,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (11ª AMOSTRA)\t",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL11"
     },
     {
         "id": 1496,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (11ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSG11"
     },
     {
         "id": 1502,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (12ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL12"
     },
     {
         "id": 1503,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (13ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL13"
     },
     {
         "id": 1504,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (14ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL14"
     },
     {
         "id": 1505,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (15ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL15"
     },
     {
         "id": 1506,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (12ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSG12"
     },
     {
         "id": 1507,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (13ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSG13"
     },
     {
         "id": 1508,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (14ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSG14"
     },
     {
         "id": 1509,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (15ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSG15"
     },
     {
         "id": 1510,
         "nome": "BILIRRUBINAS (AVALIACAO DE EXASANGUINEOTRANSFUSAO)",
         "preço": 0,
-        "código": 403013970,
+        "código": 40301397,
         "mnemônico": "BILTRANS"
     },
     {
         "id": 1511,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (16ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL16"
     },
     {
         "id": 1512,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (16ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSG16"
     },
     {
         "id": 1523,
         "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR (OU DOIS SEGMENTOS)",
         "preço": 0,
-        "código": 408081300,
+        "código": 40808130,
         "mnemônico": "D-COLFEM"
     },
     {
         "id": 1525,
         "nome": "PESQUISA DE FUNGOS (A FRESCO) (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403102300,
+        "código": 40310230,
         "mnemônico": "PFU-AF2"
     },
     {
         "id": 1526,
         "nome": "PESQUISA DE FUNGOS (A FRESCO) (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403102300,
+        "código": 40310230,
         "mnemônico": "PFU-AF3"
     },
     {
         "id": 1527,
         "nome": "PESQUISA DE FUNGOS (A FRESCO) (4ª AMOSTRA)",
         "preço": 0,
-        "código": 403102300,
+        "código": 40310230,
         "mnemônico": "PFU-AF4"
     },
     {
         "id": 1537,
         "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
         "preço": 0,
-        "código": 406010210,
+        "código": 40601021,
         "mnemônico": "P11"
     },
     {
         "id": 1538,
         "nome": "6 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
         "preço": 0,
-        "código": 406010210,
+        "código": 40601021,
         "mnemônico": "P12"
     },
     {
         "id": 1539,
         "nome": "8 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
         "preço": 0,
-        "código": 406010210,
+        "código": 40601021,
         "mnemônico": "P13"
     },
     {
         "id": 1540,
         "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
         "preço": 0,
-        "código": 406010210,
+        "código": 40601021,
         "mnemônico": "P14"
     },
     {
         "id": 1541,
         "nome": "5 FAT PRE OPER. PECA ADICIONAL OU MARGEM CIRURGICA",
         "preço": 0,
-        "código": 406010210,
+        "código": 40601021,
         "mnemônico": "P15"
     },
     {
@@ -4287,1099 +4287,1099 @@
         "id": 1553,
         "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
         "preço": 0,
-        "código": 410011250,
+        "código": 41001125,
         "mnemônico": "TCCOL2"
     },
     {
         "id": 1554,
         "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
         "preço": 0,
-        "código": 410010100,
+        "código": 41001010,
         "mnemônico": "TCCRANIO"
     },
     {
         "id": 1555,
         "nome": "TC - MASTOIDES OU ORELHAS",
         "preço": 0,
-        "código": 410010280,
+        "código": 41001028,
         "mnemônico": "TCMASOUV"
     },
     {
         "id": 1556,
         "nome": "TC - FACE OU SEIOS DA FACE",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCFACE"
     },
     {
         "id": 1557,
         "nome": "TC - PELVE OU BACIA",
         "preço": 0,
-        "código": 410011170,
+        "código": 41001117,
         "mnemônico": "TCPELBA"
     },
     {
         "id": 1558,
         "nome": "TC - ABDOME SUPERIOR",
         "preço": 0,
-        "código": 410011090,
+        "código": 41001109,
         "mnemônico": "TCABDOMS"
     },
     {
         "id": 1559,
         "nome": "TC - PESCOCO (PARTES MOLES, LARINGE, TIREOIDE, FARINGE E GLADULAS SALI",
         "preço": 0,
-        "código": 410010600,
+        "código": 41001060,
         "mnemônico": "TCPESC"
     },
     {
         "id": 1560,
         "nome": "TC - TORAX",
         "preço": 0,
-        "código": 410010790,
+        "código": 41001079,
         "mnemônico": "TCTORAX"
     },
     {
         "id": 1561,
         "nome": "TC - ABDOME TOTAL (ABDOME SUPERIOR, PELVE E RETROPERITONIO)",
         "preço": 0,
-        "código": 410010950,
+        "código": 41001095,
         "mnemônico": "TCABDOMT"
     },
     {
         "id": 1562,
         "nome": "EPF - PESQUISA DE SCHISTOSOMA MANSONI (6ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPFSM6"
     },
     {
         "id": 1566,
         "nome": "RM - TORAX (MEDIASTINO, PULMAO, PAREDE TORACICA)",
         "preço": 0,
-        "código": 411011200,
+        "código": 41101120,
         "mnemônico": "RMTORAX"
     },
     {
         "id": 1567,
         "nome": "RM - BASE DO CRANIO",
         "preço": 0,
-        "código": 411010300,
+        "código": 41101030,
         "mnemônico": "RMBASEC"
     },
     {
         "id": 1568,
         "nome": "RM - MEMBRO SUPERIOR UNILATERAL (NAO INCLUI MAO E ARTICULACOES)",
         "preço": 0,
-        "código": 411012600,
+        "código": 41101260,
         "mnemônico": "RMMEBSUP"
     },
     {
         "id": 1570,
         "nome": "TC - SEGMENTO APENDICULAR (BRACO OU ANTEBRACO OU MAO OU PERNA OU PE) ",
         "preço": 0,
-        "código": 410011500,
+        "código": 41001150,
         "mnemônico": "TCSEGAP"
     },
     {
         "id": 1571,
         "nome": "TC - ARTICULACAO (ESTERNOCLAVICULAR OU OMBRO OU COTOVELO OU PUNHO OU S",
         "preço": 0,
-        "código": 410011410,
+        "código": 41001141,
         "mnemônico": "TCAMINF"
     },
     {
         "id": 1572,
         "nome": "TC - ARTICULACOES TEMPOROMANDIBULARES",
         "preço": 0,
-        "código": 410010440,
+        "código": 41001044,
         "mnemônico": "TCATEMPO"
     },
     {
         "id": 1578,
         "nome": "RX - BRACO",
         "preço": 0,
-        "código": 408030820,
+        "código": 40803082,
         "mnemônico": "R-BRACO2"
     },
     {
         "id": 1580,
         "nome": "RX - CALCANEO",
         "preço": 0,
-        "código": 408041000,
+        "código": 40804100,
         "mnemônico": "R-CALCA2"
     },
     {
         "id": 1597,
         "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO SUPERIOR - UNILATERAL",
         "preço": 0,
-        "código": 409014590,
+        "código": 40901459,
         "mnemônico": "MARTS2"
     },
     {
         "id": 1614,
         "nome": "RX - ARTICULACAO ACROMIOCLAVICULAR",
         "preço": 0,
-        "código": 408030660,
+        "código": 40803066,
         "mnemônico": "R-ARTAC2"
     },
     {
         "id": 1642,
         "nome": "RX - ARTICULACAO TIBIOTARSICA (TORNOZELO)",
         "preço": 0,
-        "código": 408040890,
+        "código": 40804089,
         "mnemônico": "R-ARTTI2"
     },
     {
         "id": 1653,
         "nome": "EPF - KATO KATZ (8ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPF8KATO"
     },
     {
         "id": 1654,
         "nome": "EPF - KATO KATZ (9ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPF9KATO"
     },
     {
         "id": 1656,
         "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
         "preço": 0,
-        "código": 410011250,
+        "código": 41001125,
         "mnemônico": "TCCOL"
     },
     {
         "id": 1659,
         "nome": "RX - PE OU PODODACTILOS",
         "preço": 0,
-        "código": 408040970,
+        "código": 40804097,
         "mnemônico": "R-PEPOD2"
     },
     {
         "id": 1662,
         "nome": "6 FAT PD EM LAMINAS DE PAAF ATE 5",
         "preço": 0,
-        "código": 406012500,
+        "código": 40601250,
         "mnemônico": "CF6"
     },
     {
         "id": 1663,
         "nome": "7 FAT PD EM LAMINAS DE PAAF ATE 5",
         "preço": 0,
-        "código": 406012500,
+        "código": 40601250,
         "mnemônico": "CF7"
     },
     {
         "id": 1664,
         "nome": "8 FAT PD EM LAMINAS DE PAAF ATE 5",
         "preço": 0,
-        "código": 406012500,
+        "código": 40601250,
         "mnemônico": "CF8"
     },
     {
         "id": 1665,
         "nome": "RX - COTOVELO",
         "preço": 0,
-        "código": 408030900,
+        "código": 40803090,
         "mnemônico": "R-COTOV2"
     },
     {
         "id": 1673,
         "nome": "RX - PERNA",
         "preço": 0,
-        "código": 408040700,
+        "código": 40804070,
         "mnemônico": "R-PERTI2"
     },
     {
         "id": 1674,
         "nome": "TC - ARTICULACAO (ESTERNOCLAVICULAR OU OMBRO OU COTOVELO OU PUNHO OU S",
         "preço": 0,
-        "código": 410011410,
+        "código": 41001141,
         "mnemônico": "TCAMINF2"
     },
     {
         "id": 1677,
         "nome": "RX - ARTICULACAO COXOFEMORAL (QUADRIL)",
         "preço": 0,
-        "código": 408040380,
+        "código": 40804038,
         "mnemônico": "R-ARTCX2"
     },
     {
         "id": 1678,
         "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
         "preço": 0,
-        "código": 409013860,
+        "código": 40901386,
         "mnemônico": "DPORGES3"
     },
     {
         "id": 1679,
         "nome": "RX - COSTELAS - POR HEMITORAX",
         "preço": 0,
-        "código": 408030310,
+        "código": 40803031,
         "mnemônico": "R-COSTE2"
     },
     {
         "id": 1684,
         "nome": "RX - COXA",
         "preço": 0,
-        "código": 408040460,
+        "código": 40804046,
         "mnemônico": "R-CXFMU2"
     },
     {
         "id": 1685,
         "nome": "TC - SEGMENTO APENDICULAR (BRACO OU ANTEBRACO OU MAO OU PERNA OU PE) ",
         "preço": 0,
-        "código": 410011500,
+        "código": 41001150,
         "mnemônico": "TCSEGAP2"
     },
     {
         "id": 1687,
         "nome": "TC - TORAX",
         "preço": 0,
-        "código": 410010790,
+        "código": 41001079,
         "mnemônico": "TCTORAX2"
     },
     {
         "id": 1692,
         "nome": "22 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
         "preço": 0,
-        "código": 406012260,
+        "código": 40601226,
         "mnemônico": "D30"
     },
     {
         "id": 1693,
         "nome": "23 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
         "preço": 0,
-        "código": 406012260,
+        "código": 40601226,
         "mnemônico": "D31"
     },
     {
         "id": 1694,
         "nome": "24 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
         "preço": 0,
-        "código": 406012260,
+        "código": 40601226,
         "mnemônico": "D32"
     },
     {
         "id": 1695,
         "nome": "25 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
         "preço": 0,
-        "código": 406012260,
+        "código": 40601226,
         "mnemônico": "D33"
     },
     {
         "id": 1696,
         "nome": "26 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
         "preço": 0,
-        "código": 406012260,
+        "código": 40601226,
         "mnemônico": "D34"
     },
     {
         "id": 1697,
         "nome": "27 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
         "preço": 0,
-        "código": 406012260,
+        "código": 40601226,
         "mnemônico": "D35"
     },
     {
         "id": 1698,
         "nome": "28 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
         "preço": 0,
-        "código": 406012260,
+        "código": 40601226,
         "mnemônico": "D36"
     },
     {
         "id": 1703,
         "nome": "COVID-19 - TESTE RAPIDO",
         "preço": 0,
-        "código": 403250240,
+        "código": 40325024,
         "mnemônico": "TRCOVID"
     },
     {
         "id": 1708,
         "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
         "preço": 0,
-        "código": 410011250,
+        "código": 41001125,
         "mnemônico": "TCCOL3"
     },
     {
         "id": 1709,
         "nome": "RX - ARTICULACAO ESCAPULOUMERAL (OMBRO)",
         "preço": 0,
-        "código": 408030740,
+        "código": 40803074,
         "mnemônico": "R-ARTEU2"
     },
     {
         "id": 1715,
         "nome": "DENSITOMETRIA OSSEA - CORPO INTEIRO ",
         "preço": 0,
-        "código": 408081490,
+        "código": 40808149,
         "mnemônico": "D-COMPC"
     },
     {
         "id": 1718,
         "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
         "preço": 0,
-        "código": 409013860,
+        "código": 40901386,
         "mnemônico": "DPORGES4"
     },
     {
         "id": 1722,
         "nome": "RX - ARTICULACAO TEMPOROMANDIBULAR - BILATERAL",
         "preço": 0,
-        "código": 408011100,
+        "código": 40801110,
         "mnemônico": "R-ARTMA2"
     },
     {
         "id": 1724,
         "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
         "preço": 0,
-        "código": 410010100,
+        "código": 41001010,
         "mnemônico": "TCCRANI2"
     },
     {
         "id": 1731,
         "nome": "CORTISOL SALIVAR - 06:00 HORAS",
         "preço": 0,
-        "código": 403161900,
+        "código": 40316190,
         "mnemônico": "COSAL6H"
     },
     {
         "id": 1733,
         "nome": "MONITORACAO AMBULATORIAL DA PRESSAO ARTERIAL - MAPA (MAPA 24 HORAS)",
         "preço": 0,
-        "código": 201020380,
+        "código": 20102038,
         "mnemônico": "MAPA24H"
     },
     {
         "id": 1734,
         "nome": "HOLTER DE 24 HORAS - 3 CANAIS - DIGITAL",
         "preço": 0,
-        "código": 201020200,
+        "código": 20102020,
         "mnemônico": "HOLTER24"
     },
     {
         "id": 1735,
         "nome": "US - ORGAOS SUPERFICIAIS (CRANIO)",
         "preço": 0,
-        "código": 406012030,
+        "código": 40601203,
         "mnemônico": "USCRANIO"
     },
     {
         "id": 1737,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (TENDAO)",
         "preço": 0,
-        "código": 409012110,
+        "código": 40901211,
         "mnemônico": "USTENDAO"
     },
     {
         "id": 1740,
         "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO SUPERIOR - UNILATERAL",
         "preço": 0,
-        "código": 409014670,
+        "código": 40901467,
         "mnemônico": "DPVMS2"
     },
     {
         "id": 1768,
         "nome": "DOPPLER COLORIDO DE VASOS CERVICAIS ARTERIAIS (CAROTIDAS E VERTEBRAIS)",
         "preço": 0,
-        "código": 409013600,
+        "código": 40901360,
         "mnemônico": "DOPVCAB"
     },
     {
         "id": 1772,
         "nome": "9 FAT PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
         "preço": 0,
-        "código": 406011960,
+        "código": 40601196,
         "mnemônico": "F09"
     },
     {
         "id": 1773,
         "nome": "10 FAT PD FRAG. MULT. BIOP. ORG. DO MESMO FRASCO",
         "preço": 0,
-        "código": 406011960,
+        "código": 40601196,
         "mnemônico": "F10"
     },
     {
         "id": 1775,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (MUSCULO)",
         "preço": 0,
-        "código": 409012110,
+        "código": 40901211,
         "mnemônico": "USMUSC2"
     },
     {
         "id": 1786,
         "nome": "19 FAT PD EM PECA ANATOMICA OU CIRURGICA SIMPLES",
         "preço": 0,
-        "código": 406012000,
+        "código": 40601200,
         "mnemônico": "C103"
     },
     {
         "id": 1791,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (TENDAO)",
         "preço": 0,
-        "código": 409012110,
+        "código": 40901211,
         "mnemônico": "USTENDA2"
     },
     {
         "id": 1836,
         "nome": "HEMOGLOBINA GLICADA (1A TOTAL) ",
         "preço": 0,
-        "código": 403027330,
+        "código": 40302733,
         "mnemônico": "HG1AT"
     },
     {
         "id": 1837,
         "nome": "HIV1 OU HIV2",
         "preço": 0,
-        "código": 403071820,
+        "código": 40307182,
         "mnemônico": "HIV1OU2"
     },
     {
         "id": 1838,
         "nome": "ANTIBIOGRAMA - NAO AUTOMATIZADO",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "ANTIB"
     },
     {
         "id": 1842,
         "nome": "ANTIGENO AUSTRALIA (HBSAG)",
         "preço": 0,
-        "código": 403070180,
+        "código": 40307018,
         "mnemônico": "HBSAG"
     },
     {
         "id": 1852,
         "nome": "TC - SEGMENTO APENDICULAR (BRACO OU ANTEBRACO OU MAO OU PERNA OU PE) ",
         "preço": 0,
-        "código": 410011500,
+        "código": 41001150,
         "mnemônico": "TCSEGAP3"
     },
     {
         "id": 1853,
         "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
         "preço": 0,
-        "código": 409013860,
+        "código": 40901386,
         "mnemônico": "DPORGES5"
     },
     {
         "id": 1854,
         "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
         "preço": 0,
-        "código": 409013860,
+        "código": 40901386,
         "mnemônico": "DPORGES6"
     },
     {
         "id": 1855,
         "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
         "preço": 0,
-        "código": 409013860,
+        "código": 40901386,
         "mnemônico": "DPORGES7"
     },
     {
         "id": 1856,
         "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA",
         "preço": 0,
-        "código": 409013860,
+        "código": 40901386,
         "mnemônico": "DPORGES8"
     },
     {
         "id": 1859,
         "nome": "CORTISOL - 18:00 HORAS",
         "preço": 0,
-        "código": 403161900,
+        "código": 40316190,
         "mnemônico": "CORT18H"
     },
     {
         "id": 1861,
         "nome": "HEPATITE C - ANTI-HCV",
         "preço": 0,
-        "código": 403070260,
+        "código": 40307026,
         "mnemônico": "HCV"
     },
     {
         "id": 1876,
         "nome": "CORTISOL - 12:00 HORAS",
         "preço": 0,
-        "código": 403161900,
+        "código": 40316190,
         "mnemônico": "CH12"
     },
     {
         "id": 1877,
         "nome": "CORTISOL SALIVAR - 12:00 HORAS ",
         "preço": 0,
-        "código": 403161900,
+        "código": 40316190,
         "mnemônico": "CTSAL12H"
     },
     {
         "id": 1879,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (17ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSG17"
     },
     {
         "id": 1880,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (18ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSG18"
     },
     {
         "id": 1881,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (19ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSG19"
     },
     {
         "id": 1882,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (20ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSG20"
     },
     {
         "id": 1883,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (17ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL17"
     },
     {
         "id": 1884,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (18ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL18"
     },
     {
         "id": 1885,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (19ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL19"
     },
     {
         "id": 1886,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (20ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL20"
     },
     {
         "id": 1887,
         "nome": "CORTISOL SALIVAR - 09:00 HORAS ",
         "preço": 0,
-        "código": 403161900,
+        "código": 40316190,
         "mnemônico": "CTSAL9H"
     },
     {
         "id": 1894,
         "nome": "CORTISOL SALIVAR - 21:00 HORAS",
         "preço": 0,
-        "código": 403161900,
+        "código": 40316190,
         "mnemônico": "CTSAL21H"
     },
     {
         "id": 1895,
         "nome": "CORTISOL SALIVAR - 07:00 HORAS ",
         "preço": 0,
-        "código": 403161900,
+        "código": 40316190,
         "mnemônico": "CTSAL7H"
     },
     {
         "id": 1917,
         "nome": "TC - ARTICULACAO (ESTERNOCLAVICULAR OU OMBRO OU COTOVELO OU PUNHO OU S",
         "preço": 0,
-        "código": 410011410,
+        "código": 41001141,
         "mnemônico": "TCAMINF3"
     },
     {
         "id": 1918,
         "nome": "TC - ARTICULACAO (ESTERNOCLAVICULAR OU OMBRO OU COTOVELO OU PUNHO OU S",
         "preço": 0,
-        "código": 410011410,
+        "código": 41001141,
         "mnemônico": "TCAMINF4"
     },
     {
         "id": 1926,
         "nome": "DOPPLER COLORIDO DE AORTA E ARTERIAS RENAIS",
         "preço": 0,
-        "código": 409013940,
+        "código": 40901394,
         "mnemônico": "DPAOARR2"
     },
     {
         "id": 1928,
         "nome": "TC - ARTICULACOES TEMPOROMANDIBULARES",
         "preço": 0,
-        "código": 410010440,
+        "código": 41001044,
         "mnemônico": "TCATEMP2"
     },
     {
         "id": 1932,
         "nome": "CORTISOL SALIVAR - 15:00 HORAS",
         "preço": 0,
-        "código": 403161900,
+        "código": 40316190,
         "mnemônico": "CTSAL15H"
     },
     {
         "id": 1941,
         "nome": "ASLO",
         "preço": 0,
-        "código": 403084050,
+        "código": 40308405,
         "mnemônico": "ASLO2"
     },
     {
         "id": 1952,
         "nome": "US - OBSTETRICA COM TRANSLUCENCIA NUCAL",
         "preço": 0,
-        "código": 409012540,
+        "código": 40901254,
         "mnemônico": "USOBSTN2"
     },
     {
         "id": 1962,
         "nome": "ANTI-TPO",
         "preço": 0,
-        "código": 403064370,
+        "código": 40306437,
         "mnemônico": "TPO2"
     },
     {
         "id": 1968,
         "nome": "US - OBSTETRICA",
         "preço": 0,
-        "código": 409012970,
+        "código": 40901297,
         "mnemônico": "USOBSTE2"
     },
     {
         "id": 2002,
         "nome": "CORTISOL SALIVAR - 18:00 HORAS",
         "preço": 0,
-        "código": 403161900,
+        "código": 40316190,
         "mnemônico": "CORT18"
     },
     {
         "id": 2011,
         "nome": "POTASSIO POS DIALISE",
         "preço": 0,
-        "código": 403023180,
+        "código": 40302318,
         "mnemônico": "POT-PD"
     },
     {
         "id": 2012,
         "nome": "SODIO POS DIALISE",
         "preço": 0,
-        "código": 403024230,
+        "código": 40302423,
         "mnemônico": "SOD-PD"
     },
     {
         "id": 2013,
         "nome": "CREATININA POS DIALISE",
         "preço": 0,
-        "código": 403016300,
+        "código": 40301630,
         "mnemônico": "CREA-PD"
     },
     {
         "id": 2014,
         "nome": "GLICOSE POS DIALISE",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GB-PD"
     },
     {
         "id": 2052,
         "nome": "SIFILIS - VDRL",
         "preço": 0,
-        "código": 403077600,
+        "código": 40307760,
         "mnemônico": "VDRL-URG"
     },
     {
         "id": 2054,
         "nome": "29 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
         "preço": 0,
-        "código": 406012260,
+        "código": 40601226,
         "mnemônico": "D37"
     },
     {
         "id": 2055,
         "nome": "30 FAT PD EM GRUPO DE LINF. ESTR. VIZ. E MARG. SIMP. OU COMPLEXAS",
         "preço": 0,
-        "código": 406012260,
+        "código": 40601226,
         "mnemônico": "D38"
     },
     {
         "id": 2063,
         "nome": "PESQUISA DE FUNGOS (KOH)",
         "preço": 0,
-        "código": 403102300,
+        "código": 40310230,
         "mnemônico": "PFU-K"
     },
     {
         "id": 2067,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (AXILAS)",
         "preço": 0,
-        "código": 409012110,
+        "código": 40901211,
         "mnemônico": "USAXILA2"
     },
     {
         "id": 2144,
         "nome": "HEPATITE B - HBSAG - (AU, ANTIGENO AUSTRALIA) ",
         "preço": 0,
-        "código": 403070180,
+        "código": 40307018,
         "mnemônico": "AAUE"
     },
     {
         "id": 2145,
         "nome": "ACIDO FOLICO",
         "preço": 0,
-        "código": 403010870,
+        "código": 40301087,
         "mnemônico": "AFOLIE"
     },
     {
         "id": 2146,
         "nome": "HEPATITE B - ANTI-HBE",
         "preço": 0,
-        "código": 403069760,
+        "código": 40306976,
         "mnemônico": "AHBEE"
     },
     {
         "id": 2147,
         "nome": "TIROXINA T4 LIVRE",
         "preço": 0,
-        "código": 403164910,
+        "código": 40316491,
         "mnemônico": "T4LE"
     },
     {
         "id": 2148,
         "nome": "HEPATITE C - ANTI-HCV",
         "preço": 0,
-        "código": 403070260,
+        "código": 40307026,
         "mnemônico": "AHCVE"
     },
     {
         "id": 2149,
         "nome": "TIROXINA (T4)",
         "preço": 0,
-        "código": 403165480,
+        "código": 40316548,
         "mnemônico": "T4E"
     },
     {
         "id": 2150,
         "nome": "T3 LIVRE ",
         "preço": 0,
-        "código": 403164670,
+        "código": 40316467,
         "mnemônico": "T3LE"
     },
     {
         "id": 2151,
         "nome": "ALFA-FETOPROTEINA",
         "preço": 0,
-        "código": 403160680,
+        "código": 40316068,
         "mnemônico": "ALFAFE"
     },
     {
         "id": 2152,
         "nome": "TRIIODOTIRONINA (T3) ",
         "preço": 0,
-        "código": 403165560,
+        "código": 40316556,
         "mnemônico": "T3E"
     },
     {
         "id": 2155,
         "nome": "ANTI-TPO",
         "preço": 0,
-        "código": 403064370,
+        "código": 40306437,
         "mnemônico": "ATPOE"
     },
     {
         "id": 2156,
         "nome": "CHAGAS IGG ",
         "preço": 0,
-        "código": 403066150,
+        "código": 40306615,
         "mnemônico": "CHAIFE"
     },
     {
         "id": 2157,
         "nome": "CITOMEGALOVIRUS IGG ",
         "preço": 0,
-        "código": 403066660,
+        "código": 40306666,
         "mnemônico": "CMVGE"
     },
     {
         "id": 2158,
         "nome": "CITOMEGALOVIRUS IGM ",
         "preço": 0,
-        "código": 403066740,
+        "código": 40306674,
         "mnemônico": "CMVME"
     },
     {
         "id": 2159,
         "nome": "CORTISOL BASAL",
         "preço": 0,
-        "código": 403161900,
+        "código": 40316190,
         "mnemônico": "CORTE"
     },
     {
         "id": 2160,
         "nome": "CORTISOL - 16:00 HORAS",
         "preço": 0,
-        "código": 403161900,
+        "código": 40316190,
         "mnemônico": "CORTAE"
     },
     {
         "id": 2162,
         "nome": "CORTISOL - 12:00 HORAS",
         "preço": 0,
-        "código": 403161900,
+        "código": 40316190,
         "mnemônico": "CORTME"
     },
     {
         "id": 2163,
         "nome": "SULFATO DE DEHIDROEPIANDROSTERONA (S-DHEA)",
         "preço": 0,
-        "código": 403164590,
+        "código": 40316459,
         "mnemônico": "DHEASE"
     },
     {
         "id": 2165,
         "nome": "ESTRADIOL",
         "preço": 0,
-        "código": 403162460,
+        "código": 40316246,
         "mnemônico": "ESTRE"
     },
     {
         "id": 2166,
         "nome": "FERRITINA",
         "preço": 0,
-        "código": 403162700,
+        "código": 40316270,
         "mnemônico": "FERRIE"
     },
     {
         "id": 2167,
         "nome": "FOLICO ESTIMULANTE, HORMONIO (FSH) ",
         "preço": 0,
-        "código": 403162890,
+        "código": 40316289,
         "mnemônico": "FSHE"
     },
     {
         "id": 2168,
         "nome": "SIFILIS - FTA-ABS-IGG ",
         "preço": 0,
-        "código": 403077350,
+        "código": 40307735,
         "mnemônico": "FTAGE"
     },
     {
         "id": 2169,
         "nome": "SIFILIS - FTA-ABS-IGM",
         "preço": 0,
-        "código": 403077430,
+        "código": 40307743,
         "mnemônico": "FTAME"
     },
     {
         "id": 2170,
         "nome": "HEPATITE B - ANTI HBC IGM",
         "preço": 0,
-        "código": 403069680,
+        "código": 40306968,
         "mnemônico": "HBCME"
     },
     {
         "id": 2171,
         "nome": "HEPATITE B - HBEAG - (ANTIGENO \"E\")",
         "preço": 0,
-        "código": 403069840,
+        "código": 40306984,
         "mnemônico": "HBEAGE"
     },
     {
         "id": 2172,
         "nome": "HEPATITE B - HBSAC - (ANTI ANTIGENO DE SUPERFICIE)",
         "preço": 0,
-        "código": 403069920,
+        "código": 40306992,
         "mnemônico": "HBQLE"
     },
     {
         "id": 2173,
         "nome": "BETA HCG - QUANTITATIVO",
         "preço": 0,
-        "código": 403057670,
+        "código": 40305767,
         "mnemônico": "HCGQTE"
     },
     {
         "id": 2174,
         "nome": "HIV1+ HIV2",
         "preço": 0,
-        "código": 403071820,
+        "código": 40307182,
         "mnemônico": "HIV1E"
     },
     {
         "id": 2176,
         "nome": "HTLV 1 E 2 ",
         "preço": 0,
-        "código": 403072120,
+        "código": 40307212,
         "mnemônico": "HTLVE"
     },
     {
         "id": 2177,
         "nome": "HEPATITE A IGG",
         "preço": 0,
-        "código": 403069330,
+        "código": 40306933,
         "mnemônico": "HVAGE"
     },
     {
         "id": 2178,
         "nome": "HEPATITE A IGM",
         "preço": 0,
-        "código": 403069410,
+        "código": 40306941,
         "mnemônico": "HVAME"
     },
     {
         "id": 2182,
         "nome": "INSULINA",
         "preço": 0,
-        "código": 403163600,
+        "código": 40316360,
         "mnemônico": "INSE"
     },
     {
         "id": 2183,
         "nome": "HEPATITE B - ANTI HBC TOTAL",
         "preço": 0,
-        "código": 403069500,
+        "código": 40306950,
         "mnemônico": "HBCGE"
     },
     {
         "id": 2184,
         "nome": "SHBG (GLOBULINA LIGADORA DOS HORMONIOS SEXUAIS)",
         "preço": 0,
-        "código": 403163000,
+        "código": 40316300,
         "mnemônico": "SHBGE"
     },
     {
         "id": 2185,
         "nome": "RUBEOLA IGM",
         "preço": 0,
-        "código": 403077000,
+        "código": 40307700,
         "mnemônico": "RUBEME"
     },
     {
         "id": 2186,
         "nome": "RUBEOLA IGG",
         "preço": 0,
-        "código": 403076970,
+        "código": 40307697,
         "mnemônico": "RUBEGE"
     },
     {
         "id": 2188,
         "nome": "PSA TOTAL/LIVRE - FRACOES TOTAL E LIVRE",
         "preço": 0,
-        "código": 403161300,
+        "código": 40316130,
         "mnemônico": "PSATLE"
     },
     {
         "id": 2189,
         "nome": "PSA TOTAL - ANTIGENO PROSTATICO ESPECIFICO",
         "preço": 0,
-        "código": 403161490,
+        "código": 40316149,
         "mnemônico": "PSATE"
     },
     {
         "id": 2190,
         "nome": "PSA LIVRE (NAO INCLUI PSA TOTAL)",
         "preço": 0,
-        "código": 403161300,
+        "código": 40316130,
         "mnemônico": "PSALE"
     },
     {
         "id": 2194,
         "nome": "PROGESTERONA",
         "preço": 0,
-        "código": 403164080,
+        "código": 40316408,
         "mnemônico": "PROGEE"
     },
     {
         "id": 2196,
         "nome": "LH - HORMONIO LUTEINIZANTE",
         "preço": 0,
-        "código": 403163350,
+        "código": 40316335,
         "mnemônico": "LHE"
     },
     {
         "id": 2197,
         "nome": "INSULINA - 1 HORA POS PRANDIAL",
         "preço": 0,
-        "código": 403163600,
+        "código": 40316360,
         "mnemônico": "INSPPE1"
     },
     {
         "id": 2198,
         "nome": "INSULINA - 2 HORAS POS PRANDIAL",
         "preço": 0,
-        "código": 403163600,
+        "código": 40316360,
         "mnemônico": "INSPPE2"
     },
     {
         "id": 2199,
         "nome": "INSULINA - 3 HORAS POS PRANDIAL",
         "preço": 0,
-        "código": 403163600,
+        "código": 40316360,
         "mnemônico": "INSPPE3"
     },
     {
         "id": 2273,
         "nome": "INSULINA - 1 HORA POS DEXTROSOL ",
         "preço": 0,
-        "código": 403163600,
+        "código": 40316360,
         "mnemônico": "INSDE1"
     },
     {
         "id": 2274,
         "nome": "INSULINA - 2 HORAS POS DEXTROSOL",
         "preço": 0,
-        "código": 403163600,
+        "código": 40316360,
         "mnemônico": "INSDE2"
     },
     {
         "id": 2276,
         "nome": "TESTOSTERONA TOTAL",
         "preço": 0,
-        "código": 403165130,
+        "código": 40316513,
         "mnemônico": "TESTTE"
     },
     {
         "id": 2277,
         "nome": "TRAB - ANTI-RECEPTOR DE TSH",
         "preço": 0,
-        "código": 403160840,
+        "código": 40316084,
         "mnemônico": "TRABE"
     },
     {
         "id": 2278,
         "nome": "TSH - HORMONIO TIREOESTIMULANTE ",
         "preço": 0,
-        "código": 403165210,
+        "código": 40316521,
         "mnemônico": "TSHE"
     },
     {
         "id": 2279,
         "nome": "VITAMINA B12",
         "preço": 0,
-        "código": 403165720,
+        "código": 40316572,
         "mnemônico": "VB12E"
     },
     {
         "id": 2280,
         "nome": "SIFILIS - VDRL",
         "preço": 0,
-        "código": 403077600,
+        "código": 40307760,
         "mnemônico": "VDRLE"
     },
     {
         "id": 2281,
         "nome": "VITAMINA \"D\" 25 HIDROXI",
         "preço": 0,
-        "código": 403028300,
+        "código": 40302830,
         "mnemônico": "VIT25E"
     }
 ]

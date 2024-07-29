@@ -3,35 +3,35 @@
         "id": 538,
         "nome": "COLPOCITOLOGICO",
         "preço": 0,
-        "código": 406011370,
+        "código": 40601137,
         "mnemônico": "COLP"
     },
     {
         "id": 649,
         "nome": "DETECCAO E GENOTIPAGEM HPV DE ALTO RISCO",
         "preço": 0,
-        "código": 406012850,
+        "código": 40601285,
         "mnemônico": "HPV-GENO"
     },
     {
         "id": 983,
         "nome": "STREPTOCOCCUS AGALACTIAE (BETA HEMOLITICO DO GRUPO B)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "STB"
     },
     {
         "id": 1167,
         "nome": "STREPTOCOCCUS AGALACTIAE (BETA HEMOLITICO DO GRUPO B) (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "STB2"
     },
     {
         "id": 1294,
         "nome": "PAINEL INFECCOES SEXUALMENTE TRANSMISSIVEIS",
         "preço": 0,
-        "código": 406012850,
+        "código": 40601285,
         "mnemônico": "SEXT-PCR"
     }
 ]

@@ -3,259 +3,259 @@
         "id": 1015,
         "nome": "US - OBSTETRICA COM DOPPLER COLORIDO",
         "preço": 0,
-        "código": 409012460,
+        "código": 40901246,
         "mnemônico": "USOBSTD"
     },
     {
         "id": 1472,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (AXILAS) - UNIMED",
         "preço": 0,
-        "código": 409012110,
+        "código": 40901211,
         "mnemônico": "USAXILAU"
     },
     {
         "id": 1588,
         "nome": "US - ABDOME INFERIOR FEMININO - UNIMED",
         "preço": 0,
-        "código": 409011810,
+        "código": 40901181,
         "mnemônico": "USABFEMU"
     },
     {
         "id": 1589,
         "nome": "US - ABDOME INFERIOR MASCULINO - UNIMED",
         "preço": 0,
-        "código": 409017500,
+        "código": 40901750,
         "mnemônico": "USABDIMU"
     },
     {
         "id": 1590,
         "nome": "US - ABDOME SUPERIOR - UNIMED",
         "preço": 0,
-        "código": 409011300,
+        "código": 40901130,
         "mnemônico": "USABDSU"
     },
     {
         "id": 1591,
         "nome": "US - ABDOME TOTAL - UNIMED",
         "preço": 0,
-        "código": 409011220,
+        "código": 40901122,
         "mnemônico": "USABDTU"
     },
     {
         "id": 1592,
         "nome": "US - APARELHO URINARIO FEMININO - UNIMED",
         "preço": 0,
-        "código": 409017690,
+        "código": 40901769,
         "mnemônico": "USAPAUFU"
     },
     {
         "id": 1593,
         "nome": "US - ARTICULAR (POR ARTICULACAO) - UNIMED",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTU"
     },
     {
         "id": 1594,
         "nome": "DOPPLER COLORIDO DE AORTA E ARTERIAS RENAIS - UNIMED",
         "preço": 0,
-        "código": 409013940,
+        "código": 40901394,
         "mnemônico": "DPAARU"
     },
     {
         "id": 1595,
         "nome": "DOPPLER COLORIDO DE VEIA CAVA SUPERIOR OU INFERIOR - UNIMED",
         "preço": 0,
-        "código": 409014320,
+        "código": 40901432,
         "mnemônico": "DPVCAVU"
     },
     {
         "id": 1596,
         "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO INFERIOR - UNILATERAL - UNIMED",
         "preço": 0,
-        "código": 409014750,
+        "código": 40901475,
         "mnemônico": "MARTIU"
     },
     {
         "id": 1597,
         "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO SUPERIOR - UNILATERAL",
         "preço": 0,
-        "código": 409014590,
+        "código": 40901459,
         "mnemônico": "MARTS2"
     },
     {
         "id": 1598,
         "nome": "DOPPLER COLORIDO DE AORTA E ILIACAS - UNIMED",
         "preço": 0,
-        "código": 409014080,
+        "código": 40901408,
         "mnemônico": "DPAOEILU"
     },
     {
         "id": 1599,
         "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA - UNIMED",
         "preço": 0,
-        "código": 409013860,
+        "código": 40901386,
         "mnemônico": "DPORGISU"
     },
     {
         "id": 1600,
         "nome": "DOPPLER COLORIDO DE VASOS CERVICAIS ARTERIAIS (CAROT E VERT) - UNIMED",
         "preço": 0,
-        "código": 409013600,
+        "código": 40901360,
         "mnemônico": "DOPVCABU"
     },
     {
         "id": 1601,
         "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO SUPERIOR - UNILATERAL - UNIMED",
         "preço": 0,
-        "código": 409014670,
+        "código": 40901467,
         "mnemônico": "DPVMSU"
     },
     {
         "id": 1602,
         "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO INFERIOR - UNIMED",
         "preço": 0,
-        "código": 409014830,
+        "código": 40901483,
         "mnemônico": "MVENIU"
     },
     {
         "id": 1603,
         "nome": "US - MAMAS MASCULINO - UNIMED",
         "preço": 0,
-        "código": 409011140,
+        "código": 40901114,
         "mnemônico": "USMAMASU"
     },
     {
         "id": 1604,
         "nome": "US - OBSTETRICA - UNIMED",
         "preço": 0,
-        "código": 409012380,
+        "código": 40901238,
         "mnemônico": "USOBSTEU"
     },
     {
         "id": 1605,
         "nome": "US - OBSTETRICA 1º TRIMESTRE (ENDOVAGINAL) - UNIMED",
         "preço": 0,
-        "código": 409012970,
+        "código": 40901297,
         "mnemônico": "USOBS1TU"
     },
     {
         "id": 1606,
         "nome": "US - OBSTETRICA COM DOPPLER COLORIDO - UNIMED",
         "preço": 0,
-        "código": 409012460,
+        "código": 40901246,
         "mnemônico": "USOBSTDU"
     },
     {
         "id": 1607,
         "nome": "US - OBSTETRICA COM TRANSLUCENCIA NUCAL - UNIMED",
         "preço": 0,
-        "código": 409012540,
+        "código": 40901254,
         "mnemônico": "USOBSTNU"
     },
     {
         "id": 1609,
         "nome": "US - ORGAOS SUPERFICIAIS - UNIMED",
         "preço": 0,
-        "código": 409012030,
+        "código": 40901203,
         "mnemônico": "USORGSU"
     },
     {
         "id": 1610,
         "nome": "US - TRANSVAGINAL PARA CONTROLE DE OVULACAO (3 OU MAIS EXAMES) - UNIME",
         "preço": 0,
-        "código": 409013190,
+        "código": 40901319,
         "mnemônico": "USTRASCU"
     },
     {
         "id": 1612,
         "nome": "US - TRANSVAGINAL - UNIMED",
         "preço": 0,
-        "código": 409013000,
+        "código": 40901300,
         "mnemônico": "USTRANSU"
     },
     {
         "id": 1736,
         "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO SUPERIOR - UNILATERAL - UNIMED",
         "preço": 0,
-        "código": 409014590,
+        "código": 40901459,
         "mnemônico": "MARTSU"
     },
     {
         "id": 1738,
         "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO SUPERIOR - UNILATERAL - UNIMED",
         "preço": 0,
-        "código": 409014590,
+        "código": 40901459,
         "mnemônico": "MARTSU2"
     },
     {
         "id": 1739,
         "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO INFERIOR - UNILATERAL - UNIMED",
         "preço": 0,
-        "código": 409014750,
+        "código": 40901475,
         "mnemônico": "MARTIU2"
     },
     {
         "id": 1741,
         "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO SUPERIOR - UNILATERAL - UNIMED",
         "preço": 0,
-        "código": 409014670,
+        "código": 40901467,
         "mnemônico": "DPVMSU2"
     },
     {
         "id": 1742,
         "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO INFERIOR - UNIMED",
         "preço": 0,
-        "código": 409014830,
+        "código": 40901483,
         "mnemônico": "MVENIU2"
     },
     {
         "id": 1743,
         "nome": "US - APARELHO URINARIO MASCULINO - UNIMED",
         "preço": 0,
-        "código": 409017690,
+        "código": 40901769,
         "mnemônico": "USAPAUMU"
     },
     {
         "id": 1744,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (CERVICAL) - UNIMED",
         "preço": 0,
-        "código": 409012110,
+        "código": 40901211,
         "mnemônico": "USCERVIU"
     },
     {
         "id": 1746,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (TENDAO) - UNIMED",
         "preço": 0,
-        "código": 409012110,
+        "código": 40901211,
         "mnemônico": "USTENDAU"
     },
     {
         "id": 1747,
         "nome": "US - MAMAS FEMININA - UNIMED",
         "preço": 0,
-        "código": 409011140,
+        "código": 40901114,
         "mnemônico": "USMAMAFU"
     },
     {
         "id": 1750,
         "nome": "US - ORGAOS SUPERFICIAIS (TIREOIDE) - UNIMED",
         "preço": 0,
-        "código": 409012030,
+        "código": 40901203,
         "mnemônico": "USTIREOU"
     },
     {
         "id": 1768,
         "nome": "DOPPLER COLORIDO DE VASOS CERVICAIS ARTERIAIS (CAROTIDAS E VERTEBRAIS)",
         "preço": 0,
-        "código": 409013600,
+        "código": 40901360,
         "mnemônico": "DOPVCAB"
     },
     {
         "id": 1787,
         "nome": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA - UNIMED",
         "preço": 0,
-        "código": 409013860,
+        "código": 40901386,
         "mnemônico": "DPORGIU2"
     }
 ]

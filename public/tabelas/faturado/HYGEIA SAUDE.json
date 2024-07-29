@@ -3,28 +3,28 @@
         "id": 1357,
         "nome": "RX - COLUNA CERVICAL - 5 INCIDENCIAS",
         "preço": 0,
-        "código": 408020270,
+        "código": 40802027,
         "mnemônico": "R-COLCFU"
     },
     {
         "id": 1358,
         "nome": "RX - COLUNA CERVICAL - 3 INCIDENCIAS",
         "preço": 0,
-        "código": 408020190,
+        "código": 40802019,
         "mnemônico": "R-COLCAP"
     },
     {
         "id": 1361,
         "nome": "RX - COLUNA LOMBO-SACRA - 3 INCIDENCIAS",
         "preço": 0,
-        "código": 408020510,
+        "código": 40802051,
         "mnemônico": "R-COLLSA"
     },
     {
         "id": 1362,
         "nome": "RX - COLUNA LOMBO-SACRA - 5 INCIDENCIAS",
         "preço": 0,
-        "código": 408020600,
+        "código": 40802060,
         "mnemônico": "R-COLLFU"
     },
     {
@@ -73,7 +73,7 @@
         "id": 1916,
         "nome": "TORAX PA E PERFIL OIT - 2 INCIDENCIAS",
         "preço": 0,
-        "código": 408050260,
+        "código": 40805026,
         "mnemônico": "R-PAPOIT"
     }
 ]

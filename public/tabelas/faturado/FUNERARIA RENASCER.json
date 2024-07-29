@@ -8655,7 +8655,7 @@
         "id": 1523,
         "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR (OU DOIS SEGMENTOS)",
         "preço": 0,
-        "código": 408081300,
+        "código": 40808130,
         "mnemônico": "D-COLFEM"
     },
     {
@@ -9250,7 +9250,7 @@
         "id": 1715,
         "nome": "DENSITOMETRIA OSSEA - CORPO INTEIRO ",
         "preço": 0,
-        "código": 408081490,
+        "código": 40808149,
         "mnemônico": "D-COMPC"
     },
     {

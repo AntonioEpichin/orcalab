@@ -3,42 +3,42 @@
         "id": 538,
         "nome": "COLPOCITOLOGICO",
         "preço": 0,
-        "código": 406011370,
+        "código": 40601137,
         "mnemônico": "COLP"
     },
     {
         "id": 772,
         "nome": "FAT COLPOCITOLOGICO",
         "preço": 0,
-        "código": 406011370,
+        "código": 40601137,
         "mnemônico": "COLPFAT"
     },
     {
         "id": 875,
         "nome": "1 PD CITOPATOLOGICO EM MEIO LIQUIDO",
         "preço": 0,
-        "código": 406013230,
+        "código": 40601323,
         "mnemônico": "CITOLIQ1"
     },
     {
         "id": 876,
         "nome": "2 PD CITOPATOLOGICO EM MEIO LIQUIDO",
         "preço": 0,
-        "código": 406013230,
+        "código": 40601323,
         "mnemônico": "CITOLIQ2"
     },
     {
         "id": 877,
         "nome": "3 PD CITOPATOLOGICO EM MEIO LIQUIDO",
         "preço": 0,
-        "código": 406013230,
+        "código": 40601323,
         "mnemônico": "CITOLIQ3"
     },
     {
         "id": 878,
         "nome": "4 PD CITOPATOLOGICO EM MEIO LIQUIDO",
         "preço": 0,
-        "código": 406013230,
+        "código": 40601323,
         "mnemônico": "CITOLIQ4"
     }
 ]

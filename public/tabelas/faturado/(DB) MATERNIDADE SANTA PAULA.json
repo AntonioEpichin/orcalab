@@ -45,7 +45,7 @@
         "id": 140,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (1ª AMOSTRA)",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSG1"
     },
     {
@@ -164,7 +164,7 @@
         "id": 910,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL1"
     },
     {
@@ -178,7 +178,7 @@
         "id": 918,
         "nome": "CULTURA - BK",
         "preço": 0,
-        "código": 403101590,
+        "código": 40310159,
         "mnemônico": "CBK"
     },
     {
@@ -192,7 +192,7 @@
         "id": 1403,
         "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR",
         "preço": 0,
-        "código": 403046180,
+        "código": 40304618,
         "mnemônico": "COVID-DT"
     },
     {

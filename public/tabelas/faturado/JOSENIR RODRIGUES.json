@@ -3,91 +3,91 @@
         "id": 80,
         "nome": "MICOLOGICO DIRETO (4ª AMOSTRA)",
         "preço": 0,
-        "código": 403102300,
+        "código": 40310230,
         "mnemônico": "MICO4"
     },
     {
         "id": 181,
         "nome": "MICOLOGICO DIRETO (1ª AMOSTRA)",
         "preço": 0,
-        "código": 403102300,
+        "código": 40310230,
         "mnemônico": "MICO"
     },
     {
         "id": 184,
         "nome": "CULTURA - FUNGOS (1ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU"
     },
     {
         "id": 232,
         "nome": "MICOLOGICO DIRETO (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403102300,
+        "código": 40310230,
         "mnemônico": "MICO3"
     },
     {
         "id": 303,
         "nome": "MICOLOGICO DIRETO (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403102300,
+        "código": 40310230,
         "mnemônico": "MICO2"
     },
     {
         "id": 306,
         "nome": "CULTURA - FUNGOS (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU3"
     },
     {
         "id": 381,
         "nome": "CULTURA - FUNGOS (4ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU4"
     },
     {
         "id": 510,
         "nome": "ANTIBIOGRAMA - FUNGOS",
         "preço": 0,
-        "código": 403104260,
+        "código": 40310426,
         "mnemônico": "TSFUNGOS"
     },
     {
         "id": 639,
         "nome": "MICOLOGICO DIRETO (5ª AMOSTRA)",
         "preço": 0,
-        "código": 403102300,
+        "código": 40310230,
         "mnemônico": "MICO5"
     },
     {
         "id": 640,
         "nome": "CULTURA - FUNGOS (5ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU5"
     },
     {
         "id": 673,
         "nome": "MICOLOGICO DIRETO (6ª AMOSTRA)",
         "preço": 0,
-        "código": 403102300,
+        "código": 40310230,
         "mnemônico": "MICO6"
     },
     {
         "id": 912,
         "nome": "CULTURA - FUNGOS (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU2"
     },
     {
         "id": 1067,
         "nome": "CULTURA - FUNGOS (20ª AMOSTRA)",
         "preço": 0,
-        "código": 403101400,
+        "código": 40310140,
         "mnemônico": "CFU20"
     }
 ]

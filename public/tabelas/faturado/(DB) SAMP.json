@@ -1298,7 +1298,7 @@
         "id": 514,
         "nome": "IGE ESPECIFICO - PENICILINA G (C1)",
         "preço": 0,
-        "código": 40307263,
+        "código": null,
         "mnemônico": "PENICI-G"
     },
     {

@@ -3,140 +3,140 @@
         "id": 54,
         "nome": "HEPATITE B - HBSAC - (ANTI ANTIGENO DE SUPERFICIE)",
         "preço": 0,
-        "código": 403069920,
+        "código": 40306992,
         "mnemônico": "AHBS"
     },
     {
         "id": 59,
         "nome": "HEPATITE B - HBSAG - (AU, ANTIGENO AUSTRALIA) ",
         "preço": 0,
-        "código": 403070180,
+        "código": 40307018,
         "mnemônico": "AU"
     },
     {
         "id": 60,
         "nome": "HEPATITE B - ANTI HBC TOTAL",
         "preço": 0,
-        "código": 403069500,
+        "código": 40306950,
         "mnemônico": "HBCG"
     },
     {
         "id": 126,
         "nome": "SIFILIS - VDRL",
         "preço": 0,
-        "código": 403077600,
+        "código": 40307760,
         "mnemônico": "VDRL"
     },
     {
         "id": 129,
         "nome": "HCV (ANTICORPOS CONTRA O VIRUS DA HEPATITE C)",
         "preço": 0,
-        "código": 403070260,
+        "código": 40307026,
         "mnemônico": "HVC"
     },
     {
         "id": 138,
         "nome": "EPF - PARASITOLOGICO DE FEZES (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPF2"
     },
     {
         "id": 139,
         "nome": "EPF - PARASITOLOGICO DE FEZES (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPF3"
     },
     {
         "id": 535,
         "nome": "HEMOGRAMA COMPLETO",
         "preço": 0,
-        "código": 403043610,
+        "código": 40304361,
         "mnemônico": "HEM"
     },
     {
         "id": 557,
         "nome": "EPF - PARASITOLOGICO DE FEZES (1ª AMOSTRA)",
         "preço": 0,
-        "código": 403031100,
+        "código": 40303110,
         "mnemônico": "EPF"
     },
     {
         "id": 577,
         "nome": "GLICOSE",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GB"
     },
     {
         "id": 907,
         "nome": "EAS - EXAME DE URINA",
         "preço": 0,
-        "código": 403112100,
+        "código": 40311210,
         "mnemônico": "EAS"
     },
     {
         "id": 1842,
         "nome": "ANTIGENO AUSTRALIA (HBSAG)",
         "preço": 0,
-        "código": 403070180,
+        "código": 40307018,
         "mnemônico": "HBSAG"
     },
     {
         "id": 1861,
         "nome": "HEPATITE C - ANTI-HCV",
         "preço": 0,
-        "código": 403070260,
+        "código": 40307026,
         "mnemônico": "HCV"
     },
     {
         "id": 2014,
         "nome": "GLICOSE POS DIALISE",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GB-PD"
     },
     {
         "id": 2052,
         "nome": "SIFILIS - VDRL",
         "preço": 0,
-        "código": 403077600,
+        "código": 40307760,
         "mnemônico": "VDRL-URG"
     },
     {
         "id": 2144,
         "nome": "HEPATITE B - HBSAG - (AU, ANTIGENO AUSTRALIA) ",
         "preço": 0,
-        "código": 403070180,
+        "código": 40307018,
         "mnemônico": "AAUE"
     },
     {
         "id": 2148,
         "nome": "HEPATITE C - ANTI-HCV",
         "preço": 0,
-        "código": 403070260,
+        "código": 40307026,
         "mnemônico": "AHCVE"
     },
     {
         "id": 2172,
         "nome": "HEPATITE B - HBSAC - (ANTI ANTIGENO DE SUPERFICIE)",
         "preço": 0,
-        "código": 403069920,
+        "código": 40306992,
         "mnemônico": "HBQLE"
     },
     {
         "id": 2183,
         "nome": "HEPATITE B - ANTI HBC TOTAL",
         "preço": 0,
-        "código": 403069500,
+        "código": 40306950,
         "mnemônico": "HBCGE"
     },
     {
         "id": 2280,
         "nome": "SIFILIS - VDRL",
         "preço": 0,
-        "código": 403077600,
+        "código": 40307760,
         "mnemônico": "VDRLE"
     }
 ]

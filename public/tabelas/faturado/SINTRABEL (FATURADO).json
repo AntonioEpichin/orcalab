@@ -3,28 +3,28 @@
         "id": 1,
         "nome": "VITAMINA B12",
         "preço": 0,
-        "código": 403165720,
+        "código": 40316572,
         "mnemônico": "B12"
     },
     {
         "id": 29,
         "nome": "TSH - HORMONIO TIREOESTIMULANTE ",
         "preço": 0,
-        "código": 403165210,
+        "código": 40316521,
         "mnemônico": "TSH"
     },
     {
         "id": 38,
         "nome": "INSULINA",
         "preço": 0,
-        "código": 403163600,
+        "código": 40316360,
         "mnemônico": "INSU"
     },
     {
         "id": 43,
         "nome": "TIROXINA T4 LIVRE",
         "preço": 0,
-        "código": 403164910,
+        "código": 40316491,
         "mnemônico": "T4L"
     },
     {
@@ -38,7 +38,7 @@
         "id": 301,
         "nome": "LIPOPROTEINA (A)",
         "preço": 0,
-        "código": 403022100,
+        "código": 40302210,
         "mnemônico": "LPA"
     },
     {
@@ -52,119 +52,119 @@
         "id": 373,
         "nome": "VITAMINA \"D\" 25 HIDROXI",
         "preço": 0,
-        "código": 403028300,
+        "código": 40302830,
         "mnemônico": "VI25"
     },
     {
         "id": 535,
         "nome": "HEMOGRAMA COMPLETO",
         "preço": 0,
-        "código": 403043610,
+        "código": 40304361,
         "mnemônico": "HEM"
     },
     {
         "id": 538,
         "nome": "COLPOCITOLOGICO",
         "preço": 0,
-        "código": 406011370,
+        "código": 40601137,
         "mnemônico": "COLP"
     },
     {
         "id": 558,
         "nome": "COLESTEROL (VLDL)",
         "preço": 0,
-        "código": 403026950,
+        "código": 40302695,
         "mnemônico": "VLDL"
     },
     {
         "id": 565,
         "nome": "ASPARTATO AMINOTRANSFERASE (TGO, AST)",
         "preço": 0,
-        "código": 403025040,
+        "código": 40302504,
         "mnemônico": "TGO"
     },
     {
         "id": 566,
         "nome": "ALANINA AMINOTRANSFERASE (TGP, ALT)",
         "preço": 0,
-        "código": 403025120,
+        "código": 40302512,
         "mnemônico": "TGP"
     },
     {
         "id": 567,
         "nome": "TRIGLICERIDEOS",
         "preço": 0,
-        "código": 403025470,
+        "código": 40302547,
         "mnemônico": "TRI"
     },
     {
         "id": 568,
         "nome": "UREIA",
         "preço": 0,
-        "código": 403025800,
+        "código": 40302580,
         "mnemônico": "URE"
     },
     {
         "id": 573,
         "nome": "MAGNESIO",
         "preço": 0,
-        "código": 403022370,
+        "código": 40302237,
         "mnemônico": "MAG"
     },
     {
         "id": 574,
         "nome": "HEMOGLOBINA GLICADA (FRACAO A1C) ",
         "preço": 0,
-        "código": 403027330,
+        "código": 40302733,
         "mnemônico": "HG"
     },
     {
         "id": 575,
         "nome": "COLESTEROL (LDL)",
         "preço": 0,
-        "código": 403015910,
+        "código": 40301591,
         "mnemônico": "LDL"
     },
     {
         "id": 577,
         "nome": "GLICOSE",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GB"
     },
     {
         "id": 579,
         "nome": "COLESTEROL (HDL) ",
         "preço": 0,
-        "código": 403015830,
+        "código": 40301583,
         "mnemônico": "HDL"
     },
     {
         "id": 591,
         "nome": "CREATININA ",
         "preço": 0,
-        "código": 403016300,
+        "código": 40301630,
         "mnemônico": "CREA"
     },
     {
         "id": 592,
         "nome": "COLESTEROL TOTAL ",
         "preço": 0,
-        "código": 403016050,
+        "código": 40301605,
         "mnemônico": "COL"
     },
     {
         "id": 598,
         "nome": "ACIDO URICO",
         "preço": 0,
-        "código": 403011500,
+        "código": 40301150,
         "mnemônico": "AUR"
     },
     {
         "id": 599,
         "nome": "BILIRRUBINAS (DIRETA, INDIRETA E TOTAL)",
         "preço": 0,
-        "código": 403013970,
+        "código": 40301397,
         "mnemônico": "BIL"
     },
     {
@@ -178,63 +178,63 @@
         "id": 747,
         "nome": "1 FAT PD CITOPATOLOGICO EM MEIO LIQUIDO",
         "preço": 0,
-        "código": 406013230,
+        "código": 40601323,
         "mnemônico": "C85"
     },
     {
         "id": 772,
         "nome": "FAT COLPOCITOLOGICO",
         "preço": 0,
-        "código": 406011370,
+        "código": 40601137,
         "mnemônico": "COLPFAT"
     },
     {
         "id": 875,
         "nome": "1 PD CITOPATOLOGICO EM MEIO LIQUIDO",
         "preço": 0,
-        "código": 406013230,
+        "código": 40601323,
         "mnemônico": "CITOLIQ1"
     },
     {
         "id": 907,
         "nome": "EAS - EXAME DE URINA",
         "preço": 0,
-        "código": 403112100,
+        "código": 40311210,
         "mnemônico": "EAS"
     },
     {
         "id": 908,
         "nome": "SODIO ",
         "preço": 0,
-        "código": 403024230,
+        "código": 40302423,
         "mnemônico": "SOD"
     },
     {
         "id": 909,
         "nome": "POTASSIO",
         "preço": 0,
-        "código": 403023180,
+        "código": 40302318,
         "mnemônico": "POT"
     },
     {
         "id": 913,
         "nome": "CULTURA - AUTOMATIZADA ",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "URO"
     },
     {
         "id": 1001,
         "nome": "US - ABDOME TOTAL (ABDOME SUPERIOR, RINS, BEXIGA, AORTA, VEIA CAVA INF",
         "preço": 0,
-        "código": 409011220,
+        "código": 40901122,
         "mnemônico": "USABDOME"
     },
     {
         "id": 1066,
         "nome": "ACIDO TRANS-MUCONICO - URINA",
         "preço": 0,
-        "código": 403167930,
+        "código": 40316793,
         "mnemônico": "ATM"
     },
     {
@@ -682,14 +682,14 @@
         "id": 1478,
         "nome": "ELETROCARDIOGRAMA (ECG)",
         "preço": 0,
-        "código": 401010100,
+        "código": 40101010,
         "mnemônico": "C-ECG"
     },
     {
         "id": 1487,
         "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL",
         "preço": 0,
-        "código": 408080330,
+        "código": 40808033,
         "mnemônico": "M-COVBIL"
     },
     {
@@ -801,49 +801,49 @@
         "id": 2013,
         "nome": "CREATININA POS DIALISE",
         "preço": 0,
-        "código": 403016300,
+        "código": 40301630,
         "mnemônico": "CREA-PD"
     },
     {
         "id": 2014,
         "nome": "GLICOSE POS DIALISE",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GB-PD"
     },
     {
         "id": 2147,
         "nome": "TIROXINA T4 LIVRE",
         "preço": 0,
-        "código": 403164910,
+        "código": 40316491,
         "mnemônico": "T4LE"
     },
     {
         "id": 2182,
         "nome": "INSULINA",
         "preço": 0,
-        "código": 403163600,
+        "código": 40316360,
         "mnemônico": "INSE"
     },
     {
         "id": 2278,
         "nome": "TSH - HORMONIO TIREOESTIMULANTE ",
         "preço": 0,
-        "código": 403165210,
+        "código": 40316521,
         "mnemônico": "TSHE"
     },
     {
         "id": 2279,
         "nome": "VITAMINA B12",
         "preço": 0,
-        "código": 403165720,
+        "código": 40316572,
         "mnemônico": "VB12E"
     },
     {
         "id": 2281,
         "nome": "VITAMINA \"D\" 25 HIDROXI",
         "preço": 0,
-        "código": 403028300,
+        "código": 40302830,
         "mnemônico": "VIT25E"
     }
 ]

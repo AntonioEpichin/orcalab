@@ -3,84 +3,84 @@
         "id": 538,
         "nome": "COLPOCITOLOGICO",
         "preço": 0,
-        "código": 406011370,
+        "código": 40601137,
         "mnemônico": "COLP"
     },
     {
         "id": 649,
         "nome": "DETECCAO E GENOTIPAGEM HPV DE ALTO RISCO",
         "preço": 0,
-        "código": 406012930,
+        "código": 40601293,
         "mnemônico": "HPV-GENO"
     },
     {
         "id": 747,
         "nome": "1 FAT PD CITOPATOLOGICO EM MEIO LIQUIDO",
         "preço": 0,
-        "código": 406013230,
+        "código": 40601323,
         "mnemônico": "C85"
     },
     {
         "id": 748,
         "nome": "2 FAT PD CITOPATOLOGICO EM MEIO LIQUIDO",
         "preço": 0,
-        "código": 406013230,
+        "código": 40601323,
         "mnemônico": "C86"
     },
     {
         "id": 772,
         "nome": "FAT COLPOCITOLOGICO",
         "preço": 0,
-        "código": 406011370,
+        "código": 40601137,
         "mnemônico": "COLPFAT"
     },
     {
         "id": 875,
         "nome": "1 PD CITOPATOLOGICO EM MEIO LIQUIDO",
         "preço": 0,
-        "código": 406013230,
+        "código": 40601323,
         "mnemônico": "CITOLIQ1"
     },
     {
         "id": 876,
         "nome": "2 PD CITOPATOLOGICO EM MEIO LIQUIDO",
         "preço": 0,
-        "código": 406013230,
+        "código": 40601323,
         "mnemônico": "CITOLIQ2"
     },
     {
         "id": 1294,
         "nome": "PAINEL INFECCOES SEXUALMENTE TRANSMISSIVEIS",
         "preço": 0,
-        "código": 406012850,
+        "código": 40601285,
         "mnemônico": "SEXT-PCR"
     },
     {
         "id": 1396,
         "nome": "1 FAT HPV DETECCAO E GENOTIPAGEM DE ALTO RISCO E BAIXO RISCO",
         "preço": 0,
-        "código": 406012930,
+        "código": 40601293,
         "mnemônico": "HPVFAT"
     },
     {
         "id": 1769,
         "nome": "PAINEL INFECCOES SEXUALMENTE TRANSMISSIVEIS",
         "preço": 0,
-        "código": 406012850,
+        "código": 40601285,
         "mnemônico": "SEXTPCR2"
     },
     {
         "id": 1770,
         "nome": "PAINEL INFECCOES SEXUALMENTE TRANSMISSIVEIS",
         "preço": 0,
-        "código": 406012850,
+        "código": 40601285,
         "mnemônico": "SEXTPCR3"
     },
     {
         "id": 1824,
         "nome": "1 FAT PAINEL INFECCOES SEXUALMENTE TRANSMISSIVEIS",
         "preço": 0,
-        "código": 406012850,
+        "código": 40601285,
         "mnemônico": "SEXTFAT"
     }
 ]

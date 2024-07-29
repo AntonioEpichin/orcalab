@@ -66,7 +66,7 @@
         "id": 1013,
         "nome": "US - ARTICULAR (POR ARTICULACAO)",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTIC"
     },
     {
@@ -108,7 +108,7 @@
         "id": 1022,
         "nome": "US - PROSTATA (VIA ABDOMINAL)",
         "preço": 0,
-        "código": 409017500,
+        "código": 40901750,
         "mnemônico": "USPROST"
     },
     {
@@ -122,49 +122,49 @@
         "id": 1033,
         "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO INFERIOR - UNILATERAL",
         "preço": 0,
-        "código": 409014750,
+        "código": 40901475,
         "mnemônico": "MARTI"
     },
     {
         "id": 1034,
         "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO INFERIOR - UNILATERAL",
         "preço": 0,
-        "código": 409014830,
+        "código": 40901483,
         "mnemônico": "MVENI"
     },
     {
         "id": 1113,
         "nome": "US - ARTICULAR (POR ARTICULACAO)",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTIC2"
     },
     {
         "id": 1114,
         "nome": "US - ARTICULAR (POR ARTICULACAO)",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTIC3"
     },
     {
         "id": 1115,
         "nome": "US - ARTICULAR (POR ARTICULACAO)",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTIC4"
     },
     {
         "id": 1259,
         "nome": "DOPPLER COLORIDO ARTERIAL DE MEMBRO INFERIOR - UNILATERAL",
         "preço": 0,
-        "código": 409014750,
+        "código": 40901475,
         "mnemônico": "MARTI2"
     },
     {
         "id": 1324,
         "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO INFERIOR - UNILATERAL",
         "preço": 0,
-        "código": 409014830,
+        "código": 40901483,
         "mnemônico": "MVENI2"
     },
     {
@@ -269,14 +269,14 @@
         "id": 1356,
         "nome": "RX - CLAVICULA",
         "preço": 0,
-        "código": 408030400,
+        "código": 40803040,
         "mnemônico": "R-CLAVIC"
     },
     {
         "id": 1358,
         "nome": "RX - COLUNA CERVICAL - 3 INCIDENCIAS",
         "preço": 0,
-        "código": 408020190,
+        "código": 40802019,
         "mnemônico": "R-COLCAP"
     },
     {
@@ -297,7 +297,7 @@
         "id": 1362,
         "nome": "RX - COLUNA LOMBO-SACRA - 5 INCIDENCIAS",
         "preço": 0,
-        "código": 408020600,
+        "código": 40802060,
         "mnemônico": "R-COLLFU"
     },
     {
@@ -367,7 +367,7 @@
         "id": 1374,
         "nome": "RX - JOELHO",
         "preço": 0,
-        "código": 408040540,
+        "código": 40804054,
         "mnemônico": "R-JAPLAT"
     },
     {
@@ -514,7 +514,7 @@
         "id": 1416,
         "nome": "RX - JOELHO",
         "preço": 0,
-        "código": 408040540,
+        "código": 40804054,
         "mnemônico": "R-JAPLA2"
     },
     {
@@ -563,7 +563,7 @@
         "id": 1487,
         "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL",
         "preço": 0,
-        "código": 408080330,
+        "código": 40808033,
         "mnemônico": "M-COVBIL"
     },
     {
@@ -577,105 +577,105 @@
         "id": 1523,
         "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR (OU DOIS SEGMENTOS)",
         "preço": 0,
-        "código": 408081300,
+        "código": 40808130,
         "mnemônico": "D-COLFEM"
     },
     {
         "id": 1552,
         "nome": "TC - MANDIBULA",
         "preço": 0,
-        "código": 410011410,
+        "código": 41001141,
         "mnemônico": "TCMAND"
     },
     {
         "id": 1553,
         "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
         "preço": 0,
-        "código": 410012250,
+        "código": 41001225,
         "mnemônico": "TCCOL2"
     },
     {
         "id": 1554,
         "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
         "preço": 0,
-        "código": 410010100,
+        "código": 41001010,
         "mnemônico": "TCCRANIO"
     },
     {
         "id": 1555,
         "nome": "TC - MASTOIDES OU ORELHAS",
         "preço": 0,
-        "código": 410010280,
+        "código": 41001028,
         "mnemônico": "TCMASOUV"
     },
     {
         "id": 1556,
         "nome": "TC - FACE OU SEIOS DA FACE",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCFACE"
     },
     {
         "id": 1557,
         "nome": "TC - PELVE OU BACIA",
         "preço": 0,
-        "código": 410011170,
+        "código": 41001117,
         "mnemônico": "TCPELBA"
     },
     {
         "id": 1558,
         "nome": "TC - ABDOME SUPERIOR",
         "preço": 0,
-        "código": 410011090,
+        "código": 41001109,
         "mnemônico": "TCABDOMS"
     },
     {
         "id": 1559,
         "nome": "TC - PESCOCO (PARTES MOLES, LARINGE, TIREOIDE, FARINGE E GLADULAS SALI",
         "preço": 0,
-        "código": 410010600,
+        "código": 41001060,
         "mnemônico": "TCPESC"
     },
     {
         "id": 1560,
         "nome": "TC - TORAX",
         "preço": 0,
-        "código": 410010790,
+        "código": 41001079,
         "mnemônico": "TCTORAX"
     },
     {
         "id": 1561,
         "nome": "TC - ABDOME TOTAL (ABDOME SUPERIOR, PELVE E RETROPERITONIO)",
         "preço": 0,
-        "código": 410010950,
+        "código": 41001095,
         "mnemônico": "TCABDOMT"
     },
     {
         "id": 1565,
         "nome": "RM - ARTICULAR (POR ATICULACAO)",
         "preço": 0,
-        "código": 630002800,
+        "código": 63000280,
         "mnemônico": "RMARTIR3"
     },
     {
         "id": 1567,
         "nome": "RM - BASE DO CRANIO",
         "preço": 0,
-        "código": 411010300,
+        "código": 41101030,
         "mnemônico": "RMBASEC"
     },
     {
         "id": 1570,
         "nome": "TC - SEGMENTO APENDICULAR (BRACO OU ANTEBRACO OU MAO OU PERNA OU PE) ",
         "preço": 0,
-        "código": 410011500,
+        "código": 41001150,
         "mnemônico": "TCSEGAP"
     },
     {
         "id": 1572,
         "nome": "TC - ARTICULACOES TEMPOROMANDIBULARES",
         "preço": 0,
-        "código": 410010440,
+        "código": 41001044,
         "mnemônico": "TCATEMPO"
     },
     {
@@ -724,7 +724,7 @@
         "id": 1658,
         "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
         "preço": 0,
-        "código": 630002910,
+        "código": 63000291,
         "mnemônico": "RMCOLCE2"
     },
     {
@@ -738,7 +738,7 @@
         "id": 1661,
         "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
         "preço": 0,
-        "código": 630002910,
+        "código": 63000291,
         "mnemônico": "RMCOLCE3"
     },
     {
@@ -787,21 +787,21 @@
         "id": 1685,
         "nome": "TC - SEGMENTO APENDICULAR (BRACO OU ANTEBRACO OU MAO OU PERNA OU PE) ",
         "preço": 0,
-        "código": 410011500,
+        "código": 41001150,
         "mnemônico": "TCSEGAP2"
     },
     {
         "id": 1687,
         "nome": "TC - TORAX",
         "preço": 0,
-        "código": 410010790,
+        "código": 41001079,
         "mnemônico": "TCTORAX2"
     },
     {
         "id": 1702,
         "nome": "RM - ARTICULAR (POR ATICULACAO)",
         "preço": 0,
-        "código": 630002800,
+        "código": 63000280,
         "mnemônico": "RMARTIR4"
     },
     {
@@ -829,7 +829,7 @@
         "id": 1724,
         "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
         "preço": 0,
-        "código": 410010100,
+        "código": 41001010,
         "mnemônico": "TCCRANI2"
     },
     {
@@ -899,7 +899,7 @@
         "id": 1852,
         "nome": "TC - SEGMENTO APENDICULAR (BRACO OU ANTEBRACO OU MAO OU PERNA OU PE) ",
         "preço": 0,
-        "código": 410011500,
+        "código": 41001150,
         "mnemônico": "TCSEGAP3"
     },
     {
@@ -934,7 +934,7 @@
         "id": 1928,
         "nome": "TC - ARTICULACOES TEMPOROMANDIBULARES",
         "preço": 0,
-        "código": 410010440,
+        "código": 41001044,
         "mnemônico": "TCATEMP2"
     },
     {

@@ -3,7 +3,7 @@
         "id": 1002,
         "nome": "US - ABDOME SUPERIOR (FIGADO, VIAS BILIARES, VESICULA, PANCREAS E BACO",
         "preço": 0,
-        "código": 409011300,
+        "código": 40901130,
         "mnemônico": "USABDSUP"
     },
     {
@@ -472,98 +472,98 @@
         "id": 1551,
         "nome": "TC - CONTRASTE",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCCONTR"
     },
     {
         "id": 1552,
         "nome": "TC - MANDIBULA",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCMAND"
     },
     {
         "id": 1553,
         "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCCOL2"
     },
     {
         "id": 1554,
         "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCCRANIO"
     },
     {
         "id": 1555,
         "nome": "TC - MASTOIDES OU ORELHAS",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCMASOUV"
     },
     {
         "id": 1556,
         "nome": "TC - FACE OU SEIOS DA FACE",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCFACE"
     },
     {
         "id": 1557,
         "nome": "TC - PELVE OU BACIA",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCPELBA"
     },
     {
         "id": 1558,
         "nome": "TC - ABDOME SUPERIOR",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCABDOMS"
     },
     {
         "id": 1559,
         "nome": "TC - PESCOCO (PARTES MOLES, LARINGE, TIREOIDE, FARINGE E GLADULAS SALI",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCPESC"
     },
     {
         "id": 1560,
         "nome": "TC - TORAX",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCTORAX"
     },
     {
         "id": 1561,
         "nome": "TC - ABDOME TOTAL (ABDOME SUPERIOR, PELVE E RETROPERITONIO)",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCABDOMT"
     },
     {
         "id": 1570,
         "nome": "TC - SEGMENTO APENDICULAR (BRACO OU ANTEBRACO OU MAO OU PERNA OU PE) ",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCSEGAP"
     },
     {
         "id": 1571,
         "nome": "TC - ARTICULACAO (ESTERNOCLAVICULAR OU OMBRO OU COTOVELO OU PUNHO OU S",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCAMINF"
     },
     {
         "id": 1572,
         "nome": "TC - ARTICULACOES TEMPOROMANDIBULARES",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCATEMPO"
     },
     {
@@ -598,7 +598,7 @@
         "id": 1656,
         "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCCOL"
     },
     {
@@ -626,7 +626,7 @@
         "id": 1674,
         "nome": "TC - ARTICULACAO (ESTERNOCLAVICULAR OU OMBRO OU COTOVELO OU PUNHO OU S",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCAMINF2"
     },
     {
@@ -647,7 +647,7 @@
         "id": 1680,
         "nome": "COLUNA - SEGMENTO ADICIONAL - TC",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCSEGA"
     },
     {
@@ -661,42 +661,42 @@
         "id": 1685,
         "nome": "TC - SEGMENTO APENDICULAR (BRACO OU ANTEBRACO OU MAO OU PERNA OU PE) ",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCSEGAP2"
     },
     {
         "id": 1687,
         "nome": "TC - TORAX",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCTORAX2"
     },
     {
         "id": 1688,
         "nome": "BIOPSIA DE PROSTATA GUIADA POR US OU TC",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "BIOPROS"
     },
     {
         "id": 1699,
         "nome": "COLUNA - SEGMENTO ADICIONAL - TC",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCSEGA2"
     },
     {
         "id": 1700,
         "nome": "COLUNA - SEGMENTO ADICIONAL - TC",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCSEGA3"
     },
     {
         "id": 1708,
         "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCCOL3"
     },
     {
@@ -717,14 +717,14 @@
         "id": 1724,
         "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCCRANI2"
     },
     {
         "id": 1852,
         "nome": "TC - SEGMENTO APENDICULAR (BRACO OU ANTEBRACO OU MAO OU PERNA OU PE) ",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCSEGAP3"
     },
     {
@@ -738,21 +738,21 @@
         "id": 1917,
         "nome": "TC - ARTICULACAO (ESTERNOCLAVICULAR OU OMBRO OU COTOVELO OU PUNHO OU S",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCAMINF3"
     },
     {
         "id": 1918,
         "nome": "TC - ARTICULACAO (ESTERNOCLAVICULAR OU OMBRO OU COTOVELO OU PUNHO OU S",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCAMINF4"
     },
     {
         "id": 1928,
         "nome": "TC - ARTICULACOES TEMPOROMANDIBULARES",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCATEMP2"
     }
 ]

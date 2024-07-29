@@ -80,7 +80,7 @@
         "id": 1353,
         "nome": "RX - BACIA",
         "preço": 0,
-        "código": 408040110,
+        "código": 40804011,
         "mnemônico": "R-BAAP"
     },
     {
@@ -94,7 +94,7 @@
         "id": 1355,
         "nome": "RX - CALCANEO",
         "preço": 0,
-        "código": 408041000,
+        "código": 40804100,
         "mnemônico": "R-CALCA"
     },
     {
@@ -115,7 +115,7 @@
         "id": 1358,
         "nome": "RX - COLUNA CERVICAL - 3 INCIDENCIAS",
         "preço": 0,
-        "código": 408020190,
+        "código": 40802019,
         "mnemônico": "R-COLCAP"
     },
     {
@@ -129,14 +129,14 @@
         "id": 1360,
         "nome": "RX - COLUNA DORSAL - 2 INCIDENCIAS",
         "preço": 0,
-        "código": 408020350,
+        "código": 40802035,
         "mnemônico": "R-COLDAP"
     },
     {
         "id": 1361,
         "nome": "RX - COLUNA LOMBO-SACRA - 3 INCIDENCIAS",
         "preço": 0,
-        "código": 408020510,
+        "código": 40802051,
         "mnemônico": "R-COLLSA"
     },
     {
@@ -171,7 +171,7 @@
         "id": 1366,
         "nome": "RX - COTOVELO",
         "preço": 0,
-        "código": 408030900,
+        "código": 40803090,
         "mnemônico": "R-COTOV"
     },
     {
@@ -227,7 +227,7 @@
         "id": 1374,
         "nome": "RX - JOELHO",
         "preço": 0,
-        "código": 408040540,
+        "código": 40804054,
         "mnemônico": "R-JAPLAT"
     },
     {
@@ -269,7 +269,7 @@
         "id": 1380,
         "nome": "RX - OMOPLATA OU ESCAPULA",
         "preço": 0,
-        "código": 408030580,
+        "código": 40803058,
         "mnemônico": "R-OMOFUN"
     },
     {
@@ -346,14 +346,14 @@
         "id": 1391,
         "nome": "RX - TORAX - 1 INCIDENCIA",
         "preço": 0,
-        "código": 408050180,
+        "código": 40805018,
         "mnemônico": "R-TXPA"
     },
     {
         "id": 1392,
         "nome": "RX - TORAX - 2 INCIDENCIAS ",
         "preço": 0,
-        "código": 408050260,
+        "código": 40805026,
         "mnemônico": "R-TXPALA"
     },
     {
@@ -465,7 +465,7 @@
         "id": 1487,
         "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL",
         "preço": 0,
-        "código": 408080330,
+        "código": 40808033,
         "mnemônico": "M-COVBIL"
     },
     {
@@ -486,7 +486,7 @@
         "id": 1523,
         "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR (OU DOIS SEGMENTOS)",
         "preço": 0,
-        "código": 408081300,
+        "código": 40808130,
         "mnemônico": "D-COLFEM"
     },
     {
@@ -507,7 +507,7 @@
         "id": 1554,
         "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
         "preço": 0,
-        "código": 410010100,
+        "código": 41001010,
         "mnemônico": "TCCRANIO"
     },
     {
@@ -556,7 +556,7 @@
         "id": 1561,
         "nome": "TC - ABDOME TOTAL (ABDOME SUPERIOR, PELVE E RETROPERITONIO)",
         "preço": 0,
-        "código": 410010950,
+        "código": 41001095,
         "mnemônico": "TCABDOMT"
     },
     {
@@ -626,7 +626,7 @@
         "id": 1580,
         "nome": "RX - CALCANEO",
         "preço": 0,
-        "código": 408041000,
+        "código": 40804100,
         "mnemônico": "R-CALCA2"
     },
     {
@@ -675,7 +675,7 @@
         "id": 1665,
         "nome": "RX - COTOVELO",
         "preço": 0,
-        "código": 408030900,
+        "código": 40803090,
         "mnemônico": "R-COTOV2"
     },
     {
@@ -759,7 +759,7 @@
         "id": 1724,
         "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
         "preço": 0,
-        "código": 410010100,
+        "código": 41001010,
         "mnemônico": "TCCRANI2"
     },
     {

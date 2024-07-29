@@ -3,189 +3,189 @@
         "id": 54,
         "nome": "HEPATITE B - HBSAC - (ANTI ANTIGENO DE SUPERFICIE)",
         "preço": 0,
-        "código": 403069920,
+        "código": 40306992,
         "mnemônico": "AHBS"
     },
     {
         "id": 59,
         "nome": "HEPATITE B - HBSAG - (AU, ANTIGENO AUSTRALIA) ",
         "preço": 0,
-        "código": 403070180,
+        "código": 40307018,
         "mnemônico": "AU"
     },
     {
         "id": 109,
         "nome": "HIV1+ HIV2",
         "preço": 0,
-        "código": 403071720,
+        "código": 40307172,
         "mnemônico": "HIV"
     },
     {
         "id": 129,
         "nome": "HCV (ANTICORPOS CONTRA O VIRUS DA HEPATITE C)",
         "preço": 0,
-        "código": 403070260,
+        "código": 40307026,
         "mnemônico": "HVC"
     },
     {
         "id": 151,
         "nome": "PSA TOTAL - ANTIGENO PROSTATICO ESPECIFICO",
         "preço": 0,
-        "código": 403161490,
+        "código": 40316149,
         "mnemônico": "PSA"
     },
     {
         "id": 166,
         "nome": "HEPATITE B - HBEAG - (ANTIGENO \"E\")",
         "preço": 0,
-        "código": 403069840,
+        "código": 40306984,
         "mnemônico": "HBEAG"
     },
     {
         "id": 182,
         "nome": "GLICOSE - 2 HORAS POS PRANDIAL",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GP"
     },
     {
         "id": 242,
         "nome": "GLICOSE - 3 HORAS POS PRANDIAL",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GBPP3H"
     },
     {
         "id": 374,
         "nome": "COCAINA - URINA RECENTE",
         "preço": 0,
-        "código": 403015750,
+        "código": 40301575,
         "mnemônico": "COCAINA"
     },
     {
         "id": 375,
         "nome": "TETRAHIDROCANABINOL (MACONHA) - URINA RECENTE",
         "preço": 0,
-        "código": 403220920,
+        "código": 40322092,
         "mnemônico": "MACONHA"
     },
     {
         "id": 376,
         "nome": "OPIACEOS - URINA RECENTE",
         "preço": 0,
-        "código": 403214440,
+        "código": 40321444,
         "mnemônico": "OPIACEOS"
     },
     {
         "id": 416,
         "nome": "ALBUMINURIA - URINA RECENTE",
         "preço": 0,
-        "código": 403111710,
+        "código": 40311171,
         "mnemônico": "ALBU"
     },
     {
         "id": 465,
         "nome": "ANFETAMINAS - URINA RECENTE",
         "preço": 0,
-        "código": 403013380,
+        "código": 40301338,
         "mnemônico": "ANFE"
     },
     {
         "id": 535,
         "nome": "HEMOGRAMA COMPLETO",
         "preço": 0,
-        "código": 403043610,
+        "código": 40304361,
         "mnemônico": "HEM"
     },
     {
         "id": 544,
         "nome": "VHS - VELOCIDADE DE HEMOSSEDIMENTACAO",
         "preço": 0,
-        "código": 403043700,
+        "código": 40304370,
         "mnemônico": "VHS"
     },
     {
         "id": 565,
         "nome": "ASPARTATO AMINOTRANSFERASE (TGO, AST)",
         "preço": 0,
-        "código": 403025040,
+        "código": 40302504,
         "mnemônico": "TGO"
     },
     {
         "id": 566,
         "nome": "ALANINA AMINOTRANSFERASE (TGP, ALT)",
         "preço": 0,
-        "código": 403025120,
+        "código": 40302512,
         "mnemônico": "TGP"
     },
     {
         "id": 567,
         "nome": "TRIGLICERIDEOS",
         "preço": 0,
-        "código": 403027500,
+        "código": 40302750,
         "mnemônico": "TRI"
     },
     {
         "id": 568,
         "nome": "UREIA",
         "preço": 0,
-        "código": 403025800,
+        "código": 40302580,
         "mnemônico": "URE"
     },
     {
         "id": 574,
         "nome": "HEMOGLOBINA GLICADA (FRACAO A1C) ",
         "preço": 0,
-        "código": 403027330,
+        "código": 40302733,
         "mnemônico": "HG"
     },
     {
         "id": 577,
         "nome": "GLICOSE",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GB"
     },
     {
         "id": 579,
         "nome": "COLESTEROL (HDL) ",
         "preço": 0,
-        "código": 403015830,
+        "código": 40301583,
         "mnemônico": "HDL"
     },
     {
         "id": 582,
         "nome": "GAMA-GLUTAMIL TRANSFERASE ",
         "preço": 0,
-        "código": 403019900,
+        "código": 40301990,
         "mnemônico": "GT"
     },
     {
         "id": 591,
         "nome": "CREATININA ",
         "preço": 0,
-        "código": 403016300,
+        "código": 40301630,
         "mnemônico": "CREA"
     },
     {
         "id": 592,
         "nome": "COLESTEROL TOTAL ",
         "preço": 0,
-        "código": 403016050,
+        "código": 40301605,
         "mnemônico": "COL"
     },
     {
         "id": 778,
         "nome": "GLICOSE",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GBM"
     },
     {
         "id": 907,
         "nome": "EAS - EXAME DE URINA",
         "preço": 0,
-        "código": 403112100,
+        "código": 40311210,
         "mnemônico": "EAS"
     },
     {
@@ -199,133 +199,133 @@
         "id": 1151,
         "nome": "GLICOSE - 1 HORA POS PRANDIAL ",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GBPP1H"
     },
     {
         "id": 1193,
         "nome": "GLICOSE - CAPILAR",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GB-C"
     },
     {
         "id": 1258,
         "nome": "COTININA ",
         "preço": 0,
-        "código": 403214360,
+        "código": 40321436,
         "mnemônico": "COTINI"
     },
     {
         "id": 1291,
         "nome": "HEMOGRAMA COMPLETO (CITRATO)",
         "preço": 0,
-        "código": 403043610,
+        "código": 40304361,
         "mnemônico": "HEMSE"
     },
     {
         "id": 1836,
         "nome": "HEMOGLOBINA GLICADA (1A TOTAL) ",
         "preço": 0,
-        "código": 403020750,
+        "código": 40302075,
         "mnemônico": "HG1AT"
     },
     {
         "id": 1837,
         "nome": "HIV1 OU HIV2",
         "preço": 0,
-        "código": 403071740,
+        "código": 40307174,
         "mnemônico": "HIV1OU2"
     },
     {
         "id": 1842,
         "nome": "ANTIGENO AUSTRALIA (HBSAG)",
         "preço": 0,
-        "código": 403161140,
+        "código": 40316114,
         "mnemônico": "HBSAG"
     },
     {
         "id": 1861,
         "nome": "HEPATITE C - ANTI-HCV",
         "preço": 0,
-        "código": 403070260,
+        "código": 40307026,
         "mnemônico": "HCV"
     },
     {
         "id": 1891,
         "nome": "BNP - PEPTIDEO NATRIURETICO",
         "preço": 0,
-        "código": 403027760,
+        "código": 40302776,
         "mnemônico": "BNP"
     },
     {
         "id": 1892,
         "nome": "PBNP - PRO BNP - N - TERMINAL",
         "preço": 0,
-        "código": 403027760,
+        "código": 40302776,
         "mnemônico": "PBNP"
     },
     {
         "id": 2013,
         "nome": "CREATININA POS DIALISE",
         "preço": 0,
-        "código": 403016300,
+        "código": 40301630,
         "mnemônico": "CREA-PD"
     },
     {
         "id": 2014,
         "nome": "GLICOSE POS DIALISE",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GB-PD"
     },
     {
         "id": 2057,
         "nome": "HEMOGRAMA COMPLETO (SEM ANTICOAGULANTE)",
         "preço": 0,
-        "código": 403043610,
+        "código": 40304361,
         "mnemônico": "HEMSA"
     },
     {
         "id": 2144,
         "nome": "HEPATITE B - HBSAG - (AU, ANTIGENO AUSTRALIA) ",
         "preço": 0,
-        "código": 403070180,
+        "código": 40307018,
         "mnemônico": "AAUE"
     },
     {
         "id": 2148,
         "nome": "HEPATITE C - ANTI-HCV",
         "preço": 0,
-        "código": 403070260,
+        "código": 40307026,
         "mnemônico": "AHCVE"
     },
     {
         "id": 2171,
         "nome": "HEPATITE B - HBEAG - (ANTIGENO \"E\")",
         "preço": 0,
-        "código": 403069840,
+        "código": 40306984,
         "mnemônico": "HBEAGE"
     },
     {
         "id": 2172,
         "nome": "HEPATITE B - HBSAC - (ANTI ANTIGENO DE SUPERFICIE)",
         "preço": 0,
-        "código": 403069920,
+        "código": 40306992,
         "mnemônico": "HBQLE"
     },
     {
         "id": 2174,
         "nome": "HIV1+ HIV2",
         "preço": 0,
-        "código": 403071720,
+        "código": 40307172,
         "mnemônico": "HIV1E"
     },
     {
         "id": 2189,
         "nome": "PSA TOTAL - ANTIGENO PROSTATICO ESPECIFICO",
         "preço": 0,
-        "código": 403161490,
+        "código": 40316149,
         "mnemônico": "PSATE"
     }
 ]

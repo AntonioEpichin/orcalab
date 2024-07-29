@@ -1914,7 +1914,7 @@
         "id": 474,
         "nome": "TIREOGLOBULINA - PUNCAO (1ª AMOSTRA)",
         "preço": 0,
-        "código": 21010021,
+        "código": null,
         "mnemônico": "TIRECER1"
     },
     {
@@ -4336,14 +4336,14 @@
         "id": 974,
         "nome": "TIREOGLOBULINA - PUNCAO (2ª AMOSTRA)",
         "preço": 0,
-        "código": 21010021,
+        "código": null,
         "mnemônico": "TIRECER2"
     },
     {
         "id": 975,
         "nome": "TIREOGLOBULINA - PUNCAO (3ª AMOSTRA)",
         "preço": 0,
-        "código": 21010021,
+        "código": null,
         "mnemônico": "TIRECER3"
     },
     {
@@ -4917,7 +4917,7 @@
         "id": 1252,
         "nome": "TIREOGLOBULINA - PUNCAO (4ª AMOSTRA)",
         "preço": 0,
-        "código": 21010021,
+        "código": null,
         "mnemônico": "TIRECER4"
     },
     {

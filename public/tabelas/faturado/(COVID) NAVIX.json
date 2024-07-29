@@ -3,21 +3,21 @@
         "id": 1403,
         "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR",
         "preço": 0,
-        "código": 403146180,
+        "código": 40314618,
         "mnemônico": "COVID-DT"
     },
     {
         "id": 1468,
         "nome": "SARS-COV-2 (CORONAVIRUS COVID-19) POR PCR - LAUDO INGLES",
         "preço": 0,
-        "código": 403146180,
+        "código": 40314618,
         "mnemônico": "COVIDING"
     },
     {
         "id": 1703,
         "nome": "COVID-19 - TESTE RAPIDO",
         "preço": 0,
-        "código": 403250240,
+        "código": 40325024,
         "mnemônico": "TRCOVID"
     }
 ]

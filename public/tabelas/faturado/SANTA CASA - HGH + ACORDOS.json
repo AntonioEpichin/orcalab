@@ -3,91 +3,91 @@
         "id": 29,
         "nome": "TSH - HORMONIO TIREOESTIMULANTE ",
         "preço": 0,
-        "código": 403165210,
+        "código": 40316521,
         "mnemônico": "TSH"
     },
     {
         "id": 87,
         "nome": "DISMORFISMO ERITROCITARIO - URINA RECENTE",
         "preço": 0,
-        "código": 403111040,
+        "código": 40311104,
         "mnemônico": "DISMO"
     },
     {
         "id": 254,
         "nome": "SOMATOMEDINA C (IGF1)",
         "preço": 0,
-        "código": 403164400,
+        "código": 40316440,
         "mnemônico": "SOMATOME"
     },
     {
         "id": 577,
         "nome": "GLICOSE",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GB"
     },
     {
         "id": 609,
         "nome": "LACTOSE TESTE DE TOLERANCIA - 3 DOSAGENS (J.30.60)",
         "preço": 0,
-        "código": 403021640,
+        "código": 40302164,
         "mnemônico": "LAC3"
     },
     {
         "id": 1155,
         "nome": "BETA CAROTENO",
         "preço": 0,
-        "código": 403014600,
+        "código": 40301460,
         "mnemônico": "BTC"
     },
     {
         "id": 1233,
         "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.20.40.60.90)",
         "preço": 0,
-        "código": 403162030,
+        "código": 40316203,
         "mnemônico": "GH3-INS"
     },
     {
         "id": 1234,
         "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 5 DOSAGENS (J.30.60.90.120)",
         "preço": 0,
-        "código": 403162030,
+        "código": 40316203,
         "mnemônico": "GH2-CLO"
     },
     {
         "id": 1236,
         "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 4 DOSAGENS (J.60.90.120)",
         "preço": 0,
-        "código": 403162030,
+        "código": 40316203,
         "mnemônico": "GH1-LEV"
     },
     {
         "id": 1249,
         "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.60.90.120)",
         "preço": 0,
-        "código": 403162030,
+        "código": 40316203,
         "mnemônico": "GH3-CLO"
     },
     {
         "id": 1251,
         "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.30.60.90)",
         "preço": 0,
-        "código": 403174630,
+        "código": 40317463,
         "mnemônico": "GH4-CLO"
     },
     {
         "id": 1260,
         "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.60.90.120)",
         "preço": 0,
-        "código": 403171880,
+        "código": 40317188,
         "mnemônico": "GH4-INS"
     },
     {
         "id": 1293,
         "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 5 DOSAGENS (J.30.60.90.120)",
         "preço": 0,
-        "código": 403162030,
+        "código": 40316203,
         "mnemônico": "GH2-LEV"
     },
     {
@@ -108,105 +108,105 @@
         "id": 1586,
         "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.15.30.60)",
         "preço": 0,
-        "código": 403162030,
+        "código": 40316203,
         "mnemônico": "GH13-INS"
     },
     {
         "id": 1987,
         "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 7 DOSANG.(J.15.30.45,60.90.120)",
         "preço": 0,
-        "código": 403162030,
+        "código": 40316203,
         "mnemônico": "GH21-INS"
     },
     {
         "id": 2050,
         "nome": "GH COM SUPRESSAO DE DEXTROSOL - 4 DOSAGENS (J.30.60.90)",
         "preço": 0,
-        "código": 403162030,
+        "código": 40316203,
         "mnemônico": "GHDEX4D"
     },
     {
         "id": 2131,
         "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 5 DOSAGENS (J.60.90.120.150)",
         "preço": 0,
-        "código": 403162030,
+        "código": 40316203,
         "mnemônico": "GH5-LEV"
     },
     {
         "id": 2179,
         "nome": "SOMATOMEDINA C (IGF1)",
         "preço": 0,
-        "código": 403164400,
+        "código": 40316440,
         "mnemônico": "IGF1E"
     },
     {
         "id": 2235,
         "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.30.60.90)",
         "preço": 0,
-        "código": 403174630,
+        "código": 40317463,
         "mnemônico": "TEGH6"
     },
     {
         "id": 2236,
         "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 5 DOSAGENS (J.60.90.120.150)",
         "preço": 0,
-        "código": 403162030,
+        "código": 40316203,
         "mnemônico": "TEGH54"
     },
     {
         "id": 2238,
         "nome": "TESTE DE ESTIMULO DE GH COM LEVODOPA - 4 DOSAGENS (J.60.90.120)",
         "preço": 0,
-        "código": 403162030,
+        "código": 40316203,
         "mnemônico": "TEGH52"
     },
     {
         "id": 2241,
         "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 4 DOSAGENS (J.60.90.120)",
         "preço": 0,
-        "código": 403162030,
+        "código": 40316203,
         "mnemônico": "TEGH11"
     },
     {
         "id": 2243,
         "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 7 DOSANG.(J.15.30.45,60.90.120)",
         "preço": 0,
-        "código": 403162030,
+        "código": 40316203,
         "mnemônico": "TEGH50"
     },
     {
         "id": 2245,
         "nome": "TESTE DE ESTIMULO DE GH COM CLONIDINA - 5 DOSAGENS (J.30.60.90.120)",
         "preço": 0,
-        "código": 403162030,
+        "código": 40316203,
         "mnemônico": "TEGH14"
     },
     {
         "id": 2250,
         "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 5 DOSAGENS (J.20.40.60.90)",
         "preço": 0,
-        "código": 403162030,
+        "código": 40316203,
         "mnemônico": "TEGH44"
     },
     {
         "id": 2254,
         "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.60.90.120)",
         "preço": 0,
-        "código": 403171880,
+        "código": 40317188,
         "mnemônico": "TEGH39"
     },
     {
         "id": 2261,
         "nome": "TESTE DE ESTIMULO DE GH COM INSULINA - 4 DOSAGENS (J.15.30.60)",
         "preço": 0,
-        "código": 403162030,
+        "código": 40316203,
         "mnemônico": "TEGH32"
     },
     {
         "id": 2278,
         "nome": "TSH - HORMONIO TIREOESTIMULANTE ",
         "preço": 0,
-        "código": 403165210,
+        "código": 40316521,
         "mnemônico": "TSHE"
     }
 ]

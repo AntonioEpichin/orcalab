@@ -199,21 +199,21 @@
         "id": 1373,
         "nome": "RX - PATELA",
         "preço": 0,
-        "código": 408040620,
+        "código": 40804062,
         "mnemônico": "R-PATEL2"
     },
     {
         "id": 1374,
         "nome": "RX - JOELHO",
         "preço": 0,
-        "código": 408040540,
+        "código": 40804054,
         "mnemônico": "R-JAPLAT"
     },
     {
         "id": 1376,
         "nome": "RX - MAO OU QUIRODACTILOS",
         "preço": 0,
-        "código": 408031200,
+        "código": 40803120,
         "mnemônico": "R-MQUIR"
     },
     {
@@ -255,7 +255,7 @@
         "id": 1385,
         "nome": "RX - PATELA",
         "preço": 0,
-        "código": 408040620,
+        "código": 40804062,
         "mnemônico": "R-PATELA"
     },
     {
@@ -276,7 +276,7 @@
         "id": 1388,
         "nome": "RX - PUNHO",
         "preço": 0,
-        "código": 408031120,
+        "código": 40803112,
         "mnemônico": "R-PUNOB"
     },
     {
@@ -311,7 +311,7 @@
         "id": 1393,
         "nome": "RX - TORAX - 3 INCIDENCIAS",
         "preço": 0,
-        "código": 408050340,
+        "código": 40805034,
         "mnemônico": "R-TXINEX"
     },
     {
@@ -353,21 +353,21 @@
         "id": 1412,
         "nome": "RX - PUNHO",
         "preço": 0,
-        "código": 408031120,
+        "código": 40803112,
         "mnemônico": "R-PUNOB2"
     },
     {
         "id": 1415,
         "nome": "RX - MAO OU QUIRODACTILOS",
         "preço": 0,
-        "código": 408031200,
+        "código": 40803120,
         "mnemônico": "R-MQUIR2"
     },
     {
         "id": 1416,
         "nome": "RX - JOELHO",
         "preço": 0,
-        "código": 408040540,
+        "código": 40804054,
         "mnemônico": "R-JAPLA2"
     },
     {
@@ -388,7 +388,7 @@
         "id": 1487,
         "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL",
         "preço": 0,
-        "código": 408080330,
+        "código": 40808033,
         "mnemônico": "M-COVBIL"
     },
     {
@@ -409,105 +409,105 @@
         "id": 1523,
         "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR (OU DOIS SEGMENTOS)",
         "preço": 0,
-        "código": 408081300,
+        "código": 40808130,
         "mnemônico": "D-COLFEM"
     },
     {
         "id": 1552,
         "nome": "TC - MANDIBULA",
         "preço": 0,
-        "código": 410011410,
+        "código": 41001141,
         "mnemônico": "TCMAND"
     },
     {
         "id": 1553,
         "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
         "preço": 0,
-        "código": 410011250,
+        "código": 41001125,
         "mnemônico": "TCCOL2"
     },
     {
         "id": 1554,
         "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
         "preço": 0,
-        "código": 410010100,
+        "código": 41001010,
         "mnemônico": "TCCRANIO"
     },
     {
         "id": 1555,
         "nome": "TC - MASTOIDES OU ORELHAS",
         "preço": 0,
-        "código": 410010280,
+        "código": 41001028,
         "mnemônico": "TCMASOUV"
     },
     {
         "id": 1556,
         "nome": "TC - FACE OU SEIOS DA FACE",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCFACE"
     },
     {
         "id": 1557,
         "nome": "TC - PELVE OU BACIA",
         "preço": 0,
-        "código": 410011170,
+        "código": 41001117,
         "mnemônico": "TCPELBA"
     },
     {
         "id": 1558,
         "nome": "TC - ABDOME SUPERIOR",
         "preço": 0,
-        "código": 410010950,
+        "código": 41001095,
         "mnemônico": "TCABDOMS"
     },
     {
         "id": 1559,
         "nome": "TC - PESCOCO (PARTES MOLES, LARINGE, TIREOIDE, FARINGE E GLADULAS SALI",
         "preço": 0,
-        "código": 410010600,
+        "código": 41001060,
         "mnemônico": "TCPESC"
     },
     {
         "id": 1560,
         "nome": "TC - TORAX",
         "preço": 0,
-        "código": 410010790,
+        "código": 41001079,
         "mnemônico": "TCTORAX"
     },
     {
         "id": 1561,
         "nome": "TC - ABDOME TOTAL (ABDOME SUPERIOR, PELVE E RETROPERITONIO)",
         "preço": 0,
-        "código": 410010950,
+        "código": 41001095,
         "mnemônico": "TCABDOMT"
     },
     {
         "id": 1565,
         "nome": "RM - ARTICULAR (POR ATICULACAO)",
         "preço": 0,
-        "código": 630002800,
+        "código": 63000280,
         "mnemônico": "RMARTIR3"
     },
     {
         "id": 1570,
         "nome": "TC - SEGMENTO APENDICULAR (BRACO OU ANTEBRACO OU MAO OU PERNA OU PE) ",
         "preço": 0,
-        "código": 410011500,
+        "código": 41001150,
         "mnemônico": "TCSEGAP"
     },
     {
         "id": 1571,
         "nome": "TC - ARTICULACAO (ESTERNOCLAVICULAR OU OMBRO OU COTOVELO OU PUNHO OU S",
         "preço": 0,
-        "código": 410011410,
+        "código": 41001141,
         "mnemônico": "TCAMINF"
     },
     {
         "id": 1572,
         "nome": "TC - ARTICULACOES TEMPOROMANDIBULARES",
         "preço": 0,
-        "código": 410010440,
+        "código": 41001044,
         "mnemônico": "TCATEMPO"
     },
     {
@@ -542,14 +542,14 @@
         "id": 1656,
         "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
         "preço": 0,
-        "código": 410011250,
+        "código": 41001125,
         "mnemônico": "TCCOL"
     },
     {
         "id": 1658,
         "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
         "preço": 0,
-        "código": 630002910,
+        "código": 63000291,
         "mnemônico": "RMCOLCE2"
     },
     {
@@ -563,7 +563,7 @@
         "id": 1661,
         "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
         "preço": 0,
-        "código": 630002910,
+        "código": 63000291,
         "mnemônico": "RMCOLCE3"
     },
     {
@@ -584,7 +584,7 @@
         "id": 1674,
         "nome": "TC - ARTICULACAO (ESTERNOCLAVICULAR OU OMBRO OU COTOVELO OU PUNHO OU S",
         "preço": 0,
-        "código": 410011410,
+        "código": 41001141,
         "mnemônico": "TCAMINF2"
     },
     {
@@ -612,28 +612,28 @@
         "id": 1685,
         "nome": "TC - SEGMENTO APENDICULAR (BRACO OU ANTEBRACO OU MAO OU PERNA OU PE) ",
         "preço": 0,
-        "código": 410011500,
+        "código": 41001150,
         "mnemônico": "TCSEGAP2"
     },
     {
         "id": 1687,
         "nome": "TC - TORAX",
         "preço": 0,
-        "código": 410010790,
+        "código": 41001079,
         "mnemônico": "TCTORAX2"
     },
     {
         "id": 1702,
         "nome": "RM - ARTICULAR (POR ATICULACAO)",
         "preço": 0,
-        "código": 630002800,
+        "código": 63000280,
         "mnemônico": "RMARTIR4"
     },
     {
         "id": 1708,
         "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
         "preço": 0,
-        "código": 410011250,
+        "código": 41001125,
         "mnemônico": "TCCOL3"
     },
     {
@@ -654,35 +654,35 @@
         "id": 1724,
         "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
         "preço": 0,
-        "código": 410010100,
+        "código": 41001010,
         "mnemônico": "TCCRANI2"
     },
     {
         "id": 1852,
         "nome": "TC - SEGMENTO APENDICULAR (BRACO OU ANTEBRACO OU MAO OU PERNA OU PE) ",
         "preço": 0,
-        "código": 410011500,
+        "código": 41001150,
         "mnemônico": "TCSEGAP3"
     },
     {
         "id": 1917,
         "nome": "TC - ARTICULACAO (ESTERNOCLAVICULAR OU OMBRO OU COTOVELO OU PUNHO OU S",
         "preço": 0,
-        "código": 410011410,
+        "código": 41001141,
         "mnemônico": "TCAMINF3"
     },
     {
         "id": 1918,
         "nome": "TC - ARTICULACAO (ESTERNOCLAVICULAR OU OMBRO OU COTOVELO OU PUNHO OU S",
         "preço": 0,
-        "código": 410011410,
+        "código": 41001141,
         "mnemônico": "TCAMINF4"
     },
     {
         "id": 1928,
         "nome": "TC - ARTICULACOES TEMPOROMANDIBULARES",
         "preço": 0,
-        "código": 410010440,
+        "código": 41001044,
         "mnemônico": "TCATEMP2"
     }
 ]

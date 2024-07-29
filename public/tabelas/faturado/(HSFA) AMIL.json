@@ -3,112 +3,112 @@
         "id": 1001,
         "nome": "US - ABDOME TOTAL (ABDOME SUPERIOR, RINS, BEXIGA, AORTA, VEIA CAVA INF",
         "preço": 0,
-        "código": 409011220,
+        "código": 40901122,
         "mnemônico": "USABDOME"
     },
     {
         "id": 1002,
         "nome": "US - ABDOME SUPERIOR (FIGADO, VIAS BILIARES, VESICULA, PANCREAS E BACO",
         "preço": 0,
-        "código": 409011300,
+        "código": 40901130,
         "mnemônico": "USABDSUP"
     },
     {
         "id": 1034,
         "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO INFERIOR - UNILATERAL",
         "preço": 0,
-        "código": 409014830,
+        "código": 40901483,
         "mnemônico": "MVENI"
     },
     {
         "id": 1324,
         "nome": "DOPPLER COLORIDO VENOSO DE MEMBRO INFERIOR - UNILATERAL",
         "preço": 0,
-        "código": 409014830,
+        "código": 40901483,
         "mnemônico": "MVENI2"
     },
     {
         "id": 1382,
         "nome": "RX - OSSOS DA FACE",
         "preço": 0,
-        "código": 408010980,
+        "código": 40801098,
         "mnemônico": "R-OFACE"
     },
     {
         "id": 1389,
         "nome": "RX - SEIOS DA FACE",
         "preço": 0,
-        "código": 408010630,
+        "código": 40801063,
         "mnemônico": "R-SEFMN"
     },
     {
         "id": 1391,
         "nome": "RX - TORAX - 1 INCIDENCIA",
         "preço": 0,
-        "código": 408050180,
+        "código": 40805018,
         "mnemônico": "R-TXPA"
     },
     {
         "id": 1392,
         "nome": "RX - TORAX - 2 INCIDENCIAS ",
         "preço": 0,
-        "código": 408050260,
+        "código": 40805026,
         "mnemônico": "R-TXPALA"
     },
     {
         "id": 1553,
         "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
         "preço": 0,
-        "código": 410011250,
+        "código": 41001125,
         "mnemônico": "TCCOL2"
     },
     {
         "id": 1554,
         "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
         "preço": 0,
-        "código": 410010100,
+        "código": 41001010,
         "mnemônico": "TCCRANIO"
     },
     {
         "id": 1560,
         "nome": "TC - TORAX",
         "preço": 0,
-        "código": 410010790,
+        "código": 41001079,
         "mnemônico": "TCTORAX"
     },
     {
         "id": 1561,
         "nome": "TC - ABDOME TOTAL (ABDOME SUPERIOR, PELVE E RETROPERITONIO)",
         "preço": 0,
-        "código": 410010950,
+        "código": 41001095,
         "mnemônico": "TCABDOMT"
     },
     {
         "id": 1656,
         "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
         "preço": 0,
-        "código": 410011250,
+        "código": 41001125,
         "mnemônico": "TCCOL"
     },
     {
         "id": 1658,
         "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
         "preço": 0,
-        "código": 411012270,
+        "código": 41101227,
         "mnemônico": "RMCOLCE2"
     },
     {
         "id": 1661,
         "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
         "preço": 0,
-        "código": 411012270,
+        "código": 41101227,
         "mnemônico": "RMCOLCE3"
     },
     {
         "id": 1687,
         "nome": "TC - TORAX",
         "preço": 0,
-        "código": 410010790,
+        "código": 41001079,
         "mnemônico": "TCTORAX2"
     },
     {
@@ -122,14 +122,14 @@
         "id": 1708,
         "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
         "preço": 0,
-        "código": 410011250,
+        "código": 41001125,
         "mnemônico": "TCCOL3"
     },
     {
         "id": 1724,
         "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
         "preço": 0,
-        "código": 410010100,
+        "código": 41001010,
         "mnemônico": "TCCRANI2"
     }
 ]

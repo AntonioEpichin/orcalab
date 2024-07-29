@@ -3,28 +3,28 @@
         "id": 1477,
         "nome": "DENSITOMETRIA OSSEA (1 SEGMENTO)",
         "preço": 0,
-        "código": 408081220,
+        "código": 40808122,
         "mnemônico": "D-OSSE1S"
     },
     {
         "id": 1478,
         "nome": "ELETROCARDIOGRAMA (ECG)",
         "preço": 0,
-        "código": 401010100,
+        "código": 40101010,
         "mnemônico": "C-ECG"
     },
     {
         "id": 1479,
         "nome": "TESTE ERGOMETRICO CONVENCIONAL - 3 OU MAIS DERIVACOES SIMULTANEAS",
         "preço": 0,
-        "código": 401010450,
+        "código": 40101045,
         "mnemônico": "C-TERGOC"
     },
     {
         "id": 1523,
         "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR (OU DOIS SEGMENTOS)",
         "preço": 0,
-        "código": 408081300,
+        "código": 40808130,
         "mnemônico": "D-COLFEM"
     }
 ]

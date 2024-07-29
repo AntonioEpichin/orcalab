@@ -24,7 +24,7 @@
         "id": 1361,
         "nome": "RX - COLUNA LOMBO-SACRA - 3 INCIDENCIAS",
         "preço": 0,
-        "código": 408020510,
+        "código": 40802051,
         "mnemônico": "R-COLLSA"
     },
     {
@@ -38,28 +38,28 @@
         "id": 1388,
         "nome": "RX - PUNHO",
         "preço": 0,
-        "código": 408031120,
+        "código": 40803112,
         "mnemônico": "R-PUNOB"
     },
     {
         "id": 1391,
         "nome": "RX - TORAX - 1 INCIDENCIA",
         "preço": 0,
-        "código": 408050180,
+        "código": 40805018,
         "mnemônico": "R-TXPA"
     },
     {
         "id": 1392,
         "nome": "RX - TORAX - 2 INCIDENCIAS ",
         "preço": 0,
-        "código": 408050180,
+        "código": 40805018,
         "mnemônico": "R-TXPALA"
     },
     {
         "id": 1412,
         "nome": "RX - PUNHO",
         "preço": 0,
-        "código": 408031120,
+        "código": 40803112,
         "mnemônico": "R-PUNOB2"
     },
     {

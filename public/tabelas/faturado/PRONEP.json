@@ -3,84 +3,84 @@
         "id": 1,
         "nome": "VITAMINA B12",
         "preço": 0,
-        "código": 403165720,
+        "código": 40316572,
         "mnemônico": "B12"
     },
     {
         "id": 4,
         "nome": "FERRITINA",
         "preço": 0,
-        "código": 403162700,
+        "código": 40316270,
         "mnemônico": "FERRI"
     },
     {
         "id": 29,
         "nome": "TSH - HORMONIO TIREOESTIMULANTE ",
         "preço": 0,
-        "código": 403165210,
+        "código": 40316521,
         "mnemônico": "TSH"
     },
     {
         "id": 41,
         "nome": "TIROXINA (T4)",
         "preço": 0,
-        "código": 403165480,
+        "código": 40316548,
         "mnemônico": "T4"
     },
     {
         "id": 43,
         "nome": "TIROXINA T4 LIVRE",
         "preço": 0,
-        "código": 403164910,
+        "código": 40316491,
         "mnemônico": "T4L"
     },
     {
         "id": 77,
         "nome": "ANTIGENO CA 125",
         "preço": 0,
-        "código": 403163780,
+        "código": 40316378,
         "mnemônico": "CA125"
     },
     {
         "id": 79,
         "nome": "ANTIGENO CARCINOEMBRIOGENICO (CEA)",
         "preço": 0,
-        "código": 403161220,
+        "código": 40316122,
         "mnemônico": "CEA"
     },
     {
         "id": 82,
         "nome": "ACIDO URICO - URINA 24H",
         "preço": 0,
-        "código": 403011500,
+        "código": 40301150,
         "mnemônico": "AUR24H"
     },
     {
         "id": 86,
         "nome": "CREATININA - URINA RECENTE",
         "preço": 0,
-        "código": 403016300,
+        "código": 40301630,
         "mnemônico": "CREAU"
     },
     {
         "id": 98,
         "nome": "AMILASE - URINA 24H",
         "preço": 0,
-        "código": 403012810,
+        "código": 40301281,
         "mnemônico": "AMILA24H"
     },
     {
         "id": 99,
         "nome": "CALCIO - URINA 24H",
         "preço": 0,
-        "código": 403014000,
+        "código": 40301400,
         "mnemônico": "CALU24H"
     },
     {
         "id": 117,
         "nome": "PROTEINA C REATIVA, QUANTITATIVA",
         "preço": 0,
-        "código": 403083910,
+        "código": 40308391,
         "mnemônico": "PCR"
     },
     {
@@ -94,42 +94,42 @@
         "id": 140,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (1ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG1"
     },
     {
         "id": 143,
         "nome": "ANTIBIOGRAMA - FEZES",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSF"
     },
     {
         "id": 144,
         "nome": "ANTIBIOGRAMA - URINA",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSU"
     },
     {
         "id": 145,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG2"
     },
     {
         "id": 177,
         "nome": "ACIDO URICO - DIVERSOS MATERIAIS",
         "preço": 0,
-        "código": 403011500,
+        "código": 40301150,
         "mnemônico": "AURDVM"
     },
     {
         "id": 199,
         "nome": "ANTIGENO CA 19.9",
         "preço": 0,
-        "código": 403163780,
+        "código": 40316378,
         "mnemônico": "CA19/9"
     },
     {
@@ -143,84 +143,84 @@
         "id": 243,
         "nome": "ANTIBIOGRAMA - URINA (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSU3"
     },
     {
         "id": 271,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG3"
     },
     {
         "id": 302,
         "nome": "ACIDO FOLICO",
         "preço": 0,
-        "código": 403010870,
+        "código": 40301087,
         "mnemônico": "FOLICO"
     },
     {
         "id": 325,
         "nome": "CALCIO IONICO ",
         "preço": 0,
-        "código": 403014190,
+        "código": 40301419,
         "mnemônico": "IONICO"
     },
     {
         "id": 345,
         "nome": "AMILASE - LIQUIDO PLEURAL",
         "preço": 0,
-        "código": 403012810,
+        "código": 40301281,
         "mnemônico": "AMILPLEU"
     },
     {
         "id": 346,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (4ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG4"
     },
     {
         "id": 370,
         "nome": "CAPACIDADE TOTAL DE COMBINACAO DO FERRO",
         "preço": 0,
-        "código": 403014270,
+        "código": 40301427,
         "mnemônico": "CTCF"
     },
     {
         "id": 373,
         "nome": "VITAMINA \"D\" 25 HIDROXI",
         "preço": 0,
-        "código": 403028300,
+        "código": 40302830,
         "mnemônico": "VI25"
     },
     {
         "id": 454,
         "nome": "CALCIO - URINA RECENTE",
         "preço": 0,
-        "código": 403014000,
+        "código": 40301400,
         "mnemônico": "CALURINA"
     },
     {
         "id": 455,
         "nome": "ACIDO URICO - URINA RECENTE",
         "preço": 0,
-        "código": 403011500,
+        "código": 40301150,
         "mnemônico": "AURURINA"
     },
     {
         "id": 510,
         "nome": "ANTIBIOGRAMA - FUNGOS",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSFUNGOS"
     },
     {
         "id": 535,
         "nome": "HEMOGRAMA COMPLETO",
         "preço": 0,
-        "código": 403043610,
+        "código": 40304361,
         "mnemônico": "HEM"
     },
     {
@@ -234,7 +234,7 @@
         "id": 558,
         "nome": "COLESTEROL (VLDL)",
         "preço": 0,
-        "código": 403026950,
+        "código": 40302695,
         "mnemônico": "VLDL"
     },
     {
@@ -248,406 +248,406 @@
         "id": 565,
         "nome": "ASPARTATO AMINOTRANSFERASE (TGO, AST)",
         "preço": 0,
-        "código": 403025040,
+        "código": 40302504,
         "mnemônico": "TGO"
     },
     {
         "id": 566,
         "nome": "ALANINA AMINOTRANSFERASE (TGP, ALT)",
         "preço": 0,
-        "código": 403025120,
+        "código": 40302512,
         "mnemônico": "TGP"
     },
     {
         "id": 567,
         "nome": "TRIGLICERIDEOS",
         "preço": 0,
-        "código": 403025470,
+        "código": 40302547,
         "mnemônico": "TRI"
     },
     {
         "id": 568,
         "nome": "UREIA",
         "preço": 0,
-        "código": 403025800,
+        "código": 40302580,
         "mnemônico": "URE"
     },
     {
         "id": 569,
         "nome": "TRANSFERRINA",
         "preço": 0,
-        "código": 403025200,
+        "código": 40302520,
         "mnemônico": "TRANS"
     },
     {
         "id": 573,
         "nome": "MAGNESIO",
         "preço": 0,
-        "código": 403022370,
+        "código": 40302237,
         "mnemônico": "MAG"
     },
     {
         "id": 574,
         "nome": "HEMOGLOBINA GLICADA (FRACAO A1C) ",
         "preço": 0,
-        "código": 403020750,
+        "código": 40302075,
         "mnemônico": "HG"
     },
     {
         "id": 575,
         "nome": "COLESTEROL (LDL)",
         "preço": 0,
-        "código": 403015910,
+        "código": 40301591,
         "mnemônico": "LDL"
     },
     {
         "id": 576,
         "nome": "LIPASE",
         "preço": 0,
-        "código": 403021990,
+        "código": 40302199,
         "mnemônico": "LIPA"
     },
     {
         "id": 577,
         "nome": "GLICOSE",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GB"
     },
     {
         "id": 579,
         "nome": "COLESTEROL (HDL) ",
         "preço": 0,
-        "código": 403015830,
+        "código": 40301583,
         "mnemônico": "HDL"
     },
     {
         "id": 580,
         "nome": "FOSFORO ",
         "preço": 0,
-        "código": 403019310,
+        "código": 40301931,
         "mnemônico": "FOS"
     },
     {
         "id": 582,
         "nome": "GAMA-GLUTAMIL TRANSFERASE ",
         "preço": 0,
-        "código": 403019900,
+        "código": 40301990,
         "mnemônico": "GT"
     },
     {
         "id": 584,
         "nome": "FOSFATASE ALCALINA",
         "preço": 0,
-        "código": 403018850,
+        "código": 40301885,
         "mnemônico": "FAL"
     },
     {
         "id": 585,
         "nome": "PROTEINAS TOTAIS E FRACOES",
         "preço": 0,
-        "código": 403023850,
+        "código": 40302385,
         "mnemônico": "PTF"
     },
     {
         "id": 586,
         "nome": "FERRO",
         "preço": 0,
-        "código": 403018420,
+        "código": 40301842,
         "mnemônico": "FER"
     },
     {
         "id": 591,
         "nome": "CREATININA ",
         "preço": 0,
-        "código": 403016300,
+        "código": 40301630,
         "mnemônico": "CREA"
     },
     {
         "id": 592,
         "nome": "COLESTEROL TOTAL ",
         "preço": 0,
-        "código": 403016050,
+        "código": 40301605,
         "mnemônico": "COL"
     },
     {
         "id": 595,
         "nome": "CALCIO ",
         "preço": 0,
-        "código": 403014000,
+        "código": 40301400,
         "mnemônico": "CAL"
     },
     {
         "id": 597,
         "nome": "AMILASE",
         "preço": 0,
-        "código": 403012810,
+        "código": 40301281,
         "mnemônico": "AMI"
     },
     {
         "id": 598,
         "nome": "ACIDO URICO",
         "preço": 0,
-        "código": 403011500,
+        "código": 40301150,
         "mnemônico": "AUR"
     },
     {
         "id": 599,
         "nome": "BILIRRUBINAS (DIRETA, INDIRETA E TOTAL)",
         "preço": 0,
-        "código": 403013970,
+        "código": 40301397,
         "mnemônico": "BIL"
     },
     {
         "id": 676,
         "nome": "AMILASE - DIVERSOS MATERIAIS",
         "preço": 0,
-        "código": 403012810,
+        "código": 40301281,
         "mnemônico": "AMILALD"
     },
     {
         "id": 803,
         "nome": "TAP - TEMPO DE ATIVIDADE DA PROTOMBINA",
         "preço": 0,
-        "código": 403045900,
+        "código": 40304590,
         "mnemônico": "TAP"
     },
     {
         "id": 884,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (6ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG6"
     },
     {
         "id": 885,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (7ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG7"
     },
     {
         "id": 886,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (8ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG8"
     },
     {
         "id": 887,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (9ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG9"
     },
     {
         "id": 888,
         "nome": "ANTIBIOGRAMA - FEZES (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSF2"
     },
     {
         "id": 889,
         "nome": "ANTIBIOGRAMA - VIGILANCIA (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSGVG2"
     },
     {
         "id": 890,
         "nome": "ANTIBIOGRAMA - VIGILANCIA (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSGVG3"
     },
     {
         "id": 891,
         "nome": "ANTIBIOGRAMA - VIGILANCIA (4ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSGVG4"
     },
     {
         "id": 892,
         "nome": "ANTIBIOGRAMA - VIGILANCIA (5ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSGVG5"
     },
     {
         "id": 893,
         "nome": "ANTIBIOGRAMA - VIGILANCIA ",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSGVG1"
     },
     {
         "id": 907,
         "nome": "EAS - EXAME DE URINA",
         "preço": 0,
-        "código": 403112100,
+        "código": 40311210,
         "mnemônico": "EAS"
     },
     {
         "id": 908,
         "nome": "SODIO ",
         "preço": 0,
-        "código": 403024230,
+        "código": 40302423,
         "mnemônico": "SOD"
     },
     {
         "id": 909,
         "nome": "POTASSIO",
         "preço": 0,
-        "código": 403023180,
+        "código": 40302318,
         "mnemônico": "POT"
     },
     {
         "id": 910,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL1"
     },
     {
         "id": 911,
         "nome": "CULTURA - FEZES",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUF"
     },
     {
         "id": 913,
         "nome": "CULTURA - AUTOMATIZADA ",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "URO"
     },
     {
         "id": 914,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL2"
     },
     {
         "id": 915,
         "nome": "HEMOCULTURA (1ª AMOSTRA)",
         "preço": 0,
-        "código": 403102480,
+        "código": 40310248,
         "mnemônico": "HEMOC"
     },
     {
         "id": 916,
         "nome": "HEMOCULTURA (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403102480,
+        "código": 40310248,
         "mnemônico": "HEMOC2"
     },
     {
         "id": 917,
         "nome": "HEMOCULTURA (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403102480,
+        "código": 40310248,
         "mnemônico": "HEMOC3"
     },
     {
         "id": 929,
         "nome": "CULTURA - FEZES (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUF2"
     },
     {
         "id": 931,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (4ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL4"
     },
     {
         "id": 932,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL3"
     },
     {
         "id": 933,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (5ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL5"
     },
     {
         "id": 934,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (6ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL6"
     },
     {
         "id": 935,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (7ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL7"
     },
     {
         "id": 936,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (8ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL8"
     },
     {
         "id": 937,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (9ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL9"
     },
     {
         "id": 955,
         "nome": "CULTURA - ANAEROBICO",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CULANA"
     },
     {
         "id": 956,
         "nome": "ANTIBIOGRAMA - ANAEROBICO",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSANA"
     },
     {
         "id": 964,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (5ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG5"
     },
     {
         "id": 978,
         "nome": "CREATININA - LIQUIDO ASCISTICO",
         "preço": 0,
-        "código": 403016300,
+        "código": 40301630,
         "mnemônico": "CREAASCI"
     },
     {
         "id": 987,
         "nome": "COLESTEROL - LIQUIDO PLEURAL",
         "preço": 0,
-        "código": 403016050,
+        "código": 40301605,
         "mnemônico": "COLPLEU"
     },
     {
         "id": 988,
         "nome": "COLESTEROL - LIQUIDO ASCITICO",
         "preço": 0,
-        "código": 403016050,
+        "código": 40301605,
         "mnemônico": "COLASCI"
     },
     {
@@ -661,343 +661,343 @@
         "id": 1124,
         "nome": "CREATININA - URINA 24H",
         "preço": 0,
-        "código": 403016300,
+        "código": 40301630,
         "mnemônico": "CREA24H"
     },
     {
         "id": 1177,
         "nome": "BILIRRUBINAS - MATERIAIS DIVERSOS",
         "preço": 0,
-        "código": 403013970,
+        "código": 40301397,
         "mnemônico": "BIL-DIV"
     },
     {
         "id": 1192,
         "nome": "CEA - LIQUIDOS BIOLOGICOS",
         "preço": 0,
-        "código": 403161220,
+        "código": 40316122,
         "mnemônico": "CEA-L"
     },
     {
         "id": 1256,
         "nome": "CULTURA - FEZES (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUF3"
     },
     {
         "id": 1257,
         "nome": "ANTIBIOGRAMA - FEZES (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSF3"
     },
     {
         "id": 1276,
         "nome": "CAPACIDADE LIVRE DE COMBINACAO DO FERRO",
         "preço": 0,
-        "código": 403014270,
+        "código": 40301427,
         "mnemônico": "CCF"
     },
     {
         "id": 1289,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (10ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG10"
     },
     {
         "id": 1290,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (10ª AMOSTRA) ",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL10"
     },
     {
         "id": 1452,
         "nome": "ANTIBIOGRAMA - URINA (4ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSU4"
     },
     {
         "id": 1495,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (11ª AMOSTRA)\t",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL11"
     },
     {
         "id": 1496,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (11ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG11"
     },
     {
         "id": 1502,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (12ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL12"
     },
     {
         "id": 1503,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (13ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL13"
     },
     {
         "id": 1504,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (14ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL14"
     },
     {
         "id": 1505,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (15ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL15"
     },
     {
         "id": 1506,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (12ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG12"
     },
     {
         "id": 1507,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (13ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG13"
     },
     {
         "id": 1508,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (14ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG14"
     },
     {
         "id": 1509,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (15ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG15"
     },
     {
         "id": 1511,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (16ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL16"
     },
     {
         "id": 1512,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (16ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG16"
     },
     {
         "id": 1584,
         "nome": "HEMOCULTURA (4ª AMOSTRA)",
         "preço": 0,
-        "código": 403102480,
+        "código": 40310248,
         "mnemônico": "HEMOC4"
     },
     {
         "id": 1585,
         "nome": "HEMOCULTURA (5ª AMOSTRA)",
         "preço": 0,
-        "código": 403102480,
+        "código": 40310248,
         "mnemônico": "HEMOC5"
     },
     {
         "id": 1829,
         "nome": "ANTIBIOGRAMA - FUNGOS (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSFUNGO2"
     },
     {
         "id": 1838,
         "nome": "ANTIBIOGRAMA - NAO AUTOMATIZADO",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "ANTIB"
     },
     {
         "id": 1879,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (17ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG17"
     },
     {
         "id": 1880,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (18ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG18"
     },
     {
         "id": 1881,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (19ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG19"
     },
     {
         "id": 1882,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (20ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG20"
     },
     {
         "id": 1883,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (17ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL17"
     },
     {
         "id": 1884,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (18ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL18"
     },
     {
         "id": 1885,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (19ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL19"
     },
     {
         "id": 1886,
         "nome": "CULTURA - DIVERSOS MATERIAIS BIOLOGICOS (20ª AMOSTRA)",
         "preço": 0,
-        "código": 403104000,
+        "código": 40310400,
         "mnemônico": "CUL20"
     },
     {
         "id": 2011,
         "nome": "POTASSIO POS DIALISE",
         "preço": 0,
-        "código": 403023180,
+        "código": 40302318,
         "mnemônico": "POT-PD"
     },
     {
         "id": 2012,
         "nome": "SODIO POS DIALISE",
         "preço": 0,
-        "código": 403024230,
+        "código": 40302423,
         "mnemônico": "SOD-PD"
     },
     {
         "id": 2013,
         "nome": "CREATININA POS DIALISE",
         "preço": 0,
-        "código": 403016300,
+        "código": 40301630,
         "mnemônico": "CREA-PD"
     },
     {
         "id": 2014,
         "nome": "GLICOSE POS DIALISE",
         "preço": 0,
-        "código": 403020400,
+        "código": 40302040,
         "mnemônico": "GB-PD"
     },
     {
         "id": 2074,
         "nome": "HEMOCULTURA (6ª AMOSTRA)",
         "preço": 0,
-        "código": 403102480,
+        "código": 40310248,
         "mnemônico": "HEMOC6"
     },
     {
         "id": 2075,
         "nome": "HEMOCULTURA (7ª AMOSTRA)",
         "preço": 0,
-        "código": 403102480,
+        "código": 40310248,
         "mnemônico": "HEMOC7"
     },
     {
         "id": 2076,
         "nome": "HEMOCULTURA (8ª AMOSTRA)",
         "preço": 0,
-        "código": 403102480,
+        "código": 40310248,
         "mnemônico": "HEMOC8"
     },
     {
         "id": 2077,
         "nome": "HEMOCULTURA (9ª AMOSTRA)",
         "preço": 0,
-        "código": 403102480,
+        "código": 40310248,
         "mnemônico": "HEMOC9"
     },
     {
         "id": 2078,
         "nome": "HEMOCULTURA (10ª AMOSTRA)",
         "preço": 0,
-        "código": 403102480,
+        "código": 40310248,
         "mnemônico": "HEMOC10"
     },
     {
         "id": 2145,
         "nome": "ACIDO FOLICO",
         "preço": 0,
-        "código": 403010870,
+        "código": 40301087,
         "mnemônico": "AFOLIE"
     },
     {
         "id": 2147,
         "nome": "TIROXINA T4 LIVRE",
         "preço": 0,
-        "código": 403164910,
+        "código": 40316491,
         "mnemônico": "T4LE"
     },
     {
         "id": 2149,
         "nome": "TIROXINA (T4)",
         "preço": 0,
-        "código": 403165480,
+        "código": 40316548,
         "mnemônico": "T4E"
     },
     {
         "id": 2166,
         "nome": "FERRITINA",
         "preço": 0,
-        "código": 403162700,
+        "código": 40316270,
         "mnemônico": "FERRIE"
     },
     {
         "id": 2278,
         "nome": "TSH - HORMONIO TIREOESTIMULANTE ",
         "preço": 0,
-        "código": 403165210,
+        "código": 40316521,
         "mnemônico": "TSHE"
     },
     {
         "id": 2279,
         "nome": "VITAMINA B12",
         "preço": 0,
-        "código": 403165720,
+        "código": 40316572,
         "mnemônico": "VB12E"
     },
     {
         "id": 2281,
         "nome": "VITAMINA \"D\" 25 HIDROXI",
         "preço": 0,
-        "código": 403028300,
+        "código": 40302830,
         "mnemônico": "VIT25E"
     }
 ]

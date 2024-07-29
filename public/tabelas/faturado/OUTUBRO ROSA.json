@@ -3,49 +3,49 @@
         "id": 77,
         "nome": "ANTIGENO CA 125",
         "preço": 0,
-        "código": 403163780,
+        "código": 40316378,
         "mnemônico": "CA125"
     },
     {
         "id": 79,
         "nome": "ANTIGENO CARCINOEMBRIOGENICO (CEA)",
         "preço": 0,
-        "código": 403161220,
+        "código": 40316122,
         "mnemônico": "CEA"
     },
     {
         "id": 157,
         "nome": "ANTIGENO CA 15-3",
         "preço": 0,
-        "código": 403163780,
+        "código": 40316378,
         "mnemônico": "CA15-3"
     },
     {
         "id": 199,
         "nome": "ANTIGENO CA 19.9",
         "preço": 0,
-        "código": 403163780,
+        "código": 40316378,
         "mnemônico": "CA19/9"
     },
     {
         "id": 538,
         "nome": "COLPOCITOLOGICO",
         "preço": 0,
-        "código": 406011370,
+        "código": 40601137,
         "mnemônico": "COLP"
     },
     {
         "id": 875,
         "nome": "1 PD CITOPATOLOGICO EM MEIO LIQUIDO",
         "preço": 0,
-        "código": 406013230,
+        "código": 40601323,
         "mnemônico": "CITOLIQ1"
     },
     {
         "id": 1000,
         "nome": "US - MAMAS FEMININA",
         "preço": 0,
-        "código": 409011140,
+        "código": 40901114,
         "mnemônico": "USMAMASF"
     },
     {
@@ -66,7 +66,7 @@
         "id": 1487,
         "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL",
         "preço": 0,
-        "código": 408080330,
+        "código": 40808033,
         "mnemônico": "M-COVBIL"
     },
     {
@@ -80,7 +80,7 @@
         "id": 1564,
         "nome": "BIOPSIA PERCUTANEA DE FRAGMENTO MAMARIO POR AGULHA GROSSA (CORE BIOPSY",
         "preço": 0,
-        "código": 408080920,
+        "código": 40808092,
         "mnemônico": "COREBIOP"
     },
     {

@@ -3,56 +3,56 @@
         "id": 1386,
         "nome": "RX - PE OU PODODACTILOS",
         "preço": 0,
-        "código": 408040970,
+        "código": 40804097,
         "mnemônico": "R-PEPOD"
     },
     {
         "id": 1387,
         "nome": "RX - PERNA",
         "preço": 0,
-        "código": 408040700,
+        "código": 40804070,
         "mnemônico": "R-PERTIB"
     },
     {
         "id": 1389,
         "nome": "RX - SEIOS DA FACE",
         "preço": 0,
-        "código": 408010630,
+        "código": 40801063,
         "mnemônico": "R-SEFMN"
     },
     {
         "id": 1391,
         "nome": "RX - TORAX - 1 INCIDENCIA",
         "preço": 0,
-        "código": 408050180,
+        "código": 40805018,
         "mnemônico": "R-TXPA"
     },
     {
         "id": 1556,
         "nome": "TC - FACE OU SEIOS DA FACE",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCFACE"
     },
     {
         "id": 1561,
         "nome": "TC - ABDOME TOTAL (ABDOME SUPERIOR, PELVE E RETROPERITONIO)",
         "preço": 0,
-        "código": 410010950,
+        "código": 41001095,
         "mnemônico": "TCABDOMT"
     },
     {
         "id": 1659,
         "nome": "RX - PE OU PODODACTILOS",
         "preço": 0,
-        "código": 408040970,
+        "código": 40804097,
         "mnemônico": "R-PEPOD2"
     },
     {
         "id": 1673,
         "nome": "RX - PERNA",
         "preço": 0,
-        "código": 408040700,
+        "código": 40804070,
         "mnemônico": "R-PERTI2"
     }
 ]

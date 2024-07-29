@@ -3,119 +3,119 @@
         "id": 1344,
         "nome": "RX - ANTEBRACO",
         "preço": 0,
-        "código": 408031040,
+        "código": 40803104,
         "mnemônico": "R-ANTBR"
     },
     {
         "id": 1358,
         "nome": "RX - COLUNA CERVICAL - 3 INCIDENCIAS",
         "preço": 0,
-        "código": 408020190,
+        "código": 40802019,
         "mnemônico": "R-COLCAP"
     },
     {
         "id": 1361,
         "nome": "RX - COLUNA LOMBO-SACRA - 3 INCIDENCIAS",
         "preço": 0,
-        "código": 408020510,
+        "código": 40802051,
         "mnemônico": "R-COLLSA"
     },
     {
         "id": 1366,
         "nome": "RX - COTOVELO",
         "preço": 0,
-        "código": 408030900,
+        "código": 40803090,
         "mnemônico": "R-COTOV"
     },
     {
         "id": 1373,
         "nome": "RX - PATELA",
         "preço": 0,
-        "código": 408040620,
+        "código": 40804062,
         "mnemônico": "R-PATEL2"
     },
     {
         "id": 1374,
         "nome": "RX - JOELHO",
         "preço": 0,
-        "código": 408040540,
+        "código": 40804054,
         "mnemônico": "R-JAPLAT"
     },
     {
         "id": 1376,
         "nome": "RX - MAO OU QUIRODACTILOS",
         "preço": 0,
-        "código": 408031200,
+        "código": 40803120,
         "mnemônico": "R-MQUIR"
     },
     {
         "id": 1385,
         "nome": "RX - PATELA",
         "preço": 0,
-        "código": 408040620,
+        "código": 40804062,
         "mnemônico": "R-PATELA"
     },
     {
         "id": 1386,
         "nome": "RX - PE OU PODODACTILOS",
         "preço": 0,
-        "código": 408040970,
+        "código": 40804097,
         "mnemônico": "R-PEPOD"
     },
     {
         "id": 1388,
         "nome": "RX - PUNHO",
         "preço": 0,
-        "código": 408031120,
+        "código": 40803112,
         "mnemônico": "R-PUNOB"
     },
     {
         "id": 1389,
         "nome": "RX - SEIOS DA FACE",
         "preço": 0,
-        "código": 408010630,
+        "código": 40801063,
         "mnemônico": "R-SEFMN"
     },
     {
         "id": 1391,
         "nome": "RX - TORAX - 1 INCIDENCIA",
         "preço": 0,
-        "código": 408050180,
+        "código": 40805018,
         "mnemônico": "R-TXPA"
     },
     {
         "id": 1392,
         "nome": "RX - TORAX - 2 INCIDENCIAS ",
         "preço": 0,
-        "código": 408050260,
+        "código": 40805026,
         "mnemônico": "R-TXPALA"
     },
     {
         "id": 1410,
         "nome": "RX - ANTEBRACO",
         "preço": 0,
-        "código": 408031040,
+        "código": 40803104,
         "mnemônico": "R-ANTBR2"
     },
     {
         "id": 1412,
         "nome": "RX - PUNHO",
         "preço": 0,
-        "código": 408031120,
+        "código": 40803112,
         "mnemônico": "R-PUNOB2"
     },
     {
         "id": 1415,
         "nome": "RX - MAO OU QUIRODACTILOS",
         "preço": 0,
-        "código": 408031200,
+        "código": 40803120,
         "mnemônico": "R-MQUIR2"
     },
     {
         "id": 1416,
         "nome": "RX - JOELHO",
         "preço": 0,
-        "código": 408040540,
+        "código": 40804054,
         "mnemônico": "R-JAPLA2"
     },
     {
@@ -129,7 +129,7 @@
         "id": 1560,
         "nome": "TC - TORAX",
         "preço": 0,
-        "código": 410010790,
+        "código": 41001079,
         "mnemônico": "TCTORAX"
     },
     {
@@ -143,21 +143,21 @@
         "id": 1659,
         "nome": "RX - PE OU PODODACTILOS",
         "preço": 0,
-        "código": 408040970,
+        "código": 40804097,
         "mnemônico": "R-PEPOD2"
     },
     {
         "id": 1665,
         "nome": "RX - COTOVELO",
         "preço": 0,
-        "código": 408030900,
+        "código": 40803090,
         "mnemônico": "R-COTOV2"
     },
     {
         "id": 1687,
         "nome": "TC - TORAX",
         "preço": 0,
-        "código": 410010790,
+        "código": 41001079,
         "mnemônico": "TCTORAX2"
     },
     {

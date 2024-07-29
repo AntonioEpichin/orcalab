@@ -2495,7 +2495,7 @@
         "id": 503,
         "nome": "VITAMINA K1",
         "preço": 0,
-        "código": 40302849,
+        "código": null,
         "mnemônico": "VITAK-C"
     },
     {

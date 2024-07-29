@@ -3,182 +3,182 @@
         "id": 993,
         "nome": "US - GLANDULAS SALIVARES (TODAS)",
         "preço": 0,
-        "código": 409010330,
+        "código": 40901033,
         "mnemônico": "USGSALIV"
     },
     {
         "id": 1000,
         "nome": "US - MAMAS FEMININA",
         "preço": 0,
-        "código": 409011140,
+        "código": 40901114,
         "mnemônico": "USMAMASF"
     },
     {
         "id": 1001,
         "nome": "US - ABDOME TOTAL (ABDOME SUPERIOR, RINS, BEXIGA, AORTA, VEIA CAVA INF",
         "preço": 0,
-        "código": 409011220,
+        "código": 40901122,
         "mnemônico": "USABDOME"
     },
     {
         "id": 1002,
         "nome": "US - ABDOME SUPERIOR (FIGADO, VIAS BILIARES, VESICULA, PANCREAS E BACO",
         "preço": 0,
-        "código": 409011300,
+        "código": 40901130,
         "mnemônico": "USABDSUP"
     },
     {
         "id": 1003,
         "nome": "US - APARELHO URINARIO FEMININO (RINS, URETERES E BEXIGA)",
         "preço": 0,
-        "código": 409017690,
+        "código": 40901769,
         "mnemônico": "USAPAUF"
     },
     {
         "id": 1004,
         "nome": "US - APARELHO URINARIO MASCULINO (RINS, URETERES E BEXIGA)",
         "preço": 0,
-        "código": 409017690,
+        "código": 40901769,
         "mnemônico": "USAPAUM"
     },
     {
         "id": 1005,
         "nome": "US - ABDOME INFERIOR MASCULINO (BEXIGA, PROSTATA E VESICULAS SEMINAIS)",
         "preço": 0,
-        "código": 409011730,
+        "código": 40901173,
         "mnemônico": "USABDMAS"
     },
     {
         "id": 1006,
         "nome": "US - ABDOME INFERIOR FEMININO (BEXIGA, UTERO, OVARIO E ANEXOS)",
         "preço": 0,
-        "código": 409011810,
+        "código": 40901181,
         "mnemônico": "USABDFEM"
     },
     {
         "id": 1007,
         "nome": "US - DERMATOLOGICO - PELE E SUBCUTANEO",
         "preço": 0,
-        "código": 409011900,
+        "código": 40901190,
         "mnemônico": "USDERMA"
     },
     {
         "id": 1008,
         "nome": "US - ORGAOS SUPERFICIAIS (ESCROTO)",
         "preço": 0,
-        "código": 409012030,
+        "código": 40901203,
         "mnemônico": "USESCRO"
     },
     {
         "id": 1009,
         "nome": "US - ORGAOS SUPERFICIAIS (PENIS)",
         "preço": 0,
-        "código": 409012030,
+        "código": 40901203,
         "mnemônico": "USPENIS"
     },
     {
         "id": 1011,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (CERVICAL)",
         "preço": 0,
-        "código": 409012110,
+        "código": 40901211,
         "mnemônico": "USCERVI"
     },
     {
         "id": 1012,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (AXILAS)",
         "preço": 0,
-        "código": 409012110,
+        "código": 40901211,
         "mnemônico": "USAXILA"
     },
     {
         "id": 1013,
         "nome": "US - ARTICULAR (POR ARTICULACAO)",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTIC"
     },
     {
         "id": 1014,
         "nome": "US - OBSTETRICA",
         "preço": 0,
-        "código": 409012380,
+        "código": 40901238,
         "mnemônico": "USOBSTE"
     },
     {
         "id": 1017,
         "nome": "US - OBSTETRICA GESTACAO MULTIPLA: CADA FETO",
         "preço": 0,
-        "código": 409012700,
+        "código": 40901270,
         "mnemônico": "USOBSGM"
     },
     {
         "id": 1019,
         "nome": "US - OBSTETRICA 1º TRIMESTRE (ENDOVAGINAL)",
         "preço": 0,
-        "código": 409012970,
+        "código": 40901297,
         "mnemônico": "USOBS1TR"
     },
     {
         "id": 1020,
         "nome": "US - TRANSVAGINAL (UTERO, OVARIO, ANEXOS E VAGINA)",
         "preço": 0,
-        "código": 409013000,
+        "código": 40901300,
         "mnemônico": "USTRANSV"
     },
     {
         "id": 1021,
         "nome": "US - TRANSVAGINAL PARA CONTROLE DE OVULACAO (3 OU MAIS EXAMES)",
         "preço": 0,
-        "código": 409013190,
+        "código": 40901319,
         "mnemônico": "USTRASCO"
     },
     {
         "id": 1022,
         "nome": "US - PROSTATA (VIA ABDOMINAL)",
         "preço": 0,
-        "código": 409017500,
+        "código": 40901750,
         "mnemônico": "USPROST"
     },
     {
         "id": 1113,
         "nome": "US - ARTICULAR (POR ARTICULACAO)",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTIC2"
     },
     {
         "id": 1114,
         "nome": "US - ARTICULAR (POR ARTICULACAO)",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTIC3"
     },
     {
         "id": 1115,
         "nome": "US - ARTICULAR (POR ARTICULACAO)",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTIC4"
     },
     {
         "id": 1116,
         "nome": "US - ARTICULAR (POR ARTICULACAO)",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTIC5"
     },
     {
         "id": 1246,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (PAREDE ABDOMINAL)",
         "preço": 0,
-        "código": 4099012110,
+        "código": 409901211,
         "mnemônico": "ADBP"
     },
     {
         "id": 1320,
         "nome": "US - PROSTATA TRANSRETAL (NAO INCLUI ABDOME INFERIOR MASCULINO)",
         "preço": 0,
-        "código": 409013350,
+        "código": 40901335,
         "mnemônico": "USPROSTT"
     },
     {
@@ -325,7 +325,7 @@
         "id": 1362,
         "nome": "RX - COLUNA LOMBO-SACRA - 5 INCIDENCIAS",
         "preço": 0,
-        "código": 408020270,
+        "código": 40802027,
         "mnemônico": "R-COLLFU"
     },
     {
@@ -535,7 +535,7 @@
         "id": 1408,
         "nome": "US - RETROPERITONEO (GRANDES VASOS OU ADRENAIS) ",
         "preço": 0,
-        "código": 409011490,
+        "código": 40901149,
         "mnemônico": "RETROPER"
     },
     {
@@ -584,35 +584,35 @@
         "id": 1427,
         "nome": "US - MAMAS MASCULINA",
         "preço": 0,
-        "código": 409011140,
+        "código": 40901114,
         "mnemônico": "USMAMASC"
     },
     {
         "id": 1461,
         "nome": "US - ARTICULAR (POR ARTICULACAO)",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTIC6"
     },
     {
         "id": 1462,
         "nome": "US - ARTICULAR (POR ARTICULACAO)",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTIC7"
     },
     {
         "id": 1463,
         "nome": "US - ARTICULAR (POR ARTICULACAO)",
         "preço": 0,
-        "código": 409012200,
+        "código": 40901220,
         "mnemônico": "USARTIC8"
     },
     {
         "id": 1469,
         "nome": "US - ORGAOS SUPERFICIAIS (TIREOIDE)",
         "preço": 0,
-        "código": 409012030,
+        "código": 40901203,
         "mnemônico": "USTIREO"
     },
     {
@@ -640,14 +640,14 @@
         "id": 1483,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (MUSCULO)",
         "preço": 0,
-        "código": 409012110,
+        "código": 40901211,
         "mnemônico": "USMUSC"
     },
     {
         "id": 1487,
         "nome": "MAMOGRAFIA CONVENCIONAL BILATERAL",
         "preço": 0,
-        "código": 408080330,
+        "código": 40808033,
         "mnemônico": "M-COVBIL"
     },
     {
@@ -668,77 +668,77 @@
         "id": 1523,
         "nome": "DENSITOMETRIA OSSEA - ROTINA: COLUNA E FEMUR (OU DOIS SEGMENTOS)",
         "preço": 0,
-        "código": 408081300,
+        "código": 40808130,
         "mnemônico": "D-COLFEM"
     },
     {
         "id": 1552,
         "nome": "TC - MANDIBULA",
         "preço": 0,
-        "código": 410011410,
+        "código": 41001141,
         "mnemônico": "TCMAND"
     },
     {
         "id": 1553,
         "nome": "TC - COLUNA CERVICAL OU DORSAL OU LOMBO-SACRA (ATE 3 SEGMENTOS)",
         "preço": 0,
-        "código": 410011250,
+        "código": 41001125,
         "mnemônico": "TCCOL2"
     },
     {
         "id": 1554,
         "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
         "preço": 0,
-        "código": 410010100,
+        "código": 41001010,
         "mnemônico": "TCCRANIO"
     },
     {
         "id": 1555,
         "nome": "TC - MASTOIDES OU ORELHAS",
         "preço": 0,
-        "código": 410010280,
+        "código": 41001028,
         "mnemônico": "TCMASOUV"
     },
     {
         "id": 1556,
         "nome": "TC - FACE OU SEIOS DA FACE",
         "preço": 0,
-        "código": 410010360,
+        "código": 41001036,
         "mnemônico": "TCFACE"
     },
     {
         "id": 1557,
         "nome": "TC - PELVE OU BACIA",
         "preço": 0,
-        "código": 410011170,
+        "código": 41001117,
         "mnemônico": "TCPELBA"
     },
     {
         "id": 1558,
         "nome": "TC - ABDOME SUPERIOR",
         "preço": 0,
-        "código": 410011090,
+        "código": 41001109,
         "mnemônico": "TCABDOMS"
     },
     {
         "id": 1559,
         "nome": "TC - PESCOCO (PARTES MOLES, LARINGE, TIREOIDE, FARINGE E GLADULAS SALI",
         "preço": 0,
-        "código": 410010600,
+        "código": 41001060,
         "mnemônico": "TCPESC"
     },
     {
         "id": 1560,
         "nome": "TC - TORAX",
         "preço": 0,
-        "código": 410010790,
+        "código": 41001079,
         "mnemônico": "TCTORAX"
     },
     {
         "id": 1561,
         "nome": "TC - ABDOME TOTAL (ABDOME SUPERIOR, PELVE E RETROPERITONIO)",
         "preço": 0,
-        "código": 410010950,
+        "código": 41001095,
         "mnemônico": "TCABDOMT"
     },
     {
@@ -808,7 +808,7 @@
         "id": 1658,
         "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
         "preço": 0,
-        "código": 630002910,
+        "código": 63000291,
         "mnemônico": "RMCOLCE2"
     },
     {
@@ -822,7 +822,7 @@
         "id": 1661,
         "nome": "RM - COLUNA CERVICAL OU DORSAL OU LOMBAR",
         "preço": 0,
-        "código": 630002910,
+        "código": 63000291,
         "mnemônico": "RMCOLCE3"
     },
     {
@@ -878,7 +878,7 @@
         "id": 1687,
         "nome": "TC - TORAX",
         "preço": 0,
-        "código": 410010790,
+        "código": 41001079,
         "mnemônico": "TCTORAX2"
     },
     {
@@ -899,7 +899,7 @@
         "id": 1715,
         "nome": "DENSITOMETRIA OSSEA - CORPO INTEIRO ",
         "preço": 0,
-        "código": 408081490,
+        "código": 40808149,
         "mnemônico": "D-COMPC"
     },
     {
@@ -913,7 +913,7 @@
         "id": 1724,
         "nome": "TC - CRANIO OU SELA TURCICA OU ORBITAS",
         "preço": 0,
-        "código": 410010100,
+        "código": 41001010,
         "mnemônico": "TCCRANI2"
     },
     {
@@ -948,14 +948,14 @@
         "id": 1968,
         "nome": "US - OBSTETRICA",
         "preço": 0,
-        "código": 409012380,
+        "código": 40901238,
         "mnemônico": "USOBSTE2"
     },
     {
         "id": 2067,
         "nome": "US - ESTRUTURAS SUPERFICIAIS (AXILAS)",
         "preço": 0,
-        "código": 409012110,
+        "código": 40901211,
         "mnemônico": "USAXILA2"
     }
 ]

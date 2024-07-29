@@ -325,7 +325,7 @@
         "id": 92,
         "nome": "BAAR (1ª AMOSTRA)",
         "preço": 0,
-        "código": 403100510,
+        "código": 40310051,
         "mnemônico": "BAAR"
     },
     {
@@ -458,7 +458,7 @@
         "id": 140,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (1ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG1"
     },
     {
@@ -472,14 +472,14 @@
         "id": 144,
         "nome": "ANTIBIOGRAMA - URINA",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSU"
     },
     {
         "id": 145,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG2"
     },
     {
@@ -521,21 +521,21 @@
         "id": 152,
         "nome": "ANTIBIOGRAMA - HEMOCULTURA",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "ATHE"
     },
     {
         "id": 158,
         "nome": "BAAR (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403100510,
+        "código": 40310051,
         "mnemônico": "BAAR2"
     },
     {
         "id": 159,
         "nome": "BAAR (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403100510,
+        "código": 40310051,
         "mnemônico": "BAAR3"
     },
     {
@@ -570,7 +570,7 @@
         "id": 173,
         "nome": "ANTIBIOGRAMA - HEMOCULTURA (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "ATHE2"
     },
     {
@@ -598,7 +598,7 @@
         "id": 183,
         "nome": "ANTIBIOGRAMA - URINA (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSU2"
     },
     {
@@ -717,7 +717,7 @@
         "id": 243,
         "nome": "ANTIBIOGRAMA - URINA (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSU3"
     },
     {
@@ -759,7 +759,7 @@
         "id": 271,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG3"
     },
     {
@@ -836,7 +836,7 @@
         "id": 346,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (4ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG4"
     },
     {
@@ -1389,28 +1389,28 @@
         "id": 884,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (6ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG6"
     },
     {
         "id": 885,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (7ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG7"
     },
     {
         "id": 886,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (8ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG8"
     },
     {
         "id": 887,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (9ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG9"
     },
     {
@@ -1480,21 +1480,21 @@
         "id": 915,
         "nome": "HEMOCULTURA (1ª AMOSTRA)",
         "preço": 0,
-        "código": 403102480,
+        "código": 40310248,
         "mnemônico": "HEMOC"
     },
     {
         "id": 916,
         "nome": "HEMOCULTURA (2ª AMOSTRA)",
         "preço": 0,
-        "código": 403102480,
+        "código": 40310248,
         "mnemônico": "HEMOC2"
     },
     {
         "id": 917,
         "nome": "HEMOCULTURA (3ª AMOSTRA)",
         "preço": 0,
-        "código": 403102480,
+        "código": 40310248,
         "mnemônico": "HEMOC3"
     },
     {
@@ -1648,7 +1648,7 @@
         "id": 964,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (5ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG5"
     },
     {
@@ -1802,7 +1802,7 @@
         "id": 1289,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (10ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG10"
     },
     {
@@ -1837,21 +1837,21 @@
         "id": 1452,
         "nome": "ANTIBIOGRAMA - URINA (4ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSU4"
     },
     {
         "id": 1496,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (11ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG11"
     },
     {
         "id": 1497,
         "nome": "PESQUISA DE MULTI-R ",
         "preço": 0,
-        "código": 403101240,
+        "código": 40310124,
         "mnemônico": "KPC"
     },
     {
@@ -1865,28 +1865,28 @@
         "id": 1506,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (12ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG12"
     },
     {
         "id": 1507,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (13ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG13"
     },
     {
         "id": 1508,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (14ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG14"
     },
     {
         "id": 1509,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (15ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG15"
     },
     {
@@ -1900,7 +1900,7 @@
         "id": 1512,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (16ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG16"
     },
     {
@@ -1984,28 +1984,28 @@
         "id": 1879,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (17ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG17"
     },
     {
         "id": 1880,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (18ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG18"
     },
     {
         "id": 1881,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (19ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG19"
     },
     {
         "id": 1882,
         "nome": "ANTIBIOGRAMA - LIQUIDO BIOLOGICO (20ª AMOSTRA)",
         "preço": 0,
-        "código": 403104180,
+        "código": 40310418,
         "mnemônico": "TSG20"
     },
     {
@@ -2103,35 +2103,35 @@
         "id": 2074,
         "nome": "HEMOCULTURA (6ª AMOSTRA)",
         "preço": 0,
-        "código": 403102480,
+        "código": 40310248,
         "mnemônico": "HEMOC6"
     },
     {
         "id": 2075,
         "nome": "HEMOCULTURA (7ª AMOSTRA)",
         "preço": 0,
-        "código": 403102480,
+        "código": 40310248,
         "mnemônico": "HEMOC7"
     },
     {
         "id": 2076,
         "nome": "HEMOCULTURA (8ª AMOSTRA)",
         "preço": 0,
-        "código": 403102480,
+        "código": 40310248,
         "mnemônico": "HEMOC8"
     },
     {
         "id": 2077,
         "nome": "HEMOCULTURA (9ª AMOSTRA)",
         "preço": 0,
-        "código": 403102480,
+        "código": 40310248,
         "mnemônico": "HEMOC9"
     },
     {
         "id": 2078,
         "nome": "HEMOCULTURA (10ª AMOSTRA)",
         "preço": 0,
-        "código": 403102480,
+        "código": 40310248,
         "mnemônico": "HEMOC10"
     },
     {
