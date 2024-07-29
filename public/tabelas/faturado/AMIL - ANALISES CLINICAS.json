@@ -3157,13 +3157,6 @@
         "mnemônico": "HG"
     },
     {
-        "id": 575,
-        "nome": "COLESTEROL (LDL)",
-        "preço": 0,
-        "código": 40301591,
-        "mnemônico": "LDL"
-    },
-    {
         "id": 576,
         "nome": "LIPASE",
         "preço": 0,
