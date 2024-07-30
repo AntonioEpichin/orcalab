@@ -5869,7 +5869,7 @@
         "id": 2170,
         "nome": "HEPATITE B - ANTI HBC IGM",
         "preço": 0,
-        "código": null,
+        "código": 40306968,
         "mnemônico": "HBCME"
     },
     {
@@ -5939,7 +5939,7 @@
         "id": 2183,
         "nome": "HEPATITE B - ANTI HBC TOTAL",
         "preço": 0,
-        "código": null,
+        "código": 40306950,
         "mnemônico": "HBCGE"
     },
     {
