@@ -19,7 +19,7 @@ import { saveAs } from 'file-saver';
 interface CartItem {
   id: string;
   nome: string;
-  código: string; // Ensure the código property is included
+  código: string;
   preço: number;
 }
 
@@ -51,79 +51,104 @@ const Cart = () => {
 
   const generatePDF = async () => {
     try {
-      // Load the existing PDF template
       const existingPdfBytes = await fetch('/Timbrado.pdf').then(res => res.arrayBuffer());
-      const pdfDoc = await PDFDocument.load(existingPdfBytes);
-
-      // Embed the font
-      const helveticaFont = await pdfDoc.embedFont(StandardFonts.Helvetica);
-
-      // Get the first page of the template
-      const pages = pdfDoc.getPages();
-      let page = pages[0];
-      let yOffset = page.getHeight() - 150;
-
-      // Fetch orientations
+      const templatePdfDoc = await PDFDocument.load(existingPdfBytes);
+      const helveticaFont = await templatePdfDoc.embedFont(StandardFonts.Helvetica);
+      const [templatePage] = templatePdfDoc.getPages();
+      const templatePageWidth = templatePage.getWidth();
+      const templatePageHeight = templatePage.getHeight();
+  
+      const leftMargin = 50;
+      const rightMargin = templatePageWidth - 50;
+      const topMargin = 150;
+      const bottomMargin = 100;
+      let yOffset = templatePageHeight - topMargin;
+      const lineHeight = 15;
+      const orientationLineHeight = 10;
+  
+      const newPdfDoc = await PDFDocument.create();
+      const embeddedPage = await newPdfDoc.embedPage(templatePage);
+  
+      const addNewPageWithTemplate = () => {
+        const newPage = newPdfDoc.addPage([templatePageWidth, templatePageHeight]);
+        newPage.drawPage(embeddedPage);
+        yOffset = templatePageHeight - topMargin;
+        return newPage;
+      };
+  
+      let page = addNewPageWithTemplate();
+  
       const orientations = await fetchOrientations();
-
-      // Add the cart items to the PDF
-      cartItems.forEach(item => {
-        // Draw item name, code, and price
+  
+      for (const item of cartItems) {
+        const itemOrientations = orientations.filter(orientation => orientation.nome === item.nome);
+  
+        let requiredHeight = lineHeight + 30; // Initial height for item name, code, and price
+        for (const orientation of itemOrientations) {
+          const orientationLines = orientation.orientacao.split('\n');
+          requiredHeight += orientationLines.length * orientationLineHeight;
+        }
+  
+        if (yOffset < requiredHeight + bottomMargin) {
+          page = addNewPageWithTemplate();
+        }
+  
         page.drawText(`${item.nome} (cód: ${item.código}) - ${item.preço.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}`, {
-          x: 50,
+          x: leftMargin,
           y: yOffset,
           size: 12,
           font: helveticaFont,
           color: rgb(0, 0, 0),
+          maxWidth: rightMargin - leftMargin,
         });
         yOffset -= 20;
-
-        // Find and add the orientation for the current item
-        const itemOrientations = orientations.filter(orientation => orientation.nome === item.nome);
-        itemOrientations.forEach(orientation => {
-          page.drawText(`Orientação: ${orientation.orientacao}`, {
-            x: 50,
-            y: yOffset,
-            size: 10,
-            font: helveticaFont,
-            color: rgb(0, 0, 0),
-          });
-          yOffset -= 15;
-        });
-
-        // Add spacing between items
-        yOffset -= 10;
-
-        // Check if we need to add a new page
-        if (yOffset < 100) {
-          page = pdfDoc.addPage();
-          yOffset = page.getHeight() - 150;
+  
+        for (const orientation of itemOrientations) {
+          const orientationLines = orientation.orientacao.split('\n');
+          for (const line of orientationLines) {
+            if (yOffset < orientationLineHeight + bottomMargin) {
+              page = addNewPageWithTemplate();
+            }
+            page.drawText(`Orientação: ${line}`, {
+              x: leftMargin,
+              y: yOffset,
+              size: orientationLineHeight,
+              font: helveticaFont,
+              color: rgb(0, 0, 0),
+              maxWidth: rightMargin - leftMargin,
+            });
+            yOffset -= orientationLineHeight;
+          }
         }
-      });
-
-      // Add the total
+        yOffset -= 10;
+      }
+  
+      if (yOffset < lineHeight + bottomMargin) {
+        page = addNewPageWithTemplate();
+      }
+  
       page.drawText(`Total: ${calculateTotal().toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}`, {
-        x: 50,
+        x: leftMargin,
         y: yOffset - 30,
         size: 12,
         font: helveticaFont,
         color: rgb(0, 0, 0),
       });
-
-      // Serialize the PDF to bytes (a Uint8Array)
-      const pdfBytes = await pdfDoc.save();
-
-      // Trigger the download
+  
+      const pdfBytes = await newPdfDoc.save();
       const blob = new Blob([pdfBytes], { type: 'application/pdf' });
       saveAs(blob, 'orcamento.pdf');
-
-      // Clear the cart
+  
       clearCart();
       toggleCart();
     } catch (error) {
       console.error('Error generating PDF:', error);
     }
   };
+  
+  
+  
+  
 
   return (
     <Drawer
