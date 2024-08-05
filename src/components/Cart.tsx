@@ -62,12 +62,13 @@ const Cart = () => {
       const rightMargin = templatePageWidth - 50;
       const topMargin = 150;
       const bottomMargin = 100;
-      let yOffset = templatePageHeight - topMargin;
       const lineHeight = 15;
       const orientationLineHeight = 10;
+      const chunkSize = 100; // Number of items to process in one go
   
-      const newPdfDoc = await PDFDocument.create();
-      const embeddedPage = await newPdfDoc.embedPage(templatePage);
+      let newPdfDoc = await PDFDocument.create();
+      let embeddedPage = await newPdfDoc.embedPage(templatePage);
+      let yOffset = templatePageHeight - topMargin;
   
       const addNewPageWithTemplate = () => {
         const newPage = newPdfDoc.addPage([templatePageWidth, templatePageHeight]);
@@ -76,74 +77,117 @@ const Cart = () => {
         return newPage;
       };
   
-      let page = addNewPageWithTemplate();
+      const wrapText = (text, font, fontSize, maxWidth) => {
+        const words = text.split(' ');
+        let lines = [];
+        let currentLine = words[0];
   
-      const orientations = await fetchOrientations();
-  
-      for (const item of cartItems) {
-        const itemOrientations = orientations.filter(orientation => orientation.nome === item.nome);
-  
-        let requiredHeight = lineHeight + 30; // Initial height for item name, code, and price
-        for (const orientation of itemOrientations) {
-          const orientationLines = orientation.orientacao.split('\n');
-          requiredHeight += orientationLines.length * orientationLineHeight;
-        }
-  
-        if (yOffset < requiredHeight + bottomMargin) {
-          page = addNewPageWithTemplate();
-        }
-  
-        page.drawText(`${item.nome} (cód: ${item.código}) - ${item.preço.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}`, {
-          x: leftMargin,
-          y: yOffset,
-          size: 12,
-          font: helveticaFont,
-          color: rgb(0, 0, 0),
-          maxWidth: rightMargin - leftMargin,
-        });
-        yOffset -= 20;
-  
-        for (const orientation of itemOrientations) {
-          const orientationLines = orientation.orientacao.split('\n');
-          for (const line of orientationLines) {
-            if (yOffset < orientationLineHeight + bottomMargin) {
-              page = addNewPageWithTemplate();
-            }
-            page.drawText(`Orientação: ${line}`, {
-              x: leftMargin,
-              y: yOffset,
-              size: orientationLineHeight,
-              font: helveticaFont,
-              color: rgb(0, 0, 0),
-              maxWidth: rightMargin - leftMargin,
-            });
-            yOffset -= orientationLineHeight;
+        for (let i = 1; i < words.length; i++) {
+          const word = words[i];
+          const width = font.widthOfTextAtSize(currentLine + ' ' + word, fontSize);
+          if (width < maxWidth) {
+            currentLine += ' ' + word;
+          } else {
+            lines.push(currentLine);
+            currentLine = word;
           }
         }
-        yOffset -= 10;
-      }
+        lines.push(currentLine);
+        return lines;
+      };
   
-      if (yOffset < lineHeight + bottomMargin) {
+      const drawTextWithWrapping = (page, text, x, initialY, font, fontSize, maxWidth, lineHeight) => {
+        const lines = wrapText(text, font, fontSize, maxWidth);
+        let y = initialY;
+        for (const line of lines) {
+          if (y < bottomMargin + lineHeight) {
+            page = addNewPageWithTemplate();
+            y = templatePageHeight - topMargin;
+          }
+          page.drawText(line, { x, y, size: fontSize, font, color: rgb(0, 0, 0) });
+          y -= lineHeight;
+        }
+        return y;
+      };
+  
+      let page = addNewPageWithTemplate();
+      const orientations = await fetchOrientations();
+  
+      for (let i = 0; i < cartItems.length; i += chunkSize) {
+        const chunk = cartItems.slice(i, i + chunkSize);
+  
+        for (const item of chunk) {
+          const itemOrientations = orientations.filter(orientation => orientation.nome === item.nome);
+  
+          let requiredHeight = lineHeight + 30; // Initial height for item name, code, and price
+          for (const orientation of itemOrientations) {
+            const orientationLines = wrapText(orientation.orientacao, helveticaFont, orientationLineHeight, rightMargin - leftMargin);
+            requiredHeight += orientationLines.length * orientationLineHeight;
+          }
+  
+          if (yOffset < requiredHeight + bottomMargin) {
+            page = addNewPageWithTemplate();
+          }
+  
+          page.drawText(`${item.nome} (cód: ${item.código}) - ${item.preço.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}`, {
+            x: leftMargin,
+            y: yOffset,
+            size: 12,
+            font: helveticaFont,
+            color: rgb(0, 0, 0),
+            maxWidth: rightMargin - leftMargin,
+          });
+          yOffset -= 20;
+  
+          for (const orientation of itemOrientations) {
+            yOffset = drawTextWithWrapping(page, orientation.orientacao, leftMargin, yOffset, helveticaFont, orientationLineHeight, rightMargin - leftMargin, orientationLineHeight);
+          }
+          yOffset -= 10;
+        }
+  
+        // Save the current state and start a new PDF document to free memory
+        const pdfBytes = await newPdfDoc.save();
+        const blob = new Blob([pdfBytes], { type: 'application/pdf' });
+        saveAs(blob, `orcamento_part${Math.floor(i / chunkSize) + 1}.pdf`);
+  
+        // Reinitialize for the next chunk
+        newPdfDoc = await PDFDocument.create();
+        embeddedPage = await newPdfDoc.embedPage(templatePage);
+        yOffset = templatePageHeight - topMargin;
         page = addNewPageWithTemplate();
       }
   
-      page.drawText(`Total: ${calculateTotal().toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}`, {
-        x: leftMargin,
-        y: yOffset - 30,
-        size: 12,
-        font: helveticaFont,
-        color: rgb(0, 0, 0),
-      });
-  
-      const pdfBytes = await newPdfDoc.save();
-      const blob = new Blob([pdfBytes], { type: 'application/pdf' });
-      saveAs(blob, 'orcamento.pdf');
+      // Final save
+      const finalPdfBytes = await newPdfDoc.save();
+      const finalBlob = new Blob([finalPdfBytes], { type: 'application/pdf' });
+      saveAs(finalBlob, 'orcamento_final.pdf');
   
       clearCart();
       toggleCart();
     } catch (error) {
       console.error('Error generating PDF:', error);
     }
+  };
+  
+  
+  // Utility function to wrap text
+  const wrapText = (text, font, fontSize, maxWidth) => {
+    const words = text.split(' ');
+    let lines = [];
+    let currentLine = words[0];
+  
+    for (let i = 1; i < words.length; i++) {
+      const word = words[i];
+      const width = font.widthOfTextAtSize(currentLine + ' ' + word, fontSize);
+      if (width < maxWidth) {
+        currentLine += ' ' + word;
+      } else {
+        lines.push(currentLine);
+        currentLine = word;
+      }
+    }
+    lines.push(currentLine);
+    return lines;
   };
   
   

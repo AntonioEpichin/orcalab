@@ -2089,7 +2089,7 @@
         "id": 326,
         "nome": "SHBG (GLOBULINA LIGADORA DOS HORMONIOS SEXUAIS)",
         "preço": 0,
-        "código": 40712303,
+        "código": 40316300,
         "mnemônico": "SHBG"
     },
     {
@@ -6142,7 +6142,7 @@
         "id": 2184,
         "nome": "SHBG (GLOBULINA LIGADORA DOS HORMONIOS SEXUAIS)",
         "preço": 0,
-        "código": 40712303,
+        "código": 40316300,
         "mnemônico": "SHBGE"
     },
     {
