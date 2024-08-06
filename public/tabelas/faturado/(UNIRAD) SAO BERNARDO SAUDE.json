@@ -255,28 +255,28 @@
         "id": 1342,
         "nome": "RX - ABDOME SIMPLES",
         "preço": 0,
-        "código": null,
+        "código": 40808017,
         "mnemônico": "R-ABDAP"
     },
     {
         "id": 1343,
         "nome": "RX - ADENOIDES OU CAVUM",
         "preço": 0,
-        "código": null,
+        "código": 40801128,
         "mnemônico": "R-ADELAT"
     },
     {
         "id": 1344,
         "nome": "RX - ANTEBRACO",
         "preço": 0,
-        "código": null,
+        "código": 40803104,
         "mnemônico": "R-ANTBR"
     },
     {
         "id": 1345,
         "nome": "RX - ARCOS ZIGOMATICOS OU MALAR OU APOFISES ESTILOIDES",
         "preço": 0,
-        "código": null,
+        "código": 40801101,
         "mnemônico": "R-ARCZI"
     },
     {
